@@ -29,7 +29,7 @@ from pdfminer.layout import LTTextContainer
 # -------------------------------------------------------------------
 
 RAW_DIR = Path("data/raw")
-CLEAN_DIR = Path("data/clean_letters_3")
+CLEAN_DIR = Path("data/clean_letters")
 CLEAN_DIR.mkdir(parents=True, exist_ok=True)
 
 # Header used to locate the body of the letter
