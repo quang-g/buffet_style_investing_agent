@@ -28,13 +28,20 @@ from pdfminer.layout import LTTextContainer
 # CONFIG
 # -------------------------------------------------------------------
 
-RAW_DIR = Path("data/raw")
-CLEAN_DIR = Path("data/clean_letters")
+RAW_DIR = Path("../data/raw")
+CLEAN_DIR = Path("../data/clean_letters_updated")
 CLEAN_DIR.mkdir(parents=True, exist_ok=True)
 
 # Header used to locate the body of the letter
 HEADER_RE = re.compile(
     r"To the (Shareholders|Stockholders) of Berkshire Hathaway Inc\.\s*:",
+    flags=re.IGNORECASE,
+)
+
+# Front performance table header ("Berkshire’s Corporate Performance vs. the S&P 500")
+# Allow for straight or curly apostrophe and small variations in spacing.
+PERF_TABLE_RE = re.compile(
+    r"Berkshire.?s\s+Corporate\s+Performance\s+vs\.\s+the\s+S&P\s+500",
     flags=re.IGNORECASE,
 )
 
@@ -153,12 +160,26 @@ def extract_pdf_raw(path: Path) -> str:
     return text.strip()
 
 
-def slice_letter_body_pdf(text: str) -> str:
+def slice_letter_body_pdf(text: str, year: int | None = None) -> str:
     """
-    For PDF letters, keep from 'To the Shareholders...' onward.
+    For PDF letters, decide how much of the document to keep.
 
-    If the header cannot be found, return the full text as a fallback.
+    - For years < 2002: keep from 'To the Shareholders...' onward
+      (legacy behavior that already works well).
+    - For years >= 2002: try to include the front performance table,
+      starting at 'Berkshire’s Corporate Performance vs. the S&P 500'.
+      If that can't be found, fall back to 'To the Shareholders...'.
+
+    If neither marker can be found, return the full text as a fallback.
     """
+    # New behavior for 2002 and later: include the performance table if present
+    if year is not None and year >= 2002:
+        m_table = PERF_TABLE_RE.search(text)
+        if m_table:
+            return text[m_table.start():].strip()
+        # If table is not found (unexpected), fall through to header-based logic.
+
+    # Legacy behavior (pre-2002, or fallback when table not found)
     m = HEADER_RE.search(text)
     if not m:
         return text.strip()
@@ -250,16 +271,16 @@ def process_html(path: Path) -> str:
     return normalize_text(body, unwrap=True)
 
 
-def process_pdf(path: Path) -> str:
+def process_pdf(path: Path, year: int) -> str:
     """
     Full pipeline for a PDF letter:
         PDF -> raw text (pdfminer) -> cropped body -> normalized.
 
     We keep unwrap=False so line breaks stay closer to the original,
-    which is more human-friendly.
+    which preserves bullet lines and is more human-friendly.
     """
     raw = extract_pdf_raw(path)
-    body = slice_letter_body_pdf(raw)
+    body = slice_letter_body_pdf(text=raw, year=year)
     # PDF: keep original line breaks for human-friendly reading
     return normalize_text(body, unwrap=False)
 
@@ -319,7 +340,7 @@ def main() -> None:
             cleaned = process_html(path)
         else:
             print(f"[PDF ] Processing {year}: {path}")
-            cleaned = process_pdf(path)
+            cleaned = process_pdf(path, year=year)
 
         out_path.write_text(cleaned, encoding="utf-8")
         print(f"  -> saved cleaned letter to {out_path}")

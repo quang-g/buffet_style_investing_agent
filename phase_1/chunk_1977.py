@@ -17,8 +17,8 @@ import pandas as pd
 
 # ---- CONFIG -----------------------------------------------------------------
 
-YEAR = 1977
-INPUT_FILE = Path("../data/clean_letters/1977.txt")
+YEAR = 2021
+INPUT_FILE = Path("../data/clean_letters/2021.txt")
 OUTPUT_DIR = Path("../data/chunks")
 OUTPUT_PARQUET = OUTPUT_DIR / f"{YEAR}_chunks.parquet"
 OUTPUT_JSONL = OUTPUT_DIR / f"{YEAR}_chunks.jsonl"
@@ -211,6 +211,20 @@ def chunk_section(
             i = max(i - overlap, start_idx + 1)
 
     return rows
+
+def get_prev_paragraphs(paragraphs: List[str], start_idx: int, n: int = 2) -> str:
+    """Get up to n paragraphs before start_idx."""
+    prev_idxs = list(range(max(0, start_idx - n), start_idx))
+    if not prev_idxs:
+        return ""
+    return "\n\n".join(paragraphs[i] for i in prev_idxs)
+
+def get_next_paragraphs(paragraphs: List[str], end_idx: int, n: int = 2) -> str:
+    """Get up to n paragraphs after end_idx."""
+    next_idxs = list(range(end_idx + 1, min(len(paragraphs), end_idx + 1 + n)))
+    if not next_idxs:
+        return ""
+    return "\n\n".join(paragraphs[i] for i in next_idxs)
 
 
 # ---- MAIN PIPELINE ----------------------------------------------------------
