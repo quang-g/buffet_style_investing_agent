@@ -12,7 +12,8 @@ Learn Warren Buffett’s investing mindset from his Letters to Shareholders (197
 ### Main Outcomes
 - All letters (1977–2024) converted to clean text.
 - Text split into meaningful chunks (100–200 words).
-- Each chunk labeled with metadata: `year`, `chunk_id`, optional `section`, `topics`.
+- Each chunk enriched with LLM-generated contextual summaries.
+- Each chunk labeled with metadata: `year`, `chunk_id`, `text`, `contextual_summary`, optional `section`.
 
 ### Tasks
 1. **Collect data**
@@ -26,14 +27,15 @@ Learn Warren Buffett’s investing mindset from his Letters to Shareholders (197
 
 3. **Chunk and add metadata**
    - Split text into chunks (e.g., 100–200 words or 3–6 sentences).
-   - Attach metadata:
-     - `year`
-     - `chunk_id` (e.g., `1988_05`)
-     - optional `section` if detectable.
+   - For each chunk, use an LLM to generate:
+     - **Contextual summary:** "This chunk discusses [topic] in the context of [year's market conditions / specific company example / broader argument]"
+     - **Situating context:** Brief 1-2 sentence description of what comes before/after
+     - Store both original chunk AND contextual description
+     - New schema: year, chunk_id, text, contextual_summary, section
 
 4. **Store corpus**
    - Save as `letters_chunks.parquet` or `letters_chunks.csv`:
-     - `year`, `chunk_id`, `text`, `section` (optional).
+     - `year`, `chunk_id`, `text`, `contextual_summary`, `section` (optional).
 
 ### Tech Stack (Phase 1)
 - **Language:** Python 3.10+
@@ -43,6 +45,8 @@ Learn Warren Buffett’s investing mindset from his Letters to Shareholders (197
 - **Text & data handling:**
   - `re` (regex), `pandas`
   - `nltk` or `spaCy` (for sentence splitting, optional)
+- **LLM for contextualization:**
+  - `openai` SDK or `anthropic` SDK (for generating contextual summaries)
 - **Storage:**
   - Local files: CSV / Parquet (`pandas.to_parquet`, `to_csv`)
 
@@ -110,13 +114,11 @@ Learn Warren Buffett’s investing mindset from his Letters to Shareholders (197
 
 ### Tasks
 
-1. **Set up vector store & ingestion**
-   - Choose a vector DB:
-     - **Option A (recommended):** Qdrant (Docker + `qdrant-client`)
-     - **Option B:** Elasticsearch/OpenSearch with dense vector + BM25.
-   - Ingest:
-     - `chunk_id`, `year`, `text`, `section`
-     - Pre-computed or on-the-fly embeddings.
+1. **Set up vector store with contextual retrieval**
+   - Ingest chunks with their contextual summaries prepended
+   - Index: contextual_summary + text (not just raw text)
+   - This gives embeddings that capture both content AND context
+   - Metadata: year, chunk_id, section, original_text, contextual_summary
 
 2. **Implement retrieval**
    - Given a user question:
