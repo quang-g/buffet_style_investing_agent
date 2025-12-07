@@ -27,11 +27,39 @@ Learn Warren Buffett’s investing mindset from his Letters to Shareholders (197
 
 3. **Chunk and add metadata**
    - Split text into chunks (e.g., 100–200 words or 3–6 sentences).
+<<<<<<< HEAD
    - For each chunk, use an LLM to generate:
      - **Contextual summary:** "This chunk discusses [topic] in the context of [year's market conditions / specific company example / broader argument]"
      - **Situating context:** Brief 1-2 sentence description of what comes before/after
      - Store both original chunk AND contextual description
      - New schema: year, chunk_id, text, contextual_summary, section
+=======
+   - Attach metadata:
+     - `year`
+     - `chunk_id` (e.g., `1988_05`)
+     - Generate ctx_summary
+     - Generate ctx_text (but do not embed yet)
+     - optional `section` if detectable.
+   Output → chunks_with_ctx.parquet
+
+Sample metadata:
+row = {
+    "year": year,
+    "source_file": source_file,
+    "section_title": section_title,
+    "chunk_id": chunk_id,
+    "position_in_section": pos_in_section,
+    "start_paragraph_idx": start_par_idx,
+    "end_paragraph_idx": end_par_idx,
+    "num_words": num_words,
+    "text": chunk_text,
+    
+    # NEW: Add context for contextualization
+    "prev_context": get_prev_paragraphs(paragraphs, start_par_idx, n=2),
+    "next_context": get_next_paragraphs(paragraphs, end_par_idx, n=2),
+    "section_summary": section_title,  # Will be used for context
+}
+>>>>>>> 2c63147ffb838fb383200e74ec86f3d8e138b07c
 
 4. **Store corpus**
    - Save as `letters_chunks.parquet` or `letters_chunks.csv`:
