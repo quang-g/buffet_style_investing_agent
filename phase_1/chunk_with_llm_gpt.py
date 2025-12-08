@@ -37,6 +37,8 @@ from typing import Any, Dict, List
 
 from openai import OpenAI
 
+import re
+
 
 # ------------------------- Paths & Constants -------------------------
 
@@ -58,71 +60,31 @@ DEFAULT_MODEL = "gpt-4.1-mini"
 def extract_chunk_objects_from_response(content: str) -> List[Dict[str, Any]]:
     """
     Fallback parser for when the LLM returns 'almost JSON' but the overall
-    object/array is truncated or slightly malformed.
+    object/array is truncated or malformed.
 
     Strategy:
-    - Scan the string character by character.
-    - Whenever we see a '{' outside of a string, start capturing.
-    - Track brace depth, respecting JSON strings and escapes.
-    - When depth returns to 0, we have a complete JSON object.
-    - Attempt json.loads() on that object; if it has 'chunk_id', treat it as a chunk.
+    - Use a regex to find all `{ ... }` blocks that contain `"chunk_id":`.
+    - Each match is attempted as a standalone JSON object.
+    - If it parses and has 'chunk_id', treat it as a chunk.
 
-    This allows us to salvage all *complete* chunk objects even if the last one
-    (and the top-level structure) is cut off.
+    Assumption: individual chunk objects do not contain nested `{}`.
+    This holds for our chunk schema (fields are primitives or arrays of primitives).
     """
+    pattern = re.compile(
+        r'\{[^{}]*"chunk_id"\s*:\s*"[^"]+"[^{}]*\}',
+        re.DOTALL
+    )
+
     objs: List[Dict[str, Any]] = []
-
-    in_string = False
-    escape = False
-    brace_depth = 0
-    capturing = False
-    buf_chars: List[str] = []
-
-    for ch in content:
-        if not capturing:
-            # Look for the start of an object
-            if ch == "{":
-                capturing = True
-                brace_depth = 1
-                in_string = False
-                escape = False
-                buf_chars = ["{"]
-            # otherwise ignore characters
+    for match in pattern.finditer(content):
+        obj_str = match.group(0)
+        try:
+            obj = json.loads(obj_str)
+            if isinstance(obj, dict) and "chunk_id" in obj:
+                objs.append(obj)
+        except json.JSONDecodeError:
+            # Ignore bad candidates, move on
             continue
-
-        # We are capturing an object
-        buf_chars.append(ch)
-
-        if in_string:
-            if escape:
-                escape = False
-                # whatever the char is, it's escaped, so we just continue
-            else:
-                if ch == "\\":
-                    escape = True
-                elif ch == '"':
-                    in_string = False
-            continue
-
-        # not in string
-        if ch == '"':
-            in_string = True
-        elif ch == "{":
-            brace_depth += 1
-        elif ch == "}":
-            brace_depth -= 1
-            if brace_depth == 0:
-                # end of object
-                obj_str = "".join(buf_chars)
-                try:
-                    obj = json.loads(obj_str)
-                    if isinstance(obj, dict) and "chunk_id" in obj:
-                        objs.append(obj)
-                except json.JSONDecodeError:
-                    # ignore bad object, move on
-                    pass
-                capturing = False
-                buf_chars = []
 
     return objs
 
