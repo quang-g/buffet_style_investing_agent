@@ -53,7 +53,7 @@ OUT_DIR = PROJECT_ROOT / "data" / "chunks_llm_gpt"
 OUT_DIR.mkdir(parents=True, exist_ok=True)
 
 # Default model; can be overridden via env OPENAI_MODEL
-DEFAULT_MODEL = "gpt-4.1-mini"
+DEFAULT_MODEL = "gpt-4.1"
 
 # ------------------------- Helpers -------------------------
 
