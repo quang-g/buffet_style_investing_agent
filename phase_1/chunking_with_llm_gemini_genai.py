@@ -2,7 +2,8 @@ import os
 import sys
 import json
 import argparse
-import google.genai as genai
+from google import genai
+from google.genai import types
 from typing import List, Dict, Any
 
 # ==========================================
@@ -64,16 +65,8 @@ def save_jsonl(data: List[Dict[str, Any]], filepath: str):
 def process_letter_with_llm(year: str, api_key: str):
     """Orchestrates the LLM call to chunk the letter."""
     
-    # 1. Setup API
-    genai.configure(api_key=api_key)
-    model = genai.GenerativeModel(
-        model_name=MODEL_NAME,
-        system_instruction=SYSTEM_INSTRUCTION,
-        generation_config={
-            "response_mime_type": "application/json",
-            "temperature": 0.2, # Low temperature for strict adherence to schema
-        }
-    )
+    # 1. Setup API (Google GenAI SDK)
+    client = genai.Client(api_key=api_key)
 
     # 2. Load Inputs
     input_path = os.path.join(INPUT_DIR, f"{year}_cleaned.txt")
@@ -84,8 +77,11 @@ def process_letter_with_llm(year: str, api_key: str):
     strategy_text = load_file(STRATEGY_FILE)
 
     # 3. Construct Prompt
-    # We pass the strategy and the letter content clearly delimited.
+    # We pass the high-level system instruction, the strategy, and the letter content clearly delimited.
     prompt = f"""
+    ### SYSTEM INSTRUCTION ###
+    {SYSTEM_INSTRUCTION}
+
     *** INPUT DOCUMENT 1: CHUNKING STRATEGY ***
     {strategy_text}
 
@@ -100,8 +96,15 @@ def process_letter_with_llm(year: str, api_key: str):
     # 4. Call LLM
     print(f"Sending to Gemini ({MODEL_NAME}). This may take a moment...")
     try:
-        # Gemini 1.5/2.0 has a massive context window, fitting the whole letter + strategy easily.
-        response = model.generate_content(prompt)
+        # Google GenAI SDK client call (Gemini 2.5 Flash has a large context window)
+        response = client.models.generate_content(
+            model=MODEL_NAME,
+            contents=prompt,
+            config=types.GenerateContentConfig(
+                response_mime_type="application/json",
+                temperature=0.2,  # Low temperature for strict adherence to schema
+            ),
+        )
         
         # 5. Parse Response
         chunks = json.loads(response.text)
