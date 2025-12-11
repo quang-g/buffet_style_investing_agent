@@ -45,7 +45,7 @@ import re
 THIS_DIR = Path(__file__).resolve().parent
 PROJECT_ROOT = THIS_DIR.parent
 
-CHUNKING_STRATEGY_PATH = THIS_DIR / "chunking_strategy.md"
+CHUNKING_STRATEGY_PATH = THIS_DIR / "chunking_rule_claude.md"
 
 TEXT_DIR = PROJECT_ROOT / "data" / "text_extracted_letters"
 OUT_DIR = PROJECT_ROOT / "data" / "chunks_llm_gpt"
