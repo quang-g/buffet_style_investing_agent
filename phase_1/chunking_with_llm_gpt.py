@@ -126,24 +126,21 @@ def call_llm_for_chunks(
     """
     client = OpenAI()
 
-    system_content = (
-        "You are an expert corpus architect for Berkshire Hathaway "
-        "shareholder letters.\n"
-        "Your job is to chunk a single letter into semantically meaningful "
-        "chunks and produce rich metadata.\n"
-        "Follow EXACTLY the rules, definitions, and metadata schema in the "
-        "chunking strategy document below.\n"
-        "You must:\n"
-        "- Respect section and subsection boundaries\n"
-        "- Respect the target chunk sizes\n"
-        "- Distinguish chunk types (philosophy, business_analysis, etc.)\n"
-        "- Populate ALL fields in the 'Complete Metadata Structure' including "
-        "chunk_text, word_count, char_count, and contextual summaries.\n\n"
-        "Return ONLY valid JSON."
-    )
+    system_content = """
+        You are an expert corpus architect for Berkshire Hathaway shareholder letters.
+        Your job is to chunk a single letter into semantically meaningful chunks and produce rich metadata.
+        Follow EXACTLY the chunking rule, definitions, and metadata schema in the chunking strategy document below.
+        
+        You must:
+        - Respect section and subsection boundaries
+        - Respect the target chunk sizes
+        - Distinguish chunk types (philosophy, business_analysis, etc.)
+        - Populate ALL fields in the 'Complete Metadata Structure' including chunk_text, word_count, char_count, and contextual summaries
+        - Return ONLY a valid JSON array of chunk objects
+    """
 
     strategy_message = (
-        "Here is the complete chunking strategy specification you MUST follow:\n\n"
+        "Here is the complete chunking rule specification you MUST follow:\n\n"
         f"{chunking_spec}"
     )
 
@@ -154,22 +151,54 @@ Source file name: {source_file}
 
 Use the following requirements:
 
-- Apply all rules from the chunking strategy document you received.
+- Apply all rules from the chunking rule document you received.
 - Identify sections, subsections, and the different chunk types.
-- Generate chunks of ~150–300 words, except where the strategy specifies
+- Generate chunks of ~150–300 words, except where the rule specifies
   larger/smaller sizes (e.g., front performance tables).
 - Ensure each chunk is a complete thought and respects narrative flow.
 - Fill in all required metadata fields for each chunk:
-  - identifiers (chunk_id, year, source_file)
-  - structural context (section_type, section_title, subsection, parent_section)
-  - position metadata (position_in_letter, position_in_section,
-    total_chunks_in_section, paragraph indices)
-  - content metadata (chunk_text, word_count, char_count, chunk_type, etc.)
-  - flags (contains_numbers, contains_principle, etc.)
-  - contextual summaries (contextual_summary, prev_context, next_context)
-  - extracted entities (topics, companies_mentioned, people_mentioned, metrics)
-  - retrieval metadata (retrieval_priority, abstraction_level, time_sensitivity)
-  - quality metrics, if specified.
+
+```json
+[
+  {{
+    "chunk_id": "{{year}}_{{section_type}}_{{sequence:03d}}",
+    "year": {year},
+    "source_file": "{year}_cleaned.txt",
+    "section_type": "string (one of: performance_overview, insurance_operations, acquisitions, investments, operating_businesses, corporate_governance, management_philosophy, shareholder_matters, other)",
+    "section_title": "string",
+    "subsection": "string or null",
+    "parent_section": "string or null",
+    "position_in_letter": "float 0.0-1.0",
+    "position_in_section": "int (0-indexed)",
+    "total_chunks_in_section": "int",
+    "chunk_text": "string (the actual text content)",
+    "word_count": "int",
+    "char_count": "int",
+    "chunk_type": "string (one of: narrative_story, financial_table, philosophy, business_analysis, administrative)",
+    "has_financials": "bool",
+    "has_table": "bool",
+    "has_quote": "bool",
+    "contains_principle": "bool",
+    "contains_example": "bool",
+    "contains_comparison": "bool",
+    "contextual_summary": "string (2-3 sentences per spec)",
+    "prev_context": "string (1-2 sentences summarizing preceding content, empty for first chunk)",
+    "next_context": "string (1-2 sentences summarizing following content, empty for last chunk)",
+    "topics": ["array", "of", "topic", "strings"],
+    "companies_mentioned": ["array", "of", "company", "names"],
+    "people_mentioned": ["array", "of", "people", "names"],
+    "metrics_discussed": ["array", "of", "metric", "names"],
+    "industries": ["array", "of", "industry", "names"],
+    "principle_category": "string or null (if contains_principle: moats, valuation, management_quality, capital_allocation, risk_management, competitive_advantage, business_quality)",
+    "principle_statement": "string or null (if contains_principle)",
+    "retrieval_priority": "string (high, medium, low)",
+    "abstraction_level": "string (high, medium, low)",
+    "time_sensitivity": "string (high, low)",
+    "is_complete_thought": "bool",
+    "needs_context": "bool"
+  }}
+]
+```
 
 IMPORTANT:
 - Every chunk object MUST include `chunk_text` with the exact text for that chunk.
