@@ -1,5 +1,5 @@
 {
-  "total_letters": 25,
+  "total_letters": 48,
   "years_processed": [
     1977,
     1978,
@@ -25,11 +25,34 @@
     1998,
     1999,
     2000,
-    2001
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
   ],
-  "total_words": 267980,
-  "total_paragraphs": 4866,
-  "average_words_per_letter": 10719,
+  "total_words": 615595,
+  "total_paragraphs": 5824,
+  "average_words_per_letter": 12824,
   "letters": {
     "1977": {
       "source_file": "1977/letter_1977.html",
@@ -180,6 +203,144 @@
       "word_count": 12356,
       "paragraph_count": 324,
       "char_count": 73711
+    },
+    "2002": {
+      "source_file": "2002/letter_2002.pdf",
+      "word_count": 14734,
+      "paragraph_count": 43,
+      "char_count": 92175
+    },
+    "2003": {
+      "source_file": "2003/letter_2003.pdf",
+      "word_count": 13267,
+      "paragraph_count": 58,
+      "char_count": 86439
+    },
+    "2004": {
+      "source_file": "2004/letter_2004.pdf",
+      "word_count": 14796,
+      "paragraph_count": 56,
+      "char_count": 96134
+    },
+    "2005": {
+      "source_file": "2005/letter_2005.pdf",
+      "word_count": 13406,
+      "paragraph_count": 49,
+      "char_count": 85558
+    },
+    "2006": {
+      "source_file": "2006/letter_2006.pdf",
+      "word_count": 14573,
+      "paragraph_count": 49,
+      "char_count": 91542
+    },
+    "2007": {
+      "source_file": "2007/letter_2007.pdf",
+      "word_count": 12370,
+      "paragraph_count": 44,
+      "char_count": 77958
+    },
+    "2008": {
+      "source_file": "2008/letter_2008.pdf",
+      "word_count": 17793,
+      "paragraph_count": 43,
+      "char_count": 89435
+    },
+    "2009": {
+      "source_file": "2009/letter_2009.pdf",
+      "word_count": 16011,
+      "paragraph_count": 37,
+      "char_count": 77328
+    },
+    "2010": {
+      "source_file": "2010/letter_2010.pdf",
+      "word_count": 22156,
+      "paragraph_count": 51,
+      "char_count": 103834
+    },
+    "2011": {
+      "source_file": "2011/letter_2011.pdf",
+      "word_count": 18641,
+      "paragraph_count": 38,
+      "char_count": 93458
+    },
+    "2012": {
+      "source_file": "2012/letter_2012.pdf",
+      "word_count": 18800,
+      "paragraph_count": 45,
+      "char_count": 93933
+    },
+    "2013": {
+      "source_file": "2013/letter_2013.pdf",
+      "word_count": 18391,
+      "paragraph_count": 45,
+      "char_count": 90099
+    },
+    "2014": {
+      "source_file": "2014/letter_2014.pdf",
+      "word_count": 29875,
+      "paragraph_count": 80,
+      "char_count": 156083
+    },
+    "2015": {
+      "source_file": "2015/letter_2015.pdf",
+      "word_count": 21845,
+      "paragraph_count": 56,
+      "char_count": 112284
+    },
+    "2016": {
+      "source_file": "2016/letter_2016.pdf",
+      "word_count": 16370,
+      "paragraph_count": 55,
+      "char_count": 104478
+    },
+    "2017": {
+      "source_file": "2017/letter_2017.pdf",
+      "word_count": 12586,
+      "paragraph_count": 31,
+      "char_count": 61950
+    },
+    "2018": {
+      "source_file": "2018/letter_2018.pdf",
+      "word_count": 10531,
+      "paragraph_count": 27,
+      "char_count": 51121
+    },
+    "2019": {
+      "source_file": "2019/letter_2019.pdf",
+      "word_count": 11628,
+      "paragraph_count": 25,
+      "char_count": 53142
+    },
+    "2020": {
+      "source_file": "2020/letter_2020.pdf",
+      "word_count": 11868,
+      "paragraph_count": 27,
+      "char_count": 53530
+    },
+    "2021": {
+      "source_file": "2021/letter_2021.pdf",
+      "word_count": 9850,
+      "paragraph_count": 21,
+      "char_count": 41032
+    },
+    "2022": {
+      "source_file": "2022/letter_2022.pdf",
+      "word_count": 8070,
+      "paragraph_count": 18,
+      "char_count": 31054
+    },
+    "2023": {
+      "source_file": "2023/letter_2023.pdf",
+      "word_count": 11294,
+      "paragraph_count": 31,
+      "char_count": 50180
+    },
+    "2024": {
+      "source_file": "2024/letter_2024.pdf",
+      "word_count": 8760,
+      "paragraph_count": 29,
+      "char_count": 40127
     }
   }
 }
