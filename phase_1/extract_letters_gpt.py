@@ -118,29 +118,330 @@ class BuffettLetterExtractor:
         return text
 
     def extract_from_pdf(self, filepath: Path) -> str:
-        """Extract text from PDF file, preserving page boundaries."""
+        """Extract text from PDF file, preserving page boundaries, with anti-glue fallback."""
         print(f"Extracting from PDF: {filepath.relative_to(self.raw_dir)}")
         text_parts: List[str] = []
 
         try:
             with pdfplumber.open(filepath) as pdf:
                 for page_num, page in enumerate(pdf.pages, start=1):
-                    page_text = page.extract_text() or ""
 
-                    if page_text.strip():
-                        page_text = page_text.replace("\r\n", "\n").replace("\r", "\n")
-                        text_parts.append(page_text.strip())
+                    # 1) Try a few extract_text configurations (fast path)
+                    candidates: List[str] = []
+                    try:
+                        candidates.append(page.extract_text() or "")
+                    except Exception:
+                        candidates.append("")
+
+                    # These tolerances often help PDFs where spaces are "implied" by glyph gaps.
+                    for xt, yt in [(1.5, 2.0), (2.0, 2.0), (3.0, 3.0)]:
+                        try:
+                            candidates.append(page.extract_text(x_tolerance=xt, y_tolerance=yt) or "")
+                        except Exception:
+                            candidates.append("")
+
+                    # 1) Try a few extract_text configurations (fast path)
+                    candidates: List[str] = []
+
+                    # Normal extract_text
+                    try:
+                        candidates.append(page.extract_text() or "")
+                    except Exception:
+                        candidates.append("")
+
+                    # Optional: layout=True (if supported by your pdfplumber/pdfminer combo)
+                    try:
+                        candidates.append(page.extract_text(layout=True) or "")
+                    except Exception:
+                        pass
+
+                    # These tolerances often help PDFs where spaces are "implied" by glyph gaps.
+                    for xt, yt in [(1.5, 2.0), (2.0, 2.0), (3.0, 3.0)]:
+                        try:
+                            candidates.append(page.extract_text(x_tolerance=xt, y_tolerance=yt) or "")
+                        except Exception:
+                            candidates.append("")
+
+                    # Pick the best candidate by composite ranking (not just glue_score)
+                    best = ""
+                    best_rank = 10**18
+
+                    for c in candidates:
+                        c = (c or "").replace("\r\n", "\n").replace("\r", "\n").strip()
+                        if not c:
+                            continue
+
+                        c = self._normalize_pdf_artifacts(c)
+
+                        rank = self._candidate_rank(c)
+                        if rank < best_rank:
+                            best, best_rank = c, rank
+
+                    # 2) If still looks bad, reconstruct from extract_words (slow but reliable)
+                    # Keep your existing fallback behavior, but make it trigger on the composite rank
+                    if not best or best_rank > 35:
+                        best = self._reconstruct_text_from_words(page)
+                        best = self._normalize_pdf_artifacts(best)
+
+
+                    # 2) If still looks glued, reconstruct from extract_words (slow but reliable)
+                    if not best or best_score > 25:
+                        best = self._reconstruct_text_from_words(page)
+
+                    if best.strip():
+                        text_parts.append(best.strip())
 
                     if page_num < len(pdf.pages):
                         text_parts.append("[[PAGE_BREAK]]")
 
                     if page_num % 10 == 0:
                         print(f"  Processed {page_num} pages...")
+
         except Exception as e:
             print(f"Error extracting PDF {filepath.name}: {e}")
             return ""
 
         return "\n\n".join(text_parts)
+
+
+    def _reconstruct_text_from_words(self, page) -> str:
+        """
+        Build text from pdfplumber's word boxes, forcing spaces between words.
+        This is the most robust way to defeat glued-words output.
+        """
+        try:
+            words = page.extract_words(
+                keep_blank_chars=False,
+                use_text_flow=True,   # tends to read in a more natural order
+            )
+        except Exception:
+            words = []
+
+        if not words:
+            return ""
+
+        # Group words into lines by their 'top' coordinate with a small tolerance.
+        lines: List[List[dict]] = []
+        line_tol = 3.0
+
+        # Sort top-to-bottom then left-to-right
+        words_sorted = sorted(words, key=lambda w: (round(w.get("top", 0.0), 1), w.get("x0", 0.0)))
+
+        for w in words_sorted:
+            top = float(w.get("top", 0.0))
+            if not lines:
+                lines.append([w])
+                continue
+
+            last_top = float(lines[-1][0].get("top", 0.0))
+            if abs(top - last_top) <= line_tol:
+                lines[-1].append(w)
+            else:
+                lines.append([w])
+
+        # Within each line, sort left-to-right and join by single space
+        out_lines: List[str] = []
+        for line in lines:
+            line_sorted = sorted(line, key=lambda w: w.get("x0", 0.0))
+            line_text = " ".join((w.get("text") or "").strip() for w in line_sorted).strip()
+            if line_text:
+                out_lines.append(line_text)
+
+        return "\n".join(out_lines)
+
+    def _normalize_pdf_artifacts(self, text: str) -> str:
+        """
+        Normalize common PDF extraction artifacts:
+        - (cid: 129) style bullets
+        - weird bullet glyphs like ‹
+        """
+        if not text:
+            return text
+
+        # Replace "(cid: 123)" artifacts with a bullet
+        text = re.sub(r"\(\s*cid\s*:\s*\d+\s*\)", "•", text, flags=re.IGNORECASE)
+
+        # Normalize common weird bullet-like glyphs
+        # (You can extend this list as you encounter more)
+        bulletish = [
+            "‹", "›", "·", "•", "◦", "▪", "▫", "", "", "‣", "⁃", "–", "—",
+        ]
+        for ch in bulletish:
+            # Keep hyphens/dashes that are used as punctuation; only normalize when used like bullets.
+            # Heuristic: line starts with bullet-ish + space
+            text = re.sub(rf"(?m)^\s*{re.escape(ch)}\s+", "• ", text)
+
+        return text
+
+    def _candidate_metrics(self, text: str) -> dict:
+        """
+        Compute multiple signals for candidate ranking:
+        - glue score
+        - whitespace density
+        - average token length
+        - cid artifact count
+        """
+        t = (text or "").strip()
+        if not t:
+            return {
+                "glue": 10**9,
+                "space_ratio": 0.0,
+                "avg_token_len": 999.0,
+                "cid_count": 999,
+                "len": 0,
+            }
+
+        cid_count = len(re.findall(r"\(\s*cid\s*:\s*\d+\s*\)", t, flags=re.IGNORECASE))
+        spaces = t.count(" ")
+        chars = len(t)
+        space_ratio = spaces / max(chars, 1)
+
+        tokens = re.findall(r"\S+", t)
+        avg_token_len = (sum(len(x) for x in tokens) / max(len(tokens), 1)) if tokens else 999.0
+
+        return {
+            "glue": self._glue_score(t),
+            "space_ratio": space_ratio,
+            "avg_token_len": avg_token_len,
+            "cid_count": cid_count,
+            "len": chars,
+        }
+
+    def _candidate_rank(self, text: str) -> float:
+        """
+        Lower is better.
+        Combines glue patterns + whitespace density + avg token length + cid artifacts.
+        """
+        m = self._candidate_metrics(text)
+
+        # Penalties:
+        # - glue is primary (already includes some whitespace penalty)
+        # - CID artifacts are strong negative
+        # - too-low whitespace ratio is negative
+        # - unusually large avg token length is negative (glued words inflate it)
+        glue = m["glue"]
+        cid = m["cid_count"]
+        space_ratio = m["space_ratio"]
+        avg_len = m["avg_token_len"]
+
+        space_penalty = max(0.0, 0.12 - space_ratio) * 500.0
+        avg_len_penalty = max(0.0, avg_len - 6.5) * 15.0
+        cid_penalty = cid * 25.0
+
+        return float(glue) + cid_penalty + space_penalty + avg_len_penalty
+
+
+    def _glue_score(self, text: str) -> int:
+        """
+        Heuristic: count patterns that strongly suggest missing spaces.
+        Higher score => more 'glued' text.
+        """
+        if not text:
+            return 10**9
+
+        score = 0
+
+        # Penalize extremely low whitespace density
+        spaces = text.count(" ")
+        chars = max(len(text), 1)
+        space_ratio = spaces / chars
+        if space_ratio < 0.06:
+            score += int((0.06 - space_ratio) * 1000)
+
+        # Count classic glue patterns
+        patterns = [
+            r"[a-z][A-Z]",           # camelCase-like merges
+            r"[A-Za-z]\d",           # letter followed by digit, e.g. "gain2009"
+            r"\d[A-Za-z]",           # digit followed by letter, e.g. "21.8billion"
+            r"[.,;:!?][A-Za-z]",     # punctuation immediately followed by letter (missing space)
+        ]
+        for p in patterns:
+            score += len(re.findall(p, text))
+
+        # --- NEW: suspicious long lowercase tokens (e.g. "recentlypurchased") ---
+        # Tokenize on whitespace
+        tokens = re.findall(r"\S+", text)
+
+        long_lower_glued = 0
+        for tok in tokens:
+            # Remove surrounding punctuation but keep internal letters
+            core = re.sub(r"^[^A-Za-z]+|[^A-Za-z]+$", "", tok)
+            if not core:
+                continue
+
+            # all letters
+            if not core.isalpha():
+                continue
+
+            # length threshold (tunable: 14–18); use 16 as a good default
+            if len(core) < 16:
+                continue
+
+            # mostly lowercase (e.g., >= 90% lowercase letters)
+            lowers = sum(1 for c in core if c.islower())
+            letters = len(core)
+            if letters == 0:
+                continue
+            if (lowers / letters) < 0.90:
+                continue
+
+            # not a "normal" long word pattern (start without dictionary):
+            # allow some "normal" patterns to pass with low penalty:
+            # - endswith common suffixes (optional): "tion", "ment", "ness", "able", etc.
+            # We'll still count them, but with smaller penalty.
+            long_lower_glued += 1
+
+        # Each suspicious token adds meaningful penalty
+        score += long_lower_glued * 8
+
+        # --- NEW: CID artifacts are a strong signal of bad extraction ---
+        score += len(re.findall(r"\(\s*cid\s*:\s*\d+\s*\)", text, flags=re.IGNORECASE)) * 10
+
+        return score
+
+
+
+    def _fix_common_errors(self, text: str) -> str:
+        """Fix common extraction errors (entities, hyphens, missing spaces)."""
+        replacements = {
+            "&amp;": "&",
+            "&lt;": "<",
+            "&gt;": ">",
+            "&quot;": '"',
+            "&#39;": "'",
+            "&nbsp;": " ",
+        }
+        text = self._normalize_pdf_artifacts(text)
+
+        for old, new in replacements.items():
+            text = text.replace(old, new)
+
+        # Join hyphen-broken words across line breaks/spaces: invest- ment -> investment
+        # Only remove hyphen when it is clearly a line-break hyphenation.
+        # Keeps true compounds like "cash-equivalent" intact.
+        text = re.sub(r"(\w+)-\s*\n\s*(\w+)", r"\1\2", text)
+
+
+        # --- GUARANTEED local repair for glued words ---
+        # Add space after punctuation when followed by a letter/number
+        text = re.sub(r"([.,;:!?])([A-Za-z0-9])", r"\1 \2", text)
+
+        # Split letter<->digit boundaries
+        text = re.sub(r"([A-Za-z])(\d)", r"\1 \2", text)
+        text = re.sub(r"(\d)([A-Za-z])", r"\1 \2", text)
+
+        # Split lower->Upper boundaries (helps some merged tokens)
+        text = re.sub(r"([a-z])([A-Z])", r"\1 \2", text)
+
+        # Fix common PDF numeric spacing: "21. 8" -> "21.8", "84, 487" -> "84,487"
+        text = re.sub(r"(\d)\.\s+(\d)", r"\1.\2", text)
+        text = re.sub(r"(\d),\s+(\d)", r"\1,\2", text)
+
+        # Normalize spaces again
+        text = re.sub(r"[ \t]{2,}", " ", text)
+
+        return text
+
 
     # ------------------------------------------------------------------
     #  Cleaning
@@ -205,24 +506,24 @@ class BuffettLetterExtractor:
 
         return cleaned.strip()
 
-    def _fix_common_errors(self, text: str) -> str:
-        """Fix common extraction errors (HTML entities, hyphen breaks, etc.)."""
-        replacements = {
-            "&amp;": "&",
-            "&lt;": "<",
-            "&gt;": ">",
-            "&quot;": '"',
-            "&#39;": "'",
-            "&nbsp;": " ",
-        }
-        for old, new in replacements.items():
-            text = text.replace(old, new)
+    # def _fix_common_errors(self, text: str) -> str:
+    #     """Fix common extraction errors (HTML entities, hyphen breaks, etc.)."""
+    #     replacements = {
+    #         "&amp;": "&",
+    #         "&lt;": "<",
+    #         "&gt;": ">",
+    #         "&quot;": '"',
+    #         "&#39;": "'",
+    #         "&nbsp;": " ",
+    #     }
+    #     for old, new in replacements.items():
+    #         text = text.replace(old, new)
 
-        # join hyphen-broken words: invest- ment -> investment
-        text = re.sub(r"(\w+)-\s+(\w+)", r"\1\2", text)
+    #     # join hyphen-broken words: invest- ment -> investment
+    #     text = re.sub(r"(\w+)-\s+(\w+)", r"\1\2", text)
 
-        text = re.sub(r" {2,}", " ", text)
-        return text
+    #     text = re.sub(r" {2,}", " ", text)
+    #     return text
 
     # ------------------------------------------------------------------
     #  Metadata & Saving

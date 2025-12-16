@@ -1,5 +1,5 @@
 {
-  "total_letters": 48,
+  "total_letters": 25,
   "years_processed": [
     1977,
     1978,
@@ -25,322 +25,161 @@
     1998,
     1999,
     2000,
-    2001,
-    2002,
-    2003,
-    2004,
-    2005,
-    2006,
-    2007,
-    2008,
-    2009,
-    2010,
-    2011,
-    2012,
-    2013,
-    2014,
-    2015,
-    2016,
-    2017,
-    2018,
-    2019,
-    2020,
-    2021,
-    2022,
-    2023,
-    2024
+    2001
   ],
-  "total_words": 470204,
-  "total_paragraphs": 5804,
-  "average_words_per_letter": 9795,
+  "total_words": 267980,
+  "total_paragraphs": 4866,
+  "average_words_per_letter": 10719,
   "letters": {
     "1977": {
-      "source_file": "1977\\letter_1977.html",
-      "word_count": 3048,
+      "source_file": "1977/letter_1977.html",
+      "word_count": 3050,
       "paragraph_count": 41,
-      "char_count": 19743
+      "char_count": 19745
     },
     "1978": {
-      "source_file": "1978\\letter_1978.html",
-      "word_count": 4353,
+      "source_file": "1978/letter_1978.html",
+      "word_count": 4350,
       "paragraph_count": 56,
-      "char_count": 27818
+      "char_count": 27815
     },
     "1979": {
-      "source_file": "1979\\letter_1979.html",
-      "word_count": 6645,
-      "paragraph_count": 86,
-      "char_count": 41081
+      "source_file": "1979/letter_1979.html",
+      "word_count": 6650,
+      "paragraph_count": 85,
+      "char_count": 41085
     },
     "1980": {
-      "source_file": "1980\\letter_1980.html",
-      "word_count": 7468,
+      "source_file": "1980/letter_1980.html",
+      "word_count": 7470,
       "paragraph_count": 106,
-      "char_count": 47103
+      "char_count": 47105
     },
     "1981": {
-      "source_file": "1981\\letter_1981.html",
-      "word_count": 6593,
+      "source_file": "1981/letter_1981.html",
+      "word_count": 6604,
       "paragraph_count": 104,
-      "char_count": 42677
+      "char_count": 42688
     },
     "1982": {
-      "source_file": "1982\\letter_1982.html",
-      "word_count": 7823,
+      "source_file": "1982/letter_1982.html",
+      "word_count": 7831,
       "paragraph_count": 125,
-      "char_count": 49820
+      "char_count": 49828
     },
     "1983": {
-      "source_file": "1983\\letter_1983.html",
-      "word_count": 11413,
+      "source_file": "1983/letter_1983.html",
+      "word_count": 11418,
       "paragraph_count": 183,
-      "char_count": 70470
+      "char_count": 70475
     },
     "1984": {
-      "source_file": "1984\\letter_1984.html",
-      "word_count": 12586,
+      "source_file": "1984/letter_1984.html",
+      "word_count": 12584,
       "paragraph_count": 153,
-      "char_count": 78446
+      "char_count": 78444
     },
     "1985": {
-      "source_file": "1985\\letter_1985.html",
-      "word_count": 13565,
+      "source_file": "1985/letter_1985.html",
+      "word_count": 13576,
       "paragraph_count": 176,
-      "char_count": 83429
+      "char_count": 83441
     },
     "1986": {
-      "source_file": "1986\\letter_1986.html",
-      "word_count": 13658,
+      "source_file": "1986/letter_1986.html",
+      "word_count": 13672,
       "paragraph_count": 300,
-      "char_count": 83919
+      "char_count": 83938
     },
     "1987": {
-      "source_file": "1987\\letter_1987.html",
-      "word_count": 12467,
+      "source_file": "1987/letter_1987.html",
+      "word_count": 12473,
       "paragraph_count": 184,
-      "char_count": 76338
+      "char_count": 76344
     },
     "1988": {
-      "source_file": "1988\\letter_1988.html",
-      "word_count": 11646,
+      "source_file": "1988/letter_1988.html",
+      "word_count": 11651,
       "paragraph_count": 196,
-      "char_count": 71493
+      "char_count": 71499
     },
     "1989": {
-      "source_file": "1989\\letter_1989.html",
-      "word_count": 14388,
+      "source_file": "1989/letter_1989.html",
+      "word_count": 14407,
       "paragraph_count": 214,
-      "char_count": 87103
+      "char_count": 87123
     },
     "1990": {
-      "source_file": "1990\\letter_1990.html",
-      "word_count": 16009,
-      "paragraph_count": 316,
-      "char_count": 95206
+      "source_file": "1990/letter_1990.html",
+      "word_count": 16032,
+      "paragraph_count": 313,
+      "char_count": 95235
     },
     "1991": {
-      "source_file": "1991\\letter_1991.html",
-      "word_count": 9114,
+      "source_file": "1991/letter_1991.html",
+      "word_count": 9127,
       "paragraph_count": 135,
-      "char_count": 55784
+      "char_count": 55797
     },
     "1992": {
-      "source_file": "1992\\letter_1992.html",
-      "word_count": 11182,
+      "source_file": "1992/letter_1992.html",
+      "word_count": 11204,
       "paragraph_count": 164,
-      "char_count": 68422
+      "char_count": 68445
     },
     "1993": {
-      "source_file": "1993\\letter_1993.html",
-      "word_count": 11004,
+      "source_file": "1993/letter_1993.html",
+      "word_count": 11021,
       "paragraph_count": 155,
-      "char_count": 66995
+      "char_count": 67012
     },
     "1994": {
-      "source_file": "1994\\letter_1994.html",
-      "word_count": 9576,
+      "source_file": "1994/letter_1994.html",
+      "word_count": 9588,
       "paragraph_count": 148,
-      "char_count": 58110
+      "char_count": 58122
     },
     "1995": {
-      "source_file": "1995\\letter_1995.html",
-      "word_count": 11904,
+      "source_file": "1995/letter_1995.html",
+      "word_count": 11934,
       "paragraph_count": 175,
-      "char_count": 70647
+      "char_count": 70678
     },
     "1996": {
-      "source_file": "1996\\letter_1996.html",
-      "word_count": 11579,
+      "source_file": "1996/letter_1996.html",
+      "word_count": 11622,
       "paragraph_count": 161,
-      "char_count": 71143
+      "char_count": 71186
     },
     "1997": {
-      "source_file": "1997\\letter_1997.html",
-      "word_count": 11798,
+      "source_file": "1997/letter_1997.html",
+      "word_count": 11836,
       "paragraph_count": 201,
-      "char_count": 69488
+      "char_count": 69526
     },
     "1998": {
-      "source_file": "1998\\letter_1998.html",
-      "word_count": 11948,
+      "source_file": "1998/letter_1998.html",
+      "word_count": 11979,
       "paragraph_count": 341,
-      "char_count": 69582
+      "char_count": 69613
     },
     "1999": {
-      "source_file": "1999\\letter_1999.html",
-      "word_count": 12260,
+      "source_file": "1999/letter_1999.html",
+      "word_count": 12291,
       "paragraph_count": 379,
-      "char_count": 74787
+      "char_count": 74818
     },
     "2000": {
-      "source_file": "2000\\letter_2000.html",
-      "word_count": 13216,
+      "source_file": "2000/letter_2000.html",
+      "word_count": 13254,
       "paragraph_count": 447,
-      "char_count": 79186
+      "char_count": 79224
     },
     "2001": {
-      "source_file": "2001\\letter_2001.html",
-      "word_count": 12284,
+      "source_file": "2001/letter_2001.html",
+      "word_count": 12356,
       "paragraph_count": 324,
-      "char_count": 73639
-    },
-    "2002": {
-      "source_file": "2002\\letter_2002.pdf",
-      "word_count": 14673,
-      "paragraph_count": 43,
-      "char_count": 92114
-    },
-    "2003": {
-      "source_file": "2003\\letter_2003.pdf",
-      "word_count": 13187,
-      "paragraph_count": 43,
-      "char_count": 86344
-    },
-    "2004": {
-      "source_file": "2004\\letter_2004.pdf",
-      "word_count": 14696,
-      "paragraph_count": 49,
-      "char_count": 96027
-    },
-    "2005": {
-      "source_file": "2005\\letter_2005.pdf",
-      "word_count": 13310,
-      "paragraph_count": 43,
-      "char_count": 85456
-    },
-    "2006": {
-      "source_file": "2006\\letter_2006.pdf",
-      "word_count": 14470,
-      "paragraph_count": 45,
-      "char_count": 91435
-    },
-    "2007": {
-      "source_file": "2007\\letter_2007.pdf",
-      "word_count": 12245,
-      "paragraph_count": 41,
-      "char_count": 77829
-    },
-    "2008": {
-      "source_file": "2008\\letter_2008.pdf",
-      "word_count": 8294,
-      "paragraph_count": 43,
-      "char_count": 79961
-    },
-    "2009": {
-      "source_file": "2009\\letter_2009.pdf",
-      "word_count": 7098,
-      "paragraph_count": 37,
-      "char_count": 68439
-    },
-    "2010": {
-      "source_file": "2010\\letter_2010.pdf",
-      "word_count": 9178,
-      "paragraph_count": 52,
-      "char_count": 90879
-    },
-    "2011": {
-      "source_file": "2011\\letter_2011.pdf",
-      "word_count": 7690,
-      "paragraph_count": 41,
-      "char_count": 82533
-    },
-    "2012": {
-      "source_file": "2012\\letter_2012.pdf",
-      "word_count": 8013,
-      "paragraph_count": 45,
-      "char_count": 83170
-    },
-    "2013": {
-      "source_file": "2013\\letter_2013.pdf",
-      "word_count": 8067,
-      "paragraph_count": 45,
-      "char_count": 79800
-    },
-    "2014": {
-      "source_file": "2014\\letter_2014.pdf",
-      "word_count": 13728,
-      "paragraph_count": 83,
-      "char_count": 140000
-    },
-    "2015": {
-      "source_file": "2015\\letter_2015.pdf",
-      "word_count": 10063,
-      "paragraph_count": 59,
-      "char_count": 100529
-    },
-    "2016": {
-      "source_file": "2016\\letter_2016.pdf",
-      "word_count": 10053,
-      "paragraph_count": 55,
-      "char_count": 98184
-    },
-    "2017": {
-      "source_file": "2017\\letter_2017.pdf",
-      "word_count": 6156,
-      "paragraph_count": 31,
-      "char_count": 55540
-    },
-    "2018": {
-      "source_file": "2018\\letter_2018.pdf",
-      "word_count": 5077,
-      "paragraph_count": 27,
-      "char_count": 45690
-    },
-    "2019": {
-      "source_file": "2019\\letter_2019.pdf",
-      "word_count": 4997,
-      "paragraph_count": 25,
-      "char_count": 46534
-    },
-    "2020": {
-      "source_file": "2020\\letter_2020.pdf",
-      "word_count": 3265,
-      "paragraph_count": 27,
-      "char_count": 44950
-    },
-    "2021": {
-      "source_file": "2021\\letter_2021.pdf",
-      "word_count": 2203,
-      "paragraph_count": 21,
-      "char_count": 33407
-    },
-    "2022": {
-      "source_file": "2022\\letter_2022.pdf",
-      "word_count": 3406,
-      "paragraph_count": 19,
-      "char_count": 26552
-    },
-    "2023": {
-      "source_file": "2023\\letter_2023.pdf",
-      "word_count": 6998,
-      "paragraph_count": 31,
-      "char_count": 45884
-    },
-    "2024": {
-      "source_file": "2024\\letter_2024.pdf",
-      "word_count": 5810,
-      "paragraph_count": 29,
-      "char_count": 37177
+      "char_count": 73711
     }
   }
 }
