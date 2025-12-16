@@ -126,21 +126,6 @@ class BuffettLetterExtractor:
             with pdfplumber.open(filepath) as pdf:
                 for page_num, page in enumerate(pdf.pages, start=1):
 
-                    # 1) Try a few extract_text configurations (fast path)
-                    candidates: List[str] = []
-                    try:
-                        candidates.append(page.extract_text() or "")
-                    except Exception:
-                        candidates.append("")
-
-                    # These tolerances often help PDFs where spaces are "implied" by glyph gaps.
-                    for xt, yt in [(1.5, 2.0), (2.0, 2.0), (3.0, 3.0)]:
-                        try:
-                            candidates.append(page.extract_text(x_tolerance=xt, y_tolerance=yt) or "")
-                        except Exception:
-                            candidates.append("")
-
-                    # 1) Try a few extract_text configurations (fast path)
                     candidates: List[str] = []
 
                     # Normal extract_text
@@ -149,20 +134,24 @@ class BuffettLetterExtractor:
                     except Exception:
                         candidates.append("")
 
-                    # Optional: layout=True (if supported by your pdfplumber/pdfminer combo)
+                    # layout=True (may help with spacing/ordering in some PDFs)
                     try:
                         candidates.append(page.extract_text(layout=True) or "")
                     except Exception:
                         pass
 
-                    # These tolerances often help PDFs where spaces are "implied" by glyph gaps.
-                    for xt, yt in [(1.5, 2.0), (2.0, 2.0), (3.0, 3.0)]:
+                    # Tolerance variants
+                    for xt, yt in [(1.2, 2.0), (1.5, 2.0), (2.0, 2.0), (3.0, 3.0)]:
                         try:
                             candidates.append(page.extract_text(x_tolerance=xt, y_tolerance=yt) or "")
                         except Exception:
                             candidates.append("")
 
-                    # Pick the best candidate by composite ranking (not just glue_score)
+                    # Robust reconstructions (these are the real “save me” methods)
+                    candidates.append(self._reconstruct_text_from_words(page))
+                    candidates.append(self._reconstruct_text_from_chars_dynamic(page))
+
+                    # Pick best candidate by composite ranking
                     best = ""
                     best_rank = 10**18
 
@@ -170,23 +159,10 @@ class BuffettLetterExtractor:
                         c = (c or "").replace("\r\n", "\n").replace("\r", "\n").strip()
                         if not c:
                             continue
-
                         c = self._normalize_pdf_artifacts(c)
-
                         rank = self._candidate_rank(c)
                         if rank < best_rank:
                             best, best_rank = c, rank
-
-                    # 2) If still looks bad, reconstruct from extract_words (slow but reliable)
-                    # Keep your existing fallback behavior, but make it trigger on the composite rank
-                    if not best or best_rank > 35:
-                        best = self._reconstruct_text_from_words(page)
-                        best = self._normalize_pdf_artifacts(best)
-
-
-                    # 2) If still looks glued, reconstruct from extract_words (slow but reliable)
-                    if not best or best_score > 25:
-                        best = self._reconstruct_text_from_words(page)
 
                     if best.strip():
                         text_parts.append(best.strip())
@@ -203,7 +179,99 @@ class BuffettLetterExtractor:
 
         return "\n\n".join(text_parts)
 
+    def _reconstruct_text_from_chars_dynamic(self, page) -> str:
+        """
+        Rebuild text from character boxes using a dynamic per-line spacing threshold.
 
+        Why: extract_words() can still return glued tokens (e.g. 'recentlypurchased')
+        when the library groups chars too aggressively. This method decides spaces
+        based on geometric gaps between characters on the same line.
+        """
+        try:
+            chars = getattr(page, "chars", None) or []
+        except Exception:
+            chars = []
+
+        if not chars:
+            return ""
+
+        # Group chars into lines by their 'top' coordinate
+        # Keep this strict so we don't merge adjacent lines (prevents paragraph confusion)
+        line_tol = 2.0
+
+        # Sort top-to-bottom then left-to-right
+        chars_sorted = sorted(chars, key=lambda c: (round(float(c.get("top", 0.0)), 1), float(c.get("x0", 0.0))))
+
+        lines: List[List[dict]] = []
+        for ch in chars_sorted:
+            top = float(ch.get("top", 0.0))
+            if not lines:
+                lines.append([ch])
+                continue
+
+            last_top = float(lines[-1][0].get("top", 0.0))
+            if abs(top - last_top) <= line_tol:
+                lines[-1].append(ch)
+            else:
+                lines.append([ch])
+
+        out_lines: List[str] = []
+
+        for line in lines:
+            line_sorted = sorted(line, key=lambda c: float(c.get("x0", 0.0)))
+
+            # Estimate typical char width for this line (robust median)
+            widths = []
+            for c in line_sorted:
+                t = (c.get("text") or "")
+                if not t.strip():
+                    continue
+                x0 = float(c.get("x0", 0.0))
+                x1 = float(c.get("x1", 0.0))
+                w = x1 - x0
+                if 0.2 < w < 50:  # sanity
+                    widths.append(w)
+
+            if widths:
+                widths.sort()
+                med_w = widths[len(widths) // 2]
+            else:
+                med_w = 3.0
+
+            # Dynamic threshold for inserting a space between characters
+            # Tuned to be conservative: insert spaces only when gap clearly exceeds typical intra-word spacing
+            space_thr = max(0.8, min(3.5, med_w * 0.35))
+
+            buf = []
+            prev = None
+
+            for c in line_sorted:
+                t = c.get("text") or ""
+                if t == "\u00a0":  # nbsp
+                    t = " "
+
+                if prev is not None:
+                    gap = float(c.get("x0", 0.0)) - float(prev.get("x1", 0.0))
+
+                    # Only decide spaces within the SAME visual line; newline handling is outside.
+                    if gap > space_thr:
+                        # Avoid adding multiple spaces
+                        if buf and buf[-1] != " ":
+                            buf.append(" ")
+
+                buf.append(t)
+                prev = c
+
+            line_text = "".join(buf)
+
+            # Normalize internal whitespace a bit (don’t destroy line structure)
+            line_text = re.sub(r"[ \t]{2,}", " ", line_text).strip()
+            if line_text:
+                out_lines.append(line_text)
+
+        return "\n".join(out_lines)
+    
+    
     def _reconstruct_text_from_words(self, page) -> str:
         """
         Build text from pdfplumber's word boxes, forcing spaces between words.
@@ -374,7 +442,7 @@ class BuffettLetterExtractor:
                 continue
 
             # length threshold (tunable: 14–18); use 16 as a good default
-            if len(core) < 16:
+            if len(core) < 14:
                 continue
 
             # mostly lowercase (e.g., >= 90% lowercase letters)
