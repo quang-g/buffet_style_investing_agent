@@ -48,7 +48,7 @@ PROJECT_ROOT = THIS_DIR.parent
 CHUNKING_STRATEGY_PATH = THIS_DIR / "chunking_rule_claude.md"
 
 TEXT_DIR = PROJECT_ROOT / "data" / "text_extracted_letters"
-OUT_DIR = PROJECT_ROOT / "data" / "chunks_llm_gpt" / "test2010"
+OUT_DIR = PROJECT_ROOT / "data" / "chunks_llm_gpt" / "test2011"
 
 OUT_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -175,6 +175,12 @@ def repair_chunks_locally(
         c["year"] = year
         c["source_file"] = source_file
 
+
+        # Ignore any LLM-supplied positional fields; we recompute deterministically.
+        c.pop("position_in_letter", None)
+        c.pop("position_in_section", None)
+        c.pop("total_chunks_in_section", None)
+
         s = c.get("start_char")
         if isinstance(s, int):
             pos = s / n
@@ -259,20 +265,28 @@ def repair_chunks_locally(
                 pos = 1.0
             c["position_in_letter"] = float(pos)
 
-    # 6) Recompute section indices
-    # Group by section_type in the (already sorted) order.
-    section_counts: Dict[str, int] = {}
-    for c in chunks:
-        st = c.get("section_type") or "other"
-        section_counts[st] = section_counts.get(st, 0) + 1
+    # 6) Recompute section indices (deterministic)
+    # Primary grouping: (section_title, subsection). Fallback to section_type.
+    def _section_key(c: Dict[str, Any]) -> tuple:
+        stitle = (c.get("section_title") or "").strip()
+        sub = (c.get("subsection") or "").strip()
+        stype = (c.get("section_type") or "other").strip()
+        if stitle or sub:
+            return (stitle, sub, stype)
+        return ("", "", stype)
 
-    section_seen: Dict[str, int] = {}
+    section_counts: Dict[tuple, int] = {}
     for c in chunks:
-        st = c.get("section_type") or "other"
-        idx_in_section = section_seen.get(st, 0)
-        c["position_in_section"] = idx_in_section
-        c["total_chunks_in_section"] = section_counts.get(st, 1)
-        section_seen[st] = idx_in_section + 1
+        k = _section_key(c)
+        section_counts[k] = section_counts.get(k, 0) + 1
+
+    section_seen: Dict[tuple, int] = {}
+    for c in chunks:
+        k = _section_key(c)
+        idx_in_section = section_seen.get(k, 0)
+        c["position_in_section"] = int(idx_in_section)
+        c["total_chunks_in_section"] = int(section_counts.get(k, 1))
+        section_seen[k] = idx_in_section + 1
 
     return chunks
 
@@ -309,6 +323,7 @@ def call_llm_for_chunks(
         - Include accurate start_char/end_char offsets into the provided LETTER TEXT.
         - DO generate prev_context and next_context summaries.
         - DO NOT include chunk_text/word_count/char_count (they will be reconstructed locally).
+        - DO NOT include position_in_letter/position_in_section/total_chunks_in_section (they will be computed locally).
     """
 
     strategy_message = (
@@ -339,11 +354,7 @@ Use the following requirements:
     "section_type": "string (one of: performance_overview, insurance_operations, acquisitions, investments, operating_businesses, corporate_governance, management_philosophy, shareholder_matters, other)",
     "section_title": "string",
     "subsection": "string or null",
-    "parent_section": "string or null",
-    "position_in_letter": "float 0.0-1.0",
-    "position_in_section": "int (0-indexed)",
-    "total_chunks_in_section": "int",
-    "start_char": "int (0-indexed, inclusive offset into LETTER TEXT)",
+    "parent_section": "string or null",    "start_char": "int (0-indexed, inclusive offset into LETTER TEXT)",
     "end_char": "int (0-indexed, exclusive offset into LETTER TEXT)",
     "chunk_type": "string (one of: narrative_story, financial_table, philosophy, business_analysis, administrative)",
     "has_financials": "bool",

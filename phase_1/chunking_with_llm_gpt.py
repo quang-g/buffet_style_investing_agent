@@ -48,7 +48,7 @@ PROJECT_ROOT = THIS_DIR.parent
 CHUNKING_STRATEGY_PATH = THIS_DIR / "chunking_rule_claude.md"
 
 TEXT_DIR = PROJECT_ROOT / "data" / "text_extracted_letters"
-OUT_DIR = PROJECT_ROOT / "data" / "chunks_llm_gpt" / "test2009"
+OUT_DIR = PROJECT_ROOT / "data" / "chunks_llm_gpt" / "test2010"
 
 OUT_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -56,6 +56,14 @@ OUT_DIR.mkdir(parents=True, exist_ok=True)
 DEFAULT_MODEL = "gpt-4.1-mini"
 
 # ------------------------- Helpers -------------------------
+
+ALLOWED_CHUNK_TYPES = {
+    "narrative_story",
+    "financial_table",
+    "philosophy",
+    "business_analysis",
+    "administrative",
+}
 
 def extract_chunk_objects_from_response(content: str) -> List[Dict[str, Any]]:
     """
@@ -104,6 +112,171 @@ def load_letter_text(year: int) -> str:
         )
     return path.read_text(encoding="utf-8")
 
+
+def reconstruct_chunk_text(letter_text: str, chunks: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+    """Best-effort reconstruction of chunk_text from start/end offsets.
+
+    We do NOT override LLM-generated prev_context/next_context.
+    """
+    n = len(letter_text)
+    fixed: List[Dict[str, Any]] = []
+    for i, ch in enumerate(chunks):
+        if not isinstance(ch, dict):
+            continue
+
+        # Only reconstruct when missing/blank
+        text = ch.get("chunk_text")
+        if not isinstance(text, str) or not text.strip():
+            s = ch.get("start_char")
+            e = ch.get("end_char")
+            if isinstance(s, int) and isinstance(e, int) and 0 <= s < e <= n:
+                ch["chunk_text"] = letter_text[s:e]
+            else:
+                ch["chunk_text"] = ""
+
+        # Always recompute counts from whatever chunk_text is now
+        txt = ch.get("chunk_text") or ""
+        ch["char_count"] = len(txt)
+        ch["word_count"] = len(txt.split()) if txt else 0
+
+        fixed.append(ch)
+    return fixed
+
+
+def repair_chunks_locally(
+    chunks: List[Dict[str, Any]],
+    letter_text: str,
+    year: int,
+    source_file: str,
+    *,
+    min_words_to_keep: int = 60,
+) -> List[Dict[str, Any]]:
+    """Guaranteed local repair pass.
+
+    Goals:
+    - Ensure chunk_text exists (reconstruct from offsets when possible).
+    - Ensure year/source_file are set.
+    - Fix position_in_letter into [0,1] deterministically.
+    - Normalize chunk_type to allowed values.
+    - Merge tiny heading-like chunks into the next chunk within the same section.
+    - Recompute position_in_section + total_chunks_in_section after merges.
+
+    Note: prev_context/next_context remain LLM-generated (we do not touch them).
+    """
+    n = len(letter_text)
+    if n == 0:
+        return chunks
+
+    # 1) Ensure chunk_text + counts exist
+    chunks = reconstruct_chunk_text(letter_text, chunks)
+
+    # 2) Normalize basics & compute deterministic position_in_letter
+    for c in chunks:
+        c["year"] = year
+        c["source_file"] = source_file
+
+        s = c.get("start_char")
+        if isinstance(s, int):
+            pos = s / n
+            if pos < 0.0:
+                pos = 0.0
+            elif pos > 1.0:
+                pos = 1.0
+            c["position_in_letter"] = float(pos)
+
+        ct = c.get("chunk_type")
+        if not isinstance(ct, str) or ct not in ALLOWED_CHUNK_TYPES:
+            # Default to administrative rather than inventing a new enum.
+            c["chunk_type"] = "administrative"
+
+        # Recompute counts again (in case caller mutated chunk_text)
+        txt = c.get("chunk_text") or ""
+        c["char_count"] = len(txt)
+        c["word_count"] = len(txt.split()) if txt else 0
+
+    # 3) Sort by start_char to ensure correct document order
+    chunks.sort(key=lambda x: (x.get("start_char", 10**18), x.get("end_char", 10**18)))
+
+    # 4) Merge tiny chunks (typically headings / stubs)
+    merged: List[Dict[str, Any]] = []
+    i = 0
+    while i < len(chunks):
+        cur = chunks[i]
+
+        # Decide if cur is merge-candidate
+        cur_words = cur.get("word_count", 0) or 0
+        cur_type = cur.get("chunk_type")
+        cur_section = cur.get("section_type")
+
+        can_merge = (
+            isinstance(cur_words, int)
+            and cur_words < min_words_to_keep
+            and cur_type != "financial_table"  # don't merge tables by default
+        )
+
+        # Merge into next chunk if same section_type
+        if can_merge and i + 1 < len(chunks):
+            nxt = chunks[i + 1]
+            if nxt.get("section_type") == cur_section:
+                # Join texts with a newline boundary (preserves readability)
+                cur_txt = (cur.get("chunk_text") or "").strip()
+                nxt_txt = (nxt.get("chunk_text") or "").strip()
+                joined = (cur_txt + "\n" + nxt_txt).strip() if cur_txt and nxt_txt else (cur_txt or nxt_txt)
+                nxt["chunk_text"] = joined
+
+                # Expand offsets to cover both if available
+                s1, e1 = cur.get("start_char"), cur.get("end_char")
+                s2, e2 = nxt.get("start_char"), nxt.get("end_char")
+                if isinstance(s1, int) and isinstance(s2, int):
+                    nxt["start_char"] = min(s1, s2)
+                if isinstance(e1, int) and isinstance(e2, int):
+                    nxt["end_char"] = max(e1, e2)
+
+                # Keep NEXT chunk's metadata as the surviving chunk.
+                # We intentionally do NOT try to recompute LLM prev/next_context.
+                # Counts will be recomputed later.
+
+                i += 1
+                continue
+
+        merged.append(cur)
+        i += 1
+
+    chunks = merged
+
+    # 5) Recompute counts + deterministic positions after merges
+    for c in chunks:
+        txt = c.get("chunk_text") or ""
+        c["char_count"] = len(txt)
+        c["word_count"] = len(txt.split()) if txt else 0
+
+        s = c.get("start_char")
+        if isinstance(s, int):
+            pos = s / n
+            if pos < 0.0:
+                pos = 0.0
+            elif pos > 1.0:
+                pos = 1.0
+            c["position_in_letter"] = float(pos)
+
+    # 6) Recompute section indices
+    # Group by section_type in the (already sorted) order.
+    section_counts: Dict[str, int] = {}
+    for c in chunks:
+        st = c.get("section_type") or "other"
+        section_counts[st] = section_counts.get(st, 0) + 1
+
+    section_seen: Dict[str, int] = {}
+    for c in chunks:
+        st = c.get("section_type") or "other"
+        idx_in_section = section_seen.get(st, 0)
+        c["position_in_section"] = idx_in_section
+        c["total_chunks_in_section"] = section_counts.get(st, 1)
+        section_seen[st] = idx_in_section + 1
+
+    return chunks
+
+
 def call_llm_for_chunks(
     letter_text: str,
     year: int,
@@ -112,135 +285,119 @@ def call_llm_for_chunks(
     model: str,
 ) -> List[Dict[str, Any]]:
     """
-    Robust chunking:
-    - Ask LLM for chunk boundaries (start_char/end_char) + metadata (NO chunk_text).
-    - Reconstruct chunk_text locally from letter_text to avoid huge/truncated JSON outputs.
+    Call the OpenAI Chat Completions API and ask it to:
+
+    - Read the full letter text for a given year.
+    - Apply all rules from chunking_strategy.md.
+    - Return a JSON object with a "chunks" array containing fully-populated
+      chunk objects that match the "Complete Metadata Structure" in the spec.
+
+    If the overall JSON is truncated or malformed (common when the output is
+    very large), fall back to scanning the response and extracting all
+    *individually valid* chunk objects.
     """
     client = OpenAI()
 
-    def reconstruct_chunk_text(letter_text: str, chunks: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
-        n = len(letter_text)
-        fixed: List[Dict[str, Any]] = []
-        for i, ch in enumerate(chunks):
-            if not isinstance(ch, dict):
-                continue
-
-            s = ch.get("start_char")
-            e = ch.get("end_char")
-
-            if not isinstance(s, int) or not isinstance(e, int):
-                raise RuntimeError(f"Chunk {i} missing start_char/end_char. Got start_char={s}, end_char={e}")
-
-            if s < 0 or e < 0 or s >= e or s > n or e > n:
-                raise RuntimeError(f"Chunk {i} has invalid offsets: start_char={s}, end_char={e}, letter_len={n}")
-
-            text = letter_text[s:e]
-            ch["chunk_text"] = text
-
-            # Compute counts locally (more reliable than LLM)
-            ch["char_count"] = len(text)
-            ch["word_count"] = len(text.split())
-
-            fixed.append(ch)
-        return fixed
-
     system_content = """
-You are an expert corpus architect for Berkshire Hathaway shareholder letters.
-Your job is to chunk a single letter into semantically meaningful chunks and produce rich metadata.
+        You are an expert corpus architect for Berkshire Hathaway shareholder letters.
+        Your job is to chunk a single letter into semantically meaningful chunks and produce rich metadata.
+        Follow EXACTLY the chunking rule, definitions, and metadata schema in the chunking strategy document below.
 
-Follow EXACTLY the chunking rule, definitions, and metadata schema in the chunking strategy document below.
-
-Hard constraints:
-- Return ONLY valid JSON (no prose).
-- Top-level MUST be a JSON object: { "chunks": [ ... ] }.
-- DO NOT include chunk_text in the output.
-- Instead, include start_char and end_char offsets into the provided LETTER TEXT.
-"""
+        Hard constraints:
+        - Return ONLY valid JSON (no prose).
+        - Top-level MUST be a JSON object: {"chunks": [ ... ]}.
+        - Include accurate start_char/end_char offsets into the provided LETTER TEXT.
+        - DO generate prev_context and next_context summaries.
+        - DO NOT include chunk_text/word_count/char_count (they will be reconstructed locally).
+    """
 
     strategy_message = (
         "Here is the complete chunking rule specification you MUST follow:\n\n"
         f"{chunking_spec}"
     )
 
-    # IMPORTANT: We explicitly avoid chunk_text to prevent huge outputs that get truncated.
     user_content = f"""
 Chunk the Berkshire Hathaway shareholder letter for year {year}.
+
 Source file name: {source_file}
 
-Requirements:
-- Apply all rules from the chunking rule document you received.
-- Identify sections, subsections, and chunk types.
-- Create chunks of ~150–300 words unless the rule specifies otherwise.
-- Each chunk must be a complete thought and respect narrative flow.
+Use the following requirements:
 
-Output format (STRICT):
-Return a JSON object with this shape:
+- Apply all rules from the chunking rule document you received.
+- Identify sections, subsections, and the different chunk types.
+- Generate chunks of ~150–300 words, except where the rule specifies
+  larger/smaller sizes (e.g., front performance tables).
+- Ensure each chunk is a complete thought and respects narrative flow.
+- Fill in all required metadata fields for each chunk:
+
+```json
+[
+  {{
+    "chunk_id": "{{year}}_{{section_type}}_{{sequence:03d}}",
+    "year": {year},
+    "source_file": "{source_file}",
+    "section_type": "string (one of: performance_overview, insurance_operations, acquisitions, investments, operating_businesses, corporate_governance, management_philosophy, shareholder_matters, other)",
+    "section_title": "string",
+    "subsection": "string or null",
+    "parent_section": "string or null",
+    "position_in_letter": "float 0.0-1.0",
+    "position_in_section": "int (0-indexed)",
+    "total_chunks_in_section": "int",
+    "start_char": "int (0-indexed, inclusive offset into LETTER TEXT)",
+    "end_char": "int (0-indexed, exclusive offset into LETTER TEXT)",
+    "chunk_type": "string (one of: narrative_story, financial_table, philosophy, business_analysis, administrative)",
+    "has_financials": "bool",
+    "has_table": "bool",
+    "has_quote": "bool",
+    "contains_principle": "bool",
+    "contains_example": "bool",
+    "contains_comparison": "bool",
+    "contextual_summary": "string (2-3 sentences per spec)",
+    "prev_context": "string (1-2 sentences summarizing preceding content, empty for first chunk)",
+    "next_context": "string (1-2 sentences summarizing following content, empty for last chunk)",
+    "topics": ["array", "of", "topic", "strings"],
+    "companies_mentioned": ["array", "of", "company", "names"],
+    "people_mentioned": ["array", "of", "people", "names"],
+    "metrics_discussed": ["array", "of", "metric", "names"],
+    "industries": ["array", "of", "industry", "names"],
+    "principle_category": "string or null (if contains_principle: moats, valuation, management_quality, capital_allocation, risk_management, competitive_advantage, business_quality)",
+    "principle_statement": "string or null (if contains_principle)",
+    "retrieval_priority": "string (high, medium, low)",
+    "abstraction_level": "string (high, medium, low)",
+    "time_sensitivity": "string (high, low)",
+    "is_complete_thought": "bool",
+    "needs_context": "bool"
+  }}
+]
+```
+
+IMPORTANT:
+- Use `year = {year}` and `source_file = "{source_file}"` in every chunk.
+- Provide accurate `start_char` and `end_char` offsets.
+- DO generate `prev_context` and `next_context` summaries.
+- DO NOT include `chunk_text`, `word_count`, or `char_count`.
+- Prefer this outer JSON shape, but a top-level array is also accepted:
 
 {{
   "chunks": [
-    {{
-      "chunk_id": "{year}_{{section_type}}_{{sequence:03d}}",
-      "year": {year},
-      "source_file": "{source_file}",
-
-      "section_type": "one of: performance_overview, insurance_operations, acquisitions, investments, operating_businesses, corporate_governance, management_philosophy, shareholder_matters, other",
-      "section_title": "string",
-      "subsection": "string or null",
-      "parent_section": "string or null",
-
-      "position_in_letter": "float 0.0-1.0",
-      "position_in_section": "int (0-indexed)",
-      "total_chunks_in_section": "int",
-
-      "start_char": "int (0-indexed, inclusive offset into LETTER TEXT)",
-      "end_char": "int (0-indexed, exclusive offset into LETTER TEXT)",
-
-      "chunk_type": "one of: narrative_story, financial_table, philosophy, business_analysis, administrative",
-      "has_financials": "bool",
-      "has_table": "bool",
-      "has_quote": "bool",
-      "contains_principle": "bool",
-      "contains_example": "bool",
-      "contains_comparison": "bool",
-
-      "contextual_summary": "string (2-3 sentences per spec)",
-      "prev_context": "string (1-2 sentences, empty for first chunk)",
-      "next_context": "string (1-2 sentences, empty for last chunk)",
-
-      "topics": ["array", "of", "topic", "strings"],
-      "companies_mentioned": ["array", "of", "company", "names"],
-      "people_mentioned": ["array", "of", "people", "names"],
-      "metrics_discussed": ["array", "of", "metric", "names"],
-      "industries": ["array", "of", "industry", "names"],
-
-      "principle_category": "string or null (if contains_principle: moats, valuation, management_quality, capital_allocation, risk_management, competitive_advantage, business_quality)",
-      "principle_statement": "string or null (if contains_principle)",
-
-      "retrieval_priority": "high|medium|low",
-      "abstraction_level": "high|medium|low",
-      "time_sensitivity": "high|low",
-      "is_complete_thought": "bool",
-      "needs_context": "bool"
-    }}
+    {{ /* first chunk */ }},
+    {{ /* second chunk */ }},
+    ...
   ]
 }}
-
-Important:
-- Use year={year} and source_file="{source_file}" in every chunk.
-- start_char/end_char must exactly slice the LETTER TEXT (no hallucinated text).
-- DO NOT return chunk_text / word_count / char_count (we compute locally).
 
 LETTER TEXT START
 {letter_text}
 LETTER TEXT END
 """
 
+    # Ask the model to output JSON
     response = client.chat.completions.create(
         model=model,
         temperature=0,
         response_format={"type": "json_object"},
         messages=[
-            {"role": "system", "content": system_content.strip()},
+            {"role": "system", "content": system_content},
             {"role": "system", "content": strategy_message},
             {"role": "user", "content": user_content},
         ],
@@ -248,101 +405,91 @@ LETTER TEXT END
 
     content = response.choices[0].message.content or ""
 
-    # Save raw response (txt is more useful when truncated)
-    raw_debug_path_json = OUT_DIR / f"{year}_raw_llm_response.json"
-    # raw_debug_path_txt = OUT_DIR / f"{year}_raw_llm_response.txt"
-    raw_debug_path_json.write_text(content, encoding="utf-8")
-    # raw_debug_path_txt.write_text(content, encoding="utf-8")
+    # Always save raw response for debugging
+    raw_debug_path = OUT_DIR / f"{year}_raw_llm_response.json"
+    raw_debug_path.write_text(content, encoding="utf-8")
 
-    # Detect truncation explicitly
-    finish_reason = getattr(response.choices[0], "finish_reason", None)
-    if finish_reason == "length":
-        raise RuntimeError(
-            f"LLM output was truncated (finish_reason='length'). "
-            f"This indicates the model hit the output token limit. "
-            f"Raw response saved to: {raw_debug_path_txt}"
-        )
-
-    # Parse JSON normally
+    # --- 1) Try to parse whole thing normally ---
     try:
         data = json.loads(content)
-        if not (isinstance(data, dict) and isinstance(data.get("chunks"), list)):
-            raise ValueError("Top-level JSON must be {'chunks': [...]}.")
-
-        chunks = data["chunks"]
-        # Reconstruct chunk_text + counts locally
-        chunks = reconstruct_chunk_text(letter_text, chunks)
+        if isinstance(data, dict) and "chunks" in data:
+            chunks = data["chunks"]
+        elif isinstance(data, list):
+            chunks = data
+        else:
+            raise ValueError("Top-level JSON is neither {'chunks': [...]} nor a list.")
+        if not isinstance(chunks, list):
+            raise ValueError('"chunks" is not a list.')
         return chunks
-
     except Exception:
-        # Optional: keep your salvage fallback, but now it should almost never happen.
-        salvaged = extract_chunk_objects_from_response(content)
-        if not salvaged:
-            raise RuntimeError(
-                f"LLM returned invalid or unusable JSON, and no chunk objects could be salvaged. "
-                f"See raw response in: {raw_debug_path_txt}"
-            )
+        # Fall through to salvage mode
+        pass
 
-        salvaged = reconstruct_chunk_text(letter_text, salvaged)
-        print(f"[WARN] Whole-response JSON parse failed. Salvaged {len(salvaged)} chunk objects from {raw_debug_path_txt}")
-        return salvaged
+    # --- 2) Fallback: trimmed parse (sometimes the model wraps JSON in text) ---
+    try:
+        start_brace = content.find("{")
+        start_bracket = content.find("[")
+        start_candidates = [i for i in [start_brace, start_bracket] if i != -1]
+        end_brace = content.rfind("}")
+        end_bracket = content.rfind("]")
+        end_candidates = [i for i in [end_brace, end_bracket] if i != -1]
+
+        if start_candidates and end_candidates:
+            start = min(start_candidates)
+            end = max(end_candidates)
+            trimmed = content[start : end + 1]
+            data = json.loads(trimmed)
+            if isinstance(data, dict) and "chunks" in data:
+                chunks = data["chunks"]
+            elif isinstance(data, list):
+                chunks = data
+            else:
+                raise ValueError("Trimmed JSON has unexpected top-level structure.")
+            if not isinstance(chunks, list):
+                raise ValueError('"chunks" is not a list.')
+            return chunks
+    except Exception:
+        # Fall through to salvage mode
+        pass
+
+    # --- 3) Final fallback: scan and salvage individual chunk objects ---
+    salvaged = extract_chunk_objects_from_response(content)
+    if not salvaged:
+        raise RuntimeError(
+            f"LLM returned invalid or unusable JSON, and no chunk objects "
+            f"could be salvaged. See raw response in: {raw_debug_path}"
+        )
+
+    print(
+        f"[WARN] Whole-response JSON parse failed. "
+        f"Salvaged {len(salvaged)} chunk objects from {raw_debug_path}"
+    )
+    return salvaged
+
+
+
 
 def postprocess_chunks(
     chunks: List[Dict[str, Any]],
-    letter_text: str,
     year: int,
     source_file: str,
 ) -> List[Dict[str, Any]]:
     """
-    Post-processing + guaranteed local repair step:
+    Light post-processing:
 
     - Ensure `year` and `source_file` are set.
-    - If `chunk_text` is missing/empty but `start_char`/`end_char` exist and are valid,
-      reconstruct `chunk_text` by slicing `letter_text[start_char:end_char]`.
-    - If `position_in_letter` is missing or out of range, recompute as
-      `start_char / len(letter_text)` (clamped to [0, 1]).
-    - Always recompute `word_count` and `char_count` from the (repaired) chunk_text.
-
-    Note: We do NOT override LLM-generated `prev_context` / `next_context`.
+    - Recompute `word_count` and `char_count` from `chunk_text` to be safe.
     """
-    n = len(letter_text)
-
-    for idx, c in enumerate(chunks):
+    for c in chunks:
         c.setdefault("year", year)
         c.setdefault("source_file", source_file)
 
-        # -------- Guaranteed local repair step --------
-        text = c.get("chunk_text")
-        if not isinstance(text, str) or not text.strip():
-            s = c.get("start_char")
-            e = c.get("end_char")
-            if isinstance(s, int) and isinstance(e, int) and 0 <= s < e <= n:
-                text = letter_text[s:e]
-                c["chunk_text"] = text
-            else:
-                # Keep as empty string if we cannot repair
-                c["chunk_text"] = ""
-                text = ""
-
-        # Fix/normalize position_in_letter (must be 0.0-1.0)
-        pos = c.get("position_in_letter")
-        if not isinstance(pos, (int, float)) or pos < 0.0 or pos > 1.0:
-            s = c.get("start_char")
-            if isinstance(s, int) and n > 0:
-                pos = s / n
-                # clamp
-                if pos < 0.0:
-                    pos = 0.0
-                elif pos > 1.0:
-                    pos = 1.0
-                c["position_in_letter"] = float(pos)
-
-        # Recompute counts (LLM may be slightly off or chunk_text was repaired)
-        c["word_count"] = len(text.split()) if text else 0
-        c["char_count"] = len(text) if text else 0
+        text = c.get("chunk_text", "") or ""
+        # Recompute counts (LLM may be slightly off)
+        c["word_count"] = len(text.split())
+        c["char_count"] = len(text)
 
     return chunks
-
 
 
 def write_chunks_jsonl(
@@ -387,14 +534,13 @@ def main(argv: List[str]) -> None:
         model=model,
     )
 
-    # 2) Light post-processing: fix counts, enforce year/source_file
-    chunks = postprocess_chunks(
+    # 2) Guaranteed local repair (schema stability + tiny-chunk merge + deterministic positions)
+    chunks = repair_chunks_locally(
         chunks_raw,
         letter_text=letter_text,
         year=year,
         source_file=source_file_name,
     )
-
 
     # 3) Write JSONL
     out_path = write_chunks_jsonl(chunks, year)
