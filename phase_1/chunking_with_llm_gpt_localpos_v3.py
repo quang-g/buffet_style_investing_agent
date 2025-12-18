@@ -48,7 +48,7 @@ PROJECT_ROOT = THIS_DIR.parent
 CHUNKING_STRATEGY_PATH = THIS_DIR / "chunking_rule_claude.md"
 
 TEXT_DIR = PROJECT_ROOT / "data" / "text_extracted_letters"
-OUT_DIR = PROJECT_ROOT / "data" / "chunks_llm_gpt"
+OUT_DIR = PROJECT_ROOT / "data" / "chunks_llm_gpt" / "localpos_v3"
 
 OUT_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -113,76 +113,14 @@ def load_letter_text(year: int) -> str:
     return path.read_text(encoding="utf-8")
 
 
-def detect_inclusive_end_char(chunks: List[Dict[str, Any]]) -> bool:
-    """Detect whether end_char values are likely *inclusive* rather than exclusive.
-
-    We look at adjacent chunk boundaries after sorting by start_char:
-      - If many pairs have next_start == prev_end + 1, that's a strong inclusive signal.
-      - If many pairs have next_start == prev_end, that's a strong exclusive signal.
-
-    We ignore large gaps/overlaps because they can happen at section breaks or due to LLM errors.
-    """
-    ordered = sorted(
-        [c for c in chunks if isinstance(c, dict)],
-        key=lambda x: (x.get("start_char", 10**18), x.get("end_char", 10**18)),
-    )
-    diff0 = 0
-    diff1 = 0
-    for i in range(len(ordered) - 1):
-        a = ordered[i]
-        b = ordered[i + 1]
-        ea = a.get("end_char")
-        sb = b.get("start_char")
-        if not (isinstance(ea, int) and isinstance(sb, int)):
-            continue
-        d = sb - ea
-        if d == 0:
-            diff0 += 1
-        elif d == 1:
-            diff1 += 1
-
-    # Require a minimum amount of evidence to avoid false positives on small letters.
-    if diff1 >= 3 and diff1 > diff0 * 1.5:
-        return True
-    return False
-
-
-def normalize_end_char_exclusive(
-    chunks: List[Dict[str, Any]],
-    letter_len: int,
-    *,
-    inclusive_end_char: bool,
-) -> List[Dict[str, Any]]:
-    """Normalize end_char to be exclusive offsets.
-
-    If the input end_char is inclusive, convert to exclusive by adding 1 (capped at letter_len).
-    """
-    if not inclusive_end_char:
-        return chunks
-
-    for c in chunks:
-        e = c.get("end_char")
-        if isinstance(e, int):
-            # Convert inclusive -> exclusive (cap to letter length)
-            e2 = e + 1
-            if e2 > letter_len:
-                e2 = letter_len
-            c["end_char"] = e2
-    return chunks
-
-
-def reconstruct_chunk_text(
-    letter_text: str,
-    chunks: List[Dict[str, Any]],
-) -> List[Dict[str, Any]]:
+def reconstruct_chunk_text(letter_text: str, chunks: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
     """Best-effort reconstruction of chunk_text from start/end offsets.
 
-    - Assumes end_char is an EXCLUSIVE offset (we normalize earlier if needed).
-    - We do NOT override LLM-generated prev_context/next_context.
+    We do NOT override LLM-generated prev_context/next_context.
     """
     n = len(letter_text)
     fixed: List[Dict[str, Any]] = []
-    for ch in chunks:
+    for i, ch in enumerate(chunks):
         if not isinstance(ch, dict):
             continue
 
@@ -191,7 +129,7 @@ def reconstruct_chunk_text(
         if not isinstance(text, str) or not text.strip():
             s = ch.get("start_char")
             e = ch.get("end_char")
-            if isinstance(s, int) and isinstance(e, int) and 0 <= s <= e <= n:
+            if isinstance(s, int) and isinstance(e, int) and 0 <= s < e <= n:
                 ch["chunk_text"] = letter_text[s:e]
             else:
                 ch["chunk_text"] = ""
@@ -203,7 +141,6 @@ def reconstruct_chunk_text(
 
         fixed.append(ch)
     return fixed
-
 
 
 def repair_chunks_locally(
@@ -231,16 +168,6 @@ def repair_chunks_locally(
         return chunks
 
     # 1) Ensure chunk_text + counts exist
-    chunks = reconstruct_chunk_text(letter_text, chunks)
-
-
-    # Detect and normalize "inclusive end_char" if the LLM produced it.
-    inclusive_end = detect_inclusive_end_char(chunks)
-    if inclusive_end:
-        print(f"[WARN] Detected inclusive end_char offsets for year={year}. Normalizing to exclusive offsets.")
-        chunks = normalize_end_char_exclusive(chunks, n, inclusive_end_char=True)
-
-    # Reconstruct again after any normalization
     chunks = reconstruct_chunk_text(letter_text, chunks)
 
     # 2) Normalize basics & compute deterministic position_in_letter
@@ -276,105 +203,123 @@ def repair_chunks_locally(
     # 3) Sort by start_char to ensure correct document order
     chunks.sort(key=lambda x: (x.get("start_char", 10**18), x.get("end_char", 10**18)))
 
-    # 4) Merge tiny / fragment chunks (headings, stubs, mid-word continuations)
-    # Heuristics:
-    # - too few words OR too few chars
-    # - starts mid-token (previous char is alnum and current char is alnum)
-    # - starts with lowercase alpha (often continuation)
+    
+    # 3.5) Detect and normalize inclusive end_char (some LLM outputs treat end_char as inclusive).
+    # We normalize everything to exclusive offsets [start_char, end_char).
+    deltas = []
+    for j in range(len(chunks) - 1):
+        a = chunks[j].get("end_char")
+        b = chunks[j + 1].get("start_char")
+        if isinstance(a, int) and isinstance(b, int):
+            deltas.append(b - a)
+
+    if deltas:
+        # If a meaningful fraction of boundaries look like "next_start == prev_end + 1",
+        # treat end_char as inclusive and shift to exclusive.
+        frac_plus_one = sum(1 for d in deltas if d == 1) / max(1, len(deltas))
+        if frac_plus_one >= 0.40:
+            for c in chunks:
+                e = c.get("end_char")
+                if isinstance(e, int):
+                    c["end_char"] = min(e + 1, n)
+
+    # 3.6) Boundary smoothing pass
+    # Fix two common failures:
+    #   (a) current chunk starts mid-word (prev char and current char are both alnum)
+    #   (b) current chunk starts mid-sentence (first alpha is lowercase) and prev chunk does not end a sentence.
     #
-    # We prefer merging within the same section_type (or section key) to preserve structure.
-    def _section_key_for_merge(c: Dict[str, Any]) -> tuple:
-        return (
-            (c.get("section_type") or "other"),
-            (c.get("section_title") or "").strip(),
-            (c.get("subsection") or "").strip(),
+    # We repair by moving the boundary backward (or to nearest sentence break) and adjusting both
+    # prev.end_char and cur.start_char so spans remain continuous and non-overlapping.
+    SENT_END = {".", "!", "?"}
+
+    def _last_nonspace_char(idx: int) -> str | None:
+        k = max(0, min(idx, n)) - 1
+        while k >= 0 and letter_text[k].isspace():
+            k -= 1
+        return letter_text[k] if k >= 0 else None
+
+    def _first_alpha_char(sidx: int, eidx: int) -> str | None:
+        k = max(0, min(sidx, n))
+        e = max(0, min(eidx, n))
+        while k < e and not letter_text[k].isalpha():
+            k += 1
+        return letter_text[k] if k < e else None
+
+    def _find_sentence_break_before(pos: int, window: int = 600) -> int | None:
+        left = max(0, pos - window)
+        snippet = letter_text[left:pos]
+        # Find the LAST occurrence of sentence-ending punctuation followed by whitespace/newline.
+        # Boundary should be after the whitespace.
+        matches = list(re.finditer(r'[.!?][\s\n\r\t]+', snippet))
+        if not matches:
+            return None
+        m = matches[-1]
+        return left + m.end()
+
+    for j in range(1, len(chunks)):
+        prev = chunks[j - 1]
+        cur = chunks[j]
+        ps = prev.get("start_char")
+        pe = prev.get("end_char")
+        cs = cur.get("start_char")
+        ce = cur.get("end_char")
+        if not (isinstance(pe, int) and isinstance(cs, int) and isinstance(ce, int)):
+            continue
+        if not (0 <= cs <= n and 0 <= pe <= n):
+            continue
+
+        # A) Mid-word boundary
+        if cs > 0 and letter_text[cs - 1].isalnum() and letter_text[cs].isalnum():
+            boundary = cs
+            while boundary > 0 and letter_text[boundary - 1].isalnum() and letter_text[boundary].isalnum():
+                boundary -= 1
+            if boundary != cs:
+                prev["end_char"] = boundary
+                cur["start_char"] = boundary
+                prev["chunk_text"] = ""
+                cur["chunk_text"] = ""
+                continue
+
+        # B) Lowercase start (likely sentence continuation)
+        first_alpha = _first_alpha_char(cs, min(cs + 200, n))
+        if first_alpha and first_alpha.islower():
+            last_prev = _last_nonspace_char(pe)
+            if last_prev not in SENT_END:
+                sb = _find_sentence_break_before(cs)
+                if sb is not None and 0 <= sb <= cs:
+                    prev["end_char"] = sb
+                    cur["start_char"] = sb
+                    prev["chunk_text"] = ""
+                    cur["chunk_text"] = ""
+
+    # Reconstruct chunk_text and counts after boundary edits
+    chunks = reconstruct_chunk_text(letter_text, chunks)
+# 4) Merge tiny chunks (typically headings / stubs)
+    merged: List[Dict[str, Any]] = []
+    i = 0
+    while i < len(chunks):
+        cur = chunks[i]
+
+        # Decide if cur is merge-candidate
+        cur_words = cur.get("word_count", 0) or 0
+        cur_type = cur.get("chunk_type")
+        cur_section = cur.get("section_type")
+
+        can_merge = (
+            isinstance(cur_words, int)
+            and cur_words < min_words_to_keep
+            and cur_type != "financial_table"  # don't merge tables by default
         )
 
-    def _starts_mid_word(c: Dict[str, Any]) -> bool:
-        s = c.get("start_char")
-        if not isinstance(s, int) or s <= 0 or s >= n:
-            return False
-        prev_ch = letter_text[s - 1]
-        cur_ch = letter_text[s]
-        # mid-token if both are alnum and we didn't break on whitespace
-        return prev_ch.isalnum() and cur_ch.isalnum() and not prev_ch.isspace()
+        # Merge into next chunk if same section_type
+        if can_merge and i + 1 < len(chunks):
+            nxt = chunks[i + 1]
+            if nxt.get("section_type") == cur_section:
+                # Prefer offset-based merge to preserve exact boundaries.
+                # We will widen offsets and reconstruct chunk_text later.
+                nxt["chunk_text"] = ""
 
-    def _starts_with_lowercase(c: Dict[str, Any]) -> bool:
-        txt = (c.get("chunk_text") or "").lstrip()
-        for ch in txt[:10]:
-            if ch.isalpha():
-                return ch.islower()
-        return False
-
-    def _is_merge_candidate(c: Dict[str, Any]) -> bool:
-        if c.get("chunk_type") == "financial_table":
-            # Tables can be short (e.g., headers). Only merge if clearly broken.
-            return _starts_mid_word(c)
-        words = int(c.get("word_count") or 0)
-        chars = int(c.get("char_count") or 0)
-        if _starts_mid_word(c):
-            return True
-        if words < min_words_to_keep or chars < 300:
-            return True
-        if _starts_with_lowercase(c) and words < (min_words_to_keep + 20):
-            return True
-        return False
-
-    merged: List[Dict[str, Any]] = []
-    for cur in chunks:
-        if not merged:
-            merged.append(cur)
-            continue
-
-        if not _is_merge_candidate(cur):
-            merged.append(cur)
-            continue
-
-        prev = merged[-1]
-        cur_key = _section_key_for_merge(cur)
-        prev_key = _section_key_for_merge(prev)
-
-        # Choose merge direction.
-        # Prefer merging into previous if same section key; else into next (handled later),
-        # but we don't have next here in a single pass. So:
-        # - If same section key: merge into prev.
-        # - Else: mark for forward-merge by attaching a flag and keep it for a second pass.
-        if prev_key == cur_key:
-            prev_txt = (prev.get("chunk_text") or "").rstrip()
-            cur_txt = (cur.get("chunk_text") or "").lstrip()
-            joiner = "\n" if prev_txt and cur_txt else ""
-            prev["chunk_text"] = (prev_txt + joiner + cur_txt).strip()
-
-            # Expand offsets
-            s1, e1 = prev.get("start_char"), prev.get("end_char")
-            s2, e2 = cur.get("start_char"), cur.get("end_char")
-            if isinstance(s1, int) and isinstance(s2, int):
-                prev["start_char"] = min(s1, s2)
-            if isinstance(e1, int) and isinstance(e2, int):
-                prev["end_char"] = max(e1, e2)
-        else:
-            cur["_merge_forward"] = True
-            merged.append(cur)
-
-    # Second pass: forward-merge any remaining fragments into the next chunk (prefer same section key)
-    chunks2: List[Dict[str, Any]] = []
-    i = 0
-    while i < len(merged):
-        cur = merged[i]
-        if cur.get("_merge_forward") and i + 1 < len(merged):
-            nxt = merged[i + 1]
-            cur_key = _section_key_for_merge(cur)
-            nxt_key = _section_key_for_merge(nxt)
-
-            # If different section, still merge if it is a clear mid-word fragment.
-            allow_cross_section = _starts_mid_word(cur)
-
-            if nxt_key == cur_key or allow_cross_section:
-                cur_txt = (cur.get("chunk_text") or "").rstrip()
-                nxt_txt = (nxt.get("chunk_text") or "").lstrip()
-                joiner = "\n" if cur_txt and nxt_txt else ""
-                nxt["chunk_text"] = (cur_txt + joiner + nxt_txt).strip()
-
+                # Expand offsets to cover both if available
                 s1, e1 = cur.get("start_char"), cur.get("end_char")
                 s2, e2 = nxt.get("start_char"), nxt.get("end_char")
                 if isinstance(s1, int) and isinstance(s2, int):
@@ -382,18 +327,22 @@ def repair_chunks_locally(
                 if isinstance(e1, int) and isinstance(e2, int):
                     nxt["end_char"] = max(e1, e2)
 
-                i += 1
-                continue  # skip cur
-            else:
-                cur.pop("_merge_forward", None)
+                # Keep NEXT chunk's metadata as the surviving chunk.
+                # We intentionally do NOT try to recompute LLM prev/next_context.
+                # Counts will be recomputed later.
 
-        cur.pop("_merge_forward", None)
-        chunks2.append(cur)
+                i += 1
+                continue
+
+        merged.append(cur)
         i += 1
 
-    chunks = chunks2
+    chunks = merged
 
-    # 5) Recompute counts + deterministic positions after merges
+        # Reconstruct chunk_text after any offset-based merges
+    chunks = reconstruct_chunk_text(letter_text, chunks)
+
+# 5) Recompute counts + deterministic positions after merges
     for c in chunks:
         txt = c.get("chunk_text") or ""
         c["char_count"] = len(txt)

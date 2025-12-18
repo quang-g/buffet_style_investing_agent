@@ -20,11 +20,20 @@ Directory layout (relative to this file):
 
 Usage:
 
-    # Process one year
-    python chunk_with_llm.py 2008
+    # One year (same as before)
+    python chunking_with_llm_gpt_batch.py 2009
 
-    # Optionally override model via env:
-    #   export OPENAI_MODEL=gpt-4.1
+    # All available years found in data/text_extracted_letters
+    python chunking_with_llm_gpt_batch.py --years all
+
+    # Range
+    python chunking_with_llm_gpt_batch.py --years 1977-2024
+
+    # Comma list
+    python chunking_with_llm_gpt_batch.py --years 1983,1996,2009,2014
+
+    # Re-run and overwrite existing JSONL
+    python chunking_with_llm_gpt_batch.py --years all --overwrite
 """
 
 from __future__ import annotations
@@ -659,25 +668,63 @@ def write_chunks_jsonl(
 
 # ------------------------- CLI -------------------------
 
+import argparse
+from datetime import datetime
 
-def main(argv: List[str]) -> None:
-    if len(argv) != 2:
-        print("Usage: python chunk_with_llm.py <year>")
-        sys.exit(1)
 
-    try:
-        year = int(argv[1])
-    except ValueError:
-        print("Year must be an integer, e.g. 2008")
-        sys.exit(1)
+def list_available_years() -> List[int]:
+    """Scan TEXT_DIR for files like '<year>_cleaned.txt' and return sorted years."""
+    years: List[int] = []
+    for p in TEXT_DIR.glob("*_cleaned.txt"):
+        m = re.match(r"^(\d{4})_cleaned\.txt$", p.name)
+        if m:
+            years.append(int(m.group(1)))
+    return sorted(set(years))
 
-    model = os.getenv("OPENAI_MODEL", DEFAULT_MODEL)
 
-    print(f"[INFO] Chunking letter for year {year} using model {model}...")
+def parse_years_arg(years_arg: str) -> List[int]:
+    """
+    Parse years specification. Supported forms:
+      - "1977"                    (single year)
+      - "1977,1978,1980"          (comma list)
+      - "1977-2024"               (inclusive range)
+      - "all"                     (all available in TEXT_DIR)
+    """
+    years_arg = (years_arg or "").strip().lower()
+    if years_arg == "all":
+        return list_available_years()
+
+    if "-" in years_arg and "," not in years_arg:
+        a, b = years_arg.split("-", 1)
+        start = int(a.strip())
+        end = int(b.strip())
+        if start > end:
+            start, end = end, start
+        return list(range(start, end + 1))
+
+    # comma list or single
+    parts = [p.strip() for p in years_arg.split(",") if p.strip()]
+    years: List[int] = [int(p) for p in parts]
+    return sorted(set(years))
+
+
+def output_path_for_year(year: int) -> Path:
+    return OUT_DIR / f"{year}_chunks_llm.jsonl"
+
+
+def process_one_year(*, year: int, model: str, overwrite: bool = False) -> Path:
+    """Run chunking for a single year and write JSONL. Returns output path."""
+    source_file_name = f"{year}_cleaned.txt"
+    out_path = output_path_for_year(year)
+
+    if out_path.exists() and not overwrite:
+        print(f"[SKIP] {year}: output already exists -> {out_path.name} (use --overwrite to re-run)")
+        return out_path
 
     chunking_spec = load_chunking_strategy()
     letter_text = load_letter_text(year)
-    source_file_name = f"{year}_cleaned.txt"
+
+    print(f"[INFO] Year={year}  Model={model}  Input={source_file_name}")
 
     # 1) Ask LLM to chunk + attach metadata
     chunks_raw = call_llm_for_chunks(
@@ -698,7 +745,91 @@ def main(argv: List[str]) -> None:
 
     # 3) Write JSONL
     out_path = write_chunks_jsonl(chunks, year)
-    print(f"[OK] Wrote {len(chunks)} chunks to {out_path}")
+    print(f"[OK] {year}: wrote {len(chunks)} chunks -> {out_path}")
+    return out_path
+
+
+def main(argv: List[str]) -> None:
+    """
+    Examples:
+      # One year
+      python chunking_with_llm_gpt.py 2009
+
+      # Range
+      python chunking_with_llm_gpt.py --years 1977-2024
+
+      # All years found in data/text_extracted_letters
+      python chunking_with_llm_gpt.py --years all
+
+      # Comma list + overwrite
+      python chunking_with_llm_gpt.py --years 1983,1996,2009,2014 --overwrite
+    """
+    parser = argparse.ArgumentParser(
+        description="Chunk Berkshire letters (cleaned text) into JSONL chunks using an OpenAI LLM, with deterministic local repair."
+    )
+    parser.add_argument(
+        "year",
+        nargs="?",
+        help="Optional single year (e.g., 2009). If omitted, use --years.",
+    )
+    parser.add_argument(
+        "--years",
+        default=None,
+        help='Years spec: "all", "1977-2024", or "1977,1978,1980". If provided, overrides positional year.',
+    )
+    parser.add_argument(
+        "--overwrite",
+        action="store_true",
+        help="Re-run even if output JSONL already exists.",
+    )
+    args = parser.parse_args(argv[1:])
+
+    model = os.getenv("OPENAI_MODEL", DEFAULT_MODEL)
+
+    # Determine target years
+    if args.years:
+        years = parse_years_arg(args.years)
+    elif args.year:
+        years = [int(args.year)]
+    else:
+        parser.print_usage()
+        print("Error: provide either <year> or --years.")
+        sys.exit(1)
+
+    if not years:
+        print("[ERROR] No years to process. Check your --years value or your TEXT_DIR contents.")
+        sys.exit(1)
+
+    available = set(list_available_years())
+    missing = [y for y in years if y not in available]
+    if missing:
+        print(f"[WARN] Missing cleaned text files for years: {missing}")
+        years = [y for y in years if y in available]
+        if not years:
+            print("[ERROR] None of the requested years exist in TEXT_DIR.")
+            sys.exit(1)
+
+    print(f"[INFO] TEXT_DIR={TEXT_DIR}")
+    print(f"[INFO] OUT_DIR={OUT_DIR}")
+    print(f"[INFO] Years to process: {years}")
+    print(f"[INFO] Overwrite={args.overwrite}")
+    print(f"[INFO] Started at {datetime.now().isoformat(timespec='seconds')}")
+
+    ok = 0
+    failed: List[int] = []
+
+    for y in years:
+        try:
+            process_one_year(year=y, model=model, overwrite=args.overwrite)
+            ok += 1
+        except Exception as e:
+            failed.append(y)
+            print(f"[ERROR] {y}: {type(e).__name__}: {e}")
+
+    print(f"[DONE] Success={ok}/{len(years)}  Failed={len(failed)}")
+    if failed:
+        print(f"[DONE] Failed years: {failed}")
+        sys.exit(2)
 
 
 if __name__ == "__main__":

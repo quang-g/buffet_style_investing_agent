@@ -1,0 +1,750 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "1983_management_philosophy_001",
+      "year": 1983,
+      "source_file": "1983_cleaned.txt",
+      "section_type": "management_philosophy",
+      "section_title": "Manager-Owner Relationship Principles",
+      "subsection": null,
+      "parent_section": null,
+      "start_char": 38,
+      "end_char": 3343,
+      "chunk_type": "philosophy",
+      "has_financials": false,
+      "has_table": false,
+      "has_quote": true,
+      "contains_principle": true,
+      "contains_example": false,
+      "contains_comparison": false,
+      "contextual_summary": "This chunk outlines Berkshire Hathaway's core business principles emphasizing the partnership mindset between management and shareholders, long-term intrinsic value growth, conservative capital allocation, and a preference for owning well-managed, simple businesses. Buffett stresses candor, avoidance of over-leverage, and the importance of shareholder quality over stock price manipulation.",
+      "prev_context": "",
+      "next_context": "The letter transitions to a narrative story about the acquisition of Nebraska Furniture Mart and its founder, Rose Blumkin.",
+      "topics": [
+        "owner-partners",
+        "capital allocation",
+        "business philosophy",
+        "shareholder relations",
+        "management principles"
+      ],
+      "companies_mentioned": [],
+      "people_mentioned": [
+        "Charlie Munger"
+      ],
+      "metrics_discussed": [
+        "intrinsic business value",
+        "book value"
+      ],
+      "industries": [],
+      "principle_category": "management_quality",
+      "principle_statement": "Management should act as owner-partners, focusing on long-term intrinsic business value growth, conservative capital allocation, and candid communication with shareholders.",
+      "retrieval_priority": "high",
+      "abstraction_level": "high",
+      "time_sensitivity": "low",
+      "is_complete_thought": true,
+      "needs_context": false
+    },
+    {
+      "chunk_id": "1983_narrative_story_002",
+      "year": 1983,
+      "source_file": "1983_cleaned.txt",
+      "section_type": "acquisitions",
+      "section_title": "Nebraska Furniture Mart",
+      "subsection": null,
+      "parent_section": null,
+      "start_char": 3343,
+      "end_char": 5073,
+      "chunk_type": "narrative_story",
+      "has_financials": true,
+      "has_table": false,
+      "has_quote": true,
+      "contains_principle": false,
+      "contains_example": true,
+      "contains_comparison": false,
+      "contextual_summary": "This chunk narrates the acquisition of Nebraska Furniture Mart, highlighting founder Rose Blumkin's remarkable entrepreneurial journey from immigrant to retail powerhouse. Buffett praises the Blumkin family's exceptional management, operational efficiency, and customer value focus, illustrating Berkshire's preference for businesses with strong leadership and competitive advantages.",
+      "prev_context": "The letter outlines Berkshire's management philosophy and capital allocation principles.",
+      "next_context": "The letter moves to a performance overview discussing Berkshire's book value growth and intrinsic business value.",
+      "topics": [
+        "acquisition",
+        "entrepreneurship",
+        "retail business",
+        "management quality",
+        "competitive advantage"
+      ],
+      "companies_mentioned": [
+        "Nebraska Furniture Mart"
+      ],
+      "people_mentioned": [
+        "Rose Blumkin",
+        "Louie Blumkin"
+      ],
+      "metrics_discussed": [
+        "sales volume"
+      ],
+      "industries": [
+        "retail",
+        "furniture"
+      ],
+      "principle_category": null,
+      "principle_statement": null,
+      "retrieval_priority": "high",
+      "abstraction_level": "medium",
+      "time_sensitivity": "high",
+      "is_complete_thought": true,
+      "needs_context": false
+    },
+    {
+      "chunk_id": "1983_performance_overview_003",
+      "year": 1983,
+      "source_file": "1983_cleaned.txt",
+      "section_type": "performance_overview",
+      "section_title": "Corporate Performance",
+      "subsection": null,
+      "parent_section": null,
+      "start_char": 5073,
+      "end_char": 7273,
+      "chunk_type": "philosophy",
+      "has_financials": true,
+      "has_table": false,
+      "has_quote": true,
+      "contains_principle": true,
+      "contains_example": true,
+      "contains_comparison": true,
+      "contextual_summary": "This chunk explains Berkshire's use of book value as a conservative proxy for intrinsic business value, contrasting accounting book value with economic intrinsic value. Buffett illustrates how intrinsic value exceeds book value due to market valuation of stocks and economic goodwill, emphasizing the importance of understanding these distinctions for investment decisions.",
+      "prev_context": "The letter narrates the acquisition and management of Nebraska Furniture Mart.",
+      "next_context": "The letter presents a detailed financial table showing sources of Berkshire's reported earnings for 1983 and 1982.",
+      "topics": [
+        "book value",
+        "intrinsic business value",
+        "accounting vs economic value",
+        "goodwill",
+        "investment philosophy"
+      ],
+      "companies_mentioned": [
+        "Berkshire Hathaway"
+      ],
+      "people_mentioned": [
+        "Goethe"
+      ],
+      "metrics_discussed": [
+        "book value",
+        "intrinsic business value"
+      ],
+      "industries": [],
+      "principle_category": "valuation",
+      "principle_statement": "Book value is a conservative accounting measure, but intrinsic business value, which includes economic goodwill and market valuations, better reflects a company's true worth.",
+      "retrieval_priority": "high",
+      "abstraction_level": "high",
+      "time_sensitivity": "low",
+      "is_complete_thought": true,
+      "needs_context": false
+    },
+    {
+      "chunk_id": "1983_financial_table_004",
+      "year": 1983,
+      "source_file": "1983_cleaned.txt",
+      "section_type": "performance_overview",
+      "section_title": "Sources of Reported Earnings",
+      "subsection": null,
+      "parent_section": null,
+      "start_char": 7273,
+      "end_char": 8193,
+      "chunk_type": "financial_table",
+      "has_financials": true,
+      "has_table": true,
+      "has_quote": false,
+      "contains_principle": false,
+      "contains_example": false,
+      "contains_comparison": true,
+      "contextual_summary": "This chunk provides a detailed financial table showing Berkshire's sources of reported earnings for 1983 and 1982, including operating earnings by business segment, special items like the GEICO distribution, and total earnings. It highlights ownership changes affecting comparability and the impact of unusual transactions on reported results.",
+      "prev_context": "The letter explains the distinction between book value and intrinsic business value.",
+      "next_context": "The letter discusses Wesco's management changes and the significance of the GEICO special distribution.",
+      "topics": [
+        "earnings",
+        "financial performance",
+        "insurance",
+        "investment income",
+        "ownership changes"
+      ],
+      "companies_mentioned": [
+        "Berkshire Hathaway",
+        "Blue Chip Stamps",
+        "Wesco",
+        "GEICO"
+      ],
+      "people_mentioned": [
+        "Charlie Munger",
+        "Louie Vincenti"
+      ],
+      "metrics_discussed": [
+        "operating earnings",
+        "net earnings",
+        "combined ratio"
+      ],
+      "industries": [
+        "insurance",
+        "retail",
+        "textiles"
+      ],
+      "principle_category": null,
+      "principle_statement": null,
+      "retrieval_priority": "medium",
+      "abstraction_level": "low",
+      "time_sensitivity": "high",
+      "is_complete_thought": true,
+      "needs_context": false
+    },
+    {
+      "chunk_id": "1983_business_analysis_005",
+      "year": 1983,
+      "source_file": "1983_cleaned.txt",
+      "section_type": "operating_businesses",
+      "section_title": "Wesco and GEICO",
+      "subsection": null,
+      "parent_section": null,
+      "start_char": 8193,
+      "end_char": 8650,
+      "chunk_type": "business_analysis",
+      "has_financials": false,
+      "has_table": false,
+      "has_quote": false,
+      "contains_principle": false,
+      "contains_example": true,
+      "contains_comparison": false,
+      "contextual_summary": "This chunk discusses Wesco's management transition with Charlie Munger replacing Louie Vincenti as Chairman due to health reasons, praising Louie's managerial excellence. It also explains the special GEICO stock distribution treated as a dividend for tax efficiency, highlighting the strategic handling of investment income.",
+      "prev_context": "The letter presents a financial table of Berkshire's earnings sources.",
+      "next_context": "The letter elaborates on the accounting treatment and economic significance of the GEICO distribution and retained earnings.",
+      "topics": [
+        "management transition",
+        "tax efficiency",
+        "insurance investment",
+        "corporate governance"
+      ],
+      "companies_mentioned": [
+        "Wesco",
+        "GEICO"
+      ],
+      "people_mentioned": [
+        "Charlie Munger",
+        "Louie Vincenti"
+      ],
+      "metrics_discussed": [
+        "dividends",
+        "capital gains"
+      ],
+      "industries": [
+        "insurance"
+      ],
+      "principle_category": null,
+      "principle_statement": null,
+      "retrieval_priority": "medium",
+      "abstraction_level": "medium",
+      "time_sensitivity": "high",
+      "is_complete_thought": true,
+      "needs_context": true
+    },
+    {
+      "chunk_id": "1983_business_analysis_006",
+      "year": 1983,
+      "source_file": "1983_cleaned.txt",
+      "section_type": "performance_overview",
+      "section_title": "Investment Holdings and Dividends",
+      "subsection": null,
+      "parent_section": null,
+      "start_char": 8650,
+      "end_char": 9330,
+      "chunk_type": "financial_table",
+      "has_financials": true,
+      "has_table": true,
+      "has_quote": false,
+      "contains_principle": false,
+      "contains_example": false,
+      "contains_comparison": false,
+      "contextual_summary": "This chunk provides a detailed table of Berkshire's 1983 year-end net holdings in marketable equities, showing cost and market values for major stock positions. It also estimates expected dividends and retained earnings for 1984, illustrating Berkshire's significant equity portfolio and its contribution to intrinsic value growth.",
+      "prev_context": "The letter discusses Wesco's management and the GEICO special distribution.",
+      "next_context": "The letter shifts focus to operating businesses controlled by Berkshire, starting with Buffalo Evening News.",
+      "topics": [
+        "investment portfolio",
+        "marketable securities",
+        "dividends",
+        "retained earnings"
+      ],
+      "companies_mentioned": [
+        "Affiliated Publications, Inc.",
+        "General Foods Corporation",
+        "GEICO Corporation",
+        "Handy & Harman",
+        "Interpublic Group of Companies, Inc.",
+        "Media General",
+        "Ogilvy & Mather International",
+        "R. J. Reynolds Industries, Inc.",
+        "Time, Inc.",
+        "The Washington Post Company",
+        "Wesco"
+      ],
+      "people_mentioned": [],
+      "metrics_discussed": [
+        "cost",
+        "market value",
+        "dividends",
+        "retained earnings"
+      ],
+      "industries": [
+        "media",
+        "insurance",
+        "manufacturing",
+        "advertising"
+      ],
+      "principle_category": null,
+      "principle_statement": null,
+      "retrieval_priority": "medium",
+      "abstraction_level": "low",
+      "time_sensitivity": "high",
+      "is_complete_thought": true,
+      "needs_context": true
+    },
+    {
+      "chunk_id": "1983_business_analysis_007",
+      "year": 1983,
+      "source_file": "1983_cleaned.txt",
+      "section_type": "operating_businesses",
+      "section_title": "Buffalo Evening News",
+      "subsection": null,
+      "parent_section": null,
+      "start_char": 9330,
+      "end_char": 11400,
+      "chunk_type": "business_analysis",
+      "has_financials": true,
+      "has_table": true,
+      "has_quote": false,
+      "contains_principle": true,
+      "contains_example": true,
+      "contains_comparison": true,
+      "contextual_summary": "This chunk analyzes the Buffalo Evening News' strong market penetration and editorial quality despite a challenging local economy. Buffett highlights the paper's leading penetration ratios nationally, the importance of news content volume, and the impact of stable population and editorial integrity on its franchise strength.",
+      "prev_context": "The letter details Berkshire's investment holdings and expected dividends.",
+      "next_context": "The letter transitions to a business analysis of Sees Candy Shops, focusing on financial results and operational challenges.",
+      "topics": [
+        "newspaper business",
+        "market penetration",
+        "editorial quality",
+        "local economy",
+        "franchise strength"
+      ],
+      "companies_mentioned": [
+        "Buffalo Evening News"
+      ],
+      "people_mentioned": [
+        "Alfred Kirchhofer",
+        "Murray Light",
+        "Stan Lipsey",
+        "Henry Urban"
+      ],
+      "metrics_discussed": [
+        "profit margin",
+        "circulation",
+        "penetration ratio",
+        "news hole percentage",
+        "advertising linage"
+      ],
+      "industries": [
+        "newspapers",
+        "media"
+      ],
+      "principle_category": "business_quality",
+      "principle_statement": "A strong franchise is built on high market penetration, editorial integrity, and delivering substantial news content, even in challenging economic environments.",
+      "retrieval_priority": "high",
+      "abstraction_level": "medium",
+      "time_sensitivity": "high",
+      "is_complete_thought": true,
+      "needs_context": true
+    },
+    {
+      "chunk_id": "1983_business_analysis_008",
+      "year": 1983,
+      "source_file": "1983_cleaned.txt",
+      "section_type": "operating_businesses",
+      "section_title": "Sees Candy Shops",
+      "subsection": null,
+      "parent_section": null,
+      "start_char": 11400,
+      "end_char": 13000,
+      "chunk_type": "business_analysis",
+      "has_financials": true,
+      "has_table": true,
+      "has_quote": true,
+      "contains_principle": true,
+      "contains_example": true,
+      "contains_comparison": true,
+      "contextual_summary": "This chunk reviews Sees Candy Shops' exceptional financial performance and consumer franchise, noting recent cost control challenges and flat volume trends. Buffett emphasizes product quality, customer service, and management strength, while highlighting the importance of reversing cost trends to maintain competitive advantage.",
+      "prev_context": "The letter analyzes Buffalo Evening News' market position and operational strengths.",
+      "next_context": "The letter shifts to insurance operations, summarizing poor underwriting results and contrasting with GEICO's strong performance.",
+      "topics": [
+        "consumer franchise",
+        "cost control",
+        "volume trends",
+        "product quality",
+        "management"
+      ],
+      "companies_mentioned": [
+        "Sees Candy Shops"
+      ],
+      "people_mentioned": [
+        "Chuck Huggins"
+      ],
+      "metrics_discussed": [
+        "operating profits",
+        "sales revenues",
+        "pounds sold",
+        "number of stores"
+      ],
+      "industries": [
+        "retail",
+        "confectionery"
+      ],
+      "principle_category": "business_quality",
+      "principle_statement": "Sustained competitive advantage requires exceptional product quality, customer service, and disciplined cost control, even amid volume challenges.",
+      "retrieval_priority": "high",
+      "abstraction_level": "medium",
+      "time_sensitivity": "high",
+      "is_complete_thought": true,
+      "needs_context": true
+    },
+    {
+      "chunk_id": "1983_insurance_operations_009",
+      "year": 1983,
+      "source_file": "1983_cleaned.txt",
+      "section_type": "insurance_operations",
+      "section_title": "Insurance - Controlled Operations",
+      "subsection": null,
+      "parent_section": null,
+      "start_char": 13000,
+      "end_char": 14150,
+      "chunk_type": "business_analysis",
+      "has_financials": true,
+      "has_table": true,
+      "has_quote": true,
+      "contains_principle": true,
+      "contains_example": true,
+      "contains_comparison": true,
+      "contextual_summary": "This chunk summarizes Berkshire's poor underwriting results in controlled insurance operations in 1983, contrasting with GEICO's strong performance. Buffett candidly admits past managerial mistakes and discusses industry-wide challenges, emphasizing the long lead-time nature of insurance underwriting and the importance of financial strength in reinsurance.",
+      "prev_context": "The letter reviews Sees Candy Shops' financial and operational status.",
+      "next_context": "The letter details GEICO's superior underwriting discipline and management excellence.",
+      "topics": [
+        "insurance underwriting",
+        "combined ratio",
+        "management mistakes",
+        "reinsurance",
+        "financial strength"
+      ],
+      "companies_mentioned": [
+        "National Indemnity Company",
+        "National Fire and Marine Insurance Company",
+        "Continental Divide Insurance",
+        "GEICO"
+      ],
+      "people_mentioned": [
+        "Mike Goldberg",
+        "Roland Miller",
+        "Tom Rowley",
+        "Don Wurster"
+      ],
+      "metrics_discussed": [
+        "combined ratio",
+        "premium volume"
+      ],
+      "industries": [
+        "insurance",
+        "reinsurance"
+      ],
+      "principle_category": "risk_management",
+      "principle_statement": "Insurance underwriting requires long-term discipline and financial strength, with recognition that past decisions have delayed effects on results.",
+      "retrieval_priority": "high",
+      "abstraction_level": "medium",
+      "time_sensitivity": "high",
+      "is_complete_thought": true,
+      "needs_context": true
+    },
+    {
+      "chunk_id": "1983_insurance_operations_010",
+      "year": 1983,
+      "source_file": "1983_cleaned.txt",
+      "section_type": "insurance_operations",
+      "section_title": "Insurance - GEICO",
+      "subsection": null,
+      "parent_section": null,
+      "start_char": 14150,
+      "end_char": 14650,
+      "chunk_type": "business_analysis",
+      "has_financials": true,
+      "has_table": false,
+      "has_quote": false,
+      "contains_principle": true,
+      "contains_example": true,
+      "contains_comparison": true,
+      "contextual_summary": "This chunk highlights GEICO's outstanding underwriting and investment performance in 1983, significantly outperforming the industry. Buffett credits exceptional management discipline and investment skill, underscoring GEICO's importance as a major contributor to Berkshire's insurance business volume and profitability.",
+      "prev_context": "The letter discusses poor underwriting results in Berkshire's controlled insurance operations.",
+      "next_context": "The letter transitions to a management philosophy discussion on Berkshire's stock split policy and shareholder quality.",
+      "topics": [
+        "insurance underwriting",
+        "investment management",
+        "business performance",
+        "management discipline"
+      ],
+      "companies_mentioned": [
+        "GEICO"
+      ],
+      "people_mentioned": [
+        "Jack Byrne",
+        "Bill Snyder",
+        "Lou Simpson"
+      ],
+      "metrics_discussed": [
+        "combined ratio",
+        "premium volume"
+      ],
+      "industries": [
+        "insurance"
+      ],
+      "principle_category": "management_quality",
+      "principle_statement": "Exceptional underwriting discipline and investment management are key to superior insurance business performance.",
+      "retrieval_priority": "high",
+      "abstraction_level": "medium",
+      "time_sensitivity": "high",
+      "is_complete_thought": true,
+      "needs_context": true
+    },
+    {
+      "chunk_id": "1983_management_philosophy_011",
+      "year": 1983,
+      "source_file": "1983_cleaned.txt",
+      "section_type": "management_philosophy",
+      "section_title": "Stock Splits and Stock Activity",
+      "subsection": null,
+      "parent_section": null,
+      "start_char": 14650,
+      "end_char": 17200,
+      "chunk_type": "philosophy",
+      "has_financials": true,
+      "has_table": false,
+      "has_quote": true,
+      "contains_principle": true,
+      "contains_example": true,
+      "contains_comparison": true,
+      "contextual_summary": "This chunk explains Berkshire's deliberate choice not to split its stock, emphasizing the importance of attracting and maintaining high-quality, long-term shareholders focused on intrinsic business value rather than stock price. Buffett critiques hyperactive markets and the costs of frequent trading, arguing that low turnover and rational pricing benefit owners.",
+      "prev_context": "The letter highlights GEICO's superior insurance performance and management.",
+      "next_context": "The letter outlines Berkshire's acquisition criteria and approach to potential sellers.",
+      "topics": [
+        "stock splits",
+        "shareholder quality",
+        "market activity",
+        "capital allocation",
+        "investment philosophy"
+      ],
+      "companies_mentioned": [
+        "Berkshire Hathaway"
+      ],
+      "people_mentioned": [
+        "Mrs. Astor",
+        "Adam Smith"
+      ],
+      "metrics_discussed": [
+        "stock turnover",
+        "bid-ask spread",
+        "market value"
+      ],
+      "industries": [
+        "stock market",
+        "investment management"
+      ],
+      "principle_category": "capital_allocation",
+      "principle_statement": "Maintaining a shareholder base focused on intrinsic value and minimizing stock turnover reduces frictional costs and supports rational market pricing.",
+      "retrieval_priority": "high",
+      "abstraction_level": "high",
+      "time_sensitivity": "low",
+      "is_complete_thought": true,
+      "needs_context": true
+    },
+    {
+      "chunk_id": "1983_administrative_012",
+      "year": 1983,
+      "source_file": "1983_cleaned.txt",
+      "section_type": "acquisitions",
+      "section_title": "Acquisition Criteria and Invitation",
+      "subsection": null,
+      "parent_section": null,
+      "start_char": 17200,
+      "end_char": 17480,
+      "chunk_type": "administrative",
+      "has_financials": false,
+      "has_table": false,
+      "has_quote": false,
+      "contains_principle": false,
+      "contains_example": false,
+      "contains_comparison": false,
+      "contextual_summary": "This chunk lists Berkshire's acquisition criteria emphasizing large, simple, consistently profitable businesses with good management and reasonable prices. It invites potential sellers to confidentially approach Berkshire, highlighting a preference for cash purchases and friendly transactions.",
+      "prev_context": "The letter discusses Berkshire's stock split policy and shareholder quality.",
+      "next_context": "The letter reports on shareholder-designated contributions and merger results with Blue Chip Stamps.",
+      "topics": [
+        "acquisitions",
+        "business criteria",
+        "confidentiality",
+        "capital allocation"
+      ],
+      "companies_mentioned": [
+        "Berkshire Hathaway"
+      ],
+      "people_mentioned": [],
+      "metrics_discussed": [],
+      "industries": [],
+      "principle_category": null,
+      "principle_statement": null,
+      "retrieval_priority": "low",
+      "abstraction_level": "medium",
+      "time_sensitivity": "high",
+      "is_complete_thought": true,
+      "needs_context": true
+    },
+    {
+      "chunk_id": "1983_administrative_013",
+      "year": 1983,
+      "source_file": "1983_cleaned.txt",
+      "section_type": "shareholder_matters",
+      "section_title": "Shareholder-Designated Contributions and Merger Update",
+      "subsection": null,
+      "parent_section": null,
+      "start_char": 17480,
+      "end_char": 17990,
+      "chunk_type": "administrative",
+      "has_financials": true,
+      "has_table": false,
+      "has_quote": false,
+      "contains_principle": false,
+      "contains_example": false,
+      "contains_comparison": false,
+      "contextual_summary": "This chunk reports on the high participation rate in the 1983 shareholder-designated contributions program and urges new shareholders to register shares properly for future eligibility. It also summarizes the successful Blue Chip/Berkshire merger with minimal opposition and no appraisal requests.",
+      "prev_context": "The letter outlines Berkshire's acquisition criteria and invitation to sellers.",
+      "next_context": "The letter closes with Buffett's signature and an offer to send prior annual reports to new shareholders.",
+      "topics": [
+        "shareholder contributions",
+        "merger",
+        "shareholder communications",
+        "registration"
+      ],
+      "companies_mentioned": [
+        "Berkshire Hathaway",
+        "Blue Chip Stamps"
+      ],
+      "people_mentioned": [
+        "Warren E. Buffett"
+      ],
+      "metrics_discussed": [
+        "participation rate",
+        "contributions amount"
+      ],
+      "industries": [],
+      "principle_category": null,
+      "principle_statement": null,
+      "retrieval_priority": "low",
+      "abstraction_level": "low",
+      "time_sensitivity": "high",
+      "is_complete_thought": true,
+      "needs_context": true
+    },
+    {
+      "chunk_id": "1983_other_014",
+      "year": 1983,
+      "source_file": "1983_cleaned.txt",
+      "section_type": "other",
+      "section_title": "Closing and Appendix Introduction",
+      "subsection": null,
+      "parent_section": null,
+      "start_char": 17990,
+      "end_char": 18150,
+      "chunk_type": "administrative",
+      "has_financials": false,
+      "has_table": false,
+      "has_quote": false,
+      "contains_principle": false,
+      "contains_example": false,
+      "contains_comparison": false,
+      "contextual_summary": "This brief closing chunk contains Buffett's signature and an offer to send prior annual reports to new shareholders to aid their understanding of Berkshire Hathaway.",
+      "prev_context": "The letter reports on shareholder contributions and merger results.",
+      "next_context": "The letter begins a detailed appendix on goodwill and its amortization.",
+      "topics": [
+        "shareholder communication",
+        "annual reports"
+      ],
+      "companies_mentioned": [
+        "Berkshire Hathaway"
+      ],
+      "people_mentioned": [
+        "Warren E. Buffett"
+      ],
+      "metrics_discussed": [],
+      "industries": [],
+      "principle_category": null,
+      "principle_statement": null,
+      "retrieval_priority": "low",
+      "abstraction_level": "low",
+      "time_sensitivity": "low",
+      "is_complete_thought": true,
+      "needs_context": false
+    },
+    {
+      "chunk_id": "1983_philosophy_015",
+      "year": 1983,
+      "source_file": "1983_cleaned.txt",
+      "section_type": "management_philosophy",
+      "section_title": "Appendix: Goodwill and its Amortization",
+      "subsection": null,
+      "parent_section": null,
+      "start_char": 18150,
+      "end_char": 24600,
+      "chunk_type": "philosophy",
+      "has_financials": true,
+      "has_table": true,
+      "has_quote": false,
+      "contains_principle": true,
+      "contains_example": true,
+      "contains_comparison": true,
+      "contextual_summary": "This extensive appendix explains the distinction between economic and accounting goodwill, illustrating with the Sees acquisition how economic goodwill can grow despite accounting amortization. Buffett discusses the impact of inflation on goodwill, the limitations of accounting rules, and the importance of evaluating businesses based on economic reality rather than accounting conventions.",
+      "prev_context": "The letter closes with Buffett's signature and an offer to send prior reports.",
+      "next_context": "",
+      "topics": [
+        "goodwill",
+        "accounting",
+        "economic value",
+        "amortization",
+        "inflation",
+        "business valuation"
+      ],
+      "companies_mentioned": [
+        "Sees",
+        "Blue Chip Stamps",
+        "Buffalo Evening News",
+        "Berkshire Hathaway",
+        "AT&T"
+      ],
+      "people_mentioned": [
+        "Keynes"
+      ],
+      "metrics_discussed": [
+        "amortization charges",
+        "net tangible assets",
+        "earnings",
+        "intrinsic business value"
+      ],
+      "industries": [
+        "retail",
+        "communications"
+      ],
+      "principle_category": "valuation",
+      "principle_statement": "Economic goodwill reflects the true value of intangible assets and can grow over time, whereas accounting goodwill is subject to arbitrary amortization rules that may not reflect economic reality.",
+      "retrieval_priority": "high",
+      "abstraction_level": "high",
+      "time_sensitivity": "low",
+      "is_complete_thought": true,
+      "needs_context": false
+    }
+  ]
+}
