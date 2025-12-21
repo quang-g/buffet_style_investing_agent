@@ -1,0 +1,12 @@
+{
+  "year": 1983,
+  "source_file": "1983_cleaned.txt",
+  "endchar_plus_one_fraction": 0.0,
+  "anchors_attempted": 15,
+  "anchors_fixed": 15,
+  "anchors_low_confidence": 0,
+  "midword_boundary_fixes": 0,
+  "unsafe_boundary_fixes": 0,
+  "remaining_unsafe_boundaries": 0,
+  "tiny_chunk_merges": 0
+}
