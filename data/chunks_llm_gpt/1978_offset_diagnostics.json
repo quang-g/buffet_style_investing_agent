@@ -1,0 +1,21 @@
+{
+  "year": 1978,
+  "source_file": "1978_cleaned.txt",
+  "endchar_plus_one_fraction": 0.0,
+  "anchors_attempted": 11,
+  "anchors_fixed": 11,
+  "anchors_low_confidence": 0,
+  "midword_boundary_fixes": 0,
+  "unsafe_boundary_fixes": 0,
+  "remaining_unsafe_boundaries": 0,
+  "tiny_chunk_merges": 0,
+  "integrity": {
+    "total_chunks": 11,
+    "bad_offsets": 0,
+    "empty_chunk_text": 0,
+    "midword_starts": 0,
+    "unsafe_starts": 0,
+    "overlaps": 0,
+    "gaps": 10
+  }
+}

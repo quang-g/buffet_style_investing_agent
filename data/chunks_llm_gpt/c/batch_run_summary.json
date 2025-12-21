@@ -1,0 +1,53 @@
+{
+  "started_at": "2025-12-21T18:22:15",
+  "finished_at": "2025-12-21T18:34:04",
+  "model": "gpt-4.1-mini",
+  "max_segment_chars": 25000,
+  "out_dir": "E:\\projects\\buffet_style_investing_agent\\data\\chunks_llm_gpt\\c",
+  "years_requested": [
+    1984,
+    2010
+  ],
+  "counts": {
+    "ok_or_dry_run_ok": 2,
+    "skipped": 0,
+    "failed": 0,
+    "total": 2
+  },
+  "results": [
+    {
+      "year": 1984,
+      "status": "ok",
+      "chunks": 28,
+      "segments_processed": 4,
+      "output": "E:\\projects\\buffet_style_investing_agent\\data\\chunks_llm_gpt\\c\\1984_chunks_llm.jsonl",
+      "diagnostics": "E:\\projects\\buffet_style_investing_agent\\data\\chunks_llm_gpt\\c\\1984_offset_diagnostics.json",
+      "integrity": {
+        "total_chunks": 28,
+        "bad_offsets": 0,
+        "empty_chunk_text": 0,
+        "midword_starts": 0,
+        "unsafe_starts": 2,
+        "overlaps": 2,
+        "gaps": 21
+      }
+    },
+    {
+      "year": 2010,
+      "status": "ok",
+      "chunks": 37,
+      "segments_processed": 5,
+      "output": "E:\\projects\\buffet_style_investing_agent\\data\\chunks_llm_gpt\\c\\2010_chunks_llm.jsonl",
+      "diagnostics": "E:\\projects\\buffet_style_investing_agent\\data\\chunks_llm_gpt\\c\\2010_offset_diagnostics.json",
+      "integrity": {
+        "total_chunks": 37,
+        "bad_offsets": 0,
+        "empty_chunk_text": 0,
+        "midword_starts": 0,
+        "unsafe_starts": 1,
+        "overlaps": 5,
+        "gaps": 19
+      }
+    }
+  ]
+}

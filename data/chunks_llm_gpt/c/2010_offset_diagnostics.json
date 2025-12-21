@@ -1,0 +1,32 @@
+{
+  "year": 2010,
+  "source_file": "2010_cleaned.txt",
+  "endchar_plus_one_fraction": 0.5945945945945946,
+  "anchors_attempted": 38,
+  "anchors_fixed": 37,
+  "anchors_low_confidence": 1,
+  "midword_boundary_fixes": 0,
+  "unsafe_boundary_fixes": 13,
+  "remaining_unsafe_boundaries": 1,
+  "tiny_chunk_merges": 1,
+  "integrity": {
+    "total_chunks": 37,
+    "bad_offsets": 0,
+    "empty_chunk_text": 0,
+    "midword_starts": 0,
+    "unsafe_starts": 1,
+    "overlaps": 5,
+    "gaps": 19
+  },
+  "batch_processing": {
+    "total_segments": 5,
+    "segment_sizes": [
+      19897,
+      22533,
+      23733,
+      22253,
+      15418
+    ],
+    "total_chunks": 38
+  }
+}

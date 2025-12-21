@@ -1,0 +1,21 @@
+{
+  "year": 2010,
+  "source_file": "2010_cleaned.txt",
+  "endchar_plus_one_fraction": 0.0,
+  "anchors_attempted": 33,
+  "anchors_fixed": 29,
+  "anchors_low_confidence": 4,
+  "midword_boundary_fixes": 1,
+  "unsafe_boundary_fixes": 12,
+  "remaining_unsafe_boundaries": 2,
+  "tiny_chunk_merges": 0,
+  "integrity": {
+    "total_chunks": 33,
+    "bad_offsets": 0,
+    "empty_chunk_text": 0,
+    "midword_starts": 0,
+    "unsafe_starts": 2,
+    "overlaps": 3,
+    "gaps": 15
+  }
+}
