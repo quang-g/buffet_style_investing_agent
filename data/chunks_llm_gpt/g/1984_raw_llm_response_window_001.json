@@ -1,0 +1,75 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "1984_operating_businesses_001",
+      "year": 1984,
+      "source_file": "1984_cleaned.txt",
+      "section_type": "operating_businesses",
+      "section_title": "NFM and Levitz Furniture Comparison",
+      "subsection": null,
+      "parent_section": null,
+      "start_char": 0,
+      "end_char": 1023,
+      "start_anchor": "greater than the annual volume of\nmany good-sized successful stores. The business achieves this\nsuccess because it deserves this success. A few figures will\ntell you why.",
+      "end_anchor": "Very few companies in the property/casualty\nfield can meet this test of unquestioned long-term strength. (In\nfact, only a handful of companies exists with which we will\nreinsure our own liabilities.)",
+      "chunk_type": "business_analysis",
+      "has_financials": true,
+      "has_table": true,
+      "has_quote": false,
+      "contains_principle": true,
+      "contains_example": true,
+      "contains_comparison": true,
+      "contextual_summary": "This chunk analyzes the exceptional efficiency and profitability of Nebraska Furniture Mart (NFM) compared to Levitz Furniture, highlighting NFM's low mark-ups and operating expenses. It also reviews Sees Candy Shops' financial performance and operational challenges, Buffalo Evening News' cost control and circulation strengths, and concludes with an insurance industry overview emphasizing Berkshire's superior financial strength and underwriting challenges.",
+      "prev_context": "",
+      "next_context": "The next section will continue with detailed insurance operations data and commentary on underwriting performance and industry trends.",
+      "topics": [
+        "retail efficiency",
+        "financial performance",
+        "cost control",
+        "insurance underwriting",
+        "business growth",
+        "market competition"
+      ],
+      "companies_mentioned": [
+        "Nebraska Furniture Mart",
+        "Levitz Furniture",
+        "Sees Candy Shops",
+        "Buffalo Evening News",
+        "Berkshire Hathaway"
+      ],
+      "people_mentioned": [
+        "Mrs. B",
+        "Chuck Huggins",
+        "Stan Lipsey",
+        "Alfred Kirchhofer",
+        "Mike Goldberg",
+        "Charlie",
+        "Murray Light"
+      ],
+      "metrics_discussed": [
+        "gross margin",
+        "operating expenses",
+        "sales",
+        "profits",
+        "pounds sold",
+        "circulation",
+        "combined ratio",
+        "premium volume",
+        "underwriting profit"
+      ],
+      "industries": [
+        "retail furniture",
+        "candy manufacturing",
+        "newspaper publishing",
+        "insurance"
+      ],
+      "principle_category": "risk_management",
+      "principle_statement": "Maintaining superior financial strength and underwriting discipline is essential to fulfilling insurance promises and gaining competitive advantage in adverse conditions.",
+      "retrieval_priority": "high",
+      "abstraction_level": "medium",
+      "time_sensitivity": "high",
+      "is_complete_thought": true,
+      "needs_context": false
+    }
+  ]
+}

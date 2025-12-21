@@ -1,0 +1,31 @@
+{
+  "year": 1984,
+  "source_file": "1984_cleaned.txt",
+  "endchar_plus_one_fraction": 0.78125,
+  "anchors_attempted": 24,
+  "anchors_fixed": 24,
+  "anchors_low_confidence": 9,
+  "midword_boundary_fixes": 5,
+  "unsafe_boundary_fixes": 3,
+  "remaining_unsafe_boundaries": 4,
+  "tiny_chunk_merges": 5,
+  "integrity": {
+    "total_chunks": 28,
+    "bad_offsets": 0,
+    "empty_chunk_text": 0,
+    "midword_starts": 0,
+    "unsafe_starts": 2,
+    "overlaps": 2,
+    "gaps": 21
+  },
+  "batch_processing": {
+    "total_segments": 4,
+    "segment_sizes": [
+      22706,
+      23095,
+      22516,
+      10127
+    ],
+    "total_chunks": 33
+  }
+}
