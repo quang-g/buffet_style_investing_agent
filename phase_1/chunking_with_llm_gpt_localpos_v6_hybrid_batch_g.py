@@ -48,7 +48,7 @@ from openai import OpenAI
 REPO_ROOT = Path(__file__).resolve().parents[1]  # .../buffet_style_investing_agent
 DATA_DIR = REPO_ROOT / "data"
 INPUT_DIR = DATA_DIR / "text_extracted_letters"
-OUT_DIR = DATA_DIR / "chunks_llm_gpt" / "localpos_v6"
+OUT_DIR = DATA_DIR / "chunks_llm_gpt" / "localpos_v6_g"
 
 RULES_PATH = Path(os.getenv("CHUNKING_RULES_PATH", str(REPO_ROOT / "phase_1" / "chunking_rule_claude.md")))
 DEFAULT_MODEL = os.getenv("OPENAI_MODEL", "gpt-4.1-mini")

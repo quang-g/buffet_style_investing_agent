@@ -75,7 +75,7 @@ CHUNKING_STRATEGY_PATHS = [
 ]
 
 TEXT_DIR = PROJECT_ROOT / "data" / "text_extracted_letters"
-OUT_DIR = PROJECT_ROOT / "data" / "chunks_llm_gpt" / "hybrid_v6"
+OUT_DIR = PROJECT_ROOT / "data" / "chunks_llm_gpt" / "hybrid_v6_c"
 OUT_DIR.mkdir(parents=True, exist_ok=True)
 
 # Model configuration
