@@ -1,0 +1,12 @@
+{
+  "year": 2009,
+  "source_file": "2009_cleaned.txt",
+  "endchar_plus_one_fraction": 0.0,
+  "anchors_attempted": 32,
+  "anchors_fixed": 32,
+  "anchors_low_confidence": 0,
+  "midword_boundary_fixes": 0,
+  "unsafe_boundary_fixes": 8,
+  "remaining_unsafe_boundaries": 1,
+  "tiny_chunk_merges": 0
+}
