@@ -174,7 +174,6 @@ price volatility."
   "position_in_letter": 0.0 to 1.0,
   "position_in_section": 0-indexed integer,
   "total_chunks_in_section": integer,
-  "chunk_text": "the actual text content",
   "word_count": integer,
   "char_count": integer,
   "chunk_type": "from Step 3",
