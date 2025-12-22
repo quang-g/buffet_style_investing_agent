@@ -183,6 +183,8 @@ price volatility."
   "contains_principle": true if states timeless investing/business wisdom,
   "contains_example": true if provides concrete illustration,
   "contains_comparison": true if compares entities or time periods,
+  "start_anchor": "the first 30 words or the first sentence of the chunks",
+  "end_anchor": "the last 30 words or the last sentence of the chunks",
   "contextual_summary": "from Step 5",
   "prev_context": "1-2 sentences on what came before",
   "next_context": "1-2 sentences on what follows",
