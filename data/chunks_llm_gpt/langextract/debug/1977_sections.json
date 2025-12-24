@@ -1,0 +1,56 @@
+[
+  {
+    "section_index": 0,
+    "section_type": "shareholder_letter",
+    "section_title": "To the Stockholders of Berkshire Hathaway Inc.:",
+    "subsection": null,
+    "parent_section": null,
+    "start_char": 0,
+    "end_char": 2715
+  },
+  {
+    "section_index": 1,
+    "section_type": "textile_operations",
+    "section_title": "Textile Operations",
+    "subsection": null,
+    "parent_section": null,
+    "start_char": 2715,
+    "end_char": 4341
+  },
+  {
+    "section_index": 2,
+    "section_type": "insurance_underwriting",
+    "section_title": "Insurance Underwriting",
+    "subsection": null,
+    "parent_section": null,
+    "start_char": 4341,
+    "end_char": 11710
+  },
+  {
+    "section_index": 3,
+    "section_type": "insurance_investments",
+    "section_title": "Insurance Investments",
+    "subsection": null,
+    "parent_section": null,
+    "start_char": 11710,
+    "end_char": 17624
+  },
+  {
+    "section_index": 4,
+    "section_type": "banking",
+    "section_title": "Banking",
+    "subsection": null,
+    "parent_section": null,
+    "start_char": 17624,
+    "end_char": 18739
+  },
+  {
+    "section_index": 5,
+    "section_type": "blue_chip_stamps",
+    "section_title": "Blue Chip Stamps",
+    "subsection": null,
+    "parent_section": null,
+    "start_char": 18739,
+    "end_char": 19745
+  }
+]
