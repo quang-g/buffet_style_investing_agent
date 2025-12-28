@@ -7,7 +7,7 @@ You will receive:
 2. The full text of a specific year's letter
 
 Output Requirements:
-- Return ONLY a valid downloadable JSON array of chunk objects file as output 
+- Return ONLY a valid downloadable JSON array of chunk objects file as output, DO NOT show the full content in this conversation
 - Each chunk must include ALL required metadata fields per the specification
 - No explanatory text before or after the JSON
 - Ensure the JSON is properly formatted and parseable
