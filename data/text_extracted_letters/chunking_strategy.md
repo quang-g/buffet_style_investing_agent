@@ -48,9 +48,10 @@ For agentic RAG with Warren Buffett letters, I recommend a **three-tier chunking
 - Asterisk separators
 - Clear topic transitions
 
-**Chunk Size Target:** 500-2000 tokens (flexible based on semantic completeness)
+**Chunk Size Target:** 500–2000 tokens  
+**Hard Minimum (Anti-Orphan Gate):** do not emit a Tier-1 chunk under **250 tokens** (~180–220 words) unless it meets an explicit exception (see §2.4).
 
-**Rationale:** Buffett's writing style creates self-contained "mini-essays" within each section. Breaking these arbitrarily destroys context that agents need for accurate reasoning.
+**Rationale:** Buffett's writing style creates self-contained "mental models" that are best retrieved as whole units. Over-splitting creates fragments that lose causal context and reduce agent reliability.
 
 **Example Boundaries:**
 ```
@@ -62,13 +63,20 @@ CONTENT: Complete discussion of underwriting philosophy, specific companies, res
 
 ### 2.2 Tier 2: Paragraph-Level Sub-Chunks (Precision Retrieval)
 
-**Definition:** Individual paragraphs or tightly-coupled paragraph pairs within sections
+**Definition:** Individual paragraphs or tightly-coupled paragraph pairs within sections.
 
-**Chunk Size Target:** 150-500 tokens
+**Chunk Size Target:** 150–500 tokens  
+**Hard Minimum (Anti-Orphan Gate):** do not emit a Tier-2 chunk under **120 tokens** (~80–110 words) unless it meets an explicit exception (see §2.4).
 
-**Use Case:** When agents need specific facts, quotes, or data points without full section context
+**Use Case:** When agents need specific facts, quotes, or data points without pulling full section context.
 
-**Linking Strategy:** Each sub-chunk maintains a `parent_section_id` for context expansion
+**Linking Strategy:** Each sub-chunk maintains a `parent_section_id` (or `parent_chunk_id`) for context expansion.
+
+**Pairing Rule (prevents tiny paragraph-chunks):**
+- If a candidate paragraph < 120 tokens, *pair it* with its most semantically adjacent paragraph:
+  - Transition/setup paragraph → pair forward
+  - Concluding/afterthought paragraph → pair backward
+
 
 ### 2.3 Tier 3: Table/Data Chunks (Structured Retrieval)
 
@@ -89,6 +97,50 @@ CONTENT: Complete discussion of underwriting philosophy, specific companies, res
   ]
 }
 ```
+
+### 2.4 Anti-Orphan & Minimum-Size Merge Rules (Critical)
+
+Buffett letters often contain micro-content (1–2 sentences, transitional paragraphs, “header + one line”, short pre-table lead-ins). These MUST NOT become standalone chunks.
+
+#### Definitions
+- **Tier-1 minimum:** 250 tokens (~180–220 words)
+- **Tier-2 minimum:** 120 tokens (~80–110 words)
+- **Micro-content:** any chunk candidate below its tier minimum.
+
+#### Rule A — No Header-Only Chunks
+A section header can never be emitted as its own chunk. If a chunk begins with a header but remains under the minimum, keep absorbing content until:
+- it reaches the tier minimum, OR
+- you hit the next explicit header, then apply Rule B.
+
+#### Rule B — Directional Merge for Short Section Candidates
+If a Tier-1 section candidate ends up below 250 tokens, merge it instead of emitting a short chunk.
+
+Merge preference:
+1) **Merge forward** if the short section is a lead-in/setup (common before tables, segment summaries, or new themes).  
+2) Otherwise **merge backward** if it reads like a concluding remark or afterthought.  
+3) If both neighbors exist, choose the merge that yields stronger coherence:
+   - setup → forward
+   - conclusion/afterthought → backward
+
+#### Rule C — No Tail-Fragments
+If the remainder at the end of a section would form a new chunk below minimum, do NOT emit it:
+- Append it to the current chunk, unless it clearly starts a new topic.
+- If it clearly starts a new topic but is short, attach it forward to the next chunk.
+
+#### Rule D — Tier-2 Micro-Chunk Prevention
+Tier-2 is optional. Do not create Tier-2 sub-chunks that are under 120 tokens.
+- If a paragraph is short, merge it with its adjacent paragraph using the Pairing Rule in §2.2.
+
+#### Allowed Exceptions (rare)
+Short standalone chunks are allowed ONLY if they are high-value retrieval atoms AND fully self-contained:
+- A compact, complete principle statement where context is already included
+- A concise “mistake/confession” unit with its resolution included
+- A table chunk ONLY if narrative setup + interpretation context are included in the SAME chunk boundary
+
+When using an exception:
+- set retrieval_priority to high
+- add a lightweight flag like `standalone_exception: true`
+- include `exception_reason` (1 short sentence)
 
 ---
 
@@ -136,6 +188,7 @@ Each chunk should carry rich metadata for agent reasoning:
   "char_count": 3420
 }
 ```
+Optional (non-breaking) quality flags may be added when needed, e.g. `standalone_exception`, `exception_reason`,`boundary_note`, `merged_from`.
 
 ---
 
@@ -177,6 +230,20 @@ Buffett's admissions of error are high-value content for learning:
 Tag with: "content_type": "mistake_confession"
 Always keep complete with resolution/lesson
 ```
+
+**Rule 5: Short Lead-ins Before Tables Must Stay With the Table**
+If Buffett introduces a table with a short lead-in (often < 2 paragraphs), keep the lead-in in the SAME chunk as the table and at least one paragraph of interpretation if present. Do not isolate the lead-in as its own chunk.
+
+**Rule 6: One-Sentence Transitions Are Not Chunks**
+Single-sentence bridges (“Now, turning to…”, “Before discussing X…”) must be merged with the following paragraph (forward-merge) unless they clearly conclude a prior argument (then backward-merge).
+
+**Rule 7: Section Stubs Must Merge**
+If a section appears as a stub (header + very short body), merge it using §2.4 Rule B. Never emit “stub sections” as Tier-1 chunks.
+
+**Rule 8: Record Merge Decisions**
+When you merge micro-content to avoid an orphan chunk, record it in metadata using lightweight notes, e.g.:
+- `boundary_note: "Merged micro-section to avoid orphan chunk"`
+- `merged_from: ["<id or short descriptor>"]` (optional)
 
 ---
 
@@ -263,7 +330,11 @@ Before finalizing chunks, verify:
 - [ ] Cross-references are bidirectional
 - [ ] Buffett's numbered lists stay together (e.g., "(1)...(2)...(3)...")
 - [ ] Quotes and attributions are not separated
-- [ ] Page breaks don't create orphan fragments
+- [ ] No Tier-1 chunk < 250 tokens unless `standalone_exception: true`
+- [ ] No Tier-2 chunk < 120 tokens unless `standalone_exception: true`
+- [ ] No header-only or “header + one line” chunks
+- [ ] No end-of-section tail-fragment chunk is emitted below minimum (must merge)
+- [ ] Page breaks do not create orphan fragments (must merge across page boundaries if needed)
 - [ ] Each chunk can stand alone (provides minimal context)
 
 ---
