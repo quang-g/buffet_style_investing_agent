@@ -1,0 +1,2411 @@
+[
+  {
+    "chunk_id": "1991-S1-T1-001",
+    "content": "To the Shareholders of Berkshire Hathaway Inc.:\n\nOur gain in net worth during 1991 was $2.1 billion, or\n39.6%. Over the last 27 years (that is, since present management\ntook over) our per-share book value has grown from $19 to $6,437,\nor at a rate of 23.7% compounded annually.\n\nThe size of our equity capital - which now totals $7.4\nbillion - makes it certain that we cannot maintain our past rate\nof gain or, for that matter, come close to doing so. As Berkshire\ngrows, the universe of opportunities that can significantly\ninfluence the company's performance constantly shrinks. When we\nwere working with capital of $20 million, an idea or business\nproducing $1 million of profit added five percentage points to\nour return for the year. Now we need a $370 million idea (i. e.,\none contributing over $550 million of pre-tax profit) to achieve\nthe same result. And there are many more ways to make $1 million\nthan to make $370 million.\n\nCharlie Munger, Berkshire's Vice Chairman, and I have set a\ngoal of attaining a 15% average annual increase in Berkshire's\nintrinsic value. If our growth in\nbook\nvalue is to keep up with a\n15% pace, we must earn $22 billion during the next decade. Wish\nus luck - we'll need it.\n\nOur outsized gain in book value in 1991 resulted from a\nphenomenon not apt to be repeated: a dramatic rise in the priceearnings ratios of Coca-Cola and Gillette. These two stocks\naccounted for nearly $1.6 billion of our $2.1 billion growth in\nnet worth last year. When we loaded up on Coke three years ago,\nBerkshire's net worth was $3.4 billion; now our Coke stock alone\nis worth more than that.\n\nCoca-Cola and Gillette are two of the best companies in the\nworld and we expect their earnings to grow at hefty rates in the\nyears ahead. Over time, also, the value of our holdings in these\nstocks should grow in rough proportion. Last year, however, the\nvaluations of these two companies rose far faster than their\nearnings. In effect, we got a double-dip benefit, delivered\npartly by the excellent earnings growth and even more so by the\nmarket's reappraisal of these stocks. We believe this reappraisal\nwas warranted. But it can't recur annually: We'll have to settle\nfor a single dip in the future.\n",
+    "metadata": {
+      "letter_year": 1991,
+      "letter_date": "1992-02-28",
+      "source_file": "1991_cleaned.txt",
+      "section_title": "To the Shareholders of Berkshire Hathaway Inc.:",
+      "section_hierarchy": [
+        "Letter Body",
+        "Performance Overview",
+        "Scale and Return Expectations"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "narrative",
+      "contextual_summary": "Reports 1991 gain in net worth and long-term book value compounding, explains why increasing size makes repeating high historical returns impossible, sets a 15% intrinsic value growth goal, and attributes 1991’s outsized gain largely to multiple expansion in Coca-Cola and Gillette rather than repeatable factors.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "Berkshire Hathaway",
+          "Berkshire Hathaway Inc.",
+          "Coca-Cola",
+          "Gillette"
+        ],
+        "people": [
+          "Charlie Munger"
+        ],
+        "metrics": [
+          "$1 million",
+          "$1.6 billion",
+          "$19",
+          "$2.1 billion",
+          "$20 million",
+          "$22 billion",
+          "$3.4 billion",
+          "$370 million",
+          "$550 million",
+          "$6,437,",
+          "$7.4\nbillion",
+          "intrinsic value",
+          "net worth",
+          "pre-tax profit"
+        ]
+      },
+      "themes": [
+        "performance measurement",
+        "scale effects",
+        "intrinsic value",
+        "valuation multiples"
+      ],
+      "buffett_concepts": [
+        "size dampens returns",
+        "intrinsic value focus",
+        "single-dip vs double-dip"
+      ],
+      "principles": [
+        {
+          "statement": "As capital compounds, sustaining very high percentage returns becomes progressively harder; opportunity set shrinks as size grows.",
+          "category": "measurement"
+        },
+        {
+          "statement": "Judge progress by intrinsic value growth, not just reported earnings or market fluctuations.",
+          "category": "valuation"
+        }
+      ],
+      "temporal_references": {
+        "primary_year": 1991,
+        "comparison_years": [],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "high",
+      "token_count": 522,
+      "char_count": 2216,
+      "source_span": {
+        "start_char": 0,
+        "end_char_exclusive": 2216
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "1991-S2-T1-001",
+    "content": "\nA Second Job\n\nIn 1989 when I - a happy consumer of five cans of Cherry\nCoke daily - announced our purchase of $1 billion worth of Coca Cola stock, I described the move as a rather extreme example of\nputting our money where my mouth was. On August 18 of last year,\nwhen I was elected Interim Chairman of Salomon Inc, it was a\ndifferent story: I put my mouth where our money was.\n\nYou've all read of the events that led to my appointment. My\ndecision to take the job carried with it an implicit but\nimportant message: Berkshire's operating managers are so\noutstanding that I knew I could materially reduce the time I was\nspending at the company and yet remain confident that its\neconomic progress would not skip a beat. The Blumkins, the\nFriedman family, Mike Goldberg, the Heldmans, Chuck Huggins, Stan\nLipsey, Ralph Schey and Frank Rooney (CEO of H. H. Brown, our\nlatest acquisition, which I will describe later) are all masters\nof their operations and need no help from me. My job is merely to\ntreat them right and to allocate the capital they generate.\nNeither function is impeded by my work at Salomon.\n\nThe role that Charlie and I play in the success of our\noperating units can be illustrated by a story about George Mira,\nthe one-time quarterback of the University of Miami, and his\ncoach, Andy Gustafson. Playing Florida and near its goal line,\nMira dropped back to pass. He spotted an open receiver but found\nhis right shoulder in the unshakable grasp of a Florida\nlinebacker. The right-handed Mira thereupon switched the ball to\nhis other hand and threw the only left-handed pass of his life -\nfor a touchdown. As the crowd erupted, Gustafson calmly turned to\na reporter and declared: \"Now that's what I call coaching.\"\n\nGiven the managerial stars we have at our operating units,\nBerkshire's performance is not affected if Charlie or I slip away\nfrom time to time. You should note, however, the \"interim\" in my\nSalomon title. Berkshire is my first love and one that will never\nfade: At the Harvard Business School last year, a student asked\nme when I planned to retire and I replied, \"About five to ten\nyears after I die.\"\n",
+    "metadata": {
+      "letter_year": 1991,
+      "letter_date": "1992-02-28",
+      "source_file": "1991_cleaned.txt",
+      "section_title": "A Second Job",
+      "section_hierarchy": [
+        "Letter Body",
+        "Management",
+        "Salomon Interim Role",
+        "Decentralization"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "narrative",
+      "contextual_summary": "Explains Buffett’s interim chairmanship at Salomon and why Berkshire’s decentralized structure and exceptional operating managers allow him to devote time elsewhere without impairing Berkshire’s progress; reinforces Berkshire’s capital allocation role and long-term commitment to the company.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "H. H. Brown",
+          "Salomon",
+          "Salomon Inc"
+        ],
+        "people": [
+          "Andy Gustafson",
+          "Chuck Huggins",
+          "Frank Rooney",
+          "George Mira",
+          "Ralph Schey"
+        ],
+        "metrics": [
+          "$1 billion"
+        ]
+      },
+      "themes": [
+        "management autonomy",
+        "capital allocation",
+        "crisis management"
+      ],
+      "buffett_concepts": [
+        "decentralization",
+        "treat managers right"
+      ],
+      "principles": [
+        {
+          "statement": "Hire/partner with outstanding operating managers, then trust them; headquarters’ job is to allocate capital and provide a supportive owner.",
+          "category": "management"
+        }
+      ],
+      "temporal_references": {
+        "primary_year": 1991,
+        "comparison_years": [
+          1989
+        ],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "high",
+      "token_count": 510,
+      "char_count": 2132,
+      "source_span": {
+        "start_char": 2216,
+        "end_char_exclusive": 4348
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "1991-S3-T1-001",
+    "content": "\nSources of Reported Earnings\n\nThe table below shows the major sources of Berkshire's\nreported earnings. In this presentation, amortization of Goodwill\nand other major purchase-price accounting adjustments are not\ncharged against the specific businesses to which they apply, but\nare instead aggregated and shown separately. This procedure lets\nyou view the earnings of our businesses as they would have been\nreported had we not purchased them. I've explained in past\nreports why this form of presentation seems to us to be more\nuseful to investors and managers than one utilizing generally\naccepted accounting principles (GAAP), which require purchaseprice adjustments to be made on a business-by-business basis. The\ntotal net earnings we show in the table are, of course, identical\nto the GAAP total in our audited financial statements.\n\nA large amount of additional information about these\nbusinesses is given on pages 33-47, where you also will find\nour segment earnings reported on a GAAP basis. However, we will\nnot in this letter discuss each of our non-insurance operations,\nas we have in the past. Our businesses have grown in number - and\nwill continue to grow - so it now makes sense to rotate coverage,\ndiscussing one or two in detail each year.\n\n",
+    "metadata": {
+      "letter_year": 1991,
+      "letter_date": "1992-02-28",
+      "source_file": "1991_cleaned.txt",
+      "section_title": "Sources of Reported Earnings",
+      "section_hierarchy": [
+        "Letter Body",
+        "Earnings",
+        "Reporting Presentation",
+        "Segment Rotation"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [
+        "1991-S3-T3-001"
+      ],
+      "content_type": "narrative",
+      "contextual_summary": "Explains Berkshire’s presentation of major earnings sources, why goodwill and purchase-price adjustments are aggregated rather than allocated business-by-business for analytical usefulness, and notes that detailed coverage of non-insurance operations will rotate as the number of businesses grows.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [],
+        "people": [],
+        "metrics": []
+      },
+      "themes": [
+        "earnings composition",
+        "accounting presentation",
+        "segment reporting"
+      ],
+      "buffett_concepts": [
+        "look at business earnings before purchase accounting"
+      ],
+      "principles": [
+        {
+          "statement": "Present operating results in a way that helps owners judge economic performance, even if GAAP presentation differs.",
+          "category": "measurement"
+        }
+      ],
+      "temporal_references": {
+        "primary_year": 1991,
+        "comparison_years": [],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "high",
+      "token_count": 271,
+      "char_count": 1258,
+      "source_span": {
+        "start_char": 4348,
+        "end_char_exclusive": 5606
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": "Table separated to preserve table integrity.",
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "1991-S3-T3-001",
+    "content": "Sources of Reported Earnings\n\n(000 s omitted)\n----------------------------------------------\nBerkshire's Share\nof Net Earnings\n(after taxes and\nPre-Tax Earnings minority interests)\n---------------------- ----------------------\n1991 1990 1991 1990\n\n---------- ---------- ---------- ----------\nOperating Earnings:\nInsurance Group:\nUnderwriting ............ $(119,593) $ (26,647) $ (77,229) $ (14,936)\nNet Investment Income ... 331,846 327,047 285,173 282,613\nH. H. Brown (acquired 7/1/91) 13,616 --- 8,611 ---\nBuffalo News .............. 37,113 43,954 21,841 25,981\nFechheimer ................ 12,947 12,450 6,843 6,605\nKirby ..................... 35,726 27,445 22,555 17,613\nNebraska Furniture Mart ... 14,384 17,248 6,993 8,485\nScott Fetzer\nManufacturing Group .... 26,123 30,378 15,901 18,458\nSee's Candies ............. 42,390 39,580 25,575 23,892\nWesco - other than Insurance 12,230 12,441 8,777 9,676\nWorld Book ................ 22,483 31,896 15,487 20,420\nAmortization of Goodwill .. (4,113) (3,476) (4,098) (3,461)\nOther Purchase-Price\nAccounting Charges ..... (6,021) (5,951) (7,019) (6,856)\nInterest Expense* ......... (89,250) (76,374) (57,165) (49,726)\nShareholder-Designated\nContributions .......... (6,772) (5,824) (4,388) (3,801)\nOther ..................... 77,399 58,310 47,896 35,782\n---------- ---------- ---------- ----------\nOperating Earnings 400,508 482,477 315,753 370,745\nSales of Securities 192,478 33,989 124,155 23,348\nTotal Earnings - All Entities $ 592,986 $ 516,466 $ 439,908 $ 394,093\n\n*Excludes interest expense of Scott Fetzer Financial Group and\nMutual Savings & Loan.",
+    "metadata": {
+      "letter_year": 1991,
+      "letter_date": "1992-02-28",
+      "source_file": "1991_cleaned.txt",
+      "section_title": "Sources of Reported Earnings",
+      "section_hierarchy": [
+        "Tables",
+        "Earnings",
+        "Sources of Reported Earnings"
+      ],
+      "chunk_tier": 3,
+      "parent_chunk_id": "1991-S3-T1-001",
+      "child_chunk_ids": [],
+      "content_type": "financial_table",
+      "contextual_summary": "Contains the Sources of Reported Earnings table for 1991 vs 1990 (pre-tax and Berkshire’s share of net), including the interest-expense footnote.",
+      "has_table": true,
+      "table_data": [
+        {
+          "table_name": "Sources of Reported Earnings",
+          "summary": "Breakdown of Berkshire’s reported earnings for 1991 vs 1990 by major units/items, showing pre-tax earnings and Berkshire’s share of net earnings after taxes and minority interests.",
+          "columns": [
+            "Line item",
+            "Pre-tax earnings 1991 ($000s)",
+            "Pre-tax earnings 1990 ($000s)",
+            "Berkshire share net earnings 1991 ($000s)",
+            "Berkshire share net earnings 1990 ($000s)"
+          ],
+          "rows": [
+            [
+              "---------------------- ----------------------",
+              "---",
+              "---",
+              "---",
+              "---"
+            ],
+            [
+              "",
+              "1991",
+              "1990",
+              "1991",
+              "1990"
+            ],
+            [
+              "---------- ---------- ---------- ----------",
+              "---",
+              "---",
+              "---",
+              "---"
+            ],
+            [
+              "Insurance Group — Underwriting",
+              "-119,593",
+              "-26,647",
+              "-77,229",
+              "-14,936"
+            ],
+            [
+              "Insurance Group — Net Investment Income",
+              "331,846",
+              "327,047",
+              "285,173",
+              "282,613"
+            ],
+            [
+              "Insurance Group — H. H. Brown (acquired",
+              "13,616",
+              "---",
+              "8,611",
+              "---"
+            ],
+            [
+              "Insurance Group — Buffalo News",
+              "37,113",
+              "43,954",
+              "21,841",
+              "25,981"
+            ],
+            [
+              "Insurance Group — Fechheimer",
+              "12,947",
+              "12,450",
+              "6,843",
+              "6,605"
+            ],
+            [
+              "Insurance Group — Kirby",
+              "35,726",
+              "27,445",
+              "22,555",
+              "17,613"
+            ],
+            [
+              "Insurance Group — Nebraska Furniture Mart",
+              "14,384",
+              "17,248",
+              "6,993",
+              "8,485"
+            ],
+            [
+              "Insurance Group — Manufacturing Group",
+              "26,123",
+              "30,378",
+              "15,901",
+              "18,458"
+            ],
+            [
+              "Insurance Group — See's Candies",
+              "42,390",
+              "39,580",
+              "25,575",
+              "23,892"
+            ],
+            [
+              "Insurance Group — Wesco - other than Insurance",
+              "12,230",
+              "12,441",
+              "8,777",
+              "9,676"
+            ],
+            [
+              "Insurance Group — World Book",
+              "22,483",
+              "31,896",
+              "15,487",
+              "20,420"
+            ],
+            [
+              "Insurance Group — Amortization of Goodwill",
+              "-4,113",
+              "-3,476",
+              "-4,098",
+              "-3,461"
+            ],
+            [
+              "Insurance Group — Accounting Charges",
+              "-6,021",
+              "-5,951",
+              "-7,019",
+              "-6,856"
+            ],
+            [
+              "Insurance Group — Interest Expense*",
+              "-89,250",
+              "-76,374",
+              "-57,165",
+              "-49,726"
+            ],
+            [
+              "Insurance Group — Contributions",
+              "-6,772",
+              "-5,824",
+              "-4,388",
+              "-3,801"
+            ],
+            [
+              "Insurance Group — Other",
+              "77,399",
+              "58,310",
+              "47,896",
+              "35,782"
+            ],
+            [
+              "Insurance Group — ---------- ---------- ---------- ----------",
+              "---",
+              "---",
+              "---",
+              "---"
+            ],
+            [
+              "Insurance Group — Operating Earnings",
+              "400,508",
+              "482,477",
+              "315,753",
+              "370,745"
+            ],
+            [
+              "Insurance Group — Sales of Securities",
+              "192,478",
+              "33,989",
+              "124,155",
+              "23,348"
+            ],
+            [
+              "Insurance Group — Total Earnings - All Entities",
+              "592,986",
+              "516,466",
+              "439,908",
+              "394,093"
+            ]
+          ],
+          "row_count": 23
+        }
+      ],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "Buffalo News",
+          "Fechheimer",
+          "H. H. Brown",
+          "Kirby",
+          "Nebraska Furniture Mart",
+          "Scott Fetzer Financial",
+          "See's Candies",
+          "World Book"
+        ],
+        "people": [],
+        "metrics": [
+          "$ (14,936)",
+          "$ (26,647)",
+          "$ (77,229)",
+          "$ 394,093",
+          "$ 439,908",
+          "$ 516,466",
+          "$ 592,986",
+          "$(119,593)"
+        ]
+      },
+      "themes": [
+        "segment earnings",
+        "earnings bridge"
+      ],
+      "buffett_concepts": [
+        "earnings composition"
+      ],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1991,
+        "comparison_years": [
+          1990
+        ],
+        "future_outlook": false
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "low",
+      "token_count": 266,
+      "char_count": 1600,
+      "source_span": {
+        "start_char": 5606,
+        "end_char_exclusive": 7176
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "1991-S4-T1-001",
+    "content": "\n\"Look-Through\" Earnings\n\nWe've previously discussed look-through earnings, which\nconsist of: (1) the operating earnings reported in the previous\nsection, plus; (2) the retained operating earnings of major\ninvestees that, under GAAP accounting, are not reflected in our\nprofits, less; (3) an allowance for the tax that would be paid by\nBerkshire if these retained earnings of investees had instead been\ndistributed to us.\n\nI've told you that over time look-through earnings must\nincrease at about 15% annually if our intrinsic business value is\nto grow at that rate. Indeed, since present management took over in\n1965, our look-through earnings have grown at almost the identical\n23% rate of gain recorded for book value.\n\nLast year, however, our look-through earnings did not grow at\nall but rather declined by 14%. To an extent, the decline was\nprecipitated by two forces that I discussed in last year's report\nand that I warned you would have a negative effect on look-through\nearnings.\n\nFirst, I told you that our media earnings - both direct and\nlook-through - were \"sure to decline\" and they in fact did. The\nsecond force came into play on April 1, when the call of our\nGillette preferred stock required us to convert it into common. The\nafter-tax earnings in 1990 from our preferred had been about $45\nmillion, an amount somewhat higher than the combination in 1991 of\nthree months of dividends on our preferred plus nine months of\nlook-through earnings on the common.\n\nTwo other outcomes that I did not foresee also hurt lookthrough earnings in 1991. First, we had a break-even result from\nour interest in Wells Fargo (dividends we received from the company\nwere offset by negative retained earnings). Last year I said that\nsuch a result at Wells was \"a low-level possibility - not a\nlikelihood.\" Second, we recorded significantly lower - though still\nexcellent - insurance profits.\n\nThe following table shows you how we calculate look-through\nearnings, although I warn you that the figures are necessarily very\nrough. (The dividends paid to us by these investees have been\nincluded in the operating earnings itemized on page 6, mostly\nunder \"Insurance Group: Net Investment Income.\")\n\n",
+    "metadata": {
+      "letter_year": 1991,
+      "letter_date": "1992-02-28",
+      "source_file": "1991_cleaned.txt",
+      "section_title": "\"Look-Through\" Earnings",
+      "section_hierarchy": [
+        "Letter Body",
+        "Earnings",
+        "Look-Through Earnings Concept",
+        "Drivers of Change"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [
+        "1991-S4-T3-001"
+      ],
+      "content_type": "principle_statement",
+      "contextual_summary": "Defines look-through earnings (reported operating earnings plus retained earnings of major investees minus hypothetical taxes), explains its link to intrinsic value growth, and discusses why look-through earnings declined in 1991 (media decline, Gillette conversion effects, Wells Fargo weakness, and lower insurance profits).",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "Gillette",
+          "Wells Fargo"
+        ],
+        "people": [],
+        "metrics": [
+          "$45\nmillion",
+          "after-tax earnings",
+          "dividends",
+          "intrinsic business value",
+          "look-through earnings"
+        ]
+      },
+      "themes": [
+        "look-through earnings",
+        "intrinsic value",
+        "investee economics"
+      ],
+      "buffett_concepts": [
+        "look-through earnings",
+        "retained earnings matter"
+      ],
+      "principles": [
+        {
+          "statement": "Over time, intrinsic value growth tracks the growth of look-through earnings, not just reported earnings.",
+          "category": "measurement"
+        }
+      ],
+      "temporal_references": {
+        "primary_year": 1991,
+        "comparison_years": [
+          1965,
+          1990
+        ],
+        "future_outlook": false
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "high",
+      "token_count": 480,
+      "char_count": 2194,
+      "source_span": {
+        "start_char": 7177,
+        "end_char_exclusive": 9371
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": "Look-through calculation table separated.",
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "1991-S4-T3-001",
+    "content": "\"Look-Through\" Earnings\n\nBerkshire's Share\nof Undistributed\nBerkshire's Approximate Operating Earnings\nBerkshire's Major Investees Ownership at Yearend (in millions)\n--------------------------- ----------------------- ------------------\n\n1991 1990 1991 1990\n------ ------ -------- --------\nCapital Cities/ABC Inc. ........ 18.1% 17.9% $ 61 $ 85\nThe Coca-Cola Company .......... 7.0% 7.0% 69 58\nFederal Home Loan Mortgage Corp. 3.4%(1) 3.2%(1) 15 10\nThe Gillette Company ........... 11.0% --- 23(2) ---\nGEICO Corp. .................... 48.2% 46.1% 69 76\nThe Washington Post Company .... 14.6% 14.6% 10 18\nWells Fargo & Company .......... 9.6% 9.7% (17) 19(3)\n-------- --------\nBerkshire's share of\nundistributed earnings of major investees $230 $266\nHypothetical tax on these undistributed investee earnings (30) (35)\nReported operating earnings of Berkshire 316 371\n-------- --------\nTotal look-through earnings of Berkshire $516 $602\n======== ========\n\n(1) Net of minority interest at Wesco\n(2) For the nine months after Berkshire converted its\npreferred on April 1\n(3) Calculated on average ownership for the year\n\n* * * * * * * * * * * *",
+    "metadata": {
+      "letter_year": 1991,
+      "letter_date": "1992-02-28",
+      "source_file": "1991_cleaned.txt",
+      "section_title": "\"Look-Through\" Earnings",
+      "section_hierarchy": [
+        "Tables",
+        "Earnings",
+        "Look-Through Earnings Calculation"
+      ],
+      "chunk_tier": 3,
+      "parent_chunk_id": "1991-S4-T1-001",
+      "child_chunk_ids": [],
+      "content_type": "financial_table",
+      "contextual_summary": "Provides the look-through earnings calculation table: Berkshire’s share of undistributed earnings of major investees for 1991 vs 1990, reconciliation items, and footnotes.",
+      "has_table": true,
+      "table_data": [
+        {
+          "table_name": "Look-through earnings calculation (major investees)",
+          "summary": "Shows Berkshire’s ownership percentages and its share of undistributed operating earnings for major investees for 1991 vs 1990, then reconciles to total look-through earnings after a hypothetical tax and reported operating earnings.",
+          "columns": [
+            "Investee",
+            "Ownership at year-end 1991",
+            "Ownership at year-end 1990",
+            "Berkshire share of undistributed operating earnings 1991 ($M)",
+            "Berkshire share of undistributed operating earnings 1990 ($M)"
+          ],
+          "rows": [
+            [
+              "Capital Cities/ABC Inc. ",
+              "18.1%",
+              "17.9%",
+              "61",
+              "85"
+            ]
+          ],
+          "row_count": 1,
+          "notes": [
+            "Berkshire's share of",
+            "Hypothetical tax on these undistributed investee earnings (30) (35)",
+            "Reported operating earnings of Berkshire 316 371",
+            "Total look-through earnings of Berkshire $516 $602"
+          ]
+        }
+      ],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "Capital Cities/ABC",
+          "Capital Cities/ABC Inc.",
+          "Coca-Cola",
+          "Federal Home Loan Mortgage Corp.",
+          "GEICO",
+          "GEICO Corp.",
+          "Gillette",
+          "The Coca-Cola Company",
+          "The Gillette Company",
+          "The Washington Post Company",
+          "Washington Post",
+          "Wells Fargo",
+          "Wells Fargo & Company"
+        ],
+        "people": [],
+        "metrics": [
+          "$ 61",
+          "$ 85",
+          "$230",
+          "$266",
+          "$516",
+          "$602",
+          "look-through earnings"
+        ]
+      },
+      "themes": [
+        "investee retained earnings",
+        "earnings reconciliation"
+      ],
+      "buffett_concepts": [
+        "look-through methodology"
+      ],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1991,
+        "comparison_years": [
+          1990
+        ],
+        "future_outlook": false
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "low",
+      "token_count": 224,
+      "char_count": 1140,
+      "source_span": {
+        "start_char": 9371,
+        "end_char_exclusive": 10486
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "1991-S4-T1-002",
+    "content": "\"Look-Through\" Earnings\n\n\n\nWe also believe that investors can benefit by focusing on\ntheir own look-through earnings. To calculate these, they should\ndetermine the underlying earnings attributable to the shares they\nhold in their portfolio and total these. The goal of each investor\nshould be to create a portfolio (in effect, a \"company\") that will\ndeliver him or her the highest possible look-through earnings a\ndecade or so from now.\n\nAn approach of this kind will force the investor to think\nabout long-term business prospects rather than short-term stock\nmarket prospects, a perspective likely to improve results. It's\ntrue, of course, that, in the long run, the scoreboard for\ninvestment decisions is market price. But prices will be determined\nby future earnings. In investing, just as in baseball, to put runs\non the scoreboard one must watch the playing field, not the\nscoreboard.\n",
+    "metadata": {
+      "letter_year": 1991,
+      "letter_date": "1992-02-28",
+      "source_file": "1991_cleaned.txt",
+      "section_title": "\"Look-Through\" Earnings",
+      "section_hierarchy": [
+        "Letter Body",
+        "Investing",
+        "Investor Look-Through Earnings",
+        "Long-Term Focus"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "principle_statement",
+      "contextual_summary": "Encourages investors to focus on their own look-through earnings and to build a portfolio aimed at maximizing long-term underlying earnings; argues that long-run market prices follow future earnings and likens investing to watching the playing field rather than the scoreboard.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [],
+        "people": [],
+        "metrics": [
+          "look-through earnings"
+        ]
+      },
+      "themes": [
+        "long-term investing",
+        "earnings focus",
+        "behavior"
+      ],
+      "buffett_concepts": [
+        "watch playing field not scoreboard"
+      ],
+      "principles": [
+        {
+          "statement": "Think like an owner: focus on long-term business earnings power rather than short-term market quotes.",
+          "category": "behavior"
+        }
+      ],
+      "temporal_references": {
+        "primary_year": 1991,
+        "comparison_years": [],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "high",
+      "token_count": 190,
+      "char_count": 890,
+      "source_span": {
+        "start_char": 10486,
+        "end_char_exclusive": 11351
+      },
+      "standalone_exception": true,
+      "exception_reason": "Below minimum size but required to preserve section boundaries, table integrity, or topic coherence.",
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "1991-S5-T1-001",
+    "content": "\nA Change in Media Economics and Some Valuation Math\n\nIn last year's report, I stated my opinion that the decline in\nthe profitability of media companies reflected secular as well as\ncyclical factors. The events of 1991 have fortified that case: The\neconomic strength of once-mighty media enterprises continues to\nerode as retailing patterns change and advertising and\nentertainment choices proliferate. In the business world,\nunfortunately, the rear-view mirror is always clearer than the\nwindshield: A few years back no one linked to the media business -\nneither lenders, owners nor financial analysts - saw the economic\ndeterioration that was in store for the industry. (But give me a\nfew years and I'll probably convince myself that I did.)\n\nThe fact is that newspaper, television, and magazine\nproperties have begun to resemble\nbusinesses\nmore than\nfranchises\n\nin their economic behavior. Let's take a quick look at the\ncharacteristics separating these two classes of enterprise, keeping\nin mind, however, that many operations fall in some middle ground\nand can best be described as weak franchises or strong businesses.\n\nAn economic franchise arises from a product or service that:\n(1) is needed or desired; (2) is thought by its customers to have\nno close substitute and; (3) is not subject to price regulation.\nThe existence of all three conditions will be demonstrated by a\ncompany's ability to regularly price its product or service\naggressively and thereby to earn high rates of return on capital.\nMoreover, franchises can tolerate mis-management. Inept managers\nmay diminish a franchise's profitability, but they cannot inflict\nmortal damage.\n\nIn contrast, \"a business\" earns exceptional profits only if it\nis the low-cost operator or if supply of its product or service is\ntight. Tightness in supply usually does not last long. With\nsuperior management, a company may maintain its status as a lowcost operator for a much longer time, but even then unceasingly\nfaces the possibility of competitive attack. And a business, unlike\na franchise, can be killed by poor management.\n\nUntil recently, media properties possessed the three\ncharacteristics of a franchise and consequently could both price\naggressively and be managed loosely. Now, however, consumers\nlooking for information and entertainment (their primary interest\nbeing the latter) enjoy greatly broadened choices as to where to\nfind them. Unfortunately, demand can't expand in response to this\nnew supply: 500 million American eyeballs and a 24-hour day are all\nthat's available. The result is that competition has intensified,\nmarkets have fragmented, and the media industry has lost some -\nthough far from all - of its franchise strength.\n\n* * * * * * * * * * * *\n\nThe industry's weakened franchise has an impact on its value\nthat goes far beyond the immediate effect on earnings. For an\nunderstanding of this phenomenon, let's look at some much oversimplified, but relevant, math.\n\nA few years ago the conventional wisdom held that a newspaper,\ntelevision or magazine property would forever increase its earnings\nat 6% or so annually and would do so\nwithout the employment of\nadditional capital\n, for the reason that depreciation charges would\nroughly match capital expenditures and working capital requirements\nwould be minor. Therefore, reported earnings (before amortization\nof intangibles) were also freely-distributable earnings, which\nmeant that ownership of a media property could be construed as akin\nto owning a perpetual annuity set to grow at 6% a year. Say, next,\nthat a discount rate of 10% was used to determine the present value\nof that earnings stream. One could then calculate that it was\nappropriate to pay a whopping $25 million for a property with\ncurrent after-tax earnings of $1 million. (This after-tax multiplier\nof 25 translates to a multiplier on pre-tax earnings of about 16.)\n\nNow change the assumption and posit that the $1 million\nrepresents \"normal earning power\" and that earnings will bob around\nthis figure cyclically. A \"bob-around\" pattern is indeed the lot of\nmost businesses, whose income stream grows only if their owners are\nwilling to commit more capital (usually in the form of retained\nearnings). Under our revised assumption, $1 million of earnings,\ndiscounted by the same 10%, translates to a $10 million valuation.\nThus a seemingly modest shift in assumptions reduces the property's\nvaluation to 10 times after-tax earnings (or about 6 1/2 times\npre-tax earnings).\n\nDollars are dollars whether they are derived from the\noperation of media properties or of steel mills. What in the past\ncaused buyers to value a dollar of earnings from media far higher\nthan a dollar from steel was that the earnings of a media property\nwere expected to constantly grow (without the business requiring\nmuch additional capital), whereas steel earnings clearly fell in\nthe bob-around category. Now, however, expectations for media have\nmoved toward the bob-around model. And, as our simplified example\nillustrates, valuations must change dramatically when expectations\nare revised.\n\nWe have a significant investment in media - both through our\ndirect ownership of Buffalo News and our shareholdings in The\nWashington Post Company and Capital Cities/ABC - and the intrinsic\nvalue of this investment has declined materially because of the\nsecular transformation that the industry is experiencing. (Cyclical\nfactors have also hurt our current look-through earnings, but these\nfactors do not reduce intrinsic value.) However, as our Business\nPrinciples on page 2-3 note, one of the rules by which we run\nBerkshire is that we do not sell businesses - or investee holdings\nthat we have classified as permanent - simply because we see ways\nto use the money more advantageously elsewhere. (We did sell\ncertain other media holdings sometime back, but these were\nrelatively small.)\n\nThe intrinsic value losses that we have suffered have been\nmoderated because the Buffalo News, under Stan Lipsey's leadership,\nhas done far better than most newspapers and because both Cap\nCities and Washington Post are exceptionally well-managed. In\nparticular, these companies stayed on the sidelines during the late\n1980's period in which purchasers of media properties regularly\npaid irrational prices. Also, the debt of both Cap Cities and\nWashington Post is small and roughly offset by cash that they hold.\nAs a result, the shrinkage in the value of their assets has not\nbeen accentuated by the effects of leverage. Among publicly-owned\nmedia companies, our two investees are about the only ones\nessentially free of debt. Most of the other companies, through a\ncombination of the aggressive acquisition policies they pursued and\nshrinking earnings, find themselves with debt equal to five or more\ntimes their current net income.\n\nThe strong balance sheets and strong managements of Cap Cities\nand Washington Post leave us more comfortable with these\ninvestments than we would be with holdings in any other media\ncompanies. Moreover, most media properties continue to have far\nbetter economic characteristics than those possessed by the average\nAmerican business. But gone are the days of bullet-proof franchises\nand cornucopian economics.\n",
+    "metadata": {
+      "letter_year": 1991,
+      "letter_date": "1992-02-28",
+      "source_file": "1991_cleaned.txt",
+      "section_title": "A Change in Media Economics and Some Valuation Math",
+      "section_hierarchy": [
+        "Letter Body",
+        "Media Economics",
+        "Franchises vs Businesses",
+        "Valuation Sensitivity"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "narrative",
+      "contextual_summary": "Explains secular deterioration in media economics, distinguishes franchises from ordinary businesses, and demonstrates with simplified discount-rate math how small shifts in growth/capital assumptions can drive large valuation changes; discusses Berkshire’s media exposure and why it retains permanent holdings despite intrinsic value declines.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "Buffalo News",
+          "Capital Cities/ABC",
+          "The\nWashington Post Company",
+          "Washington Post"
+        ],
+        "people": [
+          "Stan Lipsey"
+        ],
+        "metrics": [
+          "$1 million",
+          "$10 million",
+          "$25 million",
+          "after-tax earnings",
+          "intrinsic value",
+          "look-through earnings"
+        ]
+      },
+      "themes": [
+        "industry change",
+        "competitive advantage",
+        "valuation math",
+        "capital allocation discipline"
+      ],
+      "buffett_concepts": [
+        "franchise vs business",
+        "valuation depends on assumptions",
+        "don’t sell permanent holdings lightly"
+      ],
+      "principles": [
+        {
+          "statement": "Valuation is extremely sensitive to assumptions about growth and required reinvestment; revise expectations and valuations must change.",
+          "category": "valuation"
+        },
+        {
+          "statement": "A franchise is defined by pricing power without regulation and lack of close substitutes; businesses without these traits are more fragile.",
+          "category": "business_quality"
+        }
+      ],
+      "temporal_references": {
+        "primary_year": 1991,
+        "comparison_years": [
+          1980
+        ],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "high",
+      "token_count": 1526,
+      "char_count": 7218,
+      "source_span": {
+        "start_char": 11351,
+        "end_char_exclusive": 18569
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "1991-S6-T1-001",
+    "content": "\nTwenty Years in a Candy Store\n\nWe've just passed a milestone: Twenty years ago, on January 3,1972, Blue Chip Stamps (then an affiliate of Berkshire and later\nmerged into it) bought control of See's Candy Shops, a West Coast\nmanufacturer and retailer of boxed-chocolates. The nominal price\nthat the sellers were asking - calculated on the 100% ownership we\nultimately attained - was $40 million. But the company had $10\nmillion of excess cash, and therefore the true offering price was\n$30 million. Charlie and I, not yet fully appreciative of the value\nof an economic franchise, looked at the company's mere $7 million\nof tangible net worth and said $25 million was as high as we would\ngo (and we meant it). Fortunately, the sellers accepted our offer.\n\nThe sales of trading stamps by Blue Chip thereafter declined\nfrom $102.5 million in 1972 to $1.2 million in 1991. But See's\ncandy sales in the same period increased from $29 million to $196\nmillion. Moreover, profits at See's grew even faster than sales,\nfrom $4.2 million pre-tax in 1972 to $42.4 million last year.\n\nFor an increase in profits to be evaluated properly, it must\nbe compared with the incremental capital investment required to\nproduce it. On this score, See's has been astounding: The company\nnow operates comfortably with only $25 million of net worth, which\nmeans that our beginning base of $7 million has had to be\nsupplemented by only $18 million of reinvested earnings. Meanwhile,\nSee's remaining pre-tax profits of $410 million were distributed to\nBlue Chip/Berkshire during the 20 years for these companies to\ndeploy (after payment of taxes) in whatever way made most sense.\n\nIn our See's purchase, Charlie and I had one important\ninsight: We saw that the business had untapped pricing power.\nOtherwise, we were lucky twice over. First, the transaction was not\nderailed by our dumb insistence on a $25 million price. Second, we\nfound Chuck Huggins, then See's executive vice-president, whom we\ninstantly put in charge. Both our business and personal experiences\nwith Chuck have been outstanding. One example: When the purchase\nwas made, we shook hands with Chuck on a compensation arrangement -\nconceived in about five minutes and never reduced to a written\ncontract - that remains unchanged to this day.\n\nIn 1991, See's sales volume, measured in dollars, matched that\nof 1990. In pounds, however, volume was down 4%. All of that\nslippage took place in the last two months of the year, a period\nthat normally produces more than 80% of annual profits. Despite the\nweakness in sales, profits last year grew 7%, and our pre-tax\nprofit margin was a record 21.6%.\n\nAlmost 80% of See's sales come from California and our\nbusiness clearly was hurt by the recession, which hit the state\nwith particular force late in the year. Another negative, however,\nwas the mid-year initiation in California of a sales tax of 7%-8%\n(depending on the county involved) on \"snack food\" that was deemed\napplicable to our candy.\n\nShareholders who are students of epistemological shadings will\nenjoy California's classifications of \"snack\" and \"non-snack\"\nfoods:\n\nTaxable \"Snack\" Foods Non-Taxable \"Non-Snack\" Foods\n--------------------- -----------------------------\nRitz Crackers Soda Crackers\nPopped Popcorn Unpopped Popcorn\nGranola Bars Granola Cereal\nSlice of Pie (Wrapped) Whole Pie\nMilky Way Candy Bar Milky Way Ice Cream Bar\n\nWhat - you are sure to ask - is the tax status of a\nmelted\n\nMilky Way ice cream bar? In that androgynous form, does it more\nresemble an ice cream bar or a candy bar that has been left in the\nsun? It's no wonder that Brad Sherman, Chairman of California's\nState Board of Equalization, who opposed the snack food bill but\nmust now administer it, has said: \"I came to this job as a\nspecialist in tax law. Now I find my constituents should have\nelected Julia Child.\"\n\nCharlie and I have many reasons to be thankful for our\nassociation with Chuck and See's. The obvious ones are that we've\nearned exceptional returns and had a good time in the process.\nEqually important, ownership of See's has taught us much about the\nevaluation of franchises. We've made significant money in certain\ncommon stocks because of the lessons we learned at See's.\n",
+    "metadata": {
+      "letter_year": 1991,
+      "letter_date": "1992-02-28",
+      "source_file": "1991_cleaned.txt",
+      "section_title": "Twenty Years in a Candy Store",
+      "section_hierarchy": [
+        "Letter Body",
+        "Operating Business",
+        "See's Candies",
+        "Franchise Economics"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "narrative",
+      "contextual_summary": "Marks 20 years of owning See’s, recounts purchase economics and growth in sales/profits with minimal incremental capital, highlights pricing power and managerial excellence, notes 1991 performance headwinds (California recession and snack-food tax), and explains how See’s taught Berkshire key lessons about economic franchises.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "Blue Chip Stamps",
+          "See's Candy Shops"
+        ],
+        "people": [
+          "Brad Sherman",
+          "Chuck Huggins",
+          "Julia Child"
+        ],
+        "metrics": [
+          "$1.2 million",
+          "$10\nmillion",
+          "$102.5 million",
+          "$18 million",
+          "$196\nmillion",
+          "$25 million",
+          "$29 million",
+          "$30 million",
+          "$4.2 million",
+          "$40 million",
+          "$410 million",
+          "$42.4 million",
+          "$7 million",
+          "net worth"
+        ]
+      },
+      "themes": [
+        "franchise economics",
+        "capital efficiency",
+        "pricing power",
+        "management"
+      ],
+      "buffett_concepts": [
+        "pricing power",
+        "returns on incremental capital"
+      ],
+      "principles": [
+        {
+          "statement": "Evaluate profit growth relative to incremental capital required; great businesses grow earnings without heavy reinvestment.",
+          "category": "measurement"
+        },
+        {
+          "statement": "Pricing power is a core attribute of an economic franchise.",
+          "category": "business_quality"
+        }
+      ],
+      "temporal_references": {
+        "primary_year": 1991,
+        "comparison_years": [
+          1972,
+          1990
+        ],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "high",
+      "token_count": 942,
+      "char_count": 4225,
+      "source_span": {
+        "start_char": 18569,
+        "end_char_exclusive": 22794
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "1991-S7-T1-001",
+    "content": "\nH. H. Brown\n\nWe made a sizable acquisition in 1991 - the H. H. Brown\nCompany - and behind this business is an interesting history. In\n1927 a 29-year-old businessman named Ray Heffernan purchased the\ncompany, then located in North Brookfield, Massachusetts, for\n$10,000 and began a 62-year career of running it. (He also found\ntime for other pursuits: At age 90 he was still joining new golf\nclubs.) By Mr. Heffernan's retirement in early 1990 H. H. Brown had\nthree plants in the United States and one in Canada; employed close\nto 2,000 people; and earned about $25 million annually before\ntaxes.\n\nAlong the way, Frances Heffernan, one of Ray's daughters,\nmarried Frank Rooney, who was sternly advised by Mr. Heffernan\nbefore the wedding that he had better forget any ideas he might\nhave about working for his father-in-law. That was one of Mr.\nHeffernan's few mistakes: Frank went on to become CEO of Melville\nShoe (now Melville Corp.). During his 23 years as boss, from 1964\nthrough 1986, Melville's earnings averaged more than 20% on equity\nand its stock (adjusted for splits) rose from $16 to $960. And a\nfew years after Frank retired, Mr. Heffernan, who had fallen ill,\nasked him to run Brown.\n\nAfter Mr. Heffernan died late in 1990, his family decided to\nsell the company - and here we got lucky. I had known Frank for a\nfew years but not well enough for him to think of Berkshire as a\npossible buyer. He instead gave the assignment of selling Brown to\na major investment banker, which failed also to think of us. But\nlast spring Frank was playing golf in Florida with John Loomis, a\nlong-time friend of mine as well as a Berkshire shareholder, who is\nalways on the alert for something that might fit us. Hearing about\nthe impending sale of Brown, John told Frank that the company\nshould be right up Berkshire's alley, and Frank promptly gave me a\ncall. I thought right away that we would make a deal and before\nlong it was done.\n\nMuch of my enthusiasm for this purchase came from Frank's\nwillingness to continue as CEO. Like most of our managers, he has\nno financial need to work but does so because he loves the game and\nlikes to excel. Managers of this stripe cannot be \"hired\" in the\nnormal sense of the word. What we must do is provide a concert hall\nin which business artists of this class will wish to perform.\n\nBrown (which, by the way, has no connection to Brown Shoe of\nSt. Louis) is the leading North American manufacturer of work shoes\nand boots, and it has a history of earning unusually fine margins\non sales and assets. Shoes are a tough business - of the billion\npairs purchased in the United States each year, about 85% are\nimported - and most manufacturers in the industry do poorly. The\nwide range of styles and sizes that producers offer causes\ninventories to be heavy; substantial capital is also tied up in\nreceivables. In this kind of environment, only outstanding managers\nlike Frank and the group developed by Mr. Heffernan can prosper.\n\nA distinguishing characteristic of H. H. Brown is one of the\nmost unusual compensation systems I've encountered - but one that\nwarms my heart: A number of key managers are paid an annual salary\nof $7,800, to which is added a designated percentage of the profits\nof the company after these are reduced by a charge for capital\nemployed. These managers therefore truly stand in the shoes of\nowners. In contrast, most managers talk the talk but don't walk the\nwalk, choosing instead to employ compensation systems that are long\non carrots but short on sticks (and that almost invariably treat\nequity capital as if it were cost-free). The arrangement at Brown,\nin any case, has served both the company and its managers\nexceptionally well, which should be no surprise: Managers eager to\nbet heavily on their abilities usually have plenty of ability to\nbet on.\n\n* * * * * * * * * * * *\n\nIt's discouraging to note that though we have on four\noccasions made major purchases of companies whose sellers were\nrepresented by prominent investment banks, we were in only one of\nthese instances contacted by the investment bank. In the other\nthree cases, I myself or a friend initiated the transaction at some\npoint after the investment bank had solicited its own list of\nprospects. We would love to see an intermediary earn its fee by\nthinking of us - and therefore repeat here what we're looking for:\n\n(1) Large purchases (at least $10 million of after-tax\nearnings),\n(2) Demonstrated consistent earning power (future projections\nare of little interest to us, nor are \"turnaround\"\nsituations),\n(3) Businesses earning good returns on equity while employing\nlittle or no debt,\n(4) Management in place (we can't supply it),\n(5) Simple businesses (if there's lots of technology, we\nwon't understand it),\n(6) An offering price (we don't want to waste our time or\nthat of the seller by talking, even preliminarily,\nabout a transaction when price is unknown).\n\nWe will not engage in unfriendly takeovers. We can promise\ncomplete confidentiality and a very fast answer - customarily\nwithin five minutes - as to whether we're interested. (With Brown,\nwe didn't even need to take five.) We prefer to buy for cash, but\nwill consider issuing stock when we receive as much in intrinsic\nbusiness value as we give.\n\nOur favorite form of purchase is one fitting the pattern\nthrough which we acquired Nebraska Furniture Mart, Fechheimer's and\nBorsheim's. In cases like these, the company's owner-managers wish\nto generate significant amounts of cash, sometimes for themselves,\nbut often for their families or inactive shareholders. At the same\ntime, these managers wish to remain significant owners who continue\nto run their companies just as they have in the past. We think we\noffer a particularly good fit for owners with such objectives and\nwe invite potential sellers to check us out by contacting people\nwith whom we have done business in the past.\n\nCharlie and I frequently get approached about acquisitions\nthat don't come close to meeting our tests: We've found that if\nyou advertise an interest in buying collies, a lot of people will\ncall hoping to sell you their cocker spaniels. A line from a\ncountry song expresses our feeling about new ventures, turnarounds,\nor auction-like sales: \"When the phone don't ring, you'll know it's\nme.\"\n\nBesides being interested in the purchase of businesses as\ndescribed above, we are also interested in the negotiated purchase\nof large, but not controlling, blocks of stock comparable to those\nwe hold in Capital Cities, Salomon, Gillette, USAir, Champion, and\nAmerican Express. We are not interested, however, in receiving\nsuggestions about purchases we might make in the general stock\nmarket.\n",
+    "metadata": {
+      "letter_year": 1991,
+      "letter_date": "1992-02-28",
+      "source_file": "1991_cleaned.txt",
+      "section_title": "H. H. Brown",
+      "section_hierarchy": [
+        "Letter Body",
+        "Acquisitions",
+        "H. H. Brown",
+        "Manager Incentives",
+        "Acquisition Criteria"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "narrative",
+      "contextual_summary": "Describes Berkshire’s acquisition of H. H. Brown and its history, explains why keeping Frank Rooney as CEO mattered, discusses the challenges of shoe manufacturing and the importance of great managers, highlights Brown’s owner-like incentive system that charges managers for capital employed, and reiterates Berkshire’s acquisition criteria and preference for friendly, priced, understandable deals.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "American Express",
+          "Borsheim's",
+          "Brown Shoe",
+          "Fechheimer",
+          "Gillette",
+          "H. H. Brown",
+          "H. H. Brown\nCompany",
+          "Melville Corp.",
+          "Nebraska Furniture Mart",
+          "Salomon",
+          "USAir"
+        ],
+        "people": [
+          "Frank Rooney",
+          "John Loomis",
+          "Ray Heffernan"
+        ],
+        "metrics": [
+          "$10 million",
+          "$10,000",
+          "$16",
+          "$25 million",
+          "$7,800,",
+          "$960."
+        ]
+      },
+      "themes": [
+        "acquisitions",
+        "manager incentives",
+        "capital discipline",
+        "business simplicity"
+      ],
+      "buffett_concepts": [
+        "concert hall for business artists",
+        "charge for capital",
+        "no hostile takeovers"
+      ],
+      "principles": [
+        {
+          "statement": "Design compensation so managers feel the cost of capital; treat equity as having a real cost.",
+          "category": "governance"
+        },
+        {
+          "statement": "Seek businesses with consistent earning power, strong returns on equity with little debt, and management in place—at a stated price.",
+          "category": "acquisitions"
+        }
+      ],
+      "temporal_references": {
+        "primary_year": 1991,
+        "comparison_years": [
+          1927,
+          1964,
+          1986,
+          1990
+        ],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "high",
+      "token_count": 1534,
+      "char_count": 6678,
+      "source_span": {
+        "start_char": 22794,
+        "end_char_exclusive": 29472
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "1991-S8-T1-001",
+    "content": "\nInsurance Operations\n\nShown below is an updated version of our usual table\npresenting key figures for the property-casualty insurance\nindustry:\n\n",
+    "metadata": {
+      "letter_year": 1991,
+      "letter_date": "1992-02-28",
+      "source_file": "1991_cleaned.txt",
+      "section_title": "Insurance Operations",
+      "section_hierarchy": [
+        "Letter Body",
+        "Insurance",
+        "Industry Context"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [
+        "1991-S8-T3-001"
+      ],
+      "content_type": "narrative",
+      "contextual_summary": "Introduces the updated industry table for property-casualty insurance and frames how premium growth, combined ratio, and loss-cost growth affect underwriting profitability.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [],
+        "people": [],
+        "metrics": []
+      },
+      "themes": [
+        "insurance industry",
+        "combined ratio"
+      ],
+      "buffett_concepts": [
+        "underwriting cycle"
+      ],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1991,
+        "comparison_years": [],
+        "future_outlook": false
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "high",
+      "token_count": 27,
+      "char_count": 146,
+      "source_span": {
+        "start_char": 29472,
+        "end_char_exclusive": 29618
+      },
+      "standalone_exception": true,
+      "exception_reason": "Below minimum size but required to preserve section boundaries, table integrity, or topic coherence.",
+      "boundary_note": "Industry table separated.",
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "1991-S8-T3-001",
+    "content": "Insurance Operations\n\nYearly Change Combined Ratio Yearly Change Inflation Rate\nin Premiums After Policyholder in Incurred Measured by\nWritten (%) Dividends Losses (%) GDP Deflator (%)\n\n------------- ------------------ ------------- ----------------\n1981 ..... 3.8 106.0 6.5 10.0\n1982 ..... 3.7 109.6 8.4 6.2\n1983 ..... 5.0 112.0 6.8 4.0\n1984 ..... 8.5 118.0 16.9 4.5\n1985 ..... 22.1 116.3 16.1 3.7\n1986 ..... 22.2 108.0 13.5 2.7\n1987 ..... 9.4 104.6 7.8 3.1\n1988 ..... 4.4 105.4 5.5 3.9\n1989 ..... 3.2 109.2 7.7 4.4\n1990 (Revised) 4.4 109.6 4.8 4.1\n1991 (Est.) 3.1 109.1 2.9 3.7\n\nThe combined ratio represents total insurance costs (losses\nincurred plus expenses) compared to revenue from premiums: A\nratio below 100 indicates an underwriting profit, and one above\n100 indicates a loss. The higher the ratio, the worse the year.\nWhen the investment income that an insurer earns from holding\npolicyholders' funds (\"the float\") is taken into account, a\ncombined ratio in the 107 - 111 range typically produces an\noverall break-even result, exclusive of earnings on the funds\nprovided by shareholders.\n\nFor the reasons laid out in previous reports, we expect the\nindustry's incurred losses to grow at close to 10% annually, even\nin periods when general inflation runs considerably lower. (Over\nthe last 25 years, incurred losses have in reality grown at a\nstill faster rate, 11%.) If premium growth meanwhile materially\nlags that 10% rate, underwriting losses will mount.\n\nHowever, the industry's tendency to under-reserve when\nbusiness turns bad may obscure the picture for a time - and that\ncould well describe the situation last year. Though premiums did\nnot come close to growing 10%, the combined ratio failed to\ndeteriorate as I had expected but instead slightly improved.\nLoss-reserve data for the industry indicate that there is reason\nto be skeptical of that outcome, and it may turn out that 1991's\nratio should have been worse than was reported. In the long run,\nof course, trouble awaits managements that paper over operating\nproblems with accounting maneuvers. Eventually, managements of\nthis kind achieve the same result as the seriously-ill patient\nwho tells his doctor: \"I can't afford the operation, but would\nyou accept a small payment to touch up the x-rays?\"\n\n",
+    "metadata": {
+      "letter_year": 1991,
+      "letter_date": "1992-02-28",
+      "source_file": "1991_cleaned.txt",
+      "section_title": "Insurance Operations",
+      "section_hierarchy": [
+        "Tables",
+        "Insurance",
+        "Industry Table and Interpretation"
+      ],
+      "chunk_tier": 3,
+      "parent_chunk_id": "1991-S8-T1-001",
+      "child_chunk_ids": [],
+      "content_type": "financial_table",
+      "contextual_summary": "Contains the industry key-figures table (1981–1991 est.) and Buffett’s interpretation of combined ratios, float economics, expected loss growth, and the dangers of under-reserving.",
+      "has_table": true,
+      "table_data": [
+        {
+          "table_name": "Insurance industry key figures (updated through 1991 est.)",
+          "summary": "Industry table showing premium growth, combined ratio, incurred loss growth, and inflation, used to discuss underwriting-cycle economics and reserving risk.",
+          "columns": [
+            "Year",
+            "Yearly change in premiums written (%)",
+            "Combined ratio (after policyholder dividends)",
+            "Yearly change in incurred losses (%)",
+            "Inflation rate (GDP deflator, %)"
+          ],
+          "rows": [
+            [
+              "1981",
+              "3.8",
+              "106.0",
+              "6.5",
+              "10.0"
+            ],
+            [
+              "1982",
+              "3.7",
+              "109.6",
+              "8.4",
+              "6.2"
+            ],
+            [
+              "1983",
+              "5.0",
+              "112.0",
+              "6.8",
+              "4.0"
+            ],
+            [
+              "1984",
+              "8.5",
+              "118.0",
+              "16.9",
+              "4.5"
+            ],
+            [
+              "1985",
+              "22.1",
+              "116.3",
+              "16.1",
+              "3.7"
+            ],
+            [
+              "1986",
+              "22.2",
+              "108.0",
+              "13.5",
+              "2.7"
+            ],
+            [
+              "1987",
+              "9.4",
+              "104.6",
+              "7.8",
+              "3.1"
+            ],
+            [
+              "1988",
+              "4.4",
+              "105.4",
+              "5.5",
+              "3.9"
+            ],
+            [
+              "1989",
+              "3.2",
+              "109.2",
+              "7.7",
+              "4.4"
+            ],
+            [
+              "1990 (Revised)",
+              "4.4",
+              "109.6",
+              "4.8",
+              "4.1"
+            ],
+            [
+              "1991 (Est.)",
+              "3.1",
+              "109.1",
+              "2.9",
+              "3.7"
+            ]
+          ],
+          "row_count": 11
+        }
+      ],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [],
+        "people": [],
+        "metrics": [
+          "combined ratio",
+          "dividends",
+          "float",
+          "gdp deflator",
+          "incurred losses",
+          "underwriting profit"
+        ]
+      },
+      "themes": [
+        "industry economics",
+        "reserving risk",
+        "combined ratio"
+      ],
+      "buffett_concepts": [
+        "float affects economics"
+      ],
+      "principles": [
+        {
+          "statement": "Over-reserving is preferable to under-reserving; accounting maneuvers that hide operating problems eventually fail.",
+          "category": "risk"
+        }
+      ],
+      "temporal_references": {
+        "primary_year": 1991,
+        "comparison_years": [
+          1981,
+          1982,
+          1983,
+          1984,
+          1985,
+          1986,
+          1987,
+          1988,
+          1989,
+          1990
+        ],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "medium",
+      "token_count": 492,
+      "char_count": 2278,
+      "source_span": {
+        "start_char": 29618,
+        "end_char_exclusive": 31874
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": "Includes table plus immediate interpretation per table-context rule.",
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "1991-S8-T1-002",
+    "content": "Insurance Operations\n\nBerkshire's insurance business has changed in ways that make\ncombined ratios, our own or the industry's, largely irrelevant\nto our performance. What counts with us is the \"cost of funds\ndeveloped from insurance,\" or in the vernacular, \"the cost of\nfloat.\"\n\nFloat - which we generate in exceptional amounts - is the\ntotal of loss reserves, loss adjustment expense reserves and\nunearned premium reserves minus agents balances, prepaid\nacquisition costs and deferred charges applicable to assumed\nreinsurance. And the cost of float is measured by our\nunderwriting loss.\n\nThe table below shows our cost of float since we entered the\nbusiness in 1967.\n\n",
+    "metadata": {
+      "letter_year": 1991,
+      "letter_date": "1992-02-28",
+      "source_file": "1991_cleaned.txt",
+      "section_title": "Insurance Operations",
+      "section_hierarchy": [
+        "Letter Body",
+        "Insurance",
+        "Float Definition",
+        "Cost of Funds"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [
+        "1991-S8-T3-002"
+      ],
+      "content_type": "narrative",
+      "contextual_summary": "Explains why Berkshire focuses on the economic cost of float rather than combined ratios, defines float and cost of float, and sets up the long-term table comparing Berkshire’s cost of funds to government bond yields.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [],
+        "people": [],
+        "metrics": [
+          "float",
+          "underwriting loss"
+        ]
+      },
+      "themes": [
+        "float economics",
+        "measurement"
+      ],
+      "buffett_concepts": [
+        "cost of float"
+      ],
+      "principles": [
+        {
+          "statement": "The economic value of insurance operations depends on the cost of float, not on premium volume or industry combined ratios.",
+          "category": "measurement"
+        }
+      ],
+      "temporal_references": {
+        "primary_year": 1991,
+        "comparison_years": [
+          1967
+        ],
+        "future_outlook": false
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "high",
+      "token_count": 140,
+      "char_count": 670,
+      "source_span": {
+        "start_char": 31874,
+        "end_char_exclusive": 32522
+      },
+      "standalone_exception": true,
+      "exception_reason": "Below minimum size but required to preserve section boundaries, table integrity, or topic coherence.",
+      "boundary_note": "Cost-of-float table separated.",
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "1991-S8-T3-002",
+    "content": "Insurance Operations\n\n(1) (2) Yearend Yield\nUnderwriting Approximate on Long-Term\nLoss Average Float Cost of Funds Govt. Bonds\n------------ ------------- --------------- -------------\n(In $ Millions) (Ratio of 1 to 2)\n\n1967 ........ profit $17.3 less than zero 5.50%\n1968 ........ profit 19.9 less than zero 5.90%\n1969 ........ profit 23.4 less than zero 6.79%\n1970 ........ $0.37 32.4 1.14% 6.25%\n1971 ........ profit 52.5 less than zero 5.81%\n1972 ........ profit 69.5 less than zero 5.82%\n1973 ........ profit 73.3 less than zero 7.27%\n1974 ........ 7.36 79.1 9.30% 8.13%\n1975 ........ 11.35 87.6 12.96% 8.03%\n1976 ........ profit 102.6 less than zero 7.30%\n1977 ........ profit 139.0 less than zero 7.97%\n1978 ........ profit 190.4 less than zero 8.93%\n1979 ........ profit 227.3 less than zero 10.08%\n1980 ........ profit 237.0 less than zero 11.94%\n1981 ........ profit 228.4 less than zero 13.61%\n1982 ........ 21.56 220.6 9.77% 10.64%\n1983 ........ 33.87 231.3 14.64% 11.84%\n1984 ........ 48.06 253.2 18.98% 11.58%\n1985 ........ 44.23 390.2 11.34% 9.34%\n1986 ........ 55.84 797.5 7.00% 7.60%\n1987 ........ 55.43 1,266.7 4.38% 8.95%\n1988 ........ 11.08 1,497.7 0.74% 9.00%\n1989 ........ 24.40 1,541.3 1.58% 7.97%\n1990 ........ 26.65 1,637.3 1.63% 8.24%\n1991 ........ 119.6 1,895.0 6.31% 7.40%\n\nAs you can see, our cost of funds in 1991 was well below the\nU. S. Government's cost on newly-issued long-term bonds. We have in\nfact beat the government's rate in 20 of the 25 years we have been\nin the insurance business, often by a wide margin. We have over\nthat time also substantially increased the amount of funds we hold,\nwhich counts as a favorable development but only because the cost\nof funds has been satisfactory. Our float should continue to grow;\nthe challenge will be to garner these funds at a reasonable cost.\n\n",
+    "metadata": {
+      "letter_year": 1991,
+      "letter_date": "1992-02-28",
+      "source_file": "1991_cleaned.txt",
+      "section_title": "Insurance Operations",
+      "section_hierarchy": [
+        "Tables",
+        "Insurance",
+        "Cost of Float Table and Interpretation"
+      ],
+      "chunk_tier": 3,
+      "parent_chunk_id": "1991-S8-T1-002",
+      "child_chunk_ids": [],
+      "content_type": "financial_table",
+      "contextual_summary": "Shows Berkshire’s cost of float each year since 1967 versus long-term government bond yields, and comments on Berkshire’s historical ability to obtain funds at below-government costs while growing float.",
+      "has_table": true,
+      "table_data": [
+        {
+          "table_name": "Berkshire cost of float vs long-term government bond yields (1967-1991)",
+          "summary": "Shows Berkshire’s underwriting result, average float, and implied cost of funds for each year since entering insurance, compared with long-term U.S. government bond yields.",
+          "columns": [
+            "Year",
+            "Underwriting result ($M or 'profit')",
+            "Approximate average float ($M)",
+            "Cost of funds (underwriting loss / avg float)",
+            "Yield on long-term government bonds"
+          ],
+          "rows": [
+            [
+              "1968",
+              "profit",
+              "19.9",
+              "less than zero",
+              "5.90%"
+            ],
+            [
+              "1969",
+              "profit",
+              "23.4",
+              "less than zero",
+              "6.79%"
+            ],
+            [
+              "1970",
+              "$0.37",
+              "32.4",
+              "1.14%",
+              "6.25%"
+            ],
+            [
+              "1971",
+              "profit",
+              "52.5",
+              "less than zero",
+              "5.81%"
+            ],
+            [
+              "1972",
+              "profit",
+              "69.5",
+              "less than zero",
+              "5.82%"
+            ],
+            [
+              "1973",
+              "profit",
+              "73.3",
+              "less than zero",
+              "7.27%"
+            ],
+            [
+              "1974",
+              "7.36",
+              "79.1",
+              "9.30%",
+              "8.13%"
+            ],
+            [
+              "1975",
+              "11.35",
+              "87.6",
+              "12.96%",
+              "8.03%"
+            ],
+            [
+              "1976",
+              "profit",
+              "102.6",
+              "less than zero",
+              "7.30%"
+            ],
+            [
+              "1977",
+              "profit",
+              "139",
+              "less than zero",
+              "7.97%"
+            ],
+            [
+              "1978",
+              "profit",
+              "190.4",
+              "less than zero",
+              "8.93%"
+            ],
+            [
+              "1979",
+              "profit",
+              "227.3",
+              "less than zero",
+              "10.08%"
+            ],
+            [
+              "1980",
+              "profit",
+              "237",
+              "less than zero",
+              "11.94%"
+            ],
+            [
+              "1981",
+              "profit",
+              "228.4",
+              "less than zero",
+              "13.61%"
+            ],
+            [
+              "1982",
+              "21.56",
+              "220.6",
+              "9.77%",
+              "10.64%"
+            ],
+            [
+              "1983",
+              "33.87",
+              "231.3",
+              "14.64%",
+              "11.84%"
+            ],
+            [
+              "1984",
+              "48.06",
+              "253.2",
+              "18.98%",
+              "11.58%"
+            ],
+            [
+              "1985",
+              "44.23",
+              "390.2",
+              "11.34%",
+              "9.34%"
+            ],
+            [
+              "1986",
+              "55.84",
+              "797.5",
+              "7.00%",
+              "7.60%"
+            ],
+            [
+              "1987",
+              "55.43",
+              "1266.7",
+              "4.38%",
+              "8.95%"
+            ],
+            [
+              "1988",
+              "11.08",
+              "1497.7",
+              "0.74%",
+              "9.00%"
+            ],
+            [
+              "1989",
+              "24.40",
+              "1541.3",
+              "1.58%",
+              "7.97%"
+            ],
+            [
+              "1990",
+              "26.65",
+              "1637.3",
+              "1.63%",
+              "8.24%"
+            ],
+            [
+              "1991",
+              "119.6",
+              "1895",
+              "6.31%",
+              "7.40%"
+            ]
+          ],
+          "row_count": 24
+        }
+      ],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [],
+        "people": [],
+        "metrics": [
+          "$0.37",
+          "$17.3",
+          "float"
+        ]
+      },
+      "themes": [
+        "float",
+        "underwriting profitability",
+        "cost of capital"
+      ],
+      "buffett_concepts": [
+        "float as funding"
+      ],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1991,
+        "comparison_years": [
+          1967,
+          1968,
+          1969,
+          1970,
+          1971,
+          1972,
+          1973,
+          1974,
+          1975,
+          1976,
+          1977,
+          1978,
+          1979,
+          1980,
+          1981,
+          1982,
+          1983,
+          1984,
+          1985,
+          1986,
+          1987,
+          1988,
+          1989,
+          1990
+        ],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "low",
+      "token_count": 400,
+      "char_count": 1829,
+      "source_span": {
+        "start_char": 32522,
+        "end_char_exclusive": 34329
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": "Includes full cost-of-float table plus immediate interpretation.",
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "1991-S8-T1-003",
+    "content": "Insurance Operations\n\nBerkshire continues to be a very large writer - perhaps the\nlargest in the world - of \"super-cat\" insurance, which is coverage\nthat other insurance companies buy to protect themselves against\nmajor catastrophic losses. Profits in this business are enormously\nvolatile. As I mentioned last year, $100 million in super-cat\npremiums, which is roughly our annual expectation, could deliver us\nanything from a $100 million profit (in a year with no big\ncatastrophe) to a $200 million loss (in a year in which a couple of\nmajor hurricanes and/or earthquakes come along).\n\nWe price this business expecting to pay out, over the long\nterm, about 90% of the premiums we receive. In any given year,\nhowever, we are likely to appear either enormously profitable or\nenormously unprofitable. That is true in part because GAAP\naccounting does not allow us to set up reserves in the catastrophefree years for losses that are certain to be experienced in other\nyears. In effect, a one-year accounting cycle is ill-suited to the\nnature of this business - and that is a reality you should be aware\nof when you assess our annual results.\n\nLast year there appears to have been, by our definition, one\nsuper-cat, but it will trigger payments from only about 25% of our\npolicies. Therefore, we currently estimate the 1991 underwriting\nprofit from our catastrophe business to have been about $11\nmillion. (You may be surprised to learn the identity of the biggest\ncatastrophe in 1991: It was neither the Oakland fire nor Hurricane\nBob, but rather a September typhoon in Japan that caused the\nindustry an insured loss now estimated at about $4-$5 billion. At\nthe higher figure, the loss from the typhoon would surpass that\nfrom Hurricane Hugo, the previous record-holder.)\n\nInsurers will always need huge amounts of reinsurance\nprotection for marine and aviation disasters as well as for natural\ncatastrophes. In the 1980's much of this reinsurance was supplied\nby \"innocents\" - that is, by insurers that did not understand the\nrisks of the business - but they have now been financially burned\nbeyond recognition. (Berkshire itself was an innocent all too often\nwhen I was personally running the insurance operation.) Insurers,\nthough, like investors, eventually repeat their mistakes. At some\npoint - probably after a few catastrophe-scarce years - innocents\nwill reappear and prices for super-cat policies will plunge to\nsilly levels.\n\nAs long as apparently-adequate rates prevail, however, we will\nbe a major participant in super-cat coverages. In marketing this\nproduct, we enjoy a significant competitive advantage because of\nour premier financial strength. Thinking insurers know that when\n\"the big one\" comes, many reinsurers who found it easy to write\npolicies will find it difficult to write checks. (Some reinsurers\ncan say what Jackie Mason does: \"I'm fixed for life - as long as I\ndon't buy anything.\") Berkshire's ability to fulfill all its\ncommitments under conditions of even extreme adversity is\nunquestioned.\n\nOverall, insurance offers Berkshire its greatest\nopportunities. Mike Goldberg has accomplished wonders with this\noperation since he took charge and it has become a very valuable\nasset, albeit one that can't be appraised with any precision.\n",
+    "metadata": {
+      "letter_year": 1991,
+      "letter_date": "1992-02-28",
+      "source_file": "1991_cleaned.txt",
+      "section_title": "Insurance Operations",
+      "section_hierarchy": [
+        "Letter Body",
+        "Insurance",
+        "Super-Cat Reinsurance",
+        "Financial Strength"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "narrative",
+      "contextual_summary": "Discusses Berkshire’s super-catastrophe reinsurance business, volatility and GAAP limitations for catastrophe cycles, the role of ‘innocent’ underwriters in pricing cycles, and Berkshire’s competitive advantage from exceptional financial strength and ability to pay under extreme adversity.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [],
+        "people": [
+          "Jackie Mason"
+        ],
+        "metrics": [
+          "$100 million",
+          "$11\nmillion",
+          "$200 million",
+          "$4",
+          "$5 billion"
+        ]
+      },
+      "themes": [
+        "catastrophe reinsurance",
+        "risk management",
+        "cycle dynamics"
+      ],
+      "buffett_concepts": [
+        "be greedy when others are fearful (cycle)",
+        "financial strength matters"
+      ],
+      "principles": [
+        {
+          "statement": "In lines with lumpy, catastrophic risk, one-year accounting can mislead; evaluate economics over full cycles.",
+          "category": "measurement"
+        },
+        {
+          "statement": "Financial strength is a durable competitive advantage in insurance because counterparties care about claims-paying ability under stress.",
+          "category": "business_quality"
+        }
+      ],
+      "temporal_references": {
+        "primary_year": 1991,
+        "comparison_years": [
+          1980
+        ],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "high",
+      "token_count": 700,
+      "char_count": 3264,
+      "source_span": {
+        "start_char": 34329,
+        "end_char_exclusive": 37571
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "1991-S9-T1-001",
+    "content": "\nMarketable Common Stocks\n\nOn the next page we list our common stock holdings having a\nvalue of over $100 million. A small portion of these investments\nbelongs to subsidiaries of which Berkshire owns less than 100%.\n\n",
+    "metadata": {
+      "letter_year": 1991,
+      "letter_date": "1992-02-28",
+      "source_file": "1991_cleaned.txt",
+      "section_title": "Marketable Common Stocks",
+      "section_hierarchy": [
+        "Letter Body",
+        "Investing",
+        "Major Holdings Overview"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [
+        "1991-S9-T3-001"
+      ],
+      "content_type": "narrative",
+      "contextual_summary": "Introduces Berkshire’s major common stock holdings over $100 million and notes that some positions are held by partially owned subsidiaries.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [],
+        "people": [],
+        "metrics": [
+          "$100 million"
+        ]
+      },
+      "themes": [
+        "portfolio",
+        "holdings disclosure"
+      ],
+      "buffett_concepts": [
+        "concentration"
+      ],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1991,
+        "comparison_years": [],
+        "future_outlook": false
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "high",
+      "token_count": 48,
+      "char_count": 217,
+      "source_span": {
+        "start_char": 37571,
+        "end_char_exclusive": 37788
+      },
+      "standalone_exception": true,
+      "exception_reason": "Below minimum size but required to preserve section boundaries, table integrity, or topic coherence.",
+      "boundary_note": "Holdings table separated.",
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "1991-S9-T3-001",
+    "content": "Marketable Common Stocks\n\n12/31/91\nShares Company Cost Market\n\n------ ------- ---------- ----------\n(000 s omitted)\n3,000,000 Capital Cities/ABC, Inc. ............ $ 517,500 $1,300,500\n46,700,000 The Coca-Cola Company. .............. 1,023,920 3,747,675\n2,495,200 Federal Home Loan Mortgage Corp. .... 77,245 343,090\n6,850,000 GEICO Corp. ......................... 45,713 1,363,150\n24,000,000 The Gillette Company ................ 600,000 1,347,000\n31,247,000 Guinness PLC ........................ 264,782 296,755\n1,727,765 The Washington Post Company ......... 9,731 336,050\n5,000,000 Wells Fargo & Company 289,431 290,000",
+    "metadata": {
+      "letter_year": 1991,
+      "letter_date": "1992-02-28",
+      "source_file": "1991_cleaned.txt",
+      "section_title": "Marketable Common Stocks",
+      "section_hierarchy": [
+        "Tables",
+        "Investing",
+        "Major Common Stock Holdings"
+      ],
+      "chunk_tier": 3,
+      "parent_chunk_id": "1991-S9-T1-001",
+      "child_chunk_ids": [],
+      "content_type": "financial_table",
+      "contextual_summary": "Lists Berkshire’s marketable common stock holdings over $100 million at 12/31/1991 (shares, cost, and market value).",
+      "has_table": true,
+      "table_data": [
+        {
+          "table_name": "Marketable common stock holdings over $100 million (12/31/1991)",
+          "summary": "Lists Berkshire’s common stock holdings over $100 million (shares, cost, market) at December 31, 1991.",
+          "columns": [
+            "Shares",
+            "Company",
+            "Cost ($000s)",
+            "Market ($000s)"
+          ],
+          "rows": [
+            [
+              "3,000,000",
+              "Capital Cities/ABC, Inc.",
+              "$517,500",
+              "$1,300,500"
+            ],
+            [
+              "46,700,000",
+              "The Coca-Cola Company.",
+              "$1,023,920",
+              "$3,747,675"
+            ],
+            [
+              "2,495,200",
+              "Federal Home Loan Mortgage Corp.",
+              "$77,245",
+              "$343,090"
+            ],
+            [
+              "6,850,000",
+              "GEICO Corp.",
+              "$45,713",
+              "$1,363,150"
+            ],
+            [
+              "24,000,000",
+              "The Gillette Company",
+              "$600,000",
+              "$1,347,000"
+            ],
+            [
+              "31,247,000",
+              "Guinness PLC",
+              "$264,782",
+              "$296,755"
+            ],
+            [
+              "1,727,765",
+              "The Washington Post Company",
+              "$9,731",
+              "$336,050"
+            ],
+            [
+              "5,000,000",
+              "Wells Fargo & Company",
+              "$289,431",
+              "$290,000"
+            ]
+          ],
+          "row_count": 8
+        }
+      ],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "Capital Cities/ABC",
+          "Capital Cities/ABC, Inc.",
+          "Coca-Cola",
+          "Federal Home Loan Mortgage Corp.",
+          "GEICO",
+          "GEICO Corp.",
+          "Gillette",
+          "Shares Company",
+          "The Coca-Cola Company",
+          "The Gillette Company",
+          "The Washington Post Company",
+          "Washington Post",
+          "Wells Fargo",
+          "Wells Fargo & Company"
+        ],
+        "people": [],
+        "metrics": [
+          "$ 517,500",
+          "$1,300,500"
+        ]
+      },
+      "themes": [
+        "holdings",
+        "cost vs market"
+      ],
+      "buffett_concepts": [
+        "stay-put investing"
+      ],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1991,
+        "comparison_years": [],
+        "future_outlook": false
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "low",
+      "token_count": 98,
+      "char_count": 623,
+      "source_span": {
+        "start_char": 37788,
+        "end_char_exclusive": 38385
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "1991-S9-T1-002",
+    "content": "Marketable Common Stocks\n\n\n\nAs usual the list reflects our Rip Van Winkle approach to\ninvesting. Guinness is a new position. But we held the other seven\nstocks a year ago (making allowance for the conversion of our\nGillette position from preferred to common) and in six of those we\nhold an unchanged number of shares. The exception is Federal Home\nLoan Mortgage (\"Freddie Mac\"), in which our shareholdings increased\nslightly. Our stay-put behavior reflects our view that the stock\nmarket serves as a relocation center at which money is moved from\nthe active to the patient. (With tongue only partly in check, I\nsuggest that recent events indicate that the much-maligned \"idle\nrich\" have received a bad rap: They have maintained or increased\ntheir wealth while many of the \"energetic rich\" - aggressive real\nestate operators, corporate acquirers, oil drillers, etc. - have\nseen their fortunes disappear.)\n\nOur Guinness holding represents Berkshire's first significant\ninvestment in a company domiciled outside the United States.\nGuinness, however, earns its money in much the same fashion as\nCoca-Cola and Gillette, U. S.-based companies that garner most of\ntheir profits from international operations. Indeed, in the sense\nof where they earn their profits - continent-by-continent - Coca Cola and Guinness display strong similarities. (But you'll never\nget their drinks confused - and your Chairman remains unmovably in\nthe Cherry Coke camp.)\n\nWe continually search for large businesses with\nunderstandable, enduring and mouth-watering economics that are run\nby able and shareholder-oriented managements. This focus doesn't\nguarantee results: We both have to buy at a sensible price and get\nbusiness performance from our companies that validates our\nassessment. But this investment approach - searching for the\nsuperstars - offers us our only chance for real success. Charlie\nand I are simply not smart enough, considering the large sums we\nwork with, to get great results by adroitly buying and selling\nportions of far-from-great businesses. Nor do we think many others\ncan achieve long-term investment success by flitting from flower to\nflower. Indeed, we believe that according the name \"investors\" to\ninstitutions that trade actively is like calling someone who\nrepeatedly engages in one-night stands a romantic.\n\nIf my universe of business possibilities was limited, say, to\nprivate companies in Omaha, I would, first, try to assess the longterm economic characteristics of each business; second, assess the\nquality of the people in charge of running it; and, third, try to\nbuy into a few of the best operations at a sensible price. I\ncertainly would not wish to own an equal part of every business in\ntown. Why, then, should Berkshire take a different tack when\ndealing with the larger universe of public companies? And since\nfinding great businesses and outstanding managers is so difficult,\nwhy should we discard proven products? (I was tempted to say \"the\nreal thing.\") Our motto is: \"If at first you do succeed, quit\ntrying.\"\n\nJohn Maynard Keynes, whose brilliance as a practicing investor\nmatched his brilliance in thought, wrote a letter to a business\nassociate, F. C. Scott, on August 15,1934 that says it all: \"As\ntime goes on, I get more and more convinced that the right method\nin investment is to put fairly large sums into enterprises which\none thinks one knows something about and in the management of which\none thoroughly believes. It is a mistake to think that one limits\none's risk by spreading too much between enterprises about which\none knows little and has no reason for special confidence. . . .\nOne's knowledge and experience are definitely limited and there are\nseldom more than two or three enterprises at any given time in\nwhich I personally feel myself entitled to put\nfull\nconfidence.\"\n",
+    "metadata": {
+      "letter_year": 1991,
+      "letter_date": "1992-02-28",
+      "source_file": "1991_cleaned.txt",
+      "section_title": "Marketable Common Stocks",
+      "section_hierarchy": [
+        "Letter Body",
+        "Investing",
+        "Concentration and Patience",
+        "Keynes Quote"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "principle_statement",
+      "contextual_summary": "Explains Berkshire’s ‘Rip Van Winkle’ approach to investing, discusses the rationale for concentrating in a few outstanding businesses with durable economics and great managers, critiques hyperactive trading, and quotes Keynes on focused investing within one’s limited knowledge.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "Coca-Cola",
+          "Freddie Mac",
+          "Gillette"
+        ],
+        "people": [
+          "F. C. Scott",
+          "John Maynard Keynes"
+        ],
+        "metrics": []
+      },
+      "themes": [
+        "long-term investing",
+        "concentration",
+        "behavior"
+      ],
+      "buffett_concepts": [
+        "relocation center: active to patient",
+        "own great businesses",
+        "circle of competence"
+      ],
+      "principles": [
+        {
+          "statement": "Concentrate in a few businesses you understand and trust, bought at sensible prices; excessive diversification can increase ignorance, not reduce risk.",
+          "category": "behavior"
+        }
+      ],
+      "temporal_references": {
+        "primary_year": 1991,
+        "comparison_years": [
+          1934
+        ],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "high",
+      "token_count": 824,
+      "char_count": 3819,
+      "source_span": {
+        "start_char": 38385,
+        "end_char_exclusive": 42178
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "1991-S10-T1-001",
+    "content": "\nMistake Du Jour\n\nIn the 1989 annual report I wrote about \"Mistakes of the First\n25 Years\" and promised you an update in 2015. My experiences in the\nfirst few years of this second \"semester\" indicate that my backlog\nof matters to be discussed will become unmanageable if I stick to\nmy original plan. Therefore, I will occasionally unburden myself in\nthese pages in the hope that public confession may deter further\nbumblings. (Post-mortems prove useful for hospitals and football\nteams; why not for businesses and investors?)\n\nTypically, our most egregious mistakes fall in the omission,\nrather than the commission, category. That may spare Charlie and me\nsome embarrassment, since you don't see these errors; but their\ninvisibility does not reduce their cost. In this mea culpa, I am\nnot talking about missing out on some company that depends upon an\nesoteric invention (such as Xerox), high-technology (Apple), or\neven brilliant merchandising (Wal-Mart). We will never develop the\ncompetence to spot such businesses early. Instead I refer to\nbusiness situations that Charlie and I can understand and that seem\nclearly attractive - but in which we nevertheless end up sucking\nour thumbs rather than buying.\n\nEvery writer knows it helps to use striking examples, but I\nwish the one I now present wasn't quite so dramatic: In early 1988,\nwe decided to buy 30 million shares (adjusted for a subsequent\nsplit) of Federal National Mortgage Association (Fannie Mae), which\nwould have been a $350-$400 million investment. We had owned the\nstock some years earlier and understood the company's business.\nFurthermore, it was clear to us that David Maxwell, Fannie Mae's\nCEO, had dealt superbly with some problems that he had inherited\nand had established the company as a financial powerhouse - with\nthe best yet to come. I visited David in Washington and confirmed\nthat he would not be uncomfortable if we were to take a large\nposition.\n\nAfter we bought about 7 million shares, the price began to\nclimb. In frustration, I stopped buying (a mistake that,\nthankfully, I did not repeat when Coca-Cola stock rose similarly\nduring our purchase program). In an even sillier move, I\nsurrendered to my distaste for holding small positions and sold the\n7 million shares we owned.\n\nI wish I could give you a halfway rational explanation for my\namateurish behavior vis-a-vis Fannie Mae. But there isn't one.\nWhat I\ncan\ngive you is an estimate as of yearend 1991 of the\napproximate gain that Berkshire\ndidn't\nmake because of your\nChairman's mistake: about $1.4 billion.\n",
+    "metadata": {
+      "letter_year": 1991,
+      "letter_date": "1992-02-28",
+      "source_file": "1991_cleaned.txt",
+      "section_title": "Mistake Du Jour",
+      "section_hierarchy": [
+        "Letter Body",
+        "Mistakes",
+        "Omission vs Commission",
+        "Fannie Mae Example"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "narrative",
+      "contextual_summary": "Introduces periodic ‘Mistake Du Jour’ confessions, emphasizes that major mistakes often come from omissions, and recounts a costly missed opportunity in Fannie Mae caused by stopping purchases as the price rose and then exiting a small position.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "Coca-Cola",
+          "Fannie Mae",
+          "Federal National Mortgage Association"
+        ],
+        "people": [
+          "David Maxwell"
+        ],
+        "metrics": [
+          "$1.4 billion",
+          "$350",
+          "$400 million"
+        ]
+      },
+      "themes": [
+        "behavioral errors",
+        "opportunity cost"
+      ],
+      "buffett_concepts": [
+        "omission mistakes",
+        "price movement psychology"
+      ],
+      "principles": [
+        {
+          "statement": "Some of the most expensive mistakes are omissions—failing to act on understandable, attractive opportunities.",
+          "category": "behavior"
+        },
+        {
+          "statement": "Don’t let short-term price moves derail a sound, deliberate accumulation plan.",
+          "category": "behavior"
+        }
+      ],
+      "temporal_references": {
+        "primary_year": 1991,
+        "comparison_years": [
+          1988,
+          1989,
+          2015
+        ],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "high",
+      "token_count": 564,
+      "char_count": 2551,
+      "source_span": {
+        "start_char": 42178,
+        "end_char_exclusive": 44729
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "1991-S11-T1-001",
+    "content": "\nFixed-Income Securities\n\nWe made several significant changes in our fixed-income\nportfolio during 1991. As I noted earlier, our Gillette preferred\nwas called for redemption, which forced us to convert to common\nstock; we eliminated our holdings of an RJR Nabisco issue that was\nsubject to an exchange offer and subsequent call; and we purchased\nfixed-income securities of American Express and First Empire State\nCorp., a Buffalo-based bank holding company. We also added to a\nsmall position in ACF Industries that we had established in late\n1990. Our largest holdings at yearend were:\n\n",
+    "metadata": {
+      "letter_year": 1991,
+      "letter_date": "1992-02-28",
+      "source_file": "1991_cleaned.txt",
+      "section_title": "Fixed-Income Securities",
+      "section_hierarchy": [
+        "Letter Body",
+        "Fixed Income",
+        "Portfolio Changes",
+        "Preferred Structures"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [
+        "1991-S11-T3-001"
+      ],
+      "content_type": "narrative",
+      "contextual_summary": "Reviews major fixed-income portfolio changes in 1991 (Gillette conversion, RJR Nabisco exit, new preferred/bond positions), and introduces the year-end list of largest holdings.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "ACF Industries",
+          "American Express",
+          "First Empire State",
+          "Gillette",
+          "RJR Nabisco"
+        ],
+        "people": [],
+        "metrics": []
+      },
+      "themes": [
+        "fixed income",
+        "capital allocation"
+      ],
+      "buffett_concepts": [
+        "convertible preferreds",
+        "forced conversion"
+      ],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1991,
+        "comparison_years": [
+          1990
+        ],
+        "future_outlook": false
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "high",
+      "token_count": 123,
+      "char_count": 587,
+      "source_span": {
+        "start_char": 44729,
+        "end_char_exclusive": 45316
+      },
+      "standalone_exception": true,
+      "exception_reason": "Below minimum size but required to preserve section boundaries, table integrity, or topic coherence.",
+      "boundary_note": "Holdings table separated.",
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "1991-S11-T3-001",
+    "content": "Fixed-Income Securities\n\n(000 s omitted)\n---------------------------------------\nCost of Preferreds and\nIssuer Amortized Value of Bonds Market\n------ ------------------------ ------------\nACF Industries ................ $ 93,918(2) $118,683\nAmerican Express .............. 300,000 263,265(1)(2)\nChampion International ........ 300,000(2) 300,000(1)\nFirst Empire State 40,000 50,000(1)(2)\nRJR Nabisco 222,148(2) 285,683\nSalomon 700,000(2) 714,000(1)\nUSAir 358,000(2) 232,700(1)\nWashington Public Power Systems 158,553(2) 203,071",
+    "metadata": {
+      "letter_year": 1991,
+      "letter_date": "1992-02-28",
+      "source_file": "1991_cleaned.txt",
+      "section_title": "Fixed-Income Securities",
+      "section_hierarchy": [
+        "Tables",
+        "Fixed Income",
+        "Major Holdings"
+      ],
+      "chunk_tier": 3,
+      "parent_chunk_id": "1991-S11-T1-001",
+      "child_chunk_ids": [],
+      "content_type": "financial_table",
+      "contextual_summary": "Lists Berkshire’s largest fixed-income holdings at year-end 1991 with cost/carrying values and market/fair-value estimates, plus related footnotes.",
+      "has_table": true,
+      "table_data": [
+        {
+          "table_name": "Major fixed-income holdings (year-end 1991)",
+          "summary": "Shows Berkshire’s largest preferred and bond holdings with cost/amortized carrying values and Berkshire’s estimated market values, including footnotes on valuation and carrying values.",
+          "columns": [
+            "Issuer",
+            "Cost / amortized (as shown) ($000s)",
+            "Market / fair value ($000s)"
+          ],
+          "rows": [
+            [
+              "ACF Industries",
+              "$93,918",
+              "$118,683"
+            ],
+            [
+              "American Express",
+              "$300,000",
+              "$263,265"
+            ],
+            [
+              "Champion International",
+              "$300,000",
+              "$300,000"
+            ],
+            [
+              "First Empire State",
+              "$40,000",
+              "$50,000"
+            ],
+            [
+              "RJR Nabisco",
+              "$222,148",
+              "$285,683"
+            ],
+            [
+              "Salomon",
+              "$700,000",
+              "$714,000"
+            ],
+            [
+              "USAir",
+              "$358,000",
+              "$232,700"
+            ],
+            [
+              "Washington Public Power Systems",
+              "$158,553",
+              "$203,071"
+            ]
+          ],
+          "row_count": 8,
+          "notes": []
+        }
+      ],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "ACF Industries",
+          "American Express",
+          "Champion International",
+          "First Empire State",
+          "RJR Nabisco",
+          "Salomon",
+          "USAir",
+          "Washington Public Power Systems"
+        ],
+        "people": [],
+        "metrics": [
+          "$ 93,918",
+          "$118,683"
+        ]
+      },
+      "themes": [
+        "preferreds",
+        "bonds",
+        "valuation"
+      ],
+      "buffett_concepts": [
+        "fair value estimates"
+      ],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1991,
+        "comparison_years": [],
+        "future_outlook": false
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "low",
+      "token_count": 75,
+      "char_count": 527,
+      "source_span": {
+        "start_char": 45316,
+        "end_char_exclusive": 45818
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "1991-S11-T1-002",
+    "content": "Fixed-Income Securities\n\n\n\n(1) Fair value as determined by Charlie and me\n(2) Carrying value in our financial statements\n\nOur $40 million of First Empire State preferred carries a 9%\ncoupon, is non-callable until 1996 and is convertible at $78.91 per\nshare. Normally I would think a purchase of this size too small for\nBerkshire, but I have enormous respect for Bob Wilmers, CEO of\nFirst Empire, and like being his partner on any scale.\n\nOur American Express preferred is not a normal fixed-income\nsecurity. Rather it is a \"Perc,\" which carries a fixed dividend of\n8.85% on our $300 million cost. Absent one exception mentioned\nlater, our preferred must be converted three years after issuance,\ninto a maximum of 12,244,898 shares. If necessary, a downward\nadjustment in the conversion ratio will be made in order to limit\nto $414 million the total value of the common we receive. Though\nthere is thus a ceiling on the value of the common stock that we\nwill receive upon conversion, there is no floor. The terms of the\npreferred, however, include a provision allowing us to extend the\nconversion date by one year if the common stock is below $24.50 on\nthe third anniversary of our purchase.\n\nOverall, our fixed-income investments have treated us well,\nboth over the long term and recently. We have realized large\ncapital gains from these holdings, including about $152 million in\n1991. Additionally, our after-tax yields have considerably exceeded\nthose earned by most fixed-income portfolios.\n\nNevertheless, we have had some surprises, none greater than\nthe need for me to involve myself personally and intensely in the\nSalomon situation. As I write this letter, I am also writing a\nletter for inclusion in Salomon's annual report and I refer you to\nthat report for an update on the company. (Write to: Corporate\nSecretary, Salomon Inc, Seven World Trade Center, New York, NY\n10048) Despite the company's travails, Charlie and I believe our\nSalomon preferred stock increased slightly in value during 1991.\nLower interest rates and a higher price for Salomon's common\nproduced this result.\n\nLast year I told you that our USAir investment \"should work\nout all right unless the industry is decimated during the next few\nyears.\" Unfortunately 1991 was a decimating period for the\nindustry, as Midway, Pan Am and America West all entered\nbankruptcy. (Stretch the period to 14 months and you can add\nContinental and TWA.)\n\nThe low valuation that we have given USAir in our table\nreflects the risk that the industry will remain unprofitable for\nvirtually all participants in it, a risk that is far from\nnegligible. The risk is heightened by the fact that the courts have\nbeen encouraging bankrupt carriers to continue operating. These\ncarriers can temporarily charge fares that are below the industry's\ncosts because the bankrupts don't incur the capital costs faced by\ntheir solvent brethren and because they can fund their losses - and\nthereby stave off shutdown - by selling off assets. This burn-thefurniture-to-provide-firewood approach to fare-setting by bankrupt\ncarriers contributes to the toppling of previously-marginal\ncarriers, creating a domino effect that is perfectly designed to\nbring the industry to its knees.\n\nSeth Schofield, who became CEO of USAir in 1991, is making\nmajor adjustments in the airline's operations in order to improve\nits chances of being one of the few industry survivors. There is no\ntougher job in corporate America than running an airline: Despite\nthe huge amounts of equity capital that have been injected into it,\nthe industry, in aggregate, has posted a net loss since its birth\nafter Kitty Hawk. Airline managers need brains, guts, and\nexperience - and Seth possesses all three of these attributes.\n",
+    "metadata": {
+      "letter_year": 1991,
+      "letter_date": "1992-02-28",
+      "source_file": "1991_cleaned.txt",
+      "section_title": "Fixed-Income Securities",
+      "section_hierarchy": [
+        "Letter Body",
+        "Fixed Income",
+        "Salomon Update",
+        "USAir Risk",
+        "Airline Economics"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "narrative",
+      "contextual_summary": "Explains details of First Empire State and American Express preferred structures, reflects on realized gains and yields, references Salomon’s situation and valuation, and discusses USAir’s risks amid airline bankruptcies and the systemic strain caused when bankrupt carriers keep flying while burning assets to fund losses.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "American Express",
+          "First Empire State",
+          "Salomon",
+          "Salomon Inc",
+          "USAir"
+        ],
+        "people": [
+          "Bob Wilmers",
+          "Seth Schofield"
+        ],
+        "metrics": [
+          "$152 million",
+          "$24.50",
+          "$300 million",
+          "$40 million",
+          "$414 million",
+          "$78.91",
+          "convertible",
+          "coupon",
+          "non-callable"
+        ]
+      },
+      "themes": [
+        "credit risk",
+        "structured preferreds",
+        "industry economics"
+      ],
+      "buffett_concepts": [
+        "downside risk matters",
+        "bankruptcy distortions"
+      ],
+      "principles": [
+        {
+          "statement": "In distressed industries, bankruptcy dynamics can distort competition and prolong losses for solvent participants.",
+          "category": "risk"
+        }
+      ],
+      "temporal_references": {
+        "primary_year": 1991,
+        "comparison_years": [
+          1996
+        ],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "high",
+      "token_count": 816,
+      "char_count": 3737,
+      "source_span": {
+        "start_char": 45818,
+        "end_char_exclusive": 49530
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "1991-S12-T1-001",
+    "content": "\nMiscellaneous\n\nAbout 97.7% of all eligible shares participated in Berkshire's\n1991 shareholder-designated contributions program. Contributions\nmade through the program were $6.8 million, and 2,630 charities\nwere recipients.\n\nWe suggest that new shareholders read the description of our\nshareholder-designated contributions program that appears on pages\n48-49. To participate in future programs, you must make sure your\nshares are registered in the name of the actual owner, not in the\nnominee name of a broker, bank or depository. Shares not so\nregistered on August 31,1992 will be ineligible for the 1992\nprogram.\n\nIn addition to the shareholder-designated contributions that\nBerkshire distributes, managers of our operating businesses make\ncontributions, including merchandise, averaging about $1.5 million\nannually. These contributions support local charities, such as The\nUnited Way, and produce roughly commensurate benefits for our\nbusinesses.\n\nHowever, neither our operating managers nor officers of the\nparent company use Berkshire funds to make contributions to broad\nnational programs or charitable activities of special personal\ninterest to them, except to the extent they do so as shareholders.\nIf your employees, including your CEO, wish to give to their alma\nmaters or other institutions to which they feel a personal\nattachment, we believe they should use their own money, not yours.\n\n* * * * * * * * * * * *\n\nThe faithful will notice that, for the first time in some\nyears, Charlie's annual letter to Wesco shareholders is not\nreprinted in this report. Since his letter is relatively barebones\nthis year, Charlie said he saw no point in including it in these\npages; my own recommendation, however, is that you get a copy of\nthe Wesco report. Simply write: Corporate Secretary, Wesco\nFinancial Corporation, 315 East Colorado Boulevard, Pasadena, CA\n91101.\n\n* * * * * * * * * * * *\n\nMalcolm G. Chace, Jr., now 88, has decided not to stand for\nelection as a director this year. But the association of the Chace\nfamily with Berkshire will not end: Malcolm III (Kim), Malcolm's\nson, will be nominated to replace him.\n\nIn 1931, Malcolm went to work for Berkshire Fine Spinning\nAssociates, which merged with Hathaway Manufacturing Co. in 1955 to\nform our present company. Two years later, Malcolm became Berkshire\nHathaway's Chairman, a position he held as well in early 1965 when\nhe made it possible for Buffett Partnership, Ltd. to buy a key\nblock of Berkshire stock owned by some of his relatives. This\npurchase gave our partnership effective control of the company.\nMalcolm's immediate family meanwhile kept its Berkshire stock and\nfor the last 27 years has had the second-largest holding in the\ncompany, trailing only the Buffett family. Malcolm has been a joy\nto work with and we are delighted that the long-running\nrelationship between the Chace family and Berkshire is continuing\nto a new generation.\n\n* * * * * * * * * * * *\n\nThe annual meeting this year will be held at the Orpheum\nTheater in downtown Omaha at 9: 30 a. m. on Monday, April 27,1992.\nAttendance last year grew to a record 1,550, but that still leaves\nplenty of room at the Orpheum.\n\nWe recommend that you get your hotel reservations early at one\nof these hotels: (1) The Radisson-Redick Tower, a small (88 rooms)\nbut nice hotel across the street from the Orpheum; (2) the much\nlarger Red Lion Hotel, located about a five-minute walk from the\nOrpheum; or (3) the Marriott, located in West Omaha about 100 yards\nfrom Borsheim's and a twenty minute drive from downtown. We will\nhave buses at the Marriott that will leave at 8: 30 and 8: 45 for the\nmeeting and return after it ends.\n\nCharlie and I always enjoy the meeting, and we hope you can\nmake it. The quality of our shareholders is reflected in the\nquality of the questions we get: We have never attended an annual\nmeeting anywhere that features such a consistently high level of\nintelligent, owner-related questions.\n\nAn attachment to our proxy material explains how you can\nobtain the card you will need for admission to the meeting. With\nthe admission card, we will enclose information about parking\nfacilities located near the Orpheum. If you are driving, come a\nlittle early. Nearby lots fill up quickly and you may have to\nwalk a few blocks.\n\nAs usual, we will have buses to take you to Nebraska Furniture\nMart and Borsheim's after the meeting and to take you from there to\ndowntown hotels or the airport later. I hope that you will allow\nplenty of time to fully explore the attractions of both stores.\nThose of you arriving early can visit the Furniture Mart any day of\nthe week; it is open from 10 a. m. to 5: 30 p. m. on Saturdays and\nfrom noon to 5: 30 p. m. on Sundays. While there, stop at the See's\nCandy Cart and find out for yourself why Americans ate 26 million\npounds of See's products last year.\n\nBorsheim's normally is closed on Sunday, but we will be open\nfor shareholders and their guests from noon to 6 p. m. on Sunday,\nApril 26. Borsheim's will also have a special party the previous\nevening at which shareholders are welcome. (You must, however,\nwrite Mrs. Gladys Kaiser at our office for an invitation.) On\ndisplay that evening will be a 150-year retrospective of the most\nexceptional timepieces made by Patek Philippe, including watches\nonce owned by Queen Victoria, Pope Pius IX, Rudyard Kipling, Madame\nCurie and Albert Einstein. The centerpiece of the exhibition will\nbe a $5 million watch whose design and manufacture required nine\nyears of labor by Patek Philippe craftsmen. Along with the rest of\nthe collection, this watch will be on display at the store on\nSunday - unless Charlie has by then impulsively bought it.\n\nNicholas Kenner nailed me - again - at last year's meeting,\npointing out that I had said in the 1990 annual report that he was\n11 in May 1990, when actually he was 9. So, asked Nicholas rather\ncaustically: \"If you can't get that straight, how do I know the\nnumbers in the back [the financials] are correct?\" I'm still\nsearching for a snappy response. Nicholas will be at this year's\nmeeting - he spurned my offer of a trip to Disney World on that\nday - so join us to watch a continuation of this lop-sided battle\nof wits.\n\nWarren E. Buffett\nFebruary 28,1992 Chairman of the Board",
+    "metadata": {
+      "letter_year": 1991,
+      "letter_date": "1992-02-28",
+      "source_file": "1991_cleaned.txt",
+      "section_title": "Miscellaneous",
+      "section_hierarchy": [
+        "Letter Body",
+        "Shareholder Programs",
+        "Wesco Note",
+        "Directors",
+        "Annual Meeting Logistics"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "narrative",
+      "contextual_summary": "Reports shareholder-designated contributions participation and eligibility rules, notes related charitable giving practices, discusses Wesco letter inclusion, updates board changes (Chace family), and provides annual meeting and Omaha visit logistics and anecdotes.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "Borsheim's",
+          "Furniture Mart",
+          "Marriott",
+          "Nebraska Furniture\nMart",
+          "Orpheum\nTheater",
+          "Patek Philippe",
+          "Radisson-Redick Tower",
+          "Red Lion Hotel",
+          "United Way",
+          "Wesco\nFinancial Corporation"
+        ],
+        "people": [
+          "Albert Einstein",
+          "Kim",
+          "Malcolm G. Chace, Jr.",
+          "Malcolm III",
+          "Nicholas Kenner",
+          "Pope Pius IX",
+          "Queen Victoria",
+          "Rudyard Kipling",
+          "Warren E. Buffett"
+        ],
+        "metrics": [
+          "$1.5 million",
+          "$5 million",
+          "$6.8 million"
+        ]
+      },
+      "themes": [
+        "shareholder communication",
+        "charitable giving",
+        "governance",
+        "annual meeting"
+      ],
+      "buffett_concepts": [
+        "owner-oriented policies"
+      ],
+      "principles": [
+        {
+          "statement": "Corporate charitable giving should reflect owners’ choices; executives should use their own funds for personal charitable preferences.",
+          "category": "governance"
+        }
+      ],
+      "temporal_references": {
+        "primary_year": 1991,
+        "comparison_years": [
+          1931,
+          1955,
+          1965,
+          1990,
+          1992
+        ],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "medium",
+      "abstraction_level": "high",
+      "token_count": 1439,
+      "char_count": 6267,
+      "source_span": {
+        "start_char": 49530,
+        "end_char_exclusive": 55797
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  }
+]
