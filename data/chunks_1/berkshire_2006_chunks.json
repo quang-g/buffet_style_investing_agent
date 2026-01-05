@@ -1,0 +1,1864 @@
+[
+  {
+    "chunk_id": "2006-S1-T1-001",
+    "content": "To the Shareholders of Berkshire Hathaway Inc.:\nOur gain in net worth during 2006 was $16.9 billion, which increased the per-share book value of\nboth our Class A and Class B stock by 18.4%. Over the last 42 years (that is, since present management\ntook over) book value has grown from $19 to $70,281, a rate of 21.4% compounded annually.*\nWe believe that $16.9 billion is a record for a one-year gain in net worth – more than has ever\nbeen booked by any American business, leaving aside boosts that have occurred because of mergers (e. g.,\nAOL’s purchase of Time Warner). Of course, Exxon Mobil and other companies earn far more than\nBerkshire, but their earnings largely go to dividends and/or repurchases, rather than to building net worth.\nAll that said, a confession about our 2006 gain is in order. Our most important business,\ninsurance, benefited from a large dose of luck: Mother Nature, bless her heart, went on vacation. After\nhammering us with hurricanes in 2004 and 2005 – storms that caused us to lose a bundle on super-cat\ninsurance – she just vanished. Last year, the red ink from this activity turned black – very black.\nIn addition, the great majority of our 73 businesses did outstandingly well in 2006. Let me focus\nfor a moment on one of our largest operations, GEICO. What management accomplished there was simply\nextraordinary.\nAs I’ve told you before, Tony Nicely, GEICO’s CEO, went to work at the company 45 years ago,\ntwo months after turning 18. He became CEO in 1992, and from then on the company’s growth exploded.\nIn addition, Tony has delivered staggering productivity gains in recent years. Between yearend 2003 and\nyearend 2006, the number of GEICO policies increased from 5.7 million to 8.1 million, a jump of 42%.\nYet during that same period, the company’s employees (measured on a fulltime-equivalent basis) fell 3.5%.\nSo productivity grew 47%. And GEICO didn’t start fat.\nThat remarkable gain has allowed GEICO to maintain its all-important position as a low-cost\nproducer, even though it has dramatically increased advertising expenditures. Last year GEICO spent $631\nmillion on ads, up from $238 million in 2003 (and up from $31 million in 1995, when Berkshire took\ncontrol). Today, GEICO spends far more on ads than any of its competitors, even those much larger. We\nwill continue to raise the bar.\nLast year I told you that if you had a new son or grandson to be sure to name him Tony. But Don\nKeough, a Berkshire director, recently had a better idea. After reviewing GEICO’s performance in 2006,\nhe wrote me, “Forget births. Tell the shareholders to immediately change the names of their present\nchildren to Tony or Antoinette.” Don signed his letter “Tony.”\n* * * * * * * * * * * *\nCharlie Munger – my partner and Berkshire’s vice chairman – and I run what has turned out to be\na big business, one with 217,000 employees and annual revenues approaching $100 billion. We certainly\ndidn’t plan it that way. Charlie began as a lawyer, and I thought of myself as a security analyst. Sitting in\nthose seats, we both grew skeptical about the ability of big entities of any type to function well. Size seems\nto make many organizations slow-thinking, resistant to change and smug. In Churchill’s words: “We shape\nour buildings, and afterwards our buildings shape us.” Here’s a telling fact: Of the ten non-oil companies\nhaving the largest market capitalization in 1965 – titans such as General Motors, Sears, Du Pont and\nEastman Kodak – only one made the 2006 list.\n*All per-share figures used in this report apply to Berkshire’s A shares. Figures for the B shares\nare 1/30 th of those shown for the A.\n\nIn fairness, we’ve seen plenty of successes as well, some truly outstanding. There are many giantcompany managers whom I greatly admire; Ken Chenault of American Express, Jeff Immelt of G. E. and\nDick Kovacevich of Wells Fargo come quickly to mind. But I don’t think I could do the management job\nthey do. And I know I wouldn’t enjoy many of the duties that come with their positions – meetings,\nspeeches, foreign travel, the charity circuit and governmental relations. For me, Ronald Reagan had it\nright: “It’s probably true that hard work never killed anyone – but why take the chance?”\nSo I’ve taken the easy route, just sitting back and working through great managers who run their\nown shows. My only tasks are to cheer them on, sculpt and harden our corporate culture, and make major\ncapital-allocation decisions. Our managers have returned this trust by working hard and effectively.\nFor their performance over the last 42 years – and particularly for 2006 – Charlie and I thank\nthem.",
+    "metadata": {
+      "letter_year": 2006,
+      "letter_date": "2007-02-28",
+      "source_file": "2006_cleaned.txt",
+      "section_title": "To the Shareholders of Berkshire Hathaway Inc.:",
+      "section_hierarchy": [
+        "Letter Body",
+        "Opening"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "narrative",
+      "contextual_summary": "To the Shareholders of Berkshire Hathaway Inc.: Our gain in net worth during 2006 was $16.9 billion, which increased the per-share book value of both our Class A and Class B stock by 18.4%.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "AOL",
+          "American Express",
+          "Berkshire Hathaway",
+          "Exxon Mobil",
+          "G. E.",
+          "GE",
+          "GEICO",
+          "Time Warner",
+          "Wells Fargo"
+        ],
+        "people": [
+          "Charlie Munger",
+          "Dick Kovacevich",
+          "Jeff Immelt",
+          "Ken Chenault",
+          "Ronald Reagan",
+          "Tony Nicely"
+        ],
+        "metrics": [
+          "advertising",
+          "book value",
+          "cost",
+          "employees",
+          "market capitalization",
+          "net worth",
+          "per-share",
+          "policies",
+          "revenues"
+        ]
+      },
+      "themes": [],
+      "buffett_concepts": [],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 2006,
+        "comparison_years": [
+          1965,
+          1992,
+          1995,
+          2003,
+          2004,
+          2005
+        ],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "low",
+      "token_count": 1015,
+      "char_count": 4628,
+      "source_span": {
+        "start_char": 4356,
+        "end_char_exclusive": 8986
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "2006-S2-T1-001",
+    "content": "Yardsticks\nCharlie and I measure Berkshire’s progress and evaluate its intrinsic value in a number of ways.\nNo single criterion is effective in doing these jobs, and even an avalanche of statistics will not capture some\nfactors that are important. For example, it’s essential that we have managers much younger than I available\nto succeed me. Berkshire has never been in better shape in this regard – but I can’t prove it to you with\nnumbers.\nThere are two statistics, however, that are of real importance. The first is the amount of\ninvestments (including cash and cash-equivalents) that we own on a per-share basis. Arriving at this figure,\nwe exclude investments held in our finance operation because these are largely offset by borrowings.\nHere’s the record since present management acquired control of Berkshire:\n\nIn our early years we put most of our retained earnings and insurance float into investments in\nmarketable securities. Because of this emphasis, and because the securities we purchased generally did\nwell, our growth rate in investments was for a long time quite high.\nOver the years, however, we have focused more and more on the acquisition of operating\nbusinesses. Using our funds for these purchases has both slowed our growth in investments and accelerated\nour gains in pre-tax earnings from non-insurance businesses, the second yardstick we use. Here’s how\nthose earnings have looked:\n\nLast year we had a good increase in non-insurance earnings – 38%. Large gains from here on in,\nthough, will come only if we are able to make major, and sensible, acquisitions. That will not be easy. We\ndo, however, have one advantage: More and more, Berkshire has become “the buyer of choice” for\nbusiness owners and managers. Initially, we were viewed that way only in the U. S. (and more often than\nnot by private companies). We’ve long wanted, nonetheless, to extend Berkshire’s appeal beyond U. S.\nborders. And last year, our globe-trotting finally got underway.",
+    "metadata": {
+      "letter_year": 2006,
+      "letter_date": "2007-02-28",
+      "source_file": "2006_cleaned.txt",
+      "section_title": "Yardsticks",
+      "section_hierarchy": [
+        "Letter Body",
+        "Yardsticks"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [
+        "2006-S2-T3-002",
+        "2006-S2-T3-003"
+      ],
+      "content_type": "narrative",
+      "contextual_summary": "Yardsticks Charlie and I measure Berkshire’s progress and evaluate its intrinsic value in a number of ways.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [],
+        "people": [],
+        "metrics": [
+          "float",
+          "intrinsic value",
+          "per-share",
+          "pre-tax earnings"
+        ]
+      },
+      "themes": [],
+      "buffett_concepts": [],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 2006,
+        "comparison_years": [],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "low",
+      "token_count": 403,
+      "char_count": 1976,
+      "source_span": {
+        "start_char": 8987,
+        "end_char_exclusive": 12142
+      },
+      "standalone_exception": true,
+      "exception_reason": "Section chunk below Tier-1 hard minimum but kept to preserve section boundary/completeness.",
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "2006-S2-T3-002",
+    "content": "Yardsticks\n\nTable: Per-Share Investments. Per-share investments at Berkshire by year, with compound growth rates.\n\nYear Per-Share Investments*\n1965..................................................................... $ 4\n1975..................................................................... 159\n1985..................................................................... 2,407\n1995..................................................................... 21,817\n2006..................................................................... $80,636\nCompound Growth Rate 1965-2006.................... 27.5%\nCompound Growth Rate 1995-2006.................... 12.6%\n*Net of minority interests",
+    "metadata": {
+      "letter_year": 2006,
+      "letter_date": "2007-02-28",
+      "source_file": "2006_cleaned.txt",
+      "section_title": "Yardsticks",
+      "section_hierarchy": [
+        "Tables",
+        "Yardsticks"
+      ],
+      "chunk_tier": 3,
+      "parent_chunk_id": "2006-S2-T1-001",
+      "child_chunk_ids": [],
+      "content_type": "financial_table",
+      "contextual_summary": "Yardsticks Table: Per-Share Investments.",
+      "has_table": true,
+      "table_data": [
+        {
+          "table_name": "Per-Share Investments",
+          "summary": "Per-share investments at Berkshire by year, with compound growth rates.",
+          "columns": [
+            "Year",
+            "Per-Share Investments (net of minority interests)"
+          ],
+          "rows": [
+            [
+              "1965",
+              "$ 4"
+            ],
+            [
+              "1975",
+              "159"
+            ],
+            [
+              "1985",
+              "2,407"
+            ],
+            [
+              "1995",
+              "21,817"
+            ],
+            [
+              "2006",
+              "$80,636"
+            ],
+            [
+              "Compound Growth Rate 1965-2006",
+              "27.5%"
+            ],
+            [
+              "Compound Growth Rate 1995-2006",
+              "12.6%"
+            ]
+          ],
+          "row_count": 7
+        }
+      ],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [],
+        "people": [],
+        "metrics": [
+          "per-share"
+        ]
+      },
+      "themes": [],
+      "buffett_concepts": [],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 2006,
+        "comparison_years": [
+          1965,
+          1975,
+          1985,
+          1995
+        ],
+        "future_outlook": false
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "low",
+      "token_count": 456,
+      "char_count": 682,
+      "source_span": {
+        "start_char": 9805,
+        "end_char_exclusive": 10372
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "2006-S2-T3-003",
+    "content": "Yardsticks\n\nTable: Pre-Tax Earnings Per Share. Pre-tax earnings per share by year, excluding purchase-accounting adjustments and net of minority interests.\n\nYear Pre-Tax Earnings Per Share*\n1965..................................................................... $ 4\n1975..................................................................... 4\n1985..................................................................... 52\n1995..................................................................... 175\n2006..................................................................... $3,625\nCompound Growth Rate 1965-2006.................... 17.9%\nCompound Growth Rate 1995-2006.................... 31.7%\n*Excluding purchase-accounting adjustments and net of minority interests",
+    "metadata": {
+      "letter_year": 2006,
+      "letter_date": "2007-02-28",
+      "source_file": "2006_cleaned.txt",
+      "section_title": "Yardsticks",
+      "section_hierarchy": [
+        "Tables",
+        "Yardsticks"
+      ],
+      "chunk_tier": 3,
+      "parent_chunk_id": "2006-S2-T1-001",
+      "child_chunk_ids": [],
+      "content_type": "financial_table",
+      "contextual_summary": "Yardsticks Table: Pre-Tax Earnings Per Share.",
+      "has_table": true,
+      "table_data": [
+        {
+          "table_name": "Pre-Tax Earnings Per Share",
+          "summary": "Pre-tax earnings per share by year, excluding purchase-accounting adjustments and net of minority interests.",
+          "columns": [
+            "Year",
+            "Pre-Tax Earnings Per Share"
+          ],
+          "rows": [
+            [
+              "1965",
+              "$ 4"
+            ],
+            [
+              "1975",
+              "4"
+            ],
+            [
+              "1985",
+              "52"
+            ],
+            [
+              "1995",
+              "175"
+            ],
+            [
+              "2006",
+              "$3,625"
+            ],
+            [
+              "Compound Growth Rate 1965-2006",
+              "17.9%"
+            ],
+            [
+              "Compound Growth Rate 1995-2006",
+              "31.7%"
+            ]
+          ],
+          "row_count": 7
+        }
+      ],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [],
+        "people": [],
+        "metrics": [
+          "pre-tax earnings"
+        ]
+      },
+      "themes": [],
+      "buffett_concepts": [],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 2006,
+        "comparison_years": [
+          1965,
+          1975,
+          1985,
+          1995
+        ],
+        "future_outlook": false
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "low",
+      "token_count": 468,
+      "char_count": 766,
+      "source_span": {
+        "start_char": 10966,
+        "end_char_exclusive": 11575
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "2006-S3-T1-001",
+    "content": "Acquisitions\nWe began 2006 by completing the three acquisitions pending at yearend 2005, spending about $6\nbillion for Pacifi Corp, Business Wire and Applied Underwriters. All are performing very well.\nThe highlight of the year, however, was our July 5 th acquisition of most of ISCAR, an Israeli\ncompany, and our new association with its chairman, Eitan Wertheimer, and CEO, Jacob Harpaz. The\nstory here began on October 25,2005, when I received a 1¼-page letter from Eitan, of whom I then knew\nnothing. The letter began, “I am writing to introduce you to ISCAR,” and proceeded to describe a cuttingtool business carried on in 61 countries. Then Eitan wrote, “We have for some time considered the issues\nof generational transfer and ownership that are typical for large family enterprises, and have given much\nthought to ISCAR’s future. Our conclusion is that Berkshire Hathaway would be the ideal home for\nISCAR. We believe that ISCAR would continue to thrive as a part of your portfolio of businesses.”\nOverall, Eitan’s letter made the quality of the company and the character of its management leap\noff the page. It also made me want to learn more, and in November, Eitan, Jacob and ISCAR’s CFO,\nDanny Goldman, came to Omaha. A few hours with them convinced me that if we were to make a deal, we\nwould be teaming up with extraordinarily talented managers who could be trusted to run the business after\na sale with all of the energy and dedication that they had exhibited previously. However, having never\nbought a business based outside of the U. S. (though I had bought a number of foreign stocks), I needed to\nget educated on some tax and jurisdictional matters. With that task completed, Berkshire purchased 80% of\nISCAR for $4 billion. The remaining 20% stays in the hands of the Wertheimer family, making it our\nvalued partner.\nISCAR’s products are small, consumable cutting tools that are used in conjunction with large and\nexpensive machine tools. It’s a business without magic except for that imparted by the people who run it.\nBut Eitan, Jacob and their associates are true managerial magicians who constantly develop tools that make\ntheir customers’ machines more productive. The result: ISCAR makes money because it enables its\ncustomers to make more money. There is no better recipe for continued success.\n\nIn September, Charlie and I, along with five Berkshire associates, visited ISCAR in Israel. We –\nand I mean every one of us – have never been more impressed with any operation. At ISCAR, as\nthroughout Israel, brains and energy are ubiquitous. Berkshire shareholders are lucky to have joined with\nEitan, Jacob, Danny and their talented associates.\n* * * * * * * * * * * *\nA few months later, Berkshire again became “the buyer of choice” in a deal brought to us by my\nfriend, John Roach, of Fort Worth. John, many of you will remember, was Chairman of Justin Industries,\nwhich we bought in 2000. At that time John was helping John Justin, who was terminally ill, find a\npermanent home for his company. John Justin died soon after we bought Justin Industries, but it has since\nbeen run exactly as we promised him it would be.\nVisiting me in November, John Roach brought along Paul Andrews, Jr., owner of about 80% of\nTTI, a Fort Worth distributor of electronic components. Over a 35-year period, Paul built TTI from\n$112,000 of sales to $1.3 billion. He is a remarkable entrepreneur and operator.\nPaul, 64, loves running his business. But not long ago he happened to witness how disruptive the\ndeath of a founder can be both to a private company’s employees and the owner’s family. What starts out\nas disruptive, furthermore, often evolves into destructive. About a year ago, therefore, Paul began to think\nabout selling TTI. His goal was to put his business in the hands of an owner he had carefully chosen, rather\nthan allowing a trust officer or lawyer to conduct an auction after his death.\nPaul rejected the idea of a “strategic” buyer, knowing that in the pursuit of “synergies,” an owner\nof that type would be apt to dismantle what he had so carefully built, a move that would uproot hundreds of\nhis associates (and perhaps wound TTI’s business in the process). He also ruled out a private equity firm,\nwhich would very likely load the company with debt and then flip it as soon as possible.\nThat left Berkshire. Paul and I met on the morning of November 15 th and made a deal before\nlunch. Later he wrote me: “After our meeting, I am confident that Berkshire is the right owner for TTI . . .\nI am proud of our past and excited about our future.” And so are Charlie and I.\n* * * * * * * * * * * *\nWe also made some “tuck-in” acquisitions during 2006 at Fruit of the Loom (“Fruit”), Mi Tek,\nCTB, Shaw and Clayton. Fruit made the largest purchases. First, it bought Russell Corp., a leading\nproducer of athletic apparel and uniforms for about $1.2 billion (including assumed debt) and in December\nit agreed to buy the intimate apparel business of VF Corp. Together, these acquisitions add about $2.2\nbillion to Fruit’s sales and bring with them about 23,000 employees.\nCharlie and I love it when we can acquire businesses that can be placed under managers, such as\nJohn Holland at Fruit, who have already shown their stuff at Berkshire. Mi Tek, for example, has made 14\nacquisitions since we purchased it in 2001, and Gene Toombs has delivered results from these deals far in\nexcess of what he had predicted. In effect, we leverage the managerial talent already with us by these tuckin deals. We will make many more.\n* * * * * * * * * * * *\nWe continue, however, to need “elephants” in order for us to use Berkshire’s flood of incoming\ncash. Charlie and I must therefore ignore the pursuit of mice and focus our acquisition efforts on much\nbigger game.\nOur exemplar is the older man who crashed his grocery cart into that of a much younger fellow\nwhile both were shopping. The elderly man explained apologetically that he had lost track of his wife and\nwas preoccupied searching for her. His new acquaintance said that by coincidence his wife had also\nwandered off and suggested that it might be more efficient if they jointly looked for the two women.\nAgreeing, the older man asked his new companion what his wife looked like. “She’s a gorgeous blonde,”\nthe fellow answered, “with a body that would cause a bishop to go through a stained glass window, and\nshe’s wearing tight white shorts. How about yours?” The senior citizen wasted no words: “Forget her,\nwe’ll look for yours.”\n\nWhat we are looking for is described on page 25. If you have an acquisition candidate that fits,\ncall me – day or night. And then watch me shatter a stained glass window.\n* * * * * * * * * * * *\nNow, let’s examine the four major operating sectors of Berkshire. Lumping their financial figures\ntogether impedes analysis. So we’ll look at them as four separate businesses, starting with the all–\nimportant insurance group.",
+    "metadata": {
+      "letter_year": 2006,
+      "letter_date": "2007-02-28",
+      "source_file": "2006_cleaned.txt",
+      "section_title": "Acquisitions",
+      "section_hierarchy": [
+        "Letter Body",
+        "Acquisitions"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "narrative",
+      "contextual_summary": "Acquisitions We began 2006 by completing the three acquisitions pending at yearend 2005, spending about $6 billion for Pacifi Corp, Business Wire and Applied Underwriters.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "Applied Underwriters",
+          "Berkshire Hathaway",
+          "Business Wire",
+          "CTB",
+          "Fruit of the Loom",
+          "ISCAR",
+          "Justin Industries",
+          "Mi Tek",
+          "Pacifi Corp",
+          "Russell Corp.",
+          "Shaw",
+          "TTI",
+          "VF Corp."
+        ],
+        "people": [
+          "Danny Goldman",
+          "Eitan Wertheimer",
+          "Gene Toombs",
+          "Jacob Harpaz",
+          "John Holland",
+          "John Justin",
+          "John Roach",
+          "Paul Andrews, Jr."
+        ],
+        "metrics": [
+          "debt",
+          "employees"
+        ]
+      },
+      "themes": [],
+      "buffett_concepts": [],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 2006,
+        "comparison_years": [
+          2000,
+          2001,
+          2005
+        ],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [
+          "page 25"
+        ],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "low",
+      "token_count": 1470,
+      "char_count": 6927,
+      "source_span": {
+        "start_char": 12143,
+        "end_char_exclusive": 19074
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "2006-S4-T1-001",
+    "content": "Insurance\nNext month marks the 40 th anniversary of our entrance into the insurance business. It was on\nMarch 9,1967, that Berkshire purchased National Indemnity and its companion company, National Fire &\nMarine, from Jack Ringwalt for $8.6 million.\nJack was a long-time friend of mine and an excellent, but somewhat eccentric, businessman. For\nabout ten minutes every year he would get the urge to sell his company. But those moods – perhaps\nbrought on by a tiff with regulators or an unfavorable jury verdict – quickly vanished.\nIn the mid-1960 s, I asked investment banker Charlie Heider, a mutual friend of mine and Jack’s,\nto alert me the next time Jack was “in heat.” When Charlie’s call came, I sped to meet Jack. We made a\ndeal in a few minutes, with me waiving an audit, “due diligence” or anything else that would give Jack an\nopportunity to reconsider. We just shook hands, and that was that.\nWhen we were due to close the purchase at Charlie’s office, Jack was late. Finally arriving, he\nexplained that he had been driving around looking for a parking meter with some unexpired time. That was\na magic moment for me. I knew then that Jack was going to be my kind of manager.\nWhen Berkshire purchased Jack’s two insurers, they had “float” of $17 million. We’ve regularly\noffered a long explanation of float in earlier reports, which you can read on our website. Simply put, float\nis money we hold that is not ours but which we get to invest.\nAt the end of 2006, our float had grown to $50.9 billion, and we have since written a huge\nretroactive reinsurance contract with Equitas – which I will describe in the next section – that boosts float\nby another $7 billion. Much of the gain we’ve made has come through our acquisition of other insurers,\nbut we’ve also had outstanding internal growth, particularly at Ajit Jain’s amazing reinsurance operation.\nNaturally, I had no notion in 1967 that our float would develop as it has. There’s much to be said for just\nputting one foot in front of the other every day.\nThe float from retroactive reinsurance contracts, of which we have many, automatically drifts\ndown over time. Therefore, it will be difficult for us to increase float in the future unless we make new\nacquisitions in the insurance field. Whatever its size, however, the all-important cost of Berkshire’s float\nover time is likely to be significantly below that of the industry, perhaps even falling to less than zero.\nNote the words “over time.” There will be bad years periodically. You can be sure of that.\nIn 2006, though, everything went right in insurance – really right. Our managers – Tony Nicely\n(GEICO), Ajit Jain (B-H Reinsurance), Joe Brandon and Tad Montross (General Re), Don Wurster\n(National Indemnity Primary), Tom Nerney (U. S. Liability), Tim Kenesey (Medical Protective), Rod\nEldred (Homestate Companies and Cypress), Sid Ferenc and Steve Menzies (Applied Underwriters), John\nKizer (Central States) and Don Towle (Kansas Bankers Surety) – simply shot the lights out. When I recite\ntheir names, I feel as if I’m at Cooperstown, reading from the Hall of Fame roster. Of course, the overall\ninsurance industry also had a terrific year in 2006. But our managers delivered results generally superior to\nthose of their competitors.\n\n* * * * * * * * * * * *\nIn 2007, our results from the bread-and-butter lines of insurance will deteriorate, though I think\nthey will remain satisfactory. The big unknown is super-cat insurance. Were the terrible hurricane seasons\nof 2004-05 aberrations? Or were they our planet’s first warning that the climate of the 21 st Century will\ndiffer materially from what we’ve seen in the past? If the answer to the second question is yes, 2006 will\nsoon be perceived as a misleading period of calm preceding a series of devastating storms. These could\nrock the insurance industry. It’s naïve to think of Katrina as anything close to a worst-case event.\nNeither Ajit Jain, who manages our super-cat operation, nor I know what lies ahead. We do know\nthat it would be a huge mistake to bet that evolving atmospheric changes are benign in their implications\nfor insurers.\nDon’t think, however, that we have lost our taste for risk. We remain prepared to lose $6 billion\nin a single event, if we have been paid appropriately for assuming that risk. We are not willing, though, to\ntake on even very small exposures at prices that don’t reflect our evaluation of loss probabilities.\nAppropriate prices don’t guarantee profits in any given year, but inappropriate prices most certainly\nguarantee eventual losses. Rates have recently fallen because a flood of capital has entered the super-cat\nfield. We have therefore sharply reduced our wind exposures. Our behavior here parallels that which we\nemploy in financial markets: Be fearful when others are greedy, and be greedy when others are fearful.",
+    "metadata": {
+      "letter_year": 2006,
+      "letter_date": "2007-02-28",
+      "source_file": "2006_cleaned.txt",
+      "section_title": "Insurance",
+      "section_hierarchy": [
+        "Letter Body",
+        "Business Segments",
+        "Insurance"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [
+        "2006-S4-T3-002"
+      ],
+      "content_type": "narrative",
+      "contextual_summary": "Insurance Next month marks the 40 th anniversary of our entrance into the insurance business.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "Applied Underwriters",
+          "B-H Reinsurance",
+          "Central States",
+          "Cypress",
+          "Equitas",
+          "GE",
+          "GEICO",
+          "General Re",
+          "Homestate Companies",
+          "Kansas Bankers Surety",
+          "Medical Protective",
+          "National Indemnity",
+          "National Indemnity Primary",
+          "U. S. Liability"
+        ],
+        "people": [
+          "Ajit Jain",
+          "Charlie Heider",
+          "Don Towle",
+          "Don Wurster",
+          "Jack Ringwalt",
+          "Joe Brandon",
+          "Sid Ferenc",
+          "Steve Menzies",
+          "Tad Montross",
+          "Tim Kenesey",
+          "Tom Nerney",
+          "Tony Nicely"
+        ],
+        "metrics": [
+          "cost",
+          "float"
+        ]
+      },
+      "themes": [],
+      "buffett_concepts": [],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 2006,
+        "comparison_years": [
+          1960,
+          1967,
+          2004,
+          2007
+        ],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "low",
+      "token_count": 1027,
+      "char_count": 4851,
+      "source_span": {
+        "start_char": 19075,
+        "end_char_exclusive": 24564
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "2006-S4-T3-002",
+    "content": "Insurance\n\nTable: Underwriting Profit/Loss and Float. Underwriting profit/loss and yearend float for Berkshire’s major insurance operations in 2006 vs 2005.\n\nBelow is the tally on our underwriting and float for each major sector of insurance. Enjoy the\nview, because you won’t soon see another like it.\n(in $ millions)\nUnderwriting Profit (Loss) Yearend Float\nInsurance Operations 2006 2005 2006 2005\nGeneral Re....................... $ 526 $( 334) $22,827 $22,920\nB-H Reinsurance.............. 1,658 (1,069) 16,860 16,233\nGEICO............................. 1,314 1,221 7,171 6,692\nOther Primary................... 340** 235* 4,029 3,442\nTotal................................. $3,838 $ 53 $50,887 $49,287\n* Includes Med Pro from June 30,2005.\n** Includes Applied Underwriters from May 19,2006.",
+    "metadata": {
+      "letter_year": 2006,
+      "letter_date": "2007-02-28",
+      "source_file": "2006_cleaned.txt",
+      "section_title": "Insurance",
+      "section_hierarchy": [
+        "Tables",
+        "Business Segments",
+        "Insurance"
+      ],
+      "chunk_tier": 3,
+      "parent_chunk_id": "2006-S4-T1-001",
+      "child_chunk_ids": [],
+      "content_type": "financial_table",
+      "contextual_summary": "Insurance Table: Underwriting Profit/Loss and Float.",
+      "has_table": true,
+      "table_data": [
+        {
+          "table_name": "Underwriting Profit (Loss) and Yearend Float",
+          "summary": "Underwriting profit/loss and yearend float for Berkshire’s major insurance operations in 2006 vs 2005.",
+          "columns": [
+            "Insurance Operations",
+            "Underwriting Profit (Loss) 2006",
+            "Underwriting Profit (Loss) 2005",
+            "Yearend Float 2006",
+            "Yearend Float 2005"
+          ],
+          "rows": [
+            [
+              "General Re $ 526",
+              "$(",
+              "334)",
+              "$22,827",
+              "$22,920"
+            ],
+            [
+              "B-H Reinsurance",
+              "1,658",
+              "(1,069)",
+              "16,860",
+              "16,233"
+            ],
+            [
+              "GEICO",
+              "1,314",
+              "1,221",
+              "7,171",
+              "6,692"
+            ],
+            [
+              "Other Primary",
+              "340**",
+              "235*",
+              "4,029",
+              "3,442"
+            ],
+            [
+              "Total $3,838",
+              "$",
+              "53",
+              "$50,887",
+              "$49,287"
+            ]
+          ],
+          "row_count": 5
+        }
+      ],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "Applied Underwriters",
+          "B-H Reinsurance",
+          "GE",
+          "GEICO",
+          "General Re"
+        ],
+        "people": [],
+        "metrics": [
+          "float",
+          "underwriting profit"
+        ]
+      },
+      "themes": [],
+      "buffett_concepts": [],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 2006,
+        "comparison_years": [
+          2005
+        ],
+        "future_outlook": false
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "low",
+      "token_count": 292,
+      "char_count": 793,
+      "source_span": {
+        "start_char": 22343,
+        "end_char_exclusive": 22978
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "2006-S5-T1-001",
+    "content": "Lloyd’s, Equitas and Retroactive Reinsurance\nLast year – we are getting now to Equitas – Berkshire agreed to enter into a huge retroactive\nreinsurance contract, a policy that protects an insurer against losses that have already happened, but whose\ncost is not yet known. I’ll give you details of the agreement shortly. But let’s first take a journey through\ninsurance history, following the route that led to our deal.\nOur tale begins around 1688, when Edward Lloyd opened a small coffee house in London.\nThough no Starbucks, his shop was destined to achieve worldwide fame because of the commercial\nactivities of its clientele – shipowners, merchants and venturesome British capitalists. As these parties\nsipped Edward’s brew, they began to write contracts transferring the risk of a disaster at sea from the\nowners of ships and their cargo to the capitalists, who wagered that a given voyage would be completed\nwithout incident. These capitalists eventually became known as “underwriters at Lloyd’s.”\nThough many people believe Lloyd’s to be an insurance company, that is not the case. It is\ninstead a place where many member-insurers transact business, just as they did centuries ago.\nOver time, the underwriters solicited passive investors to join in syndicates. Additionally, the\nbusiness broadened beyond marine risks into every imaginable form of insurance, including exotic\ncoverages that spread the fame of Lloyd’s far and wide. The underwriters left the coffee house, found\ngrander quarters and formalized some rules of association. And those persons who passively backed the\nunderwriters became known as “names.”\n\nEventually, the names came to include many thousands of people from around the world, who\njoined expecting to pick up some extra change without effort or serious risk. True, prospective names were\nalways solemnly told that they would have unlimited and everlasting liability for the consequences of their\nsyndicate’s underwriting – “down to the last cufflink,” as the quaint description went. But that warning\ncame to be viewed as perfunctory. Three hundred years of retained cufflinks acted as a powerful sedative\nto the names poised to sign up.\nThen came asbestos. When its prospective costs were added to the tidal wave of environmental\nand product claims that surfaced in the 1980 s, Lloyd’s began to implode. Policies written decades earlier –\nand largely forgotten about – were developing huge losses. No one could intelligently estimate their total,\nbut it was certain to be many tens of billions of dollars. The specter of unending and unlimited losses\nterrified existing names and scared away prospects. Many names opted for bankruptcy; some even chose\nsuicide.\nFrom these shambles, there came a desperate effort to resuscitate Lloyd’s. In 1996, the powers\nthat be at the institution allotted £11.1 billion to a new company, Equitas, and made it responsible for\npaying all claims on policies written before 1993. In effect, this plan pooled the misery of the many\nsyndicates in trouble. Of course, the money allotted could prove to be insufficient – and if that happened,\nthe names remained liable for the shortfall.\nBut the new plan, by concentrating all of the liabilities in one place, had the advantage of\neliminating much of the costly intramural squabbling that went on among syndicates. Moreover, the\npooling allowed claims evaluation, negotiation and litigation to be handled more intelligently than had been\nthe case previously. Equitas embraced Ben Franklin’s thinking: “We must all hang together, or assuredly\nwe shall hang separately.”\nFrom the start, many people predicted Equitas would eventually fail. But as Ajit and I reviewed\nthe facts in the spring of 2006 – 13 years after the last exposed policy had been written and after the\npayment of £11.3 billion in claims – we concluded that the patient was likely to survive. And so we\ndecided to offer a huge reinsurance policy to Equitas.\nBecause plenty of imponderables continue to exist, Berkshire could not provide Equitas, and its\n27,972 names, unlimited protection. But we said – and I’m simplifying – that if Equitas would give us\n$7.12 billion in cash and securities (this is the float I spoke about), we would pay all of its future claims and\nexpenses up to $13.9 billion. That amount was $5.7 billion above what Equitas had recently guessed its\nultimate liabilities to be. Thus the names received a huge – and almost certainly sufficient – amount of\nfuture protection against unpleasant surprises. Indeed the protection is so large that Equitas plans a cash\npayment to its thousands of names, an event few of them had ever dreamed possible.\nAnd how will Berkshire fare? That depends on how much “known” claims will end up costing us,\nhow many yet-to-be-presented claims will surface and what they will cost, how soon claim payments will\nbe made and how much we earn on the cash we receive before it must be paid out. Ajit and I think the odds\nare in our favor. And should we be wrong, Berkshire can handle it.\nScott Moser, the CEO of Equitas, summarized the transaction neatly: “Names wanted to sleep\neasy at night, and we think we’ve just bought them the world’s best mattress.”\n* * * * * * * * * * *\nWarning: It’s time to eat your broccoli – I am now going to talk about accounting matters. I owe\nthis to those Berkshire shareholders who love reading about debits and credits. I hope both of you find this\ndiscussion helpful. All others can skip this section; there will be no quiz.\nBerkshire has done many retroactive transactions – in both number and amount a multiple of such\npolicies entered into by any other insurer. We are the reinsurer of choice for these coverages because the\nobligations that are transferred to us – for example, lifetime indemnity and medical payments to be made to\ninjured workers – may not be fully satisfied for 50 years or more. No other company can offer the certainty\n\nthat Berkshire can, in terms of guaranteeing the full and fair settlement of these obligations. This fact is\nimportant to the original insurer, policyholders and regulators.\nThe accounting procedure for retroactive transactions is neither well known nor intuitive. The\nbest way for shareholders to understand it, therefore, is for us to simply lay out the debits and credits.\nCharlie and I would like to see this done more often. We sometimes encounter accounting footnotes about\nimportant transactions that leave us baffled, and we go away suspicious that the reporting company wished\nit that way. (For example, try comprehending transactions “described” in the old 10-Ks of Enron, even\nafter you know how the movie ended.)\nSo let us summarize our accounting for the Equitas transaction. The major debits will be to Cash\nand Investments, Reinsurance Recoverable, and Deferred Charges for Reinsurance Assumed (“DCRA”).\nThe major credit will be to Reserve for Losses and Loss Adjustment Expense. No profit or loss will be\nrecorded at the inception of the transaction, but underwriting losses will thereafter be incurred annually as\nthe DCRA asset is amortized downward. The amount of the annual amortization charge will be primarily\ndetermined by how our end-of-the-year estimates as to the timing and amount of future loss payments\ncompare to the estimates made at the beginning of the year. Eventually, when the last claim has been paid,\nthe DCRA account will be reduced to zero. That day is 50 years or more away.\nWhat’s important to remember is that retroactive insurance contracts always produce underwriting\nlosses for us. Whether these losses are worth experiencing depends on whether the cash we have received\nproduces investment income that exceeds the losses. Recently our DCRA charges have annually delivered\n$300 million or so of underwriting losses, which have been more than offset by the income we have\nrealized through use of the cash we received as a premium. Absent new retroactive contracts, the amount\nof the annual charge would normally decline over time. After the Equitas transaction, however, the annual\nDCRA cost will initially increase to about $450 million a year. This means that our other insurance\noperations must generate at least that much underwriting gain for our overall float to be cost-free. That\namount is quite a hurdle but one that I believe we will clear in many, if not most, years.\nAren’t you glad that I promised you there would be no quiz?",
+    "metadata": {
+      "letter_year": 2006,
+      "letter_date": "2007-02-28",
+      "source_file": "2006_cleaned.txt",
+      "section_title": "Lloyd’s, Equitas and Retroactive Reinsurance",
+      "section_hierarchy": [
+        "Letter Body",
+        "Business Segments",
+        "Lloyd’s, Equitas and Retroactive Reinsurance"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "narrative",
+      "contextual_summary": "Lloyd’s, Equitas and Retroactive Reinsurance Last year – we are getting now to Equitas – Berkshire agreed to enter into a huge retroactive reinsurance contract, a policy that protects an insurer against losses that…",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "Enron",
+          "Equitas",
+          "Lloyd’s",
+          "Starbucks"
+        ],
+        "people": [
+          "Ben Franklin",
+          "Scott Moser"
+        ],
+        "metrics": [
+          "cost",
+          "float",
+          "investment income",
+          "policies",
+          "underwriting loss"
+        ]
+      },
+      "themes": [],
+      "buffett_concepts": [],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 2006,
+        "comparison_years": [
+          1980,
+          1993,
+          1996
+        ],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "low",
+      "token_count": 1620,
+      "char_count": 8395,
+      "source_span": {
+        "start_char": 24565,
+        "end_char_exclusive": 32964
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "2006-S6-T1-001",
+    "content": "Manufacturing, Service and Retailing Operations\nOur activities in this part of Berkshire cover the waterfront. Let’s look, though, at a summary\nbalance sheet and earnings statement for the entire group.\n\nThis motley group, which sells products ranging from lollipops to motor homes, earned a pleasing\n25% on average tangible net worth last year. It’s noteworthy also that these operations used only minor\nfinancial leverage in achieving that return. Clearly we own some terrific businesses. We purchased many\nof them, however, at large premiums to net worth – a point reflected in the goodwill item shown on the\nbalance sheet – and that fact reduces the earnings on our average carrying value to 10.8%.\nHere are a few newsworthy items about companies in this sector:\n• Bob Shaw, a remarkable entrepreneur who from a standing start built Shaw Industries into the\ncountry’s largest carpet producer, elected last year, at age 75, to retire. To succeed him, Bob\nrecommended Vance Bell, a 31-year veteran at Shaw, and Bob, as usual, made the right call.\nWeakness in housing has caused the carpet business to slow. Shaw, however, remains a\npowerhouse and a major contributor to Berkshire’s earnings.\n• Mi Tek, a manufacturer of connectors for roof trusses at the time we purchased it in 2001, is\ndeveloping into a mini-conglomerate. At the rate it is growing, in fact, “mini” may soon be\ninappropriate. In purchasing Mi Tek for $420 million, we lent the company $200 million at 9%\nand bought $198 million of stock, priced at $10,000 per share. Additionally, 55 employees bought\n2,200 shares for $22 million. Each employee paid exactly the same price that we did, in most\ncases borrowing money to do so.\nAnd are they ever glad they did! Five years later, Mi Tek’s sales have tripled and the stock is\nvalued at $71,699 per share. Despite its making 14 acquisitions, at a cost of $291 million, Mi Tek\nhas paid off its debt to Berkshire and holds $35 million of cash. We celebrated the fifth\nanniversary of our purchase with a party in July. I told the group that it would be embarrassing if\nMi Tek’s stock price soared beyond that of Berkshire “A” shares. Don’t be surprised, however, if\nthat happens (though Charlie and I will try to make our shares a moving target).\n• Not all of our businesses are destined to increase profits. When an industry’s underlying\neconomics are crumbling, talented management may slow the rate of decline. Eventually, though,\neroding fundamentals will overwhelm managerial brilliance. (As a wise friend told me long ago,\n“If you want to get a reputation as a good businessman, be sure to get into a good business.”) And\nfundamentals are definitely eroding in the newspaper industry, a trend that has caused the profits\nof our Buffalo News to decline. The skid will almost certainly continue.\nWhen Charlie and I were young, the newspaper business was as easy a way to make huge returns\nas existed in America. As one not-too-bright publisher famously said, “I owe my fortune to two\ngreat American institutions: monopoly and nepotism.” No paper in a one-paper city, however bad\nthe product or however inept the management, could avoid gushing profits.\nThe industry’s staggering returns could be simply explained. For most of the 20 th Century,\nnewspapers were the primary source of information for the American public. Whether the subject\nwas sports, finance, or politics, newspapers reigned supreme. Just as important, their ads were the\neasiest way to find job opportunities or to learn the price of groceries at your town’s supermarkets.\n\nThe great majority of families therefore felt the need for a paper every day, but understandably\nmost didn’t wish to pay for two. Advertisers preferred the paper with the most circulation, and\nreaders tended to want the paper with the most ads and news pages. This circularity led to a law\nof the newspaper jungle: Survival of the Fattest.\nThus, when two or more papers existed in a major city (which was almost universally the case a\ncentury ago), the one that pulled ahead usually emerged as the stand-alone winner. After\ncompetition disappeared, the paper’s pricing power in both advertising and circulation was\nunleashed. Typically, rates for both advertisers and readers would be raised annually – and the\nprofits rolled in. For owners this was economic heaven. (Interestingly, though papers regularly –\nand often in a disapproving way – reported on the profitability of, say, the auto or steel industries,\nthey never enlightened readers about their own Midas-like situation. Hmmm . . .)\nAs long ago as my 1991 letter to shareholders, I nonetheless asserted that this insulated world was\nchanging, writing that “the media businesses . . . will prove considerably less marvelous than I, the\nindustry, or lenders thought would be the case only a few years ago.” Some publishers took\numbrage at both this remark and other warnings from me that followed. Newspaper properties,\nmoreover, continued to sell as if they were indestructible slot machines. In fact, many intelligent\nnewspaper executives who regularly chronicled and analyzed important worldwide events were\neither blind or indifferent to what was going on under their noses.\nNow, however, almost all newspaper owners realize that they are constantly losing ground in the\nbattle for eyeballs. Simply put, if cable and satellite broadcasting, as well as the internet, had\ncome along first, newspapers as we know them probably would never have existed.\nIn Berkshire’s world, Stan Lipsey does a terrific job running the Buffalo News, and I am\nenormously proud of its editor, Margaret Sullivan. The News’ penetration of its market is the\nhighest among that of this country’s large newspapers. We also do better financially than most\nmetropolitan newspapers, even though Buffalo’s population and business trends are not good.\nNevertheless, this operation faces unrelenting pressures that will cause profit margins to slide.\nTrue, we have the leading online news operation in Buffalo, and it will continue to attract more\nviewers and ads. However, the economic potential of a newspaper internet site – given the many\nalternative sources of information and entertainment that are free and only a click away – is at best\na small fraction of that existing in the past for a print newspaper facing no competition.\nFor a local resident, ownership of a city’s paper, like ownership of a sports team, still produces\ninstant prominence. With it typically comes power and influence. These are ruboffs that appeal to\nmany people with money. Beyond that, civic-minded, wealthy individuals may feel that local\nownership will serve their community well. That’s why Peter Kiewit bought the Omaha paper\nmore than 40 years ago.\nWe are likely therefore to see non-economic individual buyers of newspapers emerge, just as we\nhave seen such buyers acquire major sports franchises. Aspiring press lords should be careful,\nhowever: There’s no rule that says a newspaper’s revenues can’t fall below its expenses and that\nlosses can’t mushroom. Fixed costs are high in the newspaper business, and that’s bad news when\nunit volume heads south. As the importance of newspapers diminishes, moreover, the “psychic”\nvalue of possessing one will wane, whereas owning a sports franchise will likely retain its cachet.\nUnless we face an irreversible cash drain, we will stick with the News, just as we’ve said that we\nwould. (Read economic principle 11, on page 76.) Charlie and I love newspapers – we each read\nfive a day – and believe that a free and energetic press is a key ingredient for maintaining a great\ndemocracy. We hope that some combination of print and online will ward off economic\ndoomsday for newspapers, and we will work hard in Buffalo to develop a sustainable business\nmodel. I think we will be successful. But the days of lush profits from our newspaper are over.\n\n• A much improved situation is emerging at Net Jets, which sells and manages fractionally-owned\naircraft. This company has never had a problem growing: Revenues from flight operations have\nincreased 596% since our purchase in 1998. But profits had been erratic.\nOur move to Europe, which began in 1996, was particularly expensive. After five years of\noperation there, we had acquired only 80 customers. And by mid-year 2006 our cumulative pretax loss had risen to $212 million. But European demand has now exploded, with a net of 589\ncustomers having been added in 2005-2006. Under Mark Booth’s brilliant leadership, Net Jets is\nnow operating profitably in Europe, and we expect the positive trend to continue.\nOur U. S. operation also had a good year in 2006, which led to worldwide pre-tax earnings of $143\nmillion at Net Jets last year. We made this profit even though we suffered a loss of $19 million in\nthe first quarter.\nCredit Rich Santulli, along with Mark, for this turnaround. Rich, like many of our managers, has\nno financial need to work. But you’d never know it. He’s absolutely tireless – monitoring\noperations, making sales, and traveling the globe to constantly widen the already-enormous lead\nthat Net Jets enjoys over its competitors. Today, the value of the fleet we manage is far greater\nthan that managed by our three largest competitors combined.\nThere’s a reason Net Jets is the runaway leader: It offers the ultimate in safety and service. At\nBerkshire, and at a number of our subsidiaries, Net Jets aircraft are an indispensable business tool.\nI also have a contract for personal use with Net Jets and so do members of my family and most\nBerkshire directors. (None of us, I should add, gets a discount.) Once you’ve flown Net Jets,\nreturning to commercial flights is like going back to holding hands.",
+    "metadata": {
+      "letter_year": 2006,
+      "letter_date": "2007-02-28",
+      "source_file": "2006_cleaned.txt",
+      "section_title": "Manufacturing, Service and Retailing Operations",
+      "section_hierarchy": [
+        "Letter Body",
+        "Business Segments",
+        "Manufacturing, Service and Retailing Operations"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [
+        "2006-S6-T3-002",
+        "2006-S6-T3-003"
+      ],
+      "content_type": "narrative",
+      "contextual_summary": "Manufacturing, Service and Retailing Operations Our activities in this part of Berkshire cover the waterfront.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "Mi Tek",
+          "Net Jets",
+          "Shaw",
+          "Shaw Industries"
+        ],
+        "people": [
+          "Margaret Sullivan",
+          "Mark Booth",
+          "Peter Kiewit",
+          "Rich Santulli",
+          "Stan Lipsey"
+        ],
+        "metrics": [
+          "advertising",
+          "cost",
+          "debt",
+          "employees",
+          "net worth",
+          "pre-tax earnings",
+          "revenues"
+        ]
+      },
+      "themes": [],
+      "buffett_concepts": [],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 2006,
+        "comparison_years": [
+          1991,
+          1996,
+          1998,
+          2001,
+          2005
+        ],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [
+          "economic principle 11",
+          "page 76"
+        ],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "low",
+      "token_count": 1950,
+      "char_count": 9696,
+      "source_span": {
+        "start_char": 32965,
+        "end_char_exclusive": 44280
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "2006-S6-T3-002",
+    "content": "Manufacturing, Service and Retailing Operations\n\nTable: MSR Balance Sheet Summary. Summary balance sheet for Berkshire’s manufacturing, service and retailing group.\n\nBalance Sheet 12/31/06 (in millions)\nAssets Liabilities and Equity\nCash and equivalents.............................. $ 1,543 Notes payable............................ $ 1,468\nAccounts and notes receivable............... 3,793 Other current liabilities.............. 6,635\nInventory................................................ 5,257 Total current liabilities.............. 8,103\nOther current assets................................ 363\nTotal current assets................................. 10,956\nGoodwill and other intangibles............... 13,314 Deferred taxes............................ 540\nFixed assets............................................. 8,934 Term debt and other liabilities... 3,014\nOther assets............................................. 1,168 Equity........................................ 22,715\n$34,372 $34,372",
+    "metadata": {
+      "letter_year": 2006,
+      "letter_date": "2007-02-28",
+      "source_file": "2006_cleaned.txt",
+      "section_title": "Manufacturing, Service and Retailing Operations",
+      "section_hierarchy": [
+        "Tables",
+        "Business Segments",
+        "Manufacturing, Service and Retailing Operations"
+      ],
+      "chunk_tier": 3,
+      "parent_chunk_id": "2006-S6-T1-001",
+      "child_chunk_ids": [],
+      "content_type": "financial_table",
+      "contextual_summary": "Manufacturing, Service and Retailing Operations Table: MSR Balance Sheet Summary.",
+      "has_table": true,
+      "table_data": [
+        {
+          "table_name": "MSR Balance Sheet Summary",
+          "summary": "Summary balance sheet for Berkshire’s manufacturing, service and retailing group, showing major asset and liability/equity categories.",
+          "columns": [
+            "Assets",
+            "12/31/06",
+            "Liabilities and Equity",
+            "12/31/06 (or corresponding)"
+          ],
+          "rows": [
+            [
+              "Other current assets",
+              "363",
+              "",
+              ""
+            ],
+            [
+              "Total current assets",
+              "10,956",
+              "",
+              ""
+            ]
+          ],
+          "row_count": 2
+        }
+      ],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [],
+        "people": [],
+        "metrics": [
+          "debt"
+        ]
+      },
+      "themes": [],
+      "buffett_concepts": [],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 2006,
+        "comparison_years": [],
+        "future_outlook": false
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "low",
+      "token_count": 518,
+      "char_count": 1005,
+      "source_span": {
+        "start_char": 33168,
+        "end_char_exclusive": 34011
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "2006-S6-T3-003",
+    "content": "Manufacturing, Service and Retailing Operations\n\nTable: MSR Earnings Statement Summary. Summary earnings statement (2004–2006) for Berkshire’s manufacturing, service and retailing group.\n\nEarnings Statement (in millions)\n2006 2005 2004\nRevenues................................................................................. $52,660 $46,896 $44,142\nOperating expenses (including depreciation of $823 in 2006,\n$699 in 2005 and $676 in 2004)....................................... 49,002 44,190 41,604\nInterest expense....................................................................... 132 83 57\nPre-tax earnings....................................................................... 3,526* 2,623* 2,481*\nIncome taxes and minority interests........................................ 1,395 977 941\nNet income.............................................................................. $ 2,131 $ 1,646 $ 1,540\n*Does not include purchase-accounting adjustments.",
+    "metadata": {
+      "letter_year": 2006,
+      "letter_date": "2007-02-28",
+      "source_file": "2006_cleaned.txt",
+      "section_title": "Manufacturing, Service and Retailing Operations",
+      "section_hierarchy": [
+        "Tables",
+        "Business Segments",
+        "Manufacturing, Service and Retailing Operations"
+      ],
+      "chunk_tier": 3,
+      "parent_chunk_id": "2006-S6-T1-001",
+      "child_chunk_ids": [],
+      "content_type": "financial_table",
+      "contextual_summary": "Manufacturing, Service and Retailing Operations Table: MSR Earnings Statement Summary.",
+      "has_table": true,
+      "table_data": [
+        {
+          "table_name": "MSR Earnings Statement Summary",
+          "summary": "Summary earnings statement (2004–2006) for Berkshire’s manufacturing, service and retailing group.",
+          "columns": [
+            "Item",
+            "2006",
+            "2005",
+            "2004"
+          ],
+          "rows": [
+            [
+              "Revenues",
+              "$52,660 $46,896 $44,142",
+              "",
+              ""
+            ],
+            [
+              "$699 in 2005 and $676 in 2004)",
+              "49,002 44,190 41,604",
+              "",
+              ""
+            ],
+            [
+              "Interest expense",
+              "132 83 57",
+              "",
+              ""
+            ],
+            [
+              "Pre-tax earnings",
+              "3,526* 2,623* 2,481*",
+              "",
+              ""
+            ],
+            [
+              "Income taxes and minority interests",
+              "1,395 977 941",
+              "",
+              ""
+            ],
+            [
+              "Net income",
+              "$ 2,131 $ 1,646 $ 1,540",
+              "",
+              ""
+            ]
+          ],
+          "row_count": 6
+        }
+      ],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [],
+        "people": [],
+        "metrics": [
+          "income taxes",
+          "interest expense",
+          "net income",
+          "operating expenses",
+          "pre-tax earnings",
+          "revenues"
+        ]
+      },
+      "themes": [],
+      "buffett_concepts": [],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 2006,
+        "comparison_years": [
+          2004,
+          2005
+        ],
+        "future_outlook": false
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "low",
+      "token_count": 518,
+      "char_count": 961,
+      "source_span": {
+        "start_char": 34011,
+        "end_char_exclusive": 34784
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "2006-S7-T1-001",
+    "content": "Regulated Utility Business\nBerkshire has an 86.6% (fully diluted) interest in Mid American Energy Holdings, which owns a\nwide variety of utility operations. The largest of these are (1) Yorkshire Electricity and Northern Electric,\nwhose 3.7 million electric customers make it the third largest distributor of electricity in the U. K.; (2)\nMid American Energy, which serves 706,000 electric customers, primarily in Iowa; (3) Pacific Power and\nRocky Mountain Power, serving about 1.7 million electric customers in six western states; and (4) Kern\nRiver and Northern Natural pipelines, which carry about 8% of the natural gas consumed in the U. S.\nOur partners in ownership of Mid American are Walter Scott, and its two terrific managers, Dave\nSokol and Greg Abel. It’s unimportant how many votes each party has; we will make major moves only\nwhen we are unanimous in thinking them wise. Six years of working with Dave, Greg and Walter have\nunderscored my original belief: Berkshire couldn’t have better partners.\nSomewhat incongruously, Mid American owns the second largest real estate brokerage firm in the\nU. S., Home Services of America. This company operates through 20 locally-branded firms with 20,300\nagents. Despite Home Services’ purchase of two operations last year, the company’s overall volume fell\n9% to $58 billion, and profits fell 50%.\nThe slowdown in residential real estate activity stems in part from the weakened lending practices\nof recent years. The “optional” contracts and “teaser” rates that have been popular have allowed borrowers\nto make payments in the early years of their mortgages that fall far short of covering normal interest costs.\nNaturally, there are few defaults when virtually nothing is required of a borrower. As a cynic has said, “A\nrolling loan gathers no loss.” But payments not made add to principal, and borrowers who can’t afford\nnormal monthly payments early on are hit later with above-normal monthly obligations. This is the Scarlett\nO’Hara scenario: “I’ll think about that tomorrow.” For many home owners, “tomorrow” has now arrived.\nConsequently there is a huge overhang of offerings in several of Home Services’ markets.\nNevertheless, we will be seeking to purchase additional brokerage operations. A decade from\nnow, Home Services will almost certainly be much larger.\n\nHere are some key figures on Mid American’s operations:",
+    "metadata": {
+      "letter_year": 2006,
+      "letter_date": "2007-02-28",
+      "source_file": "2006_cleaned.txt",
+      "section_title": "Regulated Utility Business",
+      "section_hierarchy": [
+        "Letter Body",
+        "Business Segments",
+        "Regulated Utility Business"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [
+        "2006-S7-T3-002"
+      ],
+      "content_type": "narrative",
+      "contextual_summary": "Regulated Utility Business Berkshire has an 86.6% (fully diluted) interest in Mid American Energy Holdings, which owns a wide variety of utility operations.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "Home Services of America",
+          "Mid American Energy Holdings"
+        ],
+        "people": [
+          "Greg Abel",
+          "Walter Scott"
+        ],
+        "metrics": [
+          "cost"
+        ]
+      },
+      "themes": [],
+      "buffett_concepts": [],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 2006,
+        "comparison_years": [],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "low",
+      "token_count": 480,
+      "char_count": 2378,
+      "source_span": {
+        "start_char": 44281,
+        "end_char_exclusive": 46661
+      },
+      "standalone_exception": true,
+      "exception_reason": "Section chunk below Tier-1 hard minimum but kept to preserve section boundary/completeness.",
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "2006-S7-T3-002",
+    "content": "Regulated Utility Business\n\nTable: MidAmerican Key Figures. Key operating and financial figures for MidAmerican (2006 vs 2005), including earnings and debt.\n\nEarnings (in $ millions)\n2006 2005\nU. K. utilities....................................................................................................... $ 338 $ 308\nIowa utility......................................................................................................... 348 288\nWestern utilities (acquired March 21,2006) ..................................................... 356 N/A\nPipelines............................................................................................................. 376 309\nHome Services..................................................................................................... 74 148\nOther (net).......................................................................................................... 226 115\nEarnings before corporate interest and taxes...................................................... 1,718 1,168\nInterest, other than to Berkshire......................................................................... (261) (200)\nInterest on Berkshire junior debt........................................................................ (134) (157)\nIncome tax.......................................................................................................... (407) (248)\nNet earnings........................................................................................................ $ 916 $ 563\nEarnings applicable to Berkshire*...................................................................... $ 885 $ 523\nDebt owed to others............................................................................................ 16,946 10,296\nDebt owed to Berkshire...................................................................................... 1,055 1,289\n*Includes interest earned by Berkshire (net of related income taxes) of $87 in 2006 and $102 in 2005.",
+    "metadata": {
+      "letter_year": 2006,
+      "letter_date": "2007-02-28",
+      "source_file": "2006_cleaned.txt",
+      "section_title": "Regulated Utility Business",
+      "section_hierarchy": [
+        "Tables",
+        "Business Segments",
+        "Regulated Utility Business"
+      ],
+      "chunk_tier": 3,
+      "parent_chunk_id": "2006-S7-T1-001",
+      "child_chunk_ids": [],
+      "content_type": "financial_table",
+      "contextual_summary": "Regulated Utility Business Table: MidAmerican Key Figures.",
+      "has_table": true,
+      "table_data": [
+        {
+          "table_name": "MidAmerican Key Figures",
+          "summary": "Key operating and financial figures for MidAmerican (2006 vs 2005), including earnings and debt.",
+          "columns": [
+            "Item",
+            "2006",
+            "2005"
+          ],
+          "rows": [
+            [
+              "U. K. utilities",
+              "$ 338 $ 308",
+              ""
+            ],
+            [
+              "Iowa utility",
+              "348 288",
+              ""
+            ],
+            [
+              "Western utilities (acquired March 21,2006)",
+              "356 N/A",
+              ""
+            ],
+            [
+              "Pipelines",
+              "376 309",
+              ""
+            ],
+            [
+              "Home Services",
+              "74 148",
+              ""
+            ],
+            [
+              "Other (net)",
+              "226 115",
+              ""
+            ],
+            [
+              "Earnings before corporate interest and taxes",
+              "1,718 1,168",
+              ""
+            ],
+            [
+              "Interest, other than to Berkshire",
+              "(261) (200)",
+              ""
+            ],
+            [
+              "Interest on Berkshire junior debt",
+              "(134) (157)",
+              ""
+            ],
+            [
+              "Income tax",
+              "(407) (248)",
+              ""
+            ],
+            [
+              "Net earnings",
+              "$ 916 $ 563",
+              ""
+            ],
+            [
+              "Earnings applicable to Berkshire*",
+              "$ 885 $ 523",
+              ""
+            ],
+            [
+              "Debt owed to others",
+              "16,946 10,296",
+              ""
+            ],
+            [
+              "Debt owed to Berkshire",
+              "1,055 1,289",
+              ""
+            ]
+          ],
+          "row_count": 14
+        }
+      ],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [],
+        "people": [],
+        "metrics": [
+          "debt",
+          "income taxes"
+        ]
+      },
+      "themes": [],
+      "buffett_concepts": [],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 2006,
+        "comparison_years": [
+          2005
+        ],
+        "future_outlook": false
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "low",
+      "token_count": 1410,
+      "char_count": 2000,
+      "source_span": {
+        "start_char": 46662,
+        "end_char_exclusive": 48504
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "2006-S8-T1-001",
+    "content": "Finance and Financial Products\nYou will be happy to hear – and I’m even happier – that this will be my last discussion of the\nlosses at Gen Re’s derivative operation. When we started to wind this business down early in 2002, we had\n23,218 contracts outstanding. Now we have 197. Our cumulative pre-tax loss from this operation totals\n$409 million, but only $5 million occurred in 2006. Charlie says that if we had properly classified the $409\nmillion on our 2001 balance sheet, it would have been labeled “Good Until Reached For.” In any event, a\nShakespearean thought – slightly modified – seems appropriate for the tombstone of this derivative\nbusiness: “All’s well that ends.”\n\nWe’ve also wound up our investment in Value Capital. So earnings or losses from these two lines\nof business are making their final appearance in the table that annually appears in this section.\nClayton Homes remains an anomaly in the manufactured-housing industry, which last year\nrecorded its lowest unit sales since 1962. Indeed, the industry’s volume last year was only about one-third\nthat of 1999. Outside of Clayton, I doubt if the industry, overall, made any money in 2006.\n\nYet Clayton earned $513 million pre-tax and paid Berkshire an additional $86 million as a fee for\nour obtaining the funds to finance Clayton’s $10 billion portfolio of installment receivables. Berkshire’s\nfinancial strength has clearly been of huge help to Clayton. But the driving force behind the company’s\nsuccess is Kevin Clayton. Kevin knows the business forward and backward, is a rational decision-maker\nand a joy to work with. Because of acquisitions, Clayton now employs 14,787 people, compared to 6,661\nat the time of our purchase.\nWe have two leasing operations: CORT (furniture), run by Paul Arnold, and XTRA (truck\ntrailers), run by Bill Franz. CORT’s earnings improved significantly last year, and XTRA’s remained at\nthe high level attained in 2005. We continue to look for tuck-in acquisitions to be run by Paul or Bill, and\nalso are open to ideas for new leasing opportunities.",
+    "metadata": {
+      "letter_year": 2006,
+      "letter_date": "2007-02-28",
+      "source_file": "2006_cleaned.txt",
+      "section_title": "Finance and Financial Products",
+      "section_hierarchy": [
+        "Letter Body",
+        "Business Segments",
+        "Finance and Financial Products"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [
+        "2006-S8-T3-002"
+      ],
+      "content_type": "narrative",
+      "contextual_summary": "Finance and Financial Products You will be happy to hear – and I’m even happier – that this will be my last discussion of the losses at Gen Re’s derivative operation.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "Clayton Homes"
+        ],
+        "people": [],
+        "metrics": []
+      },
+      "themes": [],
+      "buffett_concepts": [],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 2006,
+        "comparison_years": [
+          1962,
+          1999,
+          2001,
+          2002,
+          2005
+        ],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "low",
+      "token_count": 430,
+      "char_count": 2056,
+      "source_span": {
+        "start_char": 48506,
+        "end_char_exclusive": 50562
+      },
+      "standalone_exception": true,
+      "exception_reason": "Section chunk below Tier-1 hard minimum but kept to preserve section boundary/completeness.",
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "2006-S8-T3-002",
+    "content": "Finance and Financial Products\n\nTable: Finance Sector Breakdown. Breakdown of pre-tax earnings and interest-bearing liabilities for Berkshire’s finance and financial products businesses (2006 vs 2005).\n\nHere’s a breakdown of earnings in this sector:\n(in millions)\nPre-Tax Earnings Interest-Bearing Liabilities\n2006 2005 2006 2005\nTrading – ordinary income............................ $ 274 $ 200 $ 600 $1,061\nGen Re Securities (loss)................................. (5) (104) 1,204* 2,617*\nLife and annuity operation ............................. 29 11 2,459 2,461\nValue Capital (loss) ....................................... 6 (33) N/A N/A\nLeasing operations ......................................... 182 173 261 370\nManufactured-housing finance (Clayton)....... 513 416 10,498 9,299\nOther............................................................... 158 159 N/A N/A\nIncome before capital gains............................ 1,157 822\nTrading – capital gains (losses) ..................... 938 (234)\nTotal .............................................................. $ 2,095 $ 588\n*Includes all liabilities",
+    "metadata": {
+      "letter_year": 2006,
+      "letter_date": "2007-02-28",
+      "source_file": "2006_cleaned.txt",
+      "section_title": "Finance and Financial Products",
+      "section_hierarchy": [
+        "Tables",
+        "Business Segments",
+        "Finance and Financial Products"
+      ],
+      "chunk_tier": 3,
+      "parent_chunk_id": "2006-S8-T1-001",
+      "child_chunk_ids": [],
+      "content_type": "financial_table",
+      "contextual_summary": "Finance and Financial Products Table: Finance Sector Breakdown.",
+      "has_table": true,
+      "table_data": [
+        {
+          "table_name": "Finance Sector Breakdown",
+          "summary": "Breakdown of pre-tax earnings and interest-bearing liabilities for Berkshire’s finance and financial products businesses (2006 vs 2005).",
+          "columns": [
+            "Business",
+            "Pre-Tax Earnings 2006",
+            "Pre-Tax Earnings 2005",
+            "Interest-Bearing Liabilities 2006",
+            "Interest-Bearing Liabilities 2005"
+          ],
+          "rows": [],
+          "row_count": 0
+        }
+      ],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [],
+        "people": [],
+        "metrics": [
+          "capital gains",
+          "pre-tax earnings"
+        ]
+      },
+      "themes": [],
+      "buffett_concepts": [],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 2006,
+        "comparison_years": [
+          2005
+        ],
+        "future_outlook": false
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "low",
+      "token_count": 535,
+      "char_count": 1110,
+      "source_span": {
+        "start_char": 50566,
+        "end_char_exclusive": 51473
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "2006-S9-T1-001",
+    "content": "Investments\nWe show below our common stock investments. With two exceptions, those that had a market\nvalue of more than $700 million at the end of 2006 are itemized. We don’t itemize the two securities\nreferred to, which have a market value of $1.9 billion, because we continue to buy them. I could, of course,\ntell you their names. But then I would have to kill you.\n\nbecause of write-ups or write-downs that have been required.\nWe are delighted by the 2006 business performance of virtually all of our investees. Last year, we\ntold you that our expectation was that these companies, in aggregate, would increase their earnings by 6%\nto 8% annually, a rate that would double their earnings every ten years or so. In 2006 American Express,\n\nCoca-Cola, Procter & Gamble and Wells Fargo, our largest holdings, increased per-share earnings by 18%,\n9%, 8% and 11%. These are stellar results, and we thank their CEOs.\n* * * * * * * * * * * *\nWe’ve come close to eliminating our direct foreign-exchange position, from which we realized\nabout $186 million in pre-tax profits in 2006 (earnings that were included in the Finance and Financial\nProducts table shown earlier). That brought our total gain since inception of this position in 2002 to $2.2\nbillion. Here’s a breakdown by currency:\n\nWe’ve made large indirect currency profits as well, though I’ve never tallied the precise amount.\nFor example, in 2002-2003 we spent about $82 million buying – of all things – Enron bonds, some of\nwhich were denominated in Euros. Already we’ve received distributions of $179 million from these bonds,\nand our remaining stake is worth $173 million. That means our overall gain is $270 million, part of which\ncame from the appreciation of the Euro that took place after our bond purchase.\nWhen we first began making foreign exchange purchases, interest-rate differentials between the\nU. S. and most foreign countries favored a direct currency position. But that spread turned negative in\n2005. We therefore looked for other ways to gain foreign-currency exposure, such as the ownership of\nforeign equities or of U. S. stocks with major earnings abroad. The currency factor, we should emphasize,\nis not dominant in our selection of equities, but is merely one of many considerations.\nAs our U. S. trade problems worsen, the probability that the dollar will weaken over time continues\nto be high. I fervently believe in real trade – the more the better for both us and the world. We had about\n$1.44 trillion of this honest-to-God trade in 2006. But the U. S. also had $. 76 trillion of pseudo-trade last\nyear – imports for which we exchanged no goods or services. (Ponder, for a moment, how commentators\nwould describe the situation if our imports were $. 76 trillion – a full 6% of GDP – and we had no exports.)\nMaking these purchases that weren’t reciprocated by sales, the U. S. necessarily transferred ownership of its\nassets or IOUs to the rest of the world. Like a very wealthy but self-indulgent family, we peeled off a bit of\nwhat we owned in order to consume more than we produced.\nThe U. S. can do a lot of this because we are an extraordinarily rich country that has behaved\nresponsibly in the past. The world is therefore willing to accept our bonds, real estate, stocks and\nbusinesses. And we have a vast store of these to hand over.\nThese transfers will have consequences, however. Already the prediction I made last year about\none fall-out from our spending binge has come true: The “investment income” account of our country –\npositive in every previous year since 1915 – turned negative in 2006. Foreigners now earn more on their\nU. S. investments than we do on our investments abroad. In effect, we’ve used up our bank account and\nturned to our credit card. And, like everyone who gets in hock, the U. S. will now experience “reverse\ncompounding” as we pay ever-increasing amounts of interest on interest.\nI want to emphasize that even though our course is unwise, Americans will live better ten or\ntwenty years from now than they do today. Per-capita wealth will increase. But our citizens will also be\nforced every year to ship a significant portion of their current production abroad merely to service the cost\nof our huge debtor position. It won’t be pleasant to work part of each day to pay for the over-consumption\n\nof your ancestors. I believe that at some point in the future U. S. workers and voters will find this annual\n“tribute” so onerous that there will be a severe political backlash. How that will play out in markets is\nimpossible to predict – but to expect a “soft landing” seems like wishful thinking.\n* * * * * * * * * * * *\nI should mention that all of the direct currency profits we have realized have come from forward\ncontracts, which are derivatives, and that we have entered into other types of derivatives contracts as well.\nThat may seem odd, since you know of our expensive experience in unwinding the derivatives book at Gen\nRe and also have heard me talk of the systemic problems that could result from the enormous growth in the\nuse of derivatives. Why, you may wonder, are we fooling around with such potentially toxic material?\nThe answer is that derivatives, just like stocks and bonds, are sometimes wildly mispriced. For\nmany years, accordingly, we have selectively written derivative contracts – few in number but sometimes\nfor large dollar amounts. We currently have 62 contracts outstanding. I manage them personally, and they\nare free of counterparty credit risk. So far, these derivative contracts have worked out well for us,\nproducing pre-tax profits in the hundreds of millions of dollars (above and beyond the gains I’ve itemized\nfrom forward foreign-exchange contracts). Though we will experience losses from time to time, we are\nlikely to continue to earn – overall – significant profits from mispriced derivatives.\n* * * * * * * * * * * *\nI have told you that Berkshire has three outstanding candidates to replace me as CEO and that the\nBoard knows exactly who should take over if I should die tonight. Each of the three is much younger than\nI. The directors believe it’s important that my successor have the prospect of a long tenure.\nFrankly, we are not as well-prepared on the investment side of our business. There’s a history\nhere: At one time, Charlie was my potential replacement for investing, and more recently Lou Simpson has\nfilled that slot. Lou is a top-notch investor with an outstanding long-term record of managing GEICO’s\nequity portfolio. But he is only six years younger than I. If I were to die soon, he would fill in\nmagnificently for a short period. For the long-term, though, we need a different answer.\nAt our October board meeting, we discussed that subject fully. And we emerged with a plan,\nwhich I will carry out with the help of Charlie and Lou.\nUnder this plan, I intend to hire a younger man or woman with the potential to manage a very\nlarge portfolio, who we hope will succeed me as Berkshire’s chief investment officer when the need for\nsomeone to do that arises. As part of the selection process, we may in fact take on several candidates.\nPicking the right person(s) will not be an easy task. It’s not hard, of course, to find smart people,\namong them individuals who have impressive investment records. But there is far more to successful longterm investing than brains and performance that has recently been good.\nOver time, markets will do extraordinary, even bizarre, things. A single, big mistake could wipe\nout a long string of successes. We therefore need someone genetically programmed to recognize and avoid\nserious risks, including those never before encountered. Certain perils that lurk in investment strategies\ncannot be spotted by use of the models commonly employed today by financial institutions.\nTemperament is also important. Independent thinking, emotional stability, and a keen\nunderstanding of both human and institutional behavior is vital to long-term investment success. I’ve seen\na lot of very smart people who have lacked these virtues.\nFinally, we have a special problem to consider: our ability to keep the person we hire. Being able\nto list Berkshire on a resume would materially enhance the marketability of an investment manager. We\nwill need, therefore, to be sure we can retain our choice, even though he or she could leave and make much\nmore money elsewhere.\n\nThere are surely people who fit what we need, but they may be hard to identify. In 1979, Jack\nByrne and I felt we had found such a person in Lou Simpson. We then made an arrangement with him\nwhereby he would be paid well for sustained overperformance. Under this deal, he has earned large\namounts. Lou, however, could have left us long ago to manage far greater sums on more advantageous\nterms. If money alone had been the object, that’s exactly what he would have done. But Lou never\nconsidered such a move. We need to find a younger person or two made of the same stuff.\n* * * * * * * * * * * *\nThe good news: At 76, I feel terrific and, according to all measurable indicators, am in excellent\nhealth. It’s amazing what Cherry Coke and hamburgers will do for a fellow.",
+    "metadata": {
+      "letter_year": 2006,
+      "letter_date": "2007-02-28",
+      "source_file": "2006_cleaned.txt",
+      "section_title": "Investments",
+      "section_hierarchy": [
+        "Letter Body",
+        "Investments"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [
+        "2006-S9-T3-002",
+        "2006-S9-T3-003"
+      ],
+      "content_type": "narrative",
+      "contextual_summary": "Investments We show below our common stock investments.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "American Express",
+          "Enron",
+          "GE",
+          "GEICO",
+          "Wells Fargo"
+        ],
+        "people": [
+          "Lou Simpson"
+        ],
+        "metrics": [
+          "cost",
+          "debt",
+          "investment income",
+          "market value",
+          "overall gain",
+          "per-share"
+        ]
+      },
+      "themes": [],
+      "buffett_concepts": [],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 2006,
+        "comparison_years": [
+          1915,
+          1979,
+          2002,
+          2003,
+          2005
+        ],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "low",
+      "token_count": 1913,
+      "char_count": 9148,
+      "source_span": {
+        "start_char": 51474,
+        "end_char_exclusive": 62550
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "2006-S9-T3-002",
+    "content": "Investments\n\nTable: Common Stock Investments. Berkshire’s major common stock holdings at 12/31/06, with shares, ownership %, cost and market value.\n\n12/31/06\nPercentage of\nShares Company Company Owned Cost* Market\n(in millions)\n\n151,610,700 American Express Company................... 12.6 $ 1,287 $ 9,198\n36,417,400 Anheuser-Busch Cos., Inc....................... 4.7 1,761 1,792\n200,000,000 The Coca-Cola Company........................ 8.6 1,299 9,650\n17,938,100 Conoco Phillips....................................... 1.1 1,066 1,291\n21,334,900 Johnson & Johnson.................................. 0.7 1,250 1,409\n6,708,760 M&T Bank Corporation.......................... 6.1 103 820\n48,000,000 Moody’s Corporation.............................. 17.2 499 3,315\n2,338,961,000 Petro China “H” shares (or equivalents)... 1.3 488 3,313\n3,486,006 POSCO.................................................... 4.0 572 1,158\n100,000,000 The Procter & Gamble Company............ 3.2 940 6,427\n229,707,000 Tesco....................................................... 2.9 1,340 1,820\n31,033,800 US Bancorp............................................. 1.8 969 1,123\n17,072,192 USG Corp................................................ 19.0 536 936\n19,944,300 Wal-Mart Stores, Inc............................... 0.5 942 921\n1,727,765 The Washington Post Company.............. 18.0 11 1,288\n218,169,300 Wells Fargo & Company......................... 6.5 3,697 7,758\n1,724,200 White Mountains Insurance..................... 16.0 369 999\nOthers...................................................... 5,866 8,315\nTotal Common Stocks............................. $22,995 $61,533\n*This is our actual purchase price and also our tax basis; GAAP “cost” differs in a few cases",
+    "metadata": {
+      "letter_year": 2006,
+      "letter_date": "2007-02-28",
+      "source_file": "2006_cleaned.txt",
+      "section_title": "Investments",
+      "section_hierarchy": [
+        "Tables",
+        "Investments"
+      ],
+      "chunk_tier": 3,
+      "parent_chunk_id": "2006-S9-T1-001",
+      "child_chunk_ids": [],
+      "content_type": "financial_table",
+      "contextual_summary": "Investments Table: Common Stock Investments.",
+      "has_table": true,
+      "table_data": [
+        {
+          "table_name": "Common Stock Investments (12/31/06)",
+          "summary": "Berkshire’s major common stock holdings at 12/31/06, with shares, ownership %, cost and market value.",
+          "columns": [
+            "Shares",
+            "Company",
+            "% Owned",
+            "Cost (in $ millions)",
+            "Market (in $ millions)"
+          ],
+          "rows": [],
+          "row_count": 0
+        }
+      ],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "American Express",
+          "Johnson & Johnson",
+          "M&T Bank Corporation",
+          "Moody’s Corporation",
+          "POSCO",
+          "Petro China",
+          "Tesco",
+          "The Procter & Gamble Company",
+          "The Washington Post Company",
+          "US Bancorp",
+          "USG Corp",
+          "Wal-Mart Stores",
+          "Wells Fargo",
+          "White Mountains Insurance"
+        ],
+        "people": [],
+        "metrics": [
+          "cost",
+          "market value"
+        ]
+      },
+      "themes": [],
+      "buffett_concepts": [],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 2006,
+        "comparison_years": [],
+        "future_outlook": false
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "low",
+      "token_count": 955,
+      "char_count": 1749,
+      "source_span": {
+        "start_char": 51842,
+        "end_char_exclusive": 53442
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "2006-S9-T3-003",
+    "content": "Investments\n\nTable: Foreign-Exchange Gains by Currency. Breakdown of Berkshire’s cumulative foreign-exchange gains/losses since inception (2002) by currency and related options.\n\nTotal Gain (Loss) in Millions\nAustralian dollar $247.1 Mexican peso $106.1\nBritish pound 287.2 New Zealand dollar 102.6\nCanadian dollar 398.3 Singapore dollar (2.6)\nChinese yuan (12.7) South Korean won 261.3\nEuro 839.2 Swiss franc 9.6\nHong Kong dollar (2.5) Taiwan dollar (45.3)\nJapanese yen 1.9 Miscellaneous options 22.9",
+    "metadata": {
+      "letter_year": 2006,
+      "letter_date": "2007-02-28",
+      "source_file": "2006_cleaned.txt",
+      "section_title": "Investments",
+      "section_hierarchy": [
+        "Tables",
+        "Investments"
+      ],
+      "chunk_tier": 3,
+      "parent_chunk_id": "2006-S9-T1-001",
+      "child_chunk_ids": [],
+      "content_type": "financial_table",
+      "contextual_summary": "Investments Table: Foreign-Exchange Gains by Currency.",
+      "has_table": true,
+      "table_data": [
+        {
+          "table_name": "Foreign-Exchange Gains by Currency",
+          "summary": "Breakdown of Berkshire’s cumulative foreign-exchange gains/losses since inception (2002) by currency and related options.",
+          "columns": [
+            "Currency/Instrument",
+            "Total Gain (Loss) (in $ millions)"
+          ],
+          "rows": [
+            [
+              "Australian dollar",
+              "$247.1"
+            ],
+            [
+              "Mexican peso",
+              "$106.1"
+            ],
+            [
+              "British pound",
+              "287.2"
+            ],
+            [
+              "New Zealand dollar",
+              "102.6"
+            ],
+            [
+              "Canadian dollar",
+              "398.3"
+            ],
+            [
+              "Singapore dollar",
+              "(2.6)"
+            ],
+            [
+              "Chinese yuan",
+              "(12.7)"
+            ],
+            [
+              "South Korean won",
+              "261.3"
+            ],
+            [
+              "Euro",
+              "839.2"
+            ],
+            [
+              "Swiss franc",
+              "9.6"
+            ],
+            [
+              "Hong Kong dollar",
+              "(2.5)"
+            ],
+            [
+              "Taiwan dollar",
+              "(45.3)"
+            ],
+            [
+              "Japanese yen",
+              "1.9"
+            ],
+            [
+              "Miscellaneous options",
+              "22.9"
+            ]
+          ],
+          "row_count": 14
+        }
+      ],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [],
+        "people": [],
+        "metrics": []
+      },
+      "themes": [],
+      "buffett_concepts": [],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 2006,
+        "comparison_years": [
+          2002
+        ],
+        "future_outlook": false
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "low",
+      "token_count": 122,
+      "char_count": 501,
+      "source_span": {
+        "start_char": 54359,
+        "end_char_exclusive": 54681
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "2006-S10-T1-001",
+    "content": "Some Changes on Berkshire’s Board\nThe composition of our board will change in two ways this spring. One change will involve the\nChace family, which has been connected to Berkshire and its predecessor companies for more than a\ncentury. In 1929, the first Malcolm G. Chace played an important role in merging four New England\ntextile operations into Berkshire Fine Spinning Associates. That company merged with Hathaway\nManufacturing in 1955 to form Berkshire Hathaway, and Malcolm G. Chace, Jr. became its chairman.\nEarly in 1965, Malcolm arranged for Buffett Partnership Ltd. to buy a key block of Berkshire\nshares and welcomed us as the new controlling shareholder of the company. Malcolm continued as nonexecutive chairman until 1969. He was both a wonderful gentleman and helpful partner.\nThat description also fits his son, Malcolm “Kim” Chace, who succeeded his father on Berkshire’s\nboard in 1992. But last year Kim, now actively and successfully running a community bank that he\nfounded in 1996, suggested that we find a younger person to replace him on our board. We have done so,\nand Kim will step down as a director at the annual meeting. I owe much to the Chaces and wish to thank\nKim for his many years of service to Berkshire.\nIn selecting a new director, we were guided by our long-standing criteria, which are that board\nmembers be owner-oriented, business-savvy, interested and truly independent. I say “truly” because many\ndirectors who are now deemed independent by various authorities and observers are far from that, relying\nheavily as they do on directors’ fees to maintain their standard of living. These payments, which come in\nmany forms, often range between $150,000 and $250,000 annually, compensation that may approach or\neven exceed all other income of the “independent” director. And – surprise, surprise – director\ncompensation has soared in recent years, pushed up by recommendations from corporate America’s\nfavorite consultant, Ratchet, Ratchet and Bingo. (The name may be phony, but the action it conveys is\nnot.)\nCharlie and I believe our four criteria are essential if directors are to do their job – which, by law,\nis to faithfully represent owners. Yet these criteria are usually ignored. Instead, consultants and CEOs\nseeking board candidates will often say, “We’re looking for a woman,” or “a Hispanic,” or “someone from\nabroad,” or what have you. It sometimes sounds as if the mission is to stock Noah’s ark. Over the years\nI’ve been queried many times about potential directors and have yet to hear anyone ask, “Does he think like\nan intelligent owner?”\nThe questions I instead get would sound ridiculous to someone seeking candidates for, say, a\nfootball team, or an arbitration panel or a military command. In those cases, the selectors would look for\npeople who had the specific talents and attitudes that were required for a specialized job. At Berkshire, we\nare in the specialized activity of running a business well, and therefore we seek business judgment.\nThat’s exactly what we’ve found in Susan Decker, CFO of Yahoo!, who will join our board at the\nannual meeting. We are lucky to have her: She scores very high on our four criteria and additionally, at 44,\nis young – an attribute, as you may have noticed, that your Chairman has long lacked. We will seek more\nyoung directors in the future, but never by slighting the four qualities that we insist upon.",
+    "metadata": {
+      "letter_year": 2006,
+      "letter_date": "2007-02-28",
+      "source_file": "2006_cleaned.txt",
+      "section_title": "Some Changes on Berkshire’s Board",
+      "section_hierarchy": [
+        "Letter Body",
+        "Some Changes on Berkshire’s Board"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "narrative",
+      "contextual_summary": "Some Changes on Berkshire’s Board The composition of our board will change in two ways this spring.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "Berkshire Hathaway",
+          "Yahoo!"
+        ],
+        "people": [
+          "Malcolm G. Chace",
+          "Malcolm G. Chace, Jr.",
+          "Malcolm “Kim” Chace",
+          "Susan Decker"
+        ],
+        "metrics": []
+      },
+      "themes": [],
+      "buffett_concepts": [],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 2006,
+        "comparison_years": [
+          1929,
+          1955,
+          1965,
+          1969,
+          1992,
+          1996
+        ],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "low",
+      "token_count": 689,
+      "char_count": 3407,
+      "source_span": {
+        "start_char": 62551,
+        "end_char_exclusive": 65958
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "2006-S11-T1-001",
+    "content": "This and That\nBerkshire will pay about $4.4 billion in federal income tax on its 2006 earnings. In its last fiscal\nyear the U. S. Government spent $2.6 trillion, or about $7 billion per day. Thus, for more than half of one\nday, Berkshire picked up the tab for all federal expenditures, ranging from Social Security and Medicare\npayments to the cost of our armed services. Had there been only 600 taxpayers like Berkshire, no one else\nin America would have needed to pay any federal income or payroll taxes.\n* * * * * * * * * * * *\nOur federal return last year, we should add, ran to 9,386 pages. To handle this filing, state and\nforeign tax returns, a myriad of SEC requirements, and all of the other matters involved in running\nBerkshire, we have gone all the way up to 19 employees at World Headquarters.\nThis crew occupies 9,708 square feet of space, and Charlie – at World Headquarters West in Los\nAngeles – uses another 655 square feet. Our home-office payroll, including benefits and counting both\nlocations, totaled $3,531,978 last year. We’re careful when spending your money.\nCorporate bigwigs often complain about government spending, criticizing bureaucrats who they\nsay spend taxpayers’ money differently from how they would if it were their own. But sometimes the\nfinancial behavior of executives will also vary based on whose wallet is getting depleted. Here’s an\nillustrative tale from my days at Salomon. In the 1980 s the company had a barber, Jimmy by name, who\ncame in weekly to give free haircuts to the top brass. A manicurist was also on tap. Then, because of a\ncost-cutting drive, patrons were told to pay their own way. One top executive (not the CEO) who had\npreviously visited Jimmy weekly went immediately to a once-every-three-weeks schedule.\n* * * * * * * * * * * *\nEvery now and then Charlie and I catch on early to a tide-like trend, one brimming over with\ncommercial promise. For example, though American Airlines (with its “miles”) and American Express\n(with credit card points) are credited as being trailblazers in granting customers “rewards,” Charlie and I\nwere far ahead of them in spotting the appeal of this powerful idea. Excited by our insight, the two of us\njumped into the reward business way back in 1970 by buying control of a trading stamp operation, Blue\nChip Stamps. In that year, Blue Chip had sales of $126 million, and its stamps papered California.\nIn 1970, indeed, about 60 billion of our stamps were licked by savers, pasted into books, and taken\nto Blue Chip redemption stores. Our catalog of rewards was 116 pages thick and chock full of tantalizing\nitems. When I was told that even certain brothels and mortuaries gave stamps to their patrons, I felt I had\nfinally found a sure thing.\nWell, not quite. From the day Charlie and I stepped into the Blue Chip picture, the business went\nstraight downhill. By 1980, sales had fallen to $19.4 million. And, by 1990, sales were bumping along at\n$1.5 million. No quitter, I redoubled my managerial efforts.\nSales then fell another 98%. Last year, in Berkshire’s $98 billion of revenues, all of $25,920 (no\nzeros omitted) came from Blue Chip. Ever hopeful, Charlie and I soldier on.\n* * * * * * * * * * * *\nI mentioned last year that in my service on 19 corporate boards (not counting Berkshire or other\ncontrolled companies), I have been the Typhoid Mary of compensation committees. At only one company\nwas I assigned to comp committee duty, and then I was promptly outvoted on the most crucial decision that\nwe faced. My ostracism has been peculiar, considering that I certainly haven’t lacked experience in setting\nCEO pay. At Berkshire, after all, I am a one-man compensation committee who determines the salaries\nand incentives for the CEOs of around 40 significant operating businesses.\n\nHow much time does this aspect of my job take? Virtually none. How many CEOs have\nvoluntarily left us for other jobs in our 42-year history? Precisely none.\nBerkshire employs many different incentive arrangements, with their terms depending on such\nelements as the economic potential or capital intensity of a CEO’s business. Whatever the compensation\narrangement, though, I try to keep it both simple and fair.\nWhen we use incentives – and these can be large – they are always tied to the operating results for\nwhich a given CEO has authority. We issue no lottery tickets that carry payoffs unrelated to business\nperformance. If a CEO bats . 300, he gets paid for being a . 300 hitter, even if circumstances outside of his\ncontrol cause Berkshire to perform poorly. And if he bats . 150, he doesn’t get a payoff just because the\nsuccesses of others have enabled Berkshire to prosper mightily. An example: We now own $61 billion of\nequities at Berkshire, whose value can easily rise or fall by 10% in a given year. Why in the world should\nthe pay of our operating executives be affected by such $6 billion swings, however important the gain or\nloss may be for shareholders?\nYou’ve read loads about CEOs who have received astronomical compensation for mediocre\nresults. Much less well-advertised is the fact that America’s CEOs also generally live the good life. Many,\nit should be emphasized, are exceptionally able, and almost all work far more than 40 hours a week. But\nthey are usually treated like royalty in the process. (And we’re certainly going to keep it that way at\nBerkshire. Though Charlie still favors sackcloth and ashes, I prefer to be spoiled rotten. Berkshire owns\nThe Pampered Chef; our wonderful office group has made me The Pampered Chief.)\nCEO perks at one company are quickly copied elsewhere. “All the other kids have one” may seem\na thought too juvenile to use as a rationale in the boardroom. But consultants employ precisely this\nargument, phrased more elegantly of course, when they make recommendations to comp committees.\nIrrational and excessive comp practices will not be materially changed by disclosure or by\n“independent” comp committee members. Indeed, I think it’s likely that the reason I was rejected for\nservice on so many comp committees was that I was regarded as too independent. Compensation reform\nwill only occur if the largest institutional shareholders – it would only take a few – demand a fresh look at\nthe whole system. The consultants’ present drill of deftly selecting “peer” companies to compare with their\nclients will only perpetuate present excesses.\n* * * * * * * * * * * *\nLast year I arranged for the bulk of my Berkshire holdings to go to five charitable foundations,\nthus carrying out part of my lifelong plan to eventually use all of my shares for philanthropic purposes.\nDetails of the commitments I made, as well as the rationale for them, are posted on our website,\nwww. berkshirehathaway. com. Taxes, I should note, had nothing to do with my decision or its timing. My\nfederal and state income taxes in 2006 were exactly what they would have been had I not made my first\ncontributions last summer, and the same point will apply to my 2007 contributions.\nIn my will I’ve stipulated that the proceeds from all Berkshire shares I still own at death are to be\nused for philanthropic purposes within ten years after my estate is closed. Because my affairs are not\ncomplicated, it should take three years at most for this closing to occur. Adding this 13-year period to my\nexpected lifespan of about 12 years (though, naturally, I’m aiming for more) means that proceeds from all\nof my Berkshire shares will likely be distributed for societal purposes over the next 25 years or so.\nI’ve set this schedule because I want the money to be spent relatively promptly by people I know\nto be capable, vigorous and motivated. These managerial attributes sometimes wane as institutions –\nparticularly those that are exempt from market forces – age. Today, there are terrific people in charge at\nthe five foundations. So at my death, why should they not move with dispatch to judiciously spend the\nmoney that remains?",
+    "metadata": {
+      "letter_year": 2006,
+      "letter_date": "2007-02-28",
+      "source_file": "2006_cleaned.txt",
+      "section_title": "This and That",
+      "section_hierarchy": [
+        "Letter Body",
+        "This and That"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "narrative",
+      "contextual_summary": "This and That Berkshire will pay about $4.4 billion in federal income tax on its 2006 earnings.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "American Airlines",
+          "American Express",
+          "Salomon",
+          "The Pampered Chef"
+        ],
+        "people": [
+          "Jimmy"
+        ],
+        "metrics": [
+          "cost",
+          "employees",
+          "federal income tax",
+          "income taxes",
+          "revenues"
+        ]
+      },
+      "themes": [],
+      "buffett_concepts": [],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 2006,
+        "comparison_years": [
+          1970,
+          1980,
+          1990,
+          2007
+        ],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "medium",
+      "abstraction_level": "low",
+      "token_count": 1634,
+      "char_count": 7959,
+      "source_span": {
+        "start_char": 65962,
+        "end_char_exclusive": 73923
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "2006-S11-T1-002",
+    "content": "This and That\n\nThose people favoring perpetual foundations argue that in the future there will most certainly be\nlarge and important societal problems that philanthropy will need to address. I agree. But there will then\nalso be many super-rich individuals and families whose wealth will exceed that of today’s Americans and\nto whom philanthropic organizations can make their case for funding. These funders can then judge\nfirsthand which operations have both the vitality and the focus to best address the major societal problems\nthat then exist. In this way, a market test of ideas and effectiveness can be applied. Some organizations\nwill deserve major support while others will have outlived their usefulness. Even if the people above\nground make their decisions imperfectly, they should be able to allocate funds more rationally than a\ndecedent six feet under will have ordained decades earlier. Wills, of course, can always be rewritten, but\nit’s very unlikely that my thinking will change in a material way.\nA few shareholders have expressed concern that sales of Berkshire by the foundations receiving\nshares will depress the stock. These fears are unwarranted. The annual trading volume of many stocks\nexceeds 100% of the outstanding shares, but nevertheless these stocks usually sell at prices approximating\ntheir intrinsic value. Berkshire also tends to sell at an appropriate price, but with annual volume that is only\n15% of shares outstanding. At most, sales by the foundations receiving my shares will add three\npercentage points to annual trading volume, which will still leave Berkshire with a turnover ratio that is the\nlowest around.\nOverall, Berkshire’s business performance will determine the price of our stock, and most of the\ntime it will sell in a zone of reasonableness. It’s important that the foundations receive appropriate prices\nas they periodically sell Berkshire shares, but it’s also important that incoming shareholders don’t overpay.\n(See economic principle 14 on page 77.) By both our policies and shareholder communications, Charlie\nand I will do our best to ensure that Berkshire sells at neither a large discount nor large premium to intrinsic\nvalue.\nThe existence of foundation ownership will in no way influence our board’s decisions about\ndividends, repurchases, or the issuance of shares. We will follow exactly the same rule that has guided us\nin the past: What action will be likely to deliver the best result for shareholders over time?\n* * * * * * * * * * * * *\nIn last year’s report I allegorically described the Gotrocks family – a clan that owned all of\nAmerica’s businesses and that counterproductively attempted to increase its investment returns by paying\never-greater commissions and fees to “helpers.” Sad to say, the “family” continued its self-destructive\nways in 2006.\nIn part the family persists in this folly because it harbors unrealistic expectations about obtainable\nreturns. Sometimes these delusions are self-serving. For example, private pension plans can temporarily\noverstate their earnings, and public pension plans can defer the need for increased taxes, by using\ninvestment assumptions that are likely to be out of reach. Actuaries and auditors go along with these\ntactics, and it can be decades before the chickens come home to roost (at which point the CEO or public\nofficial who misled the world is apt to be gone).\nMeanwhile, Wall Street’s Pied Pipers of Performance will have encouraged the futile hopes of the\nfamily. The hapless Gotrocks will be assured that they all can achieve above-average investment\nperformance – but only by paying ever-higher fees. Call this promise the adult version of Lake Woebegon.\nIn 2006, promises and fees hit new highs. A flood of money went from institutional investors to\nthe 2-and-20 crowd. For those innocent of this arrangement, let me explain: It’s a lopsided system whereby\n2% of your principal is paid each year to the manager even if he accomplishes nothing – or, for that matter,\nloses you a bundle – and, additionally, 20% of your profit is paid to him if he succeeds, even if his success\nis due simply to a rising tide. For example, a manager who achieves a gross return of 10% in a year will\nkeep 3.6 percentage points – two points off the top plus 20% of the residual 8 points – leaving only 6.4\npercentage points for his investors. On a $3 billion fund, this 6.4% net “performance” will deliver the\nmanager a cool $108 million. He will receive this bonanza even though an index fund might have returned\n15% to investors in the same period and charged them only a token fee.\n\nThe inexorable math of this grotesque arrangement is certain to make the Gotrocks family poorer\nover time than it would have been had it never heard of these “hyper-helpers.” Even so, the 2-and-20\naction spreads. Its effects bring to mind the old adage: When someone with experience proposes a deal to\nsomeone with money, too often the fellow with money ends up with the experience, and the fellow with\nexperience ends up with the money.\n* * * * * * * * * * * *\nLet me end this section by telling you about one of the good guys of Wall Street, my long-time\nfriend Walter Schloss, who last year turned 90. From 1956 to 2002, Walter managed a remarkably\nsuccessful investment partnership, from which he took not a dime unless his investors made money. My\nadmiration for Walter, it should be noted, is not based on hindsight. A full fifty years ago, Walter was my\nsole recommendation to a St. Louis family who wanted an honest and able investment manager.\nWalter did not go to business school, or for that matter, college. His office contained one file\ncabinet in 1956; the number mushroomed to four by 2002. Walter worked without a secretary, clerk or\nbookkeeper, his only associate being his son, Edwin, a graduate of the North Carolina School of the Arts.\nWalter and Edwin never came within a mile of inside information. Indeed, they used “outside” information\nonly sparingly, generally selecting securities by certain simple statistical methods Walter learned while\nworking for Ben Graham. When Walter and Edwin were asked in 1989 by Outstanding Investors Digest,\n“How would you summarize your approach?” Edwin replied, “We try to buy stocks cheap.” So much for\nModern Portfolio Theory, technical analysis, macroeconomic thoughts and complex algorithms.\nFollowing a strategy that involved no real risk – defined as permanent loss of capital – Walter\nproduced results over his 47 partnership years that dramatically surpassed those of the S&P 500. It’s\nparticularly noteworthy that he built this record by investing in about 1,000 securities, mostly of a\nlackluster type. A few big winners did not account for his success. It’s safe to say that had millions of\ninvestment managers made trades by a) drawing stock names from a hat; b) purchasing these stocks in\ncomparable amounts when Walter made a purchase; and then c) selling when Walter sold his pick, the\nluckiest of them would not have come close to equaling his record. There is simply no possibility that what\nWalter achieved over 47 years was due to chance.\nI first publicly discussed Walter’s remarkable record in 1984. At that time “efficient market\ntheory” (EMT) was the centerpiece of investment instruction at most major business schools. This theory,\nas then most commonly taught, held that the price of any stock at any moment is not demonstrably\nmispriced, which means that no investor can be expected to overperform the stock market averages using\nonly publicly-available information (though some will do so by luck). When I talked about Walter 23 years\nago, his record forcefully contradicted this dogma.\nAnd what did members of the academic community do when they were exposed to this new and\nimportant evidence? Unfortunately, they reacted in all-too-human fashion: Rather than opening their\nminds, they closed their eyes. To my knowledge no business school teaching EMT made any attempt to\nstudy Walter’s performance and what it meant for the school’s cherished theory.\nInstead, the faculties of the schools went merrily on their way presenting EMT as having the\ncertainty of scripture. Typically, a finance instructor who had the nerve to question EMT had about as\nmuch chance of major promotion as Galileo had of being named Pope.\nTens of thousands of students were therefore sent out into life believing that on every day the price\nof every stock was “right” (or, more accurately, not demonstrably wrong) and that attempts to evaluate\nbusinesses – that is, stocks – were useless. Walter meanwhile went on overperforming, his job made easier\nby the misguided instructions that had been given to those young minds. After all, if you are in the\nshipping business, it’s helpful to have all of your potential competitors be taught that the earth is flat.\nMaybe it was a good thing for his investors that Walter didn’t go to college.",
+    "metadata": {
+      "letter_year": 2006,
+      "letter_date": "2007-02-28",
+      "source_file": "2006_cleaned.txt",
+      "section_title": "This and That",
+      "section_hierarchy": [
+        "Letter Body",
+        "This and That"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "narrative",
+      "contextual_summary": "This and That Those people favoring perpetual foundations argue that in the future there will most certainly be large and important societal problems that philanthropy will need to address.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [],
+        "people": [
+          "Ben Graham",
+          "Edwin",
+          "Galileo",
+          "Walter Schloss"
+        ],
+        "metrics": [
+          "intrinsic value",
+          "policies"
+        ]
+      },
+      "themes": [],
+      "buffett_concepts": [],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 2006,
+        "comparison_years": [
+          1956,
+          1984,
+          1989,
+          2002
+        ],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [
+          "economic principle 14",
+          "page 77"
+        ],
+        "related_years": []
+      },
+      "retrieval_priority": "medium",
+      "abstraction_level": "low",
+      "token_count": 1742,
+      "char_count": 8902,
+      "source_span": {
+        "start_char": 73927,
+        "end_char_exclusive": 82816
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "2006-S12-T1-001",
+    "content": "The Annual Meeting\nOur meeting this year will be held on Saturday, May 5 th. As always, the doors will open at the\nQwest Center at 7 a. m., and a new Berkshire movie will be shown at 8: 30. At 9: 30 we will go directly to\nthe question-and-answer period, which (with a break for lunch at the Qwest’s stands) will last until 3: 00.\nThen, after a short recess, Charlie and I will convene the annual meeting at 3: 15. If you decide to leave\nduring the day’s question periods, please do so while Charlie is talking.\nThe best reason to exit, of course is to shop. We will help you do that by filling the 194,300\nsquare foot hall that adjoins the meeting area with the products of Berkshire subsidiaries. Last year, the\n24,000 people who came to the meeting did their part, and almost every location racked up record sales.\nBut records are made to be broken, and I know you can do better.\nThis year we will again showcase a Clayton home (featuring Acme brick, Shaw carpet, Johns\nManville insulation, Mi Tek fasteners, Carefree awnings and NFM furniture). You will find that the home,\npriced at $139,900, delivers excellent value. Last year, a helper at the Qwest bought one of two homes on\ndisplay well before we opened the doors to shareholders. Flanking the Clayton home on the exhibition\nfloor this year will be an RV and pontoon boat from Forest River.\nGEICO will have a booth staffed by a number of its top counselors from around the country, all of\nthem ready to supply you with auto insurance quotes. In most cases, GEICO will be able to give you a\nspecial shareholder discount (usually 8%). This special offer is permitted by 45 of the 50 jurisdictions in\nwhich we operate. (One supplemental point: The discount is not additive if you qualify for another, such as\nthat given certain groups.) Bring the details of your existing insurance and check out whether we can save\nyou money. For at least 50% of you, I believe we can. And while you’re at it, sign up for the new GEICO\ncredit card. It’s the one I now use (sparingly, of course).\nOn Saturday, at the Omaha airport, we will have the usual array of aircraft from Net Jets available\nfor your inspection. Stop by the Net Jets booth at the Qwest to learn about viewing these planes. Come to\nOmaha by bus; leave in your new plane. And take all the hair gel that you wish on board with you.\nIn the Bookworm’s corner of our bazaar, there will be about 25 books and DVDs – all discounted\n• led again by Poor Charlie’s Almanack. (One hapless soul last year asked Charlie what he should do if he\ndidn’t enjoy the book. Back came a Mungerism: “No problem – just give it to someone more intelligent.”)\nWe’ve added a few titles this year. Among them are Seeking Wisdom: From Darwin to Munger by Peter\nBevelin, a long-time Swedish shareholder of Berkshire, and Fred Schwed’s classic, Where are the\nCustomers’ Yachts? This book was first published in 1940 and is now in its 4 th edition. The funniest book\never written about investing, it lightly delivers many truly important messages on the subject.\nAn attachment to the proxy material that is enclosed with this report explains how you can obtain\nthe credential you will need for admission to the meeting and other events. As for plane, hotel and car\nreservations, we have again signed up American Express (800-799-6634) to give you special help. Carol\nPedersen, who handles these matters, does a terrific job for us each year, and I thank her for it. Hotel\nrooms can be hard to find, but work with Carol and you will get one.\nAt Nebraska Furniture Mart, located on a 77-acre site on 72 nd Street between Dodge and Pacific,\nwe will again be having “Berkshire Weekend” discount pricing. We initiated this special event at NFM ten\nyears ago, and sales during the “Weekend” grew from $5.3 million in 1997 to $30 million in 2006. I get\ngoose bumps just thinking about this volume.\nTo obtain the Berkshire discount, you must make your purchases between Thursday, May 3 rd and\nMonday, May 7 th inclusive, and also present your meeting credential. The period’s special pricing will\neven apply to the products of several prestigious manufacturers that normally have ironclad rules against\ndiscounting but which, in the spirit of our shareholder weekend, have made an exception for you. We\nappreciate their cooperation. NFM is open from 10 a. m. to 9 p. m. Monday through Saturday, and 10 a. m.\n\nto 6 p. m. on Sunday. On Saturday this year, from 5: 30 p. m. to 8 p. m., NFM is having a special shareholder\npicnic featuring chicken and beef tacos (and hamburgers for traditionalists like me).\nAt a remodeled and expanded Borsheim’s, we will again have two shareholder-only events. The\nfirst will be a cocktail reception from 6 p. m. to 10 p. m. on Friday, May 4 th. The second, the main gala, will\nbe held on Sunday, May 6 th, from 9 a. m. to 4 p. m. On Saturday, we will be open until 6 p. m.\nWe will have huge crowds at Borsheim’s throughout the weekend. For your convenience,\ntherefore, shareholder prices will be available from Monday, April 30 th through Saturday, May 12 th.\nDuring that period, please identify yourself as a shareholder by presenting your meeting credentials or a\nbrokerage statement that shows you are a Berkshire holder.\nOn Sunday, in a tent outside of Borsheim’s, a blindfolded Patrick Wolff, twice U. S. chess\nchampion, will take on all comers – who will have their eyes wide open – in groups of six. Last year I\ncarried on a conversation with Patrick while he played in this manner. Nearby, Norman Beck, a\nremarkable magician from Dallas, will bewilder onlookers. Additionally, we will have Bob Hamman and\nSharon Osberg, two of the world’s top bridge experts, available to play bridge with our shareholders on\nSunday afternoon.\nTo add to the Sunday fun at Borsheim’s, Ariel Hsing will play table tennis (ping-pong to the\nuninitiated) from 1 p. m. to 4 p. m. against anyone brave enough to take her on. Ariel, though only 11, is\nranked number one among girls under 16 in the U. S. (and number 1 among both boys and girls under 12).\nThe week I turned 75 I played Ariel, then 9 and barely tall enough to see across the table, thinking I would\ntake it easy on her so as not to crush her young spirit. Instead she crushed me. I’ve since devised a plan\nthat will give me a chance against her. At 1 p. m. on Sunday, I will initiate play with a 2-point game against\nAriel. If I somehow win the first point, I will then feign injury and claim victory. After this strenuous\nencounter wears Ariel down, our shareholders can then try their luck against her.\nGorat’s will again be open exclusively for Berkshire shareholders on Sunday, May 6 th, and will be\nserving from 4 p. m. until 10 p. m. Please remember that to come to Gorat’s on that day, you must have a\nreservation. To make one, call 402-551-3733 on April 1 st (but not before).\nIn the 2006-2007 school year, 35 university classes, including one from IBMEC in Brazil, will\ncome to Omaha for sessions with me. I take almost all – in aggregate, more than 2,000 students – to lunch\nat Gorat’s. And they love it. To learn why, come join us on Sunday.\nWe will again have a reception at 4 p. m. on Saturday afternoon for shareholders who have come\nfrom outside of North America. Every year our meeting draws many people from around the globe, and\nCharlie and I want to be sure we personally greet those who have come so far. Last year we enjoyed\nmeeting more than 400 of you from many dozens of countries. Any shareholder who comes from other\nthan the U. S. or Canada will be given a special credential and instructions for attending this function.\n* * * * * * * * * * * *\nCharlie and I are extraordinarily lucky. We were born in America; had terrific parents who saw\nthat we got good educations; have enjoyed wonderful families and great health; and came equipped with a\n“business” gene that allows us to prosper in a manner hugely disproportionate to other people who\ncontribute as much or more to our society’s well-being. Moreover, we have long had jobs that we love, in\nwhich we are helped every day in countless ways by talented and cheerful associates. No wonder we tapdance to work. But nothing is more fun for us than getting together with our shareholder-partners at\nBerkshire’s annual meeting. So join us on May 5 th at the Qwest for our annual Woodstock for Capitalists.\nWe’ll see you there.\nFebruary 28,2007 Warren E. Buffett\nChairman of the Board",
+    "metadata": {
+      "letter_year": 2006,
+      "letter_date": "2007-02-28",
+      "source_file": "2006_cleaned.txt",
+      "section_title": "The Annual Meeting",
+      "section_hierarchy": [
+        "Letter Body",
+        "The Annual Meeting"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "narrative",
+      "contextual_summary": "The Annual Meeting Our meeting this year will be held on Saturday, May 5 th.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "American Express",
+          "Borsheim’s",
+          "Forest River",
+          "GE",
+          "GEICO",
+          "Gorat’s",
+          "IBMEC",
+          "Mi Tek",
+          "Nebraska Furniture Mart",
+          "Net Jets",
+          "Qwest Center",
+          "Shaw"
+        ],
+        "people": [
+          "Ariel Hsing",
+          "Bob Hamman",
+          "Norman Beck",
+          "Patrick Wolff",
+          "Sharon Osberg",
+          "Warren E. Buffett"
+        ],
+        "metrics": []
+      },
+      "themes": [],
+      "buffett_concepts": [],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 2006,
+        "comparison_years": [
+          1940,
+          1997,
+          2007
+        ],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "medium",
+      "abstraction_level": "low",
+      "token_count": 1870,
+      "char_count": 8412,
+      "source_span": {
+        "start_char": 82820,
+        "end_char_exclusive": 91234
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  }
+]
