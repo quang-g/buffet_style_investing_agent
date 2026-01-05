@@ -1,0 +1,2560 @@
+[
+  {
+    "chunk_id": "2003-S1-T3-001",
+    "content": "Note: The following table appears in the printed Annual Report on the facing page of the\nChairman's Letter and is referred to in that letter.\nBerkshire’s Corporate Performance vs. the S&P 500\n\nAnnual Percentage Change\nin Per-Share in S&P 500\nBook Value of with Dividends Relative\nBerkshire Included Results\nYear (1) (2) (1)-(2)\n1965 .................................................. 23.8 10.0 13.8\n1966 .................................................. 20.3 (11.7) 32.0\n1967 .................................................. 11.0 30.9 (19.9)\n1968 .................................................. 19.0 11.0 8.0\n1969 .................................................. 16.2 (8.4) 24.6\n1970 .................................................. 12.0 3.9 8.1\n1971 .................................................. 16.4 14.6 1.8\n1972 .................................................. 21.7 18.9 2.8\n1973 .................................................. 4.7 (14.8) 19.5\n1974 .................................................. 5.5 (26.4) 31.9\n1975 .................................................. 21.9 37.2 (15.3)\n1976 .................................................. 59.3 23.6 35.7\n1977 .................................................. 31.9 (7.4) 39.3\n1978 .................................................. 24.0 6.4 17.6\n1979 .................................................. 35.7 18.2 17.5\n1980 .................................................. 19.3 32.3 (13.0)\n1981 .................................................. 31.4 (5.0) 36.4\n1982 .................................................. 40.0 21.4 18.6\n1983 .................................................. 32.3 22.4 9.9\n1984 .................................................. 13.6 6.1 7.5\n1985 .................................................. 48.2 31.6 16.6\n1986 .................................................. 26.1 18.6 7.5\n1987 .................................................. 19.5 5.1 14.4\n1988 .................................................. 20.1 16.6 3.5\n1989 .................................................. 44.4 31.7 12.7\n1990 .................................................. 7.4 (3.1) 10.5\n1991 .................................................. 39.6 30.5 9.1\n1992 .................................................. 20.3 7.6 12.7\n1993 .................................................. 14.3 10.1 4.2\n1994 .................................................. 13.9 1.3 12.6\n1995 .................................................. 43.1 37.6 5.5\n1996 .................................................. 31.8 23.0 8.8\n1997 .................................................. 34.1 33.4 . 7\n1998 .................................................. 48.3 28.6 19.7\n1999 .................................................. . 5 21.0 (20.5)\n2000 .................................................. 6.5 (9.1) 15.6\n2001 .................................................. (6.2) (11.9) 5.7\n2002 .................................................. 10.0 (22.1) 32.1\n2003 .................................................. 21.0 28.7 (7.7)\nAverage Annual Gain — 1965-2003 22.2 10.4 11.8\nOverall Gain — 1964-2003 259,485 4,743\nNotes: Data are for calendar years with these exceptions: 1965 and 1966, year ended 9/30; 1967,15 months ended 12/31.\nStarting in 1979, accounting rules required insurance companies to value the equity securities they hold at market\nrather than at the lower of cost or market, which was previously the requirement. In this table, Berkshire's results\nthrough 1978 have been restated to conform to the changed rules. In all other respects, the results are calculated using\nthe numbers originally reported.\nThe S&P 500 numbers are pre-tax whereas the Berkshire numbers are after-tax. If a corporation such as Berkshire\nwere simply to have owned the S&P 500 and accrued the appropriate taxes, its results would have lagged the S&P 500\nin years when that index showed a positive return, but would have exceeded the S&P in years when the index showed a\nnegative return. Over the years, the tax costs would have caused the aggregate lag to be substantial.\n\n",
+    "metadata": {
+      "letter_year": 2003,
+      "letter_date": "2004-02-27",
+      "source_file": "2003_cleaned.txt",
+      "section_title": "Berkshire’s Corporate Performance vs. the S&P 500",
+      "section_hierarchy": [
+        "Tables",
+        "Performance"
+      ],
+      "chunk_tier": 3,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "financial_table",
+      "contextual_summary": "Performance table comparing Berkshire’s annual per-share book value changes with the S&P 500 total return through 2003, including summary lines and explanatory notes about methodology and taxes.",
+      "has_table": true,
+      "table_data": [
+        {
+          "table_name": "Berkshire’s Corporate Performance vs. the S&P 500",
+          "summary": "Shows Berkshire’s annual per-share book value change versus the S&P 500 total return, plus relative results, across 1965–2003 with summary lines.",
+          "columns": [
+            "Year",
+            "Berkshire book value per-share % change",
+            "S&P 500 total return %",
+            "Relative results (pts)"
+          ],
+          "rows": [
+            [
+              "1965",
+              "23.8",
+              "10.0",
+              "13.8"
+            ],
+            [
+              "1966",
+              "20.3",
+              "(11.7)",
+              "32.0"
+            ],
+            [
+              "1967",
+              "11.0",
+              "30.9",
+              "(19.9)"
+            ],
+            [
+              "1968",
+              "19.0",
+              "11.0",
+              "8.0"
+            ],
+            [
+              "1969",
+              "16.2",
+              "(8.4)",
+              "24.6"
+            ],
+            [
+              "1970",
+              "12.0",
+              "3.9",
+              "8.1"
+            ],
+            [
+              "1971",
+              "16.4",
+              "14.6",
+              "1.8"
+            ],
+            [
+              "1972",
+              "21.7",
+              "18.9",
+              "2.8"
+            ],
+            [
+              "1973",
+              "4.7",
+              "(14.8)",
+              "19.5"
+            ],
+            [
+              "1974",
+              "5.5",
+              "(26.4)",
+              "31.9"
+            ],
+            [
+              "1975",
+              "21.9",
+              "37.2",
+              "(15.3)"
+            ],
+            [
+              "1976",
+              "59.3",
+              "23.6",
+              "35.7"
+            ],
+            [
+              "1977",
+              "31.9",
+              "(7.4)",
+              "39.3"
+            ],
+            [
+              "1978",
+              "24.0",
+              "6.4",
+              "17.6"
+            ],
+            [
+              "1979",
+              "35.7",
+              "18.2",
+              "17.5"
+            ],
+            [
+              "1980",
+              "19.3",
+              "32.3",
+              "(13.0)"
+            ],
+            [
+              "1981",
+              "31.4",
+              "(5.0)",
+              "36.4"
+            ],
+            [
+              "1982",
+              "40.0",
+              "21.4",
+              "18.6"
+            ],
+            [
+              "1983",
+              "32.3",
+              "22.4",
+              "9.9"
+            ],
+            [
+              "1984",
+              "13.6",
+              "6.1",
+              "7.5"
+            ],
+            [
+              "1985",
+              "48.2",
+              "31.6",
+              "16.6"
+            ],
+            [
+              "1986",
+              "26.1",
+              "18.6",
+              "7.5"
+            ],
+            [
+              "1987",
+              "19.5",
+              "5.1",
+              "14.4"
+            ],
+            [
+              "1988",
+              "20.1",
+              "16.6",
+              "3.5"
+            ],
+            [
+              "1989",
+              "44.4",
+              "31.7",
+              "12.7"
+            ],
+            [
+              "1990",
+              "7.4",
+              "(3.1)",
+              "10.5"
+            ],
+            [
+              "1991",
+              "39.6",
+              "30.5",
+              "9.1"
+            ],
+            [
+              "1992",
+              "20.3",
+              "7.6",
+              "12.7"
+            ],
+            [
+              "1993",
+              "14.3",
+              "10.1",
+              "4.2"
+            ],
+            [
+              "1994",
+              "13.9",
+              "1.3",
+              "12.6"
+            ],
+            [
+              "1995",
+              "43.1",
+              "37.6",
+              "5.5"
+            ],
+            [
+              "1996",
+              "31.8",
+              "23.0",
+              "8.8"
+            ],
+            [
+              "1998",
+              "48.3",
+              "28.6",
+              "19.7"
+            ],
+            [
+              "2000",
+              "6.5",
+              "(9.1)",
+              "15.6"
+            ],
+            [
+              "2001",
+              "(6.2)",
+              "(11.9)",
+              "5.7"
+            ],
+            [
+              "2002",
+              "10.0",
+              "(22.1)",
+              "32.1"
+            ],
+            [
+              "2003",
+              "21.0",
+              "28.7",
+              "(7.7)"
+            ],
+            [
+              "Average Annual Gain 1965-2003",
+              "22.2",
+              "10.4",
+              "11.8"
+            ],
+            [
+              "Overall Gain 1964-2003",
+              "259,485",
+              "4,743",
+              ""
+            ]
+          ],
+          "row_count": 39
+        }
+      ],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "Berkshire",
+          "S&P 500"
+        ],
+        "people": [],
+        "metrics": [
+          "book value",
+          "pre-tax",
+          "cost",
+          "return"
+        ]
+      },
+      "themes": [
+        "valuation",
+        "taxation",
+        "insurance"
+      ],
+      "buffett_concepts": [],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 2003,
+        "comparison_years": [
+          1964,
+          1965,
+          1966,
+          1967,
+          1968,
+          1969,
+          1970,
+          1971,
+          1972,
+          1973,
+          1974,
+          1975,
+          1976,
+          1977,
+          1978,
+          1979,
+          1980,
+          1981,
+          1982,
+          1983,
+          1984,
+          1985,
+          1986,
+          1987,
+          1988,
+          1989,
+          1990,
+          1991,
+          1992,
+          1993,
+          1994,
+          1995,
+          1996,
+          1997,
+          1998,
+          1999,
+          2000,
+          2001,
+          2002
+        ],
+        "future_outlook": false
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "low",
+      "token_count": 2669,
+      "char_count": 4133,
+      "source_span": {
+        "start_char": 0,
+        "end_char_exclusive": 4133
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "2003-S2-T1-001",
+    "content": "To the Shareholders of Berkshire Hathaway Inc.:\nOur gain in net worth during 2003 was $13.6 billion, which increased the per-share book value of\nboth our Class A and Class B stock by 21%. Over the last 39 years (that is, since present management took\nover) per-share book value has grown from $19 to $50,498, a rate of 22.2% compounded annually.*\nIt’s per-share intrinsic value that counts, however, not book value. Here, the news is good:\nBetween 1964 and 2003, Berkshire morphed from a struggling northern textile business whose intrinsic\nvalue was less than book into a widely diversified enterprise worth far more than book. Our 39-year gain\nin intrinsic value has therefore somewhat exceeded our 22.2% gain in book. (For a better understanding of\nintrinsic value and the economic principles that guide Charlie Munger, my partner and Berkshire’s vicechairman, and me in running Berkshire, please read our Owner’s Manual, beginning on page 69.)\nDespite their shortcomings, book value calculations are useful at Berkshire as a slightly\nunderstated gauge for measuring the long-term rate of increase in our intrinsic value. The calculation is\nless relevant, however, than it once was in rating any single year’s performance versus the S&P 500 index\n(a comparison we display on the facing page). Our equity holdings, including convertible preferreds, have\nfallen considerably as a percentage of our net worth, from an average of 114% in the 1980 s, for example, to\nan average of 50% in 2000-03. Therefore, yearly movements in the stock market now affect a much\nsmaller portion of our net worth than was once the case.\nNonetheless, Berkshire’s long-term performance versus the S&P remains all-important. Our\nshareholders can buy the S&P through an index fund at very low cost. Unless we achieve gains in pershare intrinsic value in the future that outdo the S&P’s performance, Charlie and I will be adding nothing to\nwhat you can accomplish on your own.\nIf we fail, we will have no excuses. Charlie and I operate in an ideal environment. To begin with,\nwe are supported by an incredible group of men and women who run our operating units. If there were a\nCorporate Cooperstown, its roster would surely include many of our CEOs. Any shortfall in Berkshire’s\nresults will not be caused by our managers.\nAdditionally, we enjoy a rare sort of managerial freedom. Most companies are saddled with\ninstitutional constraints. A company’s history, for example, may commit it to an industry that now offers\nlimited opportunity. A more common problem is a shareholder constituency that pressures its manager to\ndance to Wall Street’s tune. Many CEOs resist, but others give in and adopt operating and capitalallocation policies far different from those they would choose if left to themselves.\nAt Berkshire, neither history nor the demands of owners impede intelligent decision-making.\nWhen Charlie and I make mistakes, they are – in tennis parlance – unforced errors.\n*All figures used in this report apply to Berkshire’s A shares, the successor to the only stock that\nthe company had outstanding before 1996. The B shares have an economic interest equal to 1/30 th that of\nthe A.\n\n[[PAGE_BREAK]]\n\n",
+    "metadata": {
+      "letter_year": 2003,
+      "letter_date": "2004-02-27",
+      "source_file": "2003_cleaned.txt",
+      "section_title": "To the Shareholders of Berkshire Hathaway Inc.",
+      "section_hierarchy": [
+        "Letter Body",
+        "Introduction"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "narrative",
+      "contextual_summary": "Introduces Berkshire’s 2003 results, contrasts reported book value with intrinsic value, and frames performance versus the S&P 500 while explaining how Berkshire evaluates businesses and capital allocation.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "Berkshire Hathaway",
+          "Berkshire",
+          "S&P 500"
+        ],
+        "people": [
+          "Charlie Munger"
+        ],
+        "metrics": [
+          "book value",
+          "intrinsic value",
+          "cost"
+        ]
+      },
+      "themes": [
+        "valuation"
+      ],
+      "buffett_concepts": [
+        "intrinsic value",
+        "owner-oriented management"
+      ],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 2003,
+        "comparison_years": [
+          1964,
+          1980,
+          1996,
+          2000
+        ],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "medium",
+      "abstraction_level": "medium",
+      "token_count": 660,
+      "char_count": 3187,
+      "source_span": {
+        "start_char": 4149,
+        "end_char_exclusive": 7336
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "2003-S3-T1-001",
+    "content": "Operating Earnings\nWhen valuations are similar, we strongly prefer owning businesses to owning stocks. During\nmost of our years of operation, however, stocks were much the cheaper choice. We therefore sharply tilted\nour asset allocation in those years toward equities, as illustrated by the percentages cited earlier.\nIn recent years, however, we’ve found it hard to find significantly undervalued stocks, a difficulty\ngreatly accentuated by the mushrooming of the funds we must deploy. Today, the number of stocks that\ncan be purchased in large enough quantities to move the performance needle at Berkshire is a small fraction\nof the number that existed a decade ago. (Investment managers often profit far more from piling up assets\nthan from handling those assets well. So when one tells you that increased funds won’t hurt his investment\nperformance, step back: His nose is about to grow.)\nThe shortage of attractively-priced stocks in which we can put large sums doesn’t bother us,\nproviding we can find companies to purchase that (1) have favorable and enduring economic characteristics; (2) are run by talented and honest managers and (3) are available at a sensible price. We have\npurchased a number of such businesses in recent years, though not enough to fully employ the gusher of\ncash that has come our way. In buying businesses, I’ve made some terrible mistakes, both of commission\nand omission. Overall, however, our acquisitions have led to decent gains in per-share earnings.\nBelow is a table that quantifies that point. But first we need to warn you that growth-rate\npresentations can be significantly distorted by a calculated selection of either initial or terminal dates. For\nexample, if earnings are tiny in a beginning year, a long-term performance that was only mediocre can be\nmade to appear sensational. That kind of distortion can come about because the company at issue was\nminuscule in the base year – which means that only a handful of insiders actually benefited from the touted\nperformance – or because a larger company was then operating at just above breakeven. Picking a terminal\nyear that is particularly buoyant will also favorably bias a calculation of growth.\nThe Berkshire Hathaway that present management assumed control of in 1965 had long been\nsizable. But in 1964, it earned only $175,586 or 15 cents per share, so close to breakeven that any\ncalculation of earnings growth from that base would be meaningless. At the time, however, even those\nmeager earnings looked good: Over the decade following the 1955 merger of Berkshire Fine Spinning\nAssociates and Hathaway Manufacturing, the combined operation had lost $10.1 million and many\nthousands of employees had been let go. It was not a marriage made in heaven.\nAgainst this background, we give you a picture of Berkshire’s earnings growth that begins in\n1968, but also includes subsequent base years spaced five years apart. A series of calculations is presented\nso that you can decide for yourself which period is most meaningful. I’ve started with 1968 because it was\nthe first full year we operated National Indemnity, the initial acquisition we made as we began to expand\nBerkshire’s business.\nI don’t believe that using 2003 as the terminal year distorts our calculations. It was a terrific year\nfor our insurance business, but the big boost that gave to earnings was largely offset by the pathetically low\ninterest rates we earned on our large holdings of cash equivalents (a condition that will not last). All\nfigures shown below, it should be noted, exclude capital gains.\nOperating Earnings Operating Earnings Subsequent Compounded\nYear in $ millions Per Share in $ Growth Rate of Per-Share Earnings\n1964 . 2 . 15 Not meaningful (1964-2003)\n1968 2.7 2.69 22.8% (1968-2003)\n1973 11.9 12.18 20.8% (1973-2003)\n1978 30.0 29.15 21.1% (1978-2003)\n1983 48.6 45.60 24.3% (1983-2003)\n1988 313.4 273.37 18.6% (1988-2003)\n1993 477.8 413.19 23.9% (1993-2003)\n1998 1,277.0 1,020.49 28.2% (1998-2003)\n2003 5,422.0 3,531.32\n\n[[PAGE_BREAK]]\n\nWe will continue the capital allocation practices we have used in the past. If stocks become\nsignificantly cheaper than entire businesses, we will buy them aggressively. If selected bonds become\nattractive, as they did in 2002, we will again load up on these securities. Under any market or economic\nconditions, we will be happy to buy businesses that meet our standards. And, for those that do, the bigger\nthe better. Our capital is underutilized now, but that will happen periodically. It’s a painful condition to be\nin – but not as painful as doing something stupid. (I speak from experience.)\nOverall, we are certain Berkshire’s performance in the future will fall far short of what it has been\nin the past. Nonetheless, Charlie and I remain hopeful that we can deliver results that are modestly above\naverage. That’s what we’re being paid for.\n",
+    "metadata": {
+      "letter_year": 2003,
+      "letter_date": "2004-02-27",
+      "source_file": "2003_cleaned.txt",
+      "section_title": "Operating Earnings",
+      "section_hierarchy": [
+        "Letter Body",
+        "Operating Earnings"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [
+        "2003-S3-T3-001"
+      ],
+      "content_type": "narrative",
+      "contextual_summary": "Explains Buffett’s focus on operating earnings (separating them from capital gains), presents a historical growth table through 2003, and discusses how Berkshire thinks about long-term compounding and allocating capital.",
+      "has_table": true,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "Berkshire Hathaway",
+          "Berkshire",
+          "National Indemnity"
+        ],
+        "people": [],
+        "metrics": [
+          "operating earnings",
+          "capital gains",
+          "earnings"
+        ]
+      },
+      "themes": [
+        "acquisitions",
+        "insurance",
+        "investing"
+      ],
+      "buffett_concepts": [
+        "capital allocation"
+      ],
+      "principles": [
+        {
+          "statement": "If stocks become significantly cheaper than entire businesses, we will buy them aggressively.",
+          "category": "acquisitions"
+        },
+        {
+          "statement": "If selected bonds become attractive, as they did in 2002, we will again load up on these securities.",
+          "category": "general"
+        },
+        {
+          "statement": "Under any market or economic conditions, we will be happy to buy businesses that meet our standards.",
+          "category": "acquisitions"
+        }
+      ],
+      "temporal_references": {
+        "primary_year": 2003,
+        "comparison_years": [
+          1955,
+          1964,
+          1965,
+          1968,
+          1973,
+          1978,
+          1983,
+          1988,
+          1993,
+          1998,
+          2002
+        ],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "medium",
+      "token_count": 1019,
+      "char_count": 4879,
+      "source_span": {
+        "start_char": 7336,
+        "end_char_exclusive": 12215
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "2003-S3-T3-001",
+    "content": "Operating Earnings Operating Earnings Subsequent Compounded\nYear in $ millions Per Share in $ Growth Rate of Per-Share Earnings\n1964 . 2 . 15 Not meaningful (1964-2003)\n1968 2.7 2.69 22.8% (1968-2003)\n1973 11.9 12.18 20.8% (1973-2003)\n1978 30.0 29.15 21.1% (1978-2003)\n1983 48.6 45.60 24.3% (1983-2003)\n1988 313.4 273.37 18.6% (1988-2003)\n1993 477.8 413.19 23.9% (1993-2003)\n1998 1,277.0 1,020.49 28.2% (1998-2003)\n2003 5,422.0 3,531.32\n\n",
+    "metadata": {
+      "letter_year": 2003,
+      "letter_date": "2004-02-27",
+      "source_file": "2003_cleaned.txt",
+      "section_title": "Operating Earnings Growth Table",
+      "section_hierarchy": [
+        "Tables",
+        "Operating Earnings"
+      ],
+      "chunk_tier": 3,
+      "parent_chunk_id": "2003-S3-T1-001",
+      "child_chunk_ids": [],
+      "content_type": "financial_table",
+      "contextual_summary": "Table of operating earnings and per-share operating earnings at selected years from 1964 through 2003, with compounded growth rates for the periods shown.",
+      "has_table": true,
+      "table_data": [
+        {
+          "table_name": "Operating Earnings Growth Table",
+          "summary": "Presents operating earnings in dollars and per-share at selected years from 1964 to 2003, along with subsequent compounded growth rates where shown.",
+          "columns": [
+            "Year",
+            "Operating earnings ($ millions)",
+            "Operating earnings per share ($)",
+            "Subsequent compounded growth rate of per-share earnings"
+          ],
+          "rows": [
+            [
+              "1964",
+              "2",
+              ".",
+              "15 Not meaningful (1964-2003)"
+            ],
+            [
+              "1968",
+              "2.7",
+              "2.69",
+              "22.8% (1968-2003)"
+            ],
+            [
+              "1973",
+              "11.9",
+              "12.18",
+              "20.8% (1973-2003)"
+            ],
+            [
+              "1978",
+              "30.0",
+              "29.15",
+              "21.1% (1978-2003)"
+            ],
+            [
+              "1983",
+              "48.6",
+              "45.60",
+              "24.3% (1983-2003)"
+            ],
+            [
+              "1988",
+              "313.4",
+              "273.37",
+              "18.6% (1988-2003)"
+            ],
+            [
+              "1993",
+              "477.8",
+              "413.19",
+              "23.9% (1993-2003)"
+            ],
+            [
+              "1998",
+              "1,277.0",
+              "1,020.49",
+              "28.2% (1998-2003)"
+            ],
+            [
+              "2003",
+              "5,422.0",
+              "3,531.32",
+              ""
+            ]
+          ],
+          "row_count": 9
+        }
+      ],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [],
+        "people": [],
+        "metrics": [
+          "operating earnings",
+          "earnings"
+        ]
+      },
+      "themes": [],
+      "buffett_concepts": [],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 2003,
+        "comparison_years": [
+          1964,
+          1968,
+          1973,
+          1978,
+          1983,
+          1988,
+          1993,
+          1998
+        ],
+        "future_outlook": false
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "low",
+      "token_count": 160,
+      "char_count": 438,
+      "source_span": {
+        "start_char": 10912,
+        "end_char_exclusive": 11350
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "2003-S4-T1-001",
+    "content": "Acquisitions\nAs regular readers know, our acquisitions have often come about in strange ways. None, however,\nhad a more unusual genesis than our purchase last year of Clayton Homes.\nThe unlikely source was a group of finance students from the University of Tennessee, and their\nteacher, Dr. Al Auxier. For the past five years, Al has brought his class to Omaha, where the group tours\nNebraska Furniture Mart and Borsheim’s, eats at Gorat’s and then comes to Kiewit Plaza for a session with\nme. Usually about 40 students participate.\nAfter two hours of give-and-take, the group traditionally presents me with a thank-you gift. (The\ndoors stay locked until they do.) In past years it’s been items such as a football signed by Phil Fulmer and\na basketball from Tennessee’s famous women’s team.\nThis past February, the group opted for a book – which, luckily for me, was the recently-published\nautobiography of Jim Clayton, founder of Clayton Homes. I already knew the company to be the class act\nof the manufactured housing industry, knowledge I acquired after earlier making the mistake of buying\nsome distressed junk debt of Oakwood Homes, one of the industry’s largest companies. At the time of that\npurchase, I did not understand how atrocious consumer-financing practices had become throughout most of\nthe manufactured housing industry. But I learned: Oakwood rather promptly went bankrupt.\nManufactured housing, it should be emphasized, can deliver very good value to home purchasers.\nIndeed, for decades, the industry has accounted for more than 15% of the homes built in the U. S. During\nthose years, moreover, both the quality and variety of manufactured houses consistently improved.\nProgress in design and construction was not matched, however, by progress in distribution and\nfinancing. Instead, as the years went by, the industry’s business model increasingly centered on the ability\nof both the retailer and manufacturer to unload terrible loans on naive lenders. When “securitization” then\nbecame popular in the 1990 s, further distancing the supplier of funds from the lending transaction, the\nindustry’s conduct went from bad to worse. Much of its volume a few years back came from buyers who\nshouldn’t have bought, financed by lenders who shouldn’t have lent. The consequence has been huge\nnumbers of repossessions and pitifully low recoveries on the units repossessed.\nOakwood participated fully in the insanity. But Clayton, though it could not isolate itself from\nindustry practices, behaved considerably better than its major competitors.\nUpon receiving Jim Clayton’s book, I told the students how much I admired his record and they\ntook that message back to Knoxville, home of both the University of Tennessee and Clayton Homes. Al\nthen suggested that I call Kevin Clayton, Jim’s son and the CEO, to express my views directly. As I talked\nwith Kevin, it became clear that he was both able and a straight-shooter.\nSoon thereafter, I made an offer for the business based solely on Jim’s book, my evaluation of\nKevin, the public financials of Clayton and what I had learned from the Oakwood experience. Clayton’s\nboard was receptive, since it understood that the large-scale financing Clayton would need in the future\nmight be hard to get. Lenders had fled the industry and securitizations, when possible at all, carried far\n\n[[PAGE_BREAK]]\n\nmore expensive and restrictive terms than was previously the case. This tightening was particularly serious\nfor Clayton, whose earnings significantly depended on securitizations.\nToday, the manufactured housing industry remains awash in problems. Delinquencies continue\nhigh, repossessed units still abound and the number of retailers has been halved. A different business\nmodel is required, one that eliminates the ability of the retailer and salesman to pocket substantial money\nup front by making sales financed by loans that are destined to default. Such transactions cause hardship to\nboth buyer and lender and lead to a flood of repossessions that then undercut the sale of new units. Under a\nproper model – one requiring significant down payments and shorter-term loans – the industry will likely\nremain much smaller than it was in the 90 s. But it will deliver to home buyers an asset in which they will\nhave equity, rather than disappointment, upon resale.\nIn the “full circle” department, Clayton has agreed to buy the assets of Oakwood. When the\ntransaction closes, Clayton’s manufacturing capacity, geographical reach and sales outlets will be\nsubstantially increased. As a byproduct, the debt of Oakwood that we own, which we bought at a deep\ndiscount, will probably return a small profit to us.\nAnd the students? In October, we had a surprise “graduation” ceremony in Knoxville for the 40\nwho sparked my interest in Clayton. I donned a mortarboard and presented each student with both a Ph D\n(for phenomenal, hard-working dealmaker) from Berkshire and a B share. Al got an A share. If you meet\nsome of the new Tennessee shareholders at our annual meeting, give them your thanks. And ask them if\nthey’ve read any good books lately.\n* * * * * * * * * * * *\nIn early spring, Byron Trott, a Managing Director of Goldman Sachs, told me that Wal-Mart\nwished to sell its Mc Lane subsidiary. Mc Lane distributes groceries and nonfood items to convenience\nstores, drug stores, wholesale clubs, mass merchandisers, quick service restaurants, theaters and others. It’s\na good business, but one not in the mainstream of Wal-Mart’s future. It’s made to order, however, for us.\nMc Lane has sales of about $23 billion, but operates on paper-thin margins – about 1% pre-tax –\nand will swell Berkshire’s sales figures far more than our income. In the past, some retailers had shunned\nMc Lane because it was owned by their major competitor. Grady Rosier, Mc Lane’s superb CEO, has\nalready landed some of these accounts – he was in full stride the day the deal closed – and more will come.\nFor several years, I have given my vote to Wal-Mart in the balloting for Fortune Magazine’s\n“Most Admired” list. Our Mc Lane transaction reinforced my opinion. To make the Mc Lane deal, I had a\nsingle meeting of about two hours with Tom Schoewe, Wal-Mart’s CFO, and we then shook hands. (He\ndid, however, first call Bentonville). Twenty-nine days later Wal-Mart had its money. We did no “due\ndiligence.” We knew everything would be exactly as Wal-Mart said it would be – and it was.\nI should add that Byron has now been instrumental in three Berkshire acquisitions. He\nunderstands Berkshire far better than any investment banker with whom we have talked and – it hurts me to\nsay this – earns his fee. I’m looking forward to deal number four (as, I am sure, is he).\n",
+    "metadata": {
+      "letter_year": 2003,
+      "letter_date": "2004-02-27",
+      "source_file": "2003_cleaned.txt",
+      "section_title": "Acquisitions",
+      "section_hierarchy": [
+        "Letter Body",
+        "Acquisitions"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "narrative",
+      "contextual_summary": "Describes Berkshire’s 2003 acquisitions—especially Clayton Homes and McLane—why they fit Berkshire’s model, and how Buffett thinks about buying businesses versus securities when opportunities arise.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "Berkshire",
+          "Clayton Homes"
+        ],
+        "people": [],
+        "metrics": [
+          "pre-tax",
+          "debt",
+          "return",
+          "earnings"
+        ]
+      },
+      "themes": [
+        "acquisitions",
+        "taxation",
+        "corporate governance",
+        "finance",
+        "annual meeting",
+        "philanthropy"
+      ],
+      "buffett_concepts": [],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 2003,
+        "comparison_years": [
+          1990
+        ],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "medium",
+      "token_count": 1365,
+      "char_count": 6709,
+      "source_span": {
+        "start_char": 12215,
+        "end_char_exclusive": 18924
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "2003-S5-T1-001",
+    "content": "Taxes\nOn May 20,2003, The Washington Post ran an op-ed piece by me that was critical of the Bush tax\nproposals. Thirteen days later, Pamela Olson, Assistant Secretary for Tax Policy at the U. S. Treasury,\ndelivered a speech about the new tax legislation saying, “That means a certain midwestern oracle, who, it\nmust be noted, has played the tax code like a fiddle, is still safe retaining all his earnings.” I think she was\ntalking about me.\nAlas, my “fiddle playing” will not get me to Carnegie Hall – or even to a high school recital.\nBerkshire, on your behalf and mine, will send the Treasury $3.3 billion for tax on its 2003 income, a sum\nequaling 2½% of the total income tax paid by all U. S. corporations in fiscal 2003. (In contrast, Berkshire’s\nmarket valuation is about 1% of the value of all American corporations.) Our payment will almost\n\n[[PAGE_BREAK]]\n\ncertainly place us among our country’s top ten taxpayers. Indeed, if only 540 taxpayers paid the amount\nBerkshire will pay, no other individual or corporation would have to pay anything to Uncle Sam. That’s\nright: 290 million Americans and all other businesses would not have to pay a dime in income, social\nsecurity, excise or estate taxes to the federal government. (Here’s the math: Federal tax receipts, including\nsocial security receipts, in fiscal 2003 totaled $1.782 trillion and 540 “Berkshires,” each paying $3.3\nbillion, would deliver the same $1.782 trillion.)\nOur federal tax return for 2002 (2003 is not finalized), when we paid $1.75 billion, covered a mere\n8,905 pages. As is required, we dutifully filed two copies of this return, creating a pile of paper seven feet\ntall. At World Headquarters, our small band of 15.8, though exhausted, momentarily flushed with pride:\nBerkshire, we felt, was surely pulling its share of our country’s fiscal load.\nBut Ms. Olson sees things otherwise. And if that means Charlie and I need to try harder, we are\nready to do so.\nI do wish, however, that Ms. Olson would give me some credit for the progress I’ve already made.\nIn 1944, I filed my first 1040, reporting my income as a thirteen-year-old newspaper carrier. The return\ncovered three pages. After I claimed the appropriate business deductions, such as $35 for a bicycle, my tax\nbill was $7. I sent my check to the Treasury and it – without comment – promptly cashed it. We lived in\npeace.\n* * * * * * * * * * * *\nI can understand why the Treasury is now frustrated with Corporate America and prone to\noutbursts. But it should look to Congress and the Administration for redress, not to Berkshire.\nCorporate income taxes in fiscal 2003 accounted for 7.4% of all federal tax receipts, down from a\npost-war peak of 32% in 1952. With one exception (1983), last year’s percentage is the lowest recorded\nsince data was first published in 1934.\nEven so, tax breaks for corporations (and their investors, particularly large ones) were a major part\nof the Administration’s 2002 and 2003 initiatives. If class warfare is being waged in America, my class is\nclearly winning. Today, many large corporations – run by CEOs whose fiddle-playing talents make your\nChairman look like he is all thumbs – pay nothing close to the stated federal tax rate of 35%.\nIn 1985, Berkshire paid $132 million in federal income taxes, and all corporations paid $61\nbillion. The comparable amounts in 1995 were $286 million and $157 billion respectively. And, as\nmentioned, we will pay about $3.3 billion for 2003, a year when all corporations paid $132 billion. We\nhope our taxes continue to rise in the future – it will mean we are prospering – but we also hope that the\nrest of Corporate America antes up along with us. This might be a project for Ms. Olson to work on.\n",
+    "metadata": {
+      "letter_year": 2003,
+      "letter_date": "2004-02-27",
+      "source_file": "2003_cleaned.txt",
+      "section_title": "Taxes",
+      "section_hierarchy": [
+        "Letter Body",
+        "Taxes"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "narrative",
+      "contextual_summary": "Argues for the importance of corporate taxes and honest reporting of tax burdens, using examples and broader reasoning about fairness, incentives, and the long-term health of the U.S. economy.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "Berkshire"
+        ],
+        "people": [],
+        "metrics": [
+          "return",
+          "earnings"
+        ]
+      },
+      "themes": [
+        "taxation"
+      ],
+      "buffett_concepts": [],
+      "principles": [
+        {
+          "statement": "And, as mentioned, we will pay about $3.3 billion for 2003, a year when all corporations paid $132 billion.",
+          "category": "general"
+        }
+      ],
+      "temporal_references": {
+        "primary_year": 2003,
+        "comparison_years": [
+          1934,
+          1944,
+          1952,
+          1983,
+          1985,
+          1995,
+          2002
+        ],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "medium",
+      "abstraction_level": "medium",
+      "token_count": 827,
+      "char_count": 3718,
+      "source_span": {
+        "start_char": 18924,
+        "end_char_exclusive": 22642
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "2003-S6-T1-001",
+    "content": "Corporate Governance\nIn judging whether Corporate America is serious about reforming itself, CEO pay remains the acid\ntest. To date, the results aren’t encouraging. A few CEOs, such as Jeff Immelt of General Electric, have\nled the way in initiating programs that are fair to managers and shareholders alike. Generally, however, his\nexample has been more admired than followed.\nIt’s understandable how pay got out of hand. When management hires employees, or when\ncompanies bargain with a vendor, the intensity of interest is equal on both sides of the table. One party’s\ngain is the other party’s loss, and the money involved has real meaning to both. The result is an honest-to God negotiation.\nBut when CEOs (or their representatives) have met with compensation committees, too often one\nside – the CEO’s – has cared far more than the other about what bargain is struck. A CEO, for example,\nwill always regard the difference between receiving options for 100,000 shares or for 500,000 as\nmonumental. To a comp committee, however, the difference may seem unimportant – particularly if, as\n\n[[PAGE_BREAK]]\n\nhas been the case at most companies, neither grant will have any effect on reported earnings. Under these\nconditions, the negotiation often has a “play-money” quality.\nOverreaching by CEOs greatly accelerated in the 1990 s as compensation packages gained by the\nmost avaricious– a title for which there was vigorous competition – were promptly replicated elsewhere.\nThe couriers for this epidemic of greed were usually consultants and human relations departments, which\nhad no trouble perceiving who buttered their bread. As one compensation consultant commented: “There\nare two classes of clients you don’t want to offend – actual and potential.”\nIn proposals for reforming this malfunctioning system, the cry has been for “independent”\ndirectors. But the question of what truly motivates independence has largely been neglected.\nIn last year’s report, I took a look at how “independent” directors – as defined by statute – had\nperformed in the mutual fund field. The Investment Company Act of 1940 mandated such directors, and\nthat means we’ve had an extended test of what statutory standards produce. In our examination last year,\nwe looked at the record of fund directors in respect to the two key tasks board members should perform –\nwhether at a mutual fund business or any other. These two all-important functions are, first, to obtain (or\nretain) an able and honest manager and then to compensate that manager fairly.\nOur survey was not encouraging. Year after year, at literally thousands of funds, directors had\nroutinely rehired the incumbent management company, however pathetic its performance had been. Just as\nroutinely, the directors had mindlessly approved fees that in many cases far exceeded those that could have\nbeen negotiated. Then, when a management company was sold – invariably at a huge price relative to\ntangible assets – the directors experienced a “counter-revelation” and immediately signed on with the new\nmanager and accepted its fee schedule. In effect, the directors decided that whoever would pay the most\nfor the old management company was the party that should manage the shareholders’ money in the future.\nDespite the lapdog behavior of independent fund directors, we did not conclude that they are bad\npeople. They’re not. But sadly, “boardroom atmosphere” almost invariably sedates their fiduciary genes.\nOn May 22,2003, not long after Berkshire’s report appeared, the Chairman of the Investment\nCompany Institute addressed its membership about “The State of our Industry.” Responding to those who\nhave “weighed in about our perceived failings,” he mused, “It makes me wonder what life would be like if\nwe’d actually done something wrong.”\nBe careful what you wish for.\nWithin a few months, the world began to learn that many fund-management companies had\nfollowed policies that hurt the owners of the funds they managed, while simultaneously boosting the fees of\nthe managers. Prior to their transgressions, it should be noted, these management companies were earning\nprofit margins and returns on tangible equity that were the envy of Corporate America. Yet to swell profits\nfurther, they trampled on the interests of fund shareholders in an appalling manner.\nSo what are the directors of these looted funds doing? As I write this, I have seen none that have\nterminated the contract of the offending management company (though naturally that entity has often fired\nsome of its employees). Can you imagine directors who had been personally defrauded taking such a boyswill-be-boys attitude?\nTo top it all off, at least one miscreant management company has put itself up for sale,\nundoubtedly hoping to receive a huge sum for “delivering” the mutual funds it has managed to the highest\nbidder among other managers. This is a travesty. Why in the world don’t the directors of those funds\nsimply select whomever they think is best among the bidding organizations and sign up with that party\ndirectly? The winner would consequently be spared a huge “payoff” to the former manager who, having\nflouted the principles of stewardship, deserves not a dime. Not having to bear that acquisition cost, the\nwinner could surely manage the funds in question for a far lower ongoing fee than would otherwise have\nbeen the case. Any truly independent director should insist on this approach to obtaining a new manager.\n\n[[PAGE_BREAK]]\n\nThe reality is that neither the decades-old rules regulating investment company directors nor the\nnew rules bearing down on Corporate America foster the election of truly independent directors. In both\ninstances, an individual who is receiving 100% of his income from director fees – and who may wish to\nenhance his income through election to other boards – is deemed independent. That is nonsense. The same\nrules say that Berkshire director and lawyer Ron Olson, who receives from us perhaps 3% of his very large\nincome, does not qualify as independent because that 3% comes from legal fees Berkshire pays his firm\nrather than from fees he earns as a Berkshire director. Rest assured, 3% from any source would not torpedo\nRon’s independence. But getting 20%, 30% or 50% of their income from director fees might well temper\nthe independence of many individuals, particularly if their overall income is not large. Indeed, I think it’s\nclear that at mutual funds, it has.\n* * * * * * * * * * *\nLet me make a small suggestion to “independent” mutual fund directors. Why not simply affirm\nin each annual report that “(1) We have looked at other management companies and believe the one we\nhave retained for the upcoming year is among the better operations in the field; and (2) we have negotiated\na fee with our managers comparable to what other clients with equivalent funds would negotiate.”\nIt does not seem unreasonable for shareholders to expect fund directors – who are often receiving\nfees that exceed $100,000 annually – to declare themselves on these points. Certainly these directors\nwould satisfy themselves on both matters were they handing over a large chunk of their own money to the\nmanager. If directors are unwilling to make these two declarations, shareholders should heed the maxim\n“If you don’t know whose side someone is on, he’s probably not on yours.”\nFinally, a disclaimer. A great many funds have been run well and conscientiously despite the\nopportunities for malfeasance that exist. The shareholders of these funds have benefited, and their\nmanagers have earned their pay. Indeed, if I were a director of certain funds, including some that charge\nabove-average fees, I would enthusiastically make the two declarations I have suggested. Additionally,\nthose index funds that are very low-cost (such as Vanguard’s) are investor-friendly by definition and are\nthe best selection for most of those who wish to own equities.\nI am on my soapbox now only because the blatant wrongdoing that has occurred has betrayed the\ntrust of so many millions of shareholders. Hundreds of industry insiders had to know what was going on,\nyet none publicly said a word. It took Eliot Spitzer, and the whistleblowers who aided him, to initiate a\nhousecleaning. We urge fund directors to continue the job. Like directors throughout Corporate America,\nthese fiduciaries must now decide whether their job is to work for owners or for managers.\n",
+    "metadata": {
+      "letter_year": 2003,
+      "letter_date": "2004-02-27",
+      "source_file": "2003_cleaned.txt",
+      "section_title": "Corporate Governance",
+      "section_hierarchy": [
+        "Letter Body",
+        "Corporate Governance"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "narrative",
+      "contextual_summary": "Outlines Berkshire’s governance philosophy, critiques pay-for-performance distortions and managerial behavior, and comments on governance failures highlighted by contemporary corporate and mutual-fund scandals.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "Berkshire"
+        ],
+        "people": [],
+        "metrics": [
+          "cost",
+          "return",
+          "earnings"
+        ]
+      },
+      "themes": [
+        "acquisitions",
+        "corporate governance"
+      ],
+      "buffett_concepts": [
+        "owner-oriented management"
+      ],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 2003,
+        "comparison_years": [
+          1940,
+          1990
+        ],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "medium",
+      "token_count": 1625,
+      "char_count": 8409,
+      "source_span": {
+        "start_char": 22642,
+        "end_char_exclusive": 31051
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "2003-S7-T1-001",
+    "content": "Berkshire Governance\nTrue independence – meaning the willingness to challenge a forceful CEO when something is\nwrong or foolish – is an enormously valuable trait in a director. It is also rare. The place to look for it is\namong high-grade people whose interests are in line with those of rank-and-file shareholders – and are in\nline in a very big way.\nWe’ve made that search at Berkshire. We now have eleven directors and each of them, combined\nwith members of their families, owns more than $4 million of Berkshire stock. Moreover, all have held\nmajor stakes in Berkshire for many years. In the case of six of the eleven, family ownership amounts to at\nleast hundreds of millions and dates back at least three decades. All eleven directors purchased their\nholdings in the market just as you did; we’ve never passed out options or restricted shares. Charlie and I\nlove such honest-to-God ownership. After all, who ever washes a rental car?\nIn addition, director fees at Berkshire are nominal (as my son, Howard, periodically reminds me).\nThus, the upside from Berkshire for all eleven is proportionately the same as the upside for any Berkshire\nshareholder. And it always will be.\n\n[[PAGE_BREAK]]\n\nThe downside for Berkshire directors is actually worse than yours because we carry no directors\nand officers liability insurance. Therefore, if something really catastrophic happens on our directors’\nwatch, they are exposed to losses that will far exceed yours.\nThe bottom line for our directors: You win, they win big; you lose, they lose big. Our approach\nmight be called owner-capitalism. We know of no better way to engender true independence. (This\nstructure does not guarantee perfect behavior, however: I’ve sat on boards of companies in which Berkshire\nhad huge stakes and remained silent as questionable proposals were rubber-stamped.)\nIn addition to being independent, directors should have business savvy, a shareholder orientation\nand a genuine interest in the company. The rarest of these qualities is business savvy – and if it is lacking,\nthe other two are of little help. Many people who are smart, articulate and admired have no real\nunderstanding of business. That’s no sin; they may shine elsewhere. But they don’t belong on corporate\nboards. Similarly, I would be useless on a medical or scientific board (though I would likely be welcomed\nby a chairman who wanted to run things his way). My name would dress up the list of directors, but I\nwouldn’t know enough to critically evaluate proposals. Moreover, to cloak my ignorance, I would keep my\nmouth shut (if you can imagine that). In effect, I could be replaced, without loss, by a potted plant.\nLast year, as we moved to change our board, I asked for self-nominations from shareholders who\nbelieved they had the requisite qualities to be a Berkshire director. Despite the lack of either liability\ninsurance or meaningful compensation, we received more than twenty applications. Most were good,\ncoming from owner-oriented individuals having family holdings of Berkshire worth well over $1 million.\nAfter considering them, Charlie and I – with the concurrence of our incumbent directors – asked four\nshareholders who did not nominate themselves to join the board: David Gottesman, Charlotte Guyman,\nDon Keough and Tom Murphy. These four people are all friends of mine, and I know their strengths well.\nThey bring an extraordinary amount of business talent to Berkshire’s board.\nThe primary job of our directors is to select my successor, either upon my death or disability, or\nwhen I begin to lose my marbles. (David Ogilvy had it right when he said: “Develop your eccentricities\nwhen young. That way, when you get older, people won’t think you are going gaga.” Charlie’s family and\nmine feel that we overreacted to David’s advice.)\nAt our directors’ meetings we cover the usual run of housekeeping matters. But the real\ndiscussion – both with me in the room and absent – centers on the strengths and weaknesses of the four\ninternal candidates to replace me.\nOur board knows that the ultimate scorecard on its performance will be determined by the record\nof my successor. He or she will need to maintain Berkshire’s culture, allocate capital and keep a group of\nAmerica’s best managers happy in their jobs. This isn’t the toughest task in the world – the train is already\nmoving at a good clip down the track – and I’m totally comfortable about it being done well by any of the\nfour candidates we have identified. I have more than 99% of my net worth in Berkshire and will be happy\nto have my wife or foundation (depending on the order in which she and I die) continue this concentration.\n",
+    "metadata": {
+      "letter_year": 2003,
+      "letter_date": "2004-02-27",
+      "source_file": "2003_cleaned.txt",
+      "section_title": "Berkshire Governance",
+      "section_hierarchy": [
+        "Letter Body",
+        "Berkshire Governance"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "narrative",
+      "contextual_summary": "Details Berkshire’s board and governance practices, emphasizing director ownership and alignment, the selection of successors, and policies intended to protect shareholders over the long run.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "Berkshire"
+        ],
+        "people": [],
+        "metrics": []
+      },
+      "themes": [
+        "corporate governance",
+        "insurance"
+      ],
+      "buffett_concepts": [
+        "capital allocation",
+        "owner-oriented management"
+      ],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 2003,
+        "comparison_years": [],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "medium",
+      "abstraction_level": "medium",
+      "token_count": 940,
+      "char_count": 4658,
+      "source_span": {
+        "start_char": 31051,
+        "end_char_exclusive": 35709
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "2003-S8-T1-001",
+    "content": "Sector Results\nAs managers, Charlie and I want to give our owners the financial information and commentary we\nwould wish to receive if our roles were reversed. To do this with both clarity and reasonable brevity\nbecomes more difficult as Berkshire’s scope widens. Some of our businesses have vastly different\neconomic characteristics from others, which means that our consolidated statements, with their jumble of\nfigures, make useful analysis almost impossible.\nOn the following pages, therefore, we will present some balance sheet and earnings figures from\nour four major categories of businesses along with commentary about each. We particularly want you to\nunderstand the limited circumstances under which we will use debt, since typically we shun it. We will\nnot, however, inundate you with data that has no real value in calculating Berkshire’s intrinsic value.\nDoing so would likely obfuscate the most important facts. One warning: When analyzing Berkshire, be\n\n[[PAGE_BREAK]]\n\nsure to remember that the company should be viewed as an unfolding movie, not as a still photograph.\nThose who focused in the past on only the snapshot of the day sometimes reached erroneous conclusions.\nInsurance\nLet’s start with insurance – since that’s where the money is.\nThe fountain of funds we enjoy in our insurance operations comes from “float,” which is money\nthat doesn’t belong to us but that we temporarily hold. Most of our float arises because (1) premiums are\npaid upfront though the service we provide – insurance protection – is delivered over a period that usually\ncovers a year and; (2) loss events that occur today do not always result in our immediately paying claims,\nsince it sometimes takes years for losses to be reported (think asbestos), negotiated and settled.\nFloat is wonderful – if it doesn’t come at a high price. The cost of float is determined by\nunderwriting results, meaning how losses and expenses paid compare with premiums received. The\nproperty-casualty industry as a whole regularly operates at a substantial underwriting loss, and therefore\noften has a cost of float that is unattractive.\nOverall, our results have been good. True, we’ve had five terrible years in which float cost us\nmore than 10%. But in 18 of the 37 years Berkshire has been in the insurance business, we have operated\nat an underwriting profit, meaning we were actually paid for holding money. And the quantity of this\ncheap money has grown far beyond what I dreamed it could when we entered the business in 1967.\nYearend Float (in $ millions)\nOther Other\nYear GEICO General Re Reinsurance Primary Total\n1967 20 20\n1977 40 131 171\n1987 701 807 1,508\n1997 2,917 4,014 455 7,386\n1998 3,125 14,909 4,305 415 22,754\n1999 3,444 15,166 6,285 403 25,298\n2000 3,943 15,525 7,805 598 27,871\n2001 4,251 19,310 11,262 685 35,508\n2002 4,678 22,207 13,396 943 41,224\n2003 5,287 23,654 13,948 1,331 44,220\nLast year was a standout. Float reached record levels and it came without cost as all major\nsegments contributed to Berkshire’s $1.7 billion pre-tax underwriting profit.\nOur results have been exceptional for one reason: We have truly exceptional managers. Insurers\nsell a non-proprietary piece of paper containing a non-proprietary promise. Anyone can copy anyone else’s\nproduct. No installed base, key patents, critical real estate or natural resource position protects an insurer’s\ncompetitive position. Typically, brands do not mean much either.\nThe critical variables, therefore, are managerial brains, discipline and integrity. Our managers\nhave all of these attributes – in spades. Let’s take a look at these all-stars and their operations.\n• General Re had been Berkshire’s problem child in the years following our acquisition of it in\n1998. Unfortunately, it was a 400-pound child, and its negative impact on our overall\nperformance was large.\nThat’s behind us: Gen Re is fixed. Thank Joe Brandon, its CEO, and his partner, Tad\nMontross, for that. When I wrote you last year, I thought that discipline had been restored to\nboth underwriting and reserving, and events during 2003 solidified my view.\n\n[[PAGE_BREAK]]\n\nThat does not mean we will never have setbacks. Reinsurance is a business that is certain to\ndeliver blows from time to time. But, under Joe and Tad, this operation will be a powerful\nengine driving Berkshire’s future profitability.\nGen Re’s financial strength, unmatched among reinsurers even as we started 2003, further\nimproved during the year. Many of the company’s competitors suffered credit downgrades\nlast year, leaving Gen Re, and its sister operation at National Indemnity, as the only AAArated companies among the world’s major reinsurers.\nWhen insurers purchase reinsurance, they buy only a promise – one whose validity may not\nbe tested for decades – and there are no promises in the reinsurance world equaling those\noffered by Gen Re and National Indemnity. Furthermore, unlike most reinsurers, we retain\nvirtually all of the risks we assume. Therefore, our ability to pay is not dependent on the\nability or willingness of others to reimburse us. This independent financial strength could be\nenormously important when the industry experiences the mega-catastrophe it surely will.\n• Regular readers of our annual reports know of Ajit Jain’s incredible contributions to\nBerkshire’s prosperity over the past 18 years. He continued to pour it on in 2003. With a\nstaff of only 23, Ajit runs one of the world’s largest reinsurance operations, specializing in\nmammoth and unusual risks.\nOften, these involve assuming catastrophe risks – say, the threat of a large California\nearthquake – of a size far greater than any other reinsurer will accept. This means Ajit’s\nresults (and Berkshire’s) will be lumpy. You should, therefore, expect his operation to have\nan occasional horrible year. Over time, however, you can be confident of a terrific result from\nthis one-of-a-kind manager.\nAjit writes some very unusual policies. Last year, for example, Pepsi Co promoted a drawing\nthat offered participants a chance to win a $1 billion prize. Understandably, Pepsi wished to\nlay off this risk, and we were the logical party to assume it. So we wrote a $1 billion policy,\nretaining the risk entirely for our own account. Because the prize, if won, was payable over\ntime, our exposure in present-value terms was $250 million. (I helpfully suggested that any\nwinner be paid $1 a year for a billion years, but that proposal didn’t fly.) The drawing was\nheld on September 14. Ajit and I held our breath, as did the finalist in the contest, and we left\nhappier than he. Pepsi Co has renewed for a repeat contest in 2004.\n• GEICO was a fine insurance company when Tony Nicely took over as CEO in 1992. Now it\nis a great one. During his tenure, premium volume has increased from $2.2 billion to $8.1\nbillion, and our share of the personal-auto market has grown from 2.1% to 5.0%. More\nimportant, GEICO has paired these gains with outstanding underwriting performance.\n(We now pause for a commercial)\nIt’s been 67 years since Leo Goodwin created a great business idea at GEICO, one designed\nto save policyholders significant money. Go to Geico. com or call 1-800-847-7536 to see\nwhat we can do for you.\n(End of commercial)\nIn 2003, both the number of inquiries coming into GEICO and its closure rate on these\nincreased significantly. As a result our preferred policyholder count grew 8.2%, and our\nstandard and non-standard policies grew 21.4%.\nGEICO’s business growth creates a never-ending need for more employees and facilities.\nOur most recent expansion, announced in December, is a customer service center in – I’m\ndelighted to say – Buffalo. Stan Lipsey, the publisher of our Buffalo News, was instrumental\nin bringing the city and GEICO together.\n\n[[PAGE_BREAK]]\n\nThe key figure in this matter, however, was Governor George Pataki. His leadership and\ntenacity are why Buffalo will have 2,500 new jobs when our expansion is fully rolled out.\nStan, Tony, and I – along with Buffalo – thank him for his help.\n• Berkshire’s smaller insurers had another terrific year. This group, run by Rod Eldred, John\nKizer, Tom Nerney, Don Towle and Don Wurster, increased its float by 41%, while\ndelivering an excellent underwriting profit. These men, though operating in unexciting ways,\nproduce truly exciting results.\n* * * * * * * * * * * *\nWe should point out again that in any given year a company writing long-tail insurance (coverages\ngiving rise to claims that are often settled many years after the loss-causing event takes place) can report\nalmost any earnings that the CEO desires. Too often the industry has reported wildly inaccurate figures by\nmisstating liabilities. Most of the mistakes have been innocent. Sometimes, however, they have been\nintentional, their object being to fool investors and regulators. Auditors and actuaries have usually failed to\nprevent both varieties of misstatement.\nI have failed on occasion too, particularly in not spotting Gen Re’s unwitting underreserving a few\nyears back. Not only did that mean we reported inaccurate figures to you, but the error also resulted in our\npaying very substantial taxes earlier than was necessary. Aaarrrggghh. I told you last year, however, that I\nthought our current reserving was at appropriate levels. So far, that judgment is holding up.\nHere are Berkshire’s pre-tax underwriting results by segment:\nGain (Loss) in $ millions\n2003 2002\nGen Re...................................................................................................... $ 145 $(1,393)\nAjit’s business excluding retroactive contracts........................................ 1,434 980\nAjit’s retroactive contracts*..................................................................... (387) (433)\nGEICO...................................................................................................... 452 416\nOther Primary........................................................................................... 74 32\nTotal......................................................................................................... $1,718 $ (398)\n*These contracts were explained on page 10 of the 2002 annual report, available on the Internet at\nwww. berkshirehathaway. com. In brief, this segment consists of a few jumbo policies that are likely to\nproduce underwriting losses (which are capped) but also provide unusually large amounts of float.\n",
+    "metadata": {
+      "letter_year": 2003,
+      "letter_date": "2004-02-27",
+      "source_file": "2003_cleaned.txt",
+      "section_title": "Insurance",
+      "section_hierarchy": [
+        "Letter Body",
+        "Business Segments",
+        "Insurance"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [
+        "2003-S8-T3-001",
+        "2003-S8-T3-002"
+      ],
+      "content_type": "narrative",
+      "contextual_summary": "Provides an overview of Berkshire’s insurance operations, explains why low-cost float is valuable, reports record float and strong underwriting in 2003, and breaks out underwriting results by segment.",
+      "has_table": true,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "Berkshire",
+          "GEICO",
+          "General Re",
+          "Gen Re",
+          "National Indemnity"
+        ],
+        "people": [
+          "Ajit Jain",
+          "Ajit",
+          "Tony Nicely"
+        ],
+        "metrics": [
+          "intrinsic value",
+          "pre-tax",
+          "underwriting profit",
+          "float",
+          "debt",
+          "cost",
+          "earnings"
+        ]
+      },
+      "themes": [
+        "valuation",
+        "acquisitions",
+        "taxation",
+        "insurance"
+      ],
+      "buffett_concepts": [
+        "float economics",
+        "intrinsic value",
+        "underwriting discipline",
+        "owner-oriented management"
+      ],
+      "principles": [
+        {
+          "statement": "On the following pages, therefore, we will present some balance sheet and earnings figures from our four major categories of businesses along with commentary about each.",
+          "category": "general"
+        },
+        {
+          "statement": "We particularly want you to understand the limited circumstances under which we will use debt, since typically we shun it.",
+          "category": "general"
+        },
+        {
+          "statement": "We will not, however, inundate you with data that has no real value in calculating Berkshire’s intrinsic value.",
+          "category": "general"
+        }
+      ],
+      "temporal_references": {
+        "primary_year": 2003,
+        "comparison_years": [
+          1967,
+          1977,
+          1987,
+          1992,
+          1997,
+          1998,
+          1999,
+          2000,
+          2001,
+          2002,
+          2004
+        ],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "low",
+      "token_count": 2561,
+      "char_count": 10406,
+      "source_span": {
+        "start_char": 35709,
+        "end_char_exclusive": 46115
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "2003-S8-T3-001",
+    "content": "Yearend Float (in $ millions)\nOther Other\nYear GEICO General Re Reinsurance Primary Total\n1967 20 20\n1977 40 131 171\n1987 701 807 1,508\n1997 2,917 4,014 455 7,386\n1998 3,125 14,909 4,305 415 22,754\n1999 3,444 15,166 6,285 403 25,298\n2000 3,943 15,525 7,805 598 27,871\n2001 4,251 19,310 11,262 685 35,508\n2002 4,678 22,207 13,396 943 41,224\n2003 5,287 23,654 13,948 1,331 44,220\n",
+    "metadata": {
+      "letter_year": 2003,
+      "letter_date": "2004-02-27",
+      "source_file": "2003_cleaned.txt",
+      "section_title": "Yearend Float (in $ millions)",
+      "section_hierarchy": [
+        "Tables",
+        "Insurance"
+      ],
+      "chunk_tier": 3,
+      "parent_chunk_id": "2003-S8-T1-001",
+      "child_chunk_ids": [],
+      "content_type": "financial_table",
+      "contextual_summary": "Table of Berkshire’s year-end insurance float by major insurance operation from 1967 through 2003, showing the buildup of float across GEICO, General Re, other reinsurance, and other primary.",
+      "has_table": true,
+      "table_data": [
+        {
+          "table_name": "Yearend Float",
+          "summary": "Lists Berkshire’s year-end insurance float by major insurance group (GEICO, General Re, other reinsurance, other primary) and total, from 1967 to 2003.",
+          "columns": [
+            "Year",
+            "GEICO",
+            "General Re",
+            "Other Reinsurance",
+            "Other Primary",
+            "Total (in $ millions)"
+          ],
+          "rows": [
+            [
+              "1967",
+              "20",
+              "",
+              "",
+              "",
+              "20"
+            ],
+            [
+              "1977",
+              "40",
+              "131",
+              "",
+              "",
+              "171"
+            ],
+            [
+              "1987",
+              "701",
+              "807",
+              "",
+              "",
+              "1,508"
+            ],
+            [
+              "1997",
+              "2,917",
+              "4,014",
+              "455",
+              "",
+              "7,386"
+            ],
+            [
+              "1998",
+              "3,125",
+              "14,909",
+              "4,305",
+              "415",
+              "22,754"
+            ],
+            [
+              "1999",
+              "3,444",
+              "15,166",
+              "6,285",
+              "403",
+              "25,298"
+            ],
+            [
+              "2000",
+              "3,943",
+              "15,525",
+              "7,805",
+              "598",
+              "27,871"
+            ],
+            [
+              "2001",
+              "4,251",
+              "19,310",
+              "11,262",
+              "685",
+              "35,508"
+            ],
+            [
+              "2002",
+              "4,678",
+              "22,207",
+              "13,396",
+              "943",
+              "41,224"
+            ],
+            [
+              "2003",
+              "5,287",
+              "23,654",
+              "13,948",
+              "1,331",
+              "44,220"
+            ]
+          ],
+          "row_count": 10
+        }
+      ],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "GEICO",
+          "General Re"
+        ],
+        "people": [],
+        "metrics": [
+          "float"
+        ]
+      },
+      "themes": [
+        "insurance"
+      ],
+      "buffett_concepts": [
+        "float economics"
+      ],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 2003,
+        "comparison_years": [
+          1967,
+          1977,
+          1987,
+          1997,
+          1998,
+          1999,
+          2000,
+          2001,
+          2002
+        ],
+        "future_outlook": false
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "low",
+      "token_count": 126,
+      "char_count": 378,
+      "source_span": {
+        "start_char": 38222,
+        "end_char_exclusive": 38600
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "2003-S8-T3-002",
+    "content": "Gain (Loss) in $ millions\n2003 2002\nGen Re...................................................................................................... $ 145 $(1,393)\nAjit’s business excluding retroactive contracts........................................ 1,434 980\nAjit’s retroactive contracts*..................................................................... (387) (433)\nGEICO...................................................................................................... 452 416\nOther Primary........................................................................................... 74 32\nTotal......................................................................................................... $1,718 $ (398)\n*These contracts were explained on page 10 of the 2002 annual report, available on the Internet at\nwww. berkshirehathaway. com. In brief, this segment consists of a few jumbo policies that are likely to\nproduce underwriting losses (which are capped) but also provide unusually large amounts of float.\n",
+    "metadata": {
+      "letter_year": 2003,
+      "letter_date": "2004-02-27",
+      "source_file": "2003_cleaned.txt",
+      "section_title": "Pre-tax underwriting results by segment",
+      "section_hierarchy": [
+        "Tables",
+        "Insurance"
+      ],
+      "chunk_tier": 3,
+      "parent_chunk_id": "2003-S8-T1-001",
+      "child_chunk_ids": [],
+      "content_type": "financial_table",
+      "contextual_summary": "Table summarizing Berkshire’s pre-tax underwriting gains and losses by insurance segment for 2003 and 2002, including a total underwriting result and a footnote about retroactive contracts.",
+      "has_table": true,
+      "table_data": [
+        {
+          "table_name": "Pre-tax underwriting results by segment",
+          "summary": "Shows Berkshire’s pre-tax underwriting gain/loss by insurance segment for 2003 and 2002, highlighting a strong aggregate underwriting profit in 2003.",
+          "columns": [
+            "Segment",
+            "2003 gain/loss ($ millions)",
+            "2002 gain/loss ($ millions)"
+          ],
+          "rows": [
+            [
+              "Gen Re",
+              "$145",
+              "$(1,393)"
+            ],
+            [
+              "Ajit’s business excluding retroactive contracts",
+              "1,434",
+              "980"
+            ],
+            [
+              "Ajit’s retroactive contracts*",
+              "(387)",
+              "(433)"
+            ],
+            [
+              "GEICO",
+              "452",
+              "416"
+            ],
+            [
+              "Other Primary",
+              "74",
+              "32"
+            ],
+            [
+              "Total",
+              "$1,718",
+              "$(398)"
+            ]
+          ],
+          "row_count": 6
+        }
+      ],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "GEICO",
+          "Gen Re"
+        ],
+        "people": [
+          "Ajit"
+        ],
+        "metrics": [
+          "float"
+        ]
+      },
+      "themes": [
+        "insurance"
+      ],
+      "buffett_concepts": [
+        "float economics",
+        "underwriting discipline"
+      ],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 2003,
+        "comparison_years": [
+          2002
+        ],
+        "future_outlook": false
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": [
+          2002
+        ]
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "low",
+      "token_count": 624,
+      "char_count": 1023,
+      "source_span": {
+        "start_char": 45092,
+        "end_char_exclusive": 46115
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "2003-S9-T1-001",
+    "content": "Regulated Utility Businesses\nThrough Mid American Energy Holdings, we own an 80.5% (fully diluted) interest in a wide\nvariety of utility operations. The largest are (1) Yorkshire Electricity and Northern Electric, whose 3.7\nmillion electric customers make it the third largest distributor of electricity in the U. K.; (2) Mid American\nEnergy, which serves 689,000 electric customers in Iowa and; (3) Kern River and Northern Natural\npipelines, which carry 7.8% of the natural gas transported in the United States.\nBerkshire has three partners, who own the remaining 19.5%: Dave Sokol and Greg Abel, the\nbrilliant managers of the business, and Walter Scott, a long-time friend of mine who introduced me to the\ncompany. Because Mid American is subject to the Public Utility Holding Company Act (“PUHCA”),\nBerkshire’s voting interest is limited to 9.9%. Walter has the controlling vote.\nOur limited voting interest forces us to account for Mid American in our financial statements in an\nabbreviated manner. Instead of our fully including its assets, liabilities, revenues and expenses in our\nstatements, we record only a one-line entry in both our balance sheet and income account. It’s likely that\n\n[[PAGE_BREAK]]\n\nsome day, perhaps soon, either PUHCA will be repealed or accounting rules will change. Berkshire’s\nconsolidated figures would then take in all of Mid American, including the substantial debt it utilizes.\nThe size of this debt (which is not now, nor will it be, an obligation of Berkshire) is entirely\nappropriate. Mid American’s diverse and stable utility operations assure that, even under harsh economic\nconditions, aggregate earnings will be ample to very comfortably service all debt.\n\nAt yearend, $1.578 billion of Mid American’s most junior debt was payable to Berkshire. This\ndebt has allowed acquisitions to be financed without our three partners needing to increase their already\nsubstantial investments in Mid American. By charging 11% interest, Berkshire is compensated fairly for\nputting up the funds needed for purchases, while our partners are spared dilution of their equity interests.\nMid American also owns a significant non-utility business, Home Services of America, the second\nlargest real estate broker in the country. Unlike our utility operations, this business is highly cyclical, but\nnevertheless one we view enthusiastically. We have an exceptional manager, Ron Peltier, who, through\nboth his acquisition and operational skills, is building a brokerage powerhouse.\n\nLast year, Home Services participated in $48.6 billion of transactions, a gain of $11.7 billion from\n2002. About 23% of the increase came from four acquisitions made during the year. Through our 16\nbrokerage firms – all of which retain their local identities – we employ 16,343 brokers in 16 states. Home\nServices is almost certain to grow substantially in the next decade as we continue to acquire leading\nlocalized operations.\n* * * * * * * * * * * *\n\nHere’s a tidbit for fans of free enterprise. On March 31,1990, the day electric utilities in the U. K.\nwere denationalized, Northern and Yorkshire had 6,800 employees in functions these companies continue\ntoday to perform. Now they employ 2,539. Yet the companies are serving about the same number of\ncustomers as when they were government owned and are distributing more electricity.\nThis is not, it should be noted, a triumph of deregulation. Prices and earnings continue to be\nregulated in a fair manner by the government, just as they should be. It is a victory, however, for those who\nbelieve that profit-motivated managers, even though they recognize that the benefits will largely flow to\ncustomers, will find efficiencies that government never will.\n\nHere are some key figures on Mid American’s operations:\nEarnings (in $ millions)\n2003 2002\nU. K. Utilities...................................................................................................... $ 289 $ 267\nIowa.................................................................................................................... 269 241\nPipelines............................................................................................................. 261 104\nHome Services.................................................................................................... 113 70\nOther (Net)......................................................................................................... 144 108\nEarnings before corporate interest and tax......................................................... 1,076 790\nCorporate Interest, other than to Berkshire......................................................... (225) (192)\nInterest Payments to Berkshire........................................................................... (184) (118)\nTax...................................................................................................................... (251) (100)\nNet Earnings....................................................................................................... $ 416 $ 380\nEarnings Applicable to Berkshire*..................................................................... $ 429 $ 359\nDebt Owed to Others.......................................................................................... 10,296 10,286\nDebt Owed to Berkshire..................................................................................... 1,578 1,728\n*Includes interest paid to Berkshire (net of related income taxes) of $118 in 2003 and $75 in 2002.\n\n[[PAGE_BREAK]]\n\n",
+    "metadata": {
+      "letter_year": 2003,
+      "letter_date": "2004-02-27",
+      "source_file": "2003_cleaned.txt",
+      "section_title": "Regulated Utility Businesses",
+      "section_hierarchy": [
+        "Letter Body",
+        "Business Segments",
+        "Regulated Utility Businesses"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [
+        "2003-S9-T3-001"
+      ],
+      "content_type": "narrative",
+      "contextual_summary": "Discusses Berkshire’s Mid American utility and energy operations, the appeal of regulated utilities and infrastructure, and provides a table of key earnings and debt figures for 2003 versus 2002.",
+      "has_table": true,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "Berkshire",
+          "Mid American Energy Holdings",
+          "Mid American",
+          "Yorkshire Electricity",
+          "Northern Electric",
+          "Kern River",
+          "Northern Natural",
+          "HCA",
+          "U. K. Utilities",
+          "Iowa",
+          "Pipelines",
+          "Home Services"
+        ],
+        "people": [
+          "Dave Sokol",
+          "Greg Abel"
+        ],
+        "metrics": [
+          "debt",
+          "earnings",
+          "revenues"
+        ]
+      },
+      "themes": [
+        "acquisitions",
+        "taxation",
+        "utilities",
+        "finance",
+        "investing"
+      ],
+      "buffett_concepts": [],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 2003,
+        "comparison_years": [
+          1990,
+          2002
+        ],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "low",
+      "token_count": 2072,
+      "char_count": 5519,
+      "source_span": {
+        "start_char": 46115,
+        "end_char_exclusive": 51634
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "2003-S9-T3-001",
+    "content": "Earnings (in $ millions)\n2003 2002\nU. K. Utilities...................................................................................................... $ 289 $ 267\nIowa.................................................................................................................... 269 241\nPipelines............................................................................................................. 261 104\nHome Services.................................................................................................... 113 70\nOther (Net)......................................................................................................... 144 108\nEarnings before corporate interest and tax......................................................... 1,076 790\nCorporate Interest, other than to Berkshire......................................................... (225) (192)\nInterest Payments to Berkshire........................................................................... (184) (118)\nTax...................................................................................................................... (251) (100)\nNet Earnings....................................................................................................... $ 416 $ 380\nEarnings Applicable to Berkshire*..................................................................... $ 429 $ 359\nDebt Owed to Others.......................................................................................... 10,296 10,286\nDebt Owed to Berkshire..................................................................................... 1,578 1,728\n*Includes interest paid to Berkshire (net of related income taxes) of $118 in 2003 and $75 in 2002.\n\n",
+    "metadata": {
+      "letter_year": 2003,
+      "letter_date": "2004-02-27",
+      "source_file": "2003_cleaned.txt",
+      "section_title": "Key figures on Mid American’s operations",
+      "section_hierarchy": [
+        "Tables",
+        "Regulated Utility Businesses"
+      ],
+      "chunk_tier": 3,
+      "parent_chunk_id": "2003-S9-T1-001",
+      "child_chunk_ids": [],
+      "content_type": "financial_table",
+      "contextual_summary": "Key Mid American figures table showing earnings components, taxes, net earnings, Berkshire’s share, and debt balances for 2003 versus 2002.",
+      "has_table": true,
+      "table_data": [
+        {
+          "table_name": "Key figures on Mid American’s operations",
+          "summary": "Summarizes Mid American’s segment earnings and consolidated items, plus debt owed to others and to Berkshire, for 2003 vs. 2002.",
+          "columns": [
+            "Item",
+            "2003",
+            "2002"
+          ],
+          "rows": [
+            [
+              "U. K. Utilities",
+              "$289",
+              "$267"
+            ],
+            [
+              "Iowa",
+              "269",
+              "241"
+            ],
+            [
+              "Pipelines",
+              "261",
+              "104"
+            ],
+            [
+              "Home Services",
+              "113",
+              "70"
+            ],
+            [
+              "Other (Net)",
+              "144",
+              "108"
+            ],
+            [
+              "Corporate Interest, other than to Berkshire",
+              "(225)",
+              "(192)"
+            ],
+            [
+              "Interest Payments to Berkshire",
+              "(184)",
+              "(118)"
+            ],
+            [
+              "Tax",
+              "(251)",
+              "(100)"
+            ],
+            [
+              "Net Earnings",
+              "$416",
+              "$380"
+            ],
+            [
+              "Debt Owed to Others",
+              "10,296",
+              "10,286"
+            ],
+            [
+              "Debt Owed to Berkshire",
+              "1,578",
+              "1,728"
+            ]
+          ],
+          "row_count": 11
+        }
+      ],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "Berkshire",
+          "U. K. Utilities",
+          "Iowa",
+          "Pipelines",
+          "Home Services"
+        ],
+        "people": [],
+        "metrics": [
+          "debt",
+          "earnings"
+        ]
+      },
+      "themes": [
+        "taxation"
+      ],
+      "buffett_concepts": [],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 2003,
+        "comparison_years": [
+          2002
+        ],
+        "future_outlook": false
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "low",
+      "token_count": 1318,
+      "char_count": 1730,
+      "source_span": {
+        "start_char": 49888,
+        "end_char_exclusive": 51618
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "2003-S10-T1-001",
+    "content": "Finance and Financial Products\nThis sector includes a wide-ranging group of activities. Here’s some commentary on the most\nimportant.\n• I manage a few opportunistic strategies in AAA fixed-income securities that have been quite\nprofitable in the last few years. These opportunities come and go – and at present, they are\ngoing. We sped their departure somewhat last year, thereby realizing 24% of the capital gains\nwe show in the table that follows.\nThough far from foolproof, these transactions involve no credit risk and are conducted in\nexceptionally liquid securities. We therefore finance the positions almost entirely with\nborrowed money. As the assets are reduced, so also are the borrowings. The smaller\nportfolio we now have means that in the near future our earnings in this category will decline\nsignificantly. It was fun while it lasted, and at some point we’ll get another turn at bat.\n• A far less pleasant unwinding operation is taking place at Gen Re Securities, the trading and\nderivatives operation we inherited when we purchased General Reinsurance.\nWhen we began to liquidate Gen Re Securities in early 2002, it had 23,218 outstanding tickets\nwith 884 counterparties (some having names I couldn’t pronounce, much less\ncreditworthiness I could evaluate). Since then, the unit’s managers have been skillful and\ndiligent in unwinding positions. Yet, at yearend – nearly two years later – we still had 7,580\ntickets outstanding with 453 counterparties. (As the country song laments, “How can I miss\nyou if you won’t go away?”)\nThe shrinking of this business has been costly. We’ve had pre-tax losses of $173 million in\n2002 and $99 million in 2003. These losses, it should be noted, came from a portfolio of\ncontracts that – in full compliance with GAAP – had been regularly marked-to-market with\nstandard allowances for future credit-loss and administrative costs. Moreover, our liquidation\nhas taken place both in a benign market – we’ve had no credit losses of significance – and in\nan orderly manner. This is just the opposite of what might be expected if a financial crisis\nforced a number of derivatives dealers to cease operations simultaneously.\nIf our derivatives experience – and the Freddie Mac shenanigans of mind-blowing size and\naudacity that were revealed last year – makes you suspicious of accounting in this arena,\nconsider yourself wised up. No matter how financially sophisticated you are, you can’t\npossibly learn from reading the disclosure documents of a derivatives-intensive company\nwhat risks lurk in its positions. Indeed, the more you know about derivatives, the less you\nwill feel you can learn from the disclosures normally proffered you. In Darwin’s words,\n“Ignorance more frequently begets confidence than does knowledge.”\n* * * * * * * * * * * *\nAnd now it’s confession time: I’m sure I could have saved you $100 million or so, pre-tax, if I\nhad acted more promptly to shut down Gen Re Securities. Both Charlie and I knew at the\ntime of the General Reinsurance merger that its derivatives business was unattractive.\nReported profits struck us as illusory, and we felt that the business carried sizable risks that\ncould not effectively be measured or limited. Moreover, we knew that any major problems\nthe operation might experience would likely correlate with troubles in the financial or\ninsurance world that would affect Berkshire elsewhere. In other words, if the derivatives\nbusiness were ever to need shoring up, it would commandeer the capital and credit of\nBerkshire at just the time we could otherwise deploy those resources to huge advantage. (A\nhistorical note: We had just such an experience in 1974 when we were the victim of a major\ninsurance fraud. We could not determine for some time how much the fraud would ultimately\ncost us and therefore kept more funds in cash-equivalents than we normally would have.\n\n[[PAGE_BREAK]]\n\nAbsent this precaution, we would have made larger purchases of stocks that were then\nextraordinarily cheap.)\nCharlie would have moved swiftly to close down Gen Re Securities – no question about that.\nI, however, dithered. As a consequence, our shareholders are paying a far higher price than\nwas necessary to exit this business.\n• Though we include Gen Re’s sizable life and health reinsurance business in the “insurance”\nsector, we show the results for Ajit Jain’s life and annuity business in this section. That’s\nbecause this business, in large part, involves arbitraging money. Our annuities range from a\nretail product sold directly on the Internet to structured settlements that require us to make\npayments for 70 years or more to people severely injured in accidents.\nWe’ve realized some extra income in this business because of accelerated principal payments\nwe received from certain fixed-income securities we had purchased at discounts. This\nphenomenon has ended, and earnings are therefore likely to be lower in this segment during\nthe next few years.\n• We have a $604 million investment in Value Capital, a partnership run by Mark Byrne, a\nmember of a family that has helped Berkshire over the years in many ways. Berkshire is a\nlimited partner in, and has no say in the management of, Mark’s enterprise, which specializes\nin highly-hedged fixed-income opportunities. Mark is smart and honest and, along with his\nfamily, has a significant investment in Value.\nBecause of accounting abuses at Enron and elsewhere, rules will soon be instituted that are\nlikely to require that Value’s assets and liabilities be consolidated on Berkshire’s balance\nsheet. We regard this requirement as inappropriate, given that Value’s liabilities – which\nusually are above $20 billion – are in no way ours. Over time, other investors will join us as\npartners in Value. When enough do, the need for us to consolidate Value will disappear.\n• We have told you in the past about Berkadia, the partnership we formed three years ago with\nLeucadia to finance and manage the wind-down of Finova, a bankrupt lending operation. The\nplan was that we would supply most of the capital and Leucadia would supply most of the\nbrains. And that’s the way it has worked. Indeed, Joe Steinberg and Ian Cumming, who\ntogether run Leucadia, have done such a fine job in liquidating Finova’s portfolio that the $5.6\nbillion guarantee we took on in connection with the transaction has been extinguished. The\nunfortunate byproduct of this fast payoff is that our future income will be much reduced.\nOverall, Berkadia has made excellent money for us, and Joe and Ian have been terrific\npartners.\n• Our leasing businesses are XTRA (transportation equipment) and CORT (office furniture).\nBoth operations have had poor earnings during the past two years as the recession caused\ndemand to drop considerably more than was anticipated. They remain leaders in their fields,\nand I expect at least a modest improvement in their earnings this year.\n• Through our Clayton purchase, we acquired a significant manufactured-housing finance\noperation. Clayton, like others in this business, had traditionally securitized the loans it\noriginated. The practice relieved stress on Clayton’s balance sheet, but a by-product was the\n“front-ending” of income (a result dictated by GAAP).\nWe are in no hurry to record income, have enormous balance-sheet strength, and believe that\nover the long-term the economics of holding our consumer paper are superior to what we can\nnow realize through securitization. So Clayton has begun to retain its loans.\nWe believe it’s appropriate to finance a soundly-selected book of interest-bearing receivables\nalmost entirely with debt (just as a bank would). Therefore, Berkshire will borrow money to\nfinance Clayton’s portfolio and re-lend these funds to Clayton at our cost plus one percentage\n\n[[PAGE_BREAK]]\n\npoint. This markup fairly compensates Berkshire for putting its exceptional creditworthiness\nto work, but it still delivers money to Clayton at an attractive price.\nIn 2003, Berkshire did $2 billion of such borrowing and re-lending, with Clayton using much\nof this money to fund several large purchases of portfolios from lenders exiting the business.\nA portion of our loans to Clayton also provided “catch-up” funding for paper it had generated\nearlier in the year from its own operation and had found difficult to securitize.\n\nYou may wonder why we borrow money while sitting on a mountain of cash. It’s because of\nour “every tub on its own bottom” philosophy. We believe that any subsidiary lending money\nshould pay an appropriate rate for the funds needed to carry its receivables and should not be\nsubsidized by its parent. Otherwise, having a rich daddy can lead to sloppy decisions.\nMeanwhile, the cash we accumulate at Berkshire is destined for business acquisitions or for\nthe purchase of securities that offer opportunities for significant profit. Clayton’s loan\nportfolio will likely grow to at least $5 billion in not too many years and, with sensible credit\nstandards in place, should deliver significant earnings.\nFor simplicity’s sake, we include all of Clayton’s earnings in this sector, though a sizable\nportion is derived from areas other than consumer finance.\n(in $ millions)\nPre-Tax Earnings Interest-bearing Liabilities\n2003 2002 2003 2002\nTrading – Ordinary Income........................... $ 379 $ 553 $7,826 $13,762\nGen Re Securities........................................... (99) (173) 8,041* 10,631*\nLife and annuity operation.............................. 99 83 2,331 1,568\nValue Capital.................................................. 31 61 18,238* 20,359*\nBerkadia......................................................... 101 115 525 2,175\nLeasing operations.......................................... 34 34 482 503\nManufactured housing finance (Clayton)....... 37** — 2,032 —\nOther............................................................... 84 102 618 630\nIncome before capital gains............................ 666 775\nTrading – Capital Gains.................................. 1,215 578 N. A. N. A.\nTotal............................................................... $1,881 $1,353\n* Includes all liabilities\n** From date of acquisition, August 7,2003\n",
+    "metadata": {
+      "letter_year": 2003,
+      "letter_date": "2004-02-27",
+      "source_file": "2003_cleaned.txt",
+      "section_title": "Finance and Financial Products",
+      "section_hierarchy": [
+        "Letter Body",
+        "Business Segments",
+        "Finance and Financial Products"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [
+        "2003-S10-T3-001"
+      ],
+      "content_type": "narrative",
+      "contextual_summary": "Reviews results and risk considerations across Berkshire’s finance and financial products activities, including trading and various lending/leasing operations, with a table summarizing pre-tax earnings and related liabilities.",
+      "has_table": true,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "Berkshire",
+          "General Re",
+          "Gen Re",
+          "Value Capital",
+          "Berkadia"
+        ],
+        "people": [
+          "Ajit Jain",
+          "Ajit"
+        ],
+        "metrics": [
+          "pre-tax",
+          "capital gains",
+          "interest-bearing liabilities",
+          "debt",
+          "cost",
+          "earnings"
+        ]
+      },
+      "themes": [
+        "acquisitions",
+        "taxation",
+        "insurance",
+        "finance",
+        "investing"
+      ],
+      "buffett_concepts": [],
+      "principles": [
+        {
+          "statement": "We believe it’s appropriate to finance a soundly-selected book of interest-bearing receivables almost entirely with debt (just as a bank would).",
+          "category": "general"
+        },
+        {
+          "statement": "We believe that any subsidiary lending money should pay an appropriate rate for the funds needed to carry its receivables and should not be subsidized by its parent.",
+          "category": "general"
+        }
+      ],
+      "temporal_references": {
+        "primary_year": 2003,
+        "comparison_years": [
+          1974,
+          2002
+        ],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "low",
+      "token_count": 2376,
+      "char_count": 10173,
+      "source_span": {
+        "start_char": 51634,
+        "end_char_exclusive": 61807
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "2003-S10-T3-001",
+    "content": "(in $ millions)\nPre-Tax Earnings Interest-bearing Liabilities\n2003 2002 2003 2002\nTrading – Ordinary Income........................... $ 379 $ 553 $7,826 $13,762\nGen Re Securities........................................... (99) (173) 8,041* 10,631*\nLife and annuity operation.............................. 99 83 2,331 1,568\nValue Capital.................................................. 31 61 18,238* 20,359*\nBerkadia......................................................... 101 115 525 2,175\nLeasing operations.......................................... 34 34 482 503\nManufactured housing finance (Clayton)....... 37** — 2,032 —\nOther............................................................... 84 102 618 630\nIncome before capital gains............................ 666 775\nTrading – Capital Gains.................................. 1,215 578 N. A. N. A.\nTotal............................................................... $1,881 $1,353\n* Includes all liabilities\n** From date of acquisition, August 7,2003\n",
+    "metadata": {
+      "letter_year": 2003,
+      "letter_date": "2004-02-27",
+      "source_file": "2003_cleaned.txt",
+      "section_title": "Finance and Financial Products results",
+      "section_hierarchy": [
+        "Tables",
+        "Finance and Financial Products"
+      ],
+      "chunk_tier": 3,
+      "parent_chunk_id": "2003-S10-T1-001",
+      "child_chunk_ids": [],
+      "content_type": "financial_table",
+      "contextual_summary": "Table of pre-tax earnings and interest-bearing liabilities for Berkshire’s finance and financial products operations for 2003 and 2002, with notes on included liabilities and acquisition timing.",
+      "has_table": true,
+      "table_data": [
+        {
+          "table_name": "Finance and Financial Products results",
+          "summary": "Breaks out pre-tax earnings and interest-bearing liabilities for major finance/financial products operations in 2003 and 2002, including capital gains for trading.",
+          "columns": [
+            "Operation",
+            "Pre-tax earnings 2003 ($ millions)",
+            "Pre-tax earnings 2002 ($ millions)",
+            "Interest-bearing liabilities 2003 ($ millions)",
+            "Interest-bearing liabilities 2002 ($ millions)"
+          ],
+          "rows": [
+            [
+              "Trading – Ordinary Income",
+              "$379",
+              "$553",
+              "$7,826",
+              "$13,762"
+            ],
+            [
+              "Gen Re Securities",
+              "(99)",
+              "(173)",
+              "8,041",
+              "10,631"
+            ],
+            [
+              "Life and annuity operation",
+              "99",
+              "83",
+              "2,331",
+              "1,568"
+            ],
+            [
+              "Value Capital",
+              "31",
+              "61",
+              "18,238",
+              "20,359"
+            ],
+            [
+              "Berkadia",
+              "101",
+              "115",
+              "525",
+              "2,175"
+            ],
+            [
+              "Leasing operations",
+              "34",
+              "34",
+              "482",
+              "503"
+            ],
+            [
+              "Manufactured housing finance (Clayton)",
+              "37",
+              "—",
+              "2,032",
+              "—"
+            ],
+            [
+              "Other",
+              "84",
+              "102",
+              "618",
+              "630"
+            ],
+            [
+              "Income before capital gains",
+              "666",
+              "775",
+              "",
+              ""
+            ],
+            [
+              "Trading – Capital Gains",
+              "1,215",
+              "578",
+              "",
+              ""
+            ],
+            [
+              "Total",
+              "$1,881",
+              "$1,353",
+              "",
+              ""
+            ],
+            [
+              "Total",
+              "$1,881",
+              "$1,353",
+              "",
+              ""
+            ]
+          ],
+          "row_count": 12
+        }
+      ],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "Gen Re",
+          "Value Capital",
+          "Berkadia"
+        ],
+        "people": [],
+        "metrics": [
+          "pre-tax",
+          "capital gains",
+          "interest-bearing liabilities",
+          "earnings"
+        ]
+      },
+      "themes": [
+        "acquisitions",
+        "taxation",
+        "finance"
+      ],
+      "buffett_concepts": [],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 2003,
+        "comparison_years": [
+          2002
+        ],
+        "future_outlook": false
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "low",
+      "token_count": 596,
+      "char_count": 1011,
+      "source_span": {
+        "start_char": 60796,
+        "end_char_exclusive": 61807
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "2003-S11-T1-001",
+    "content": "Manufacturing, Service and Retailing Operations\n\nOur activities in this category cover the waterfront. But let’s look at a simplified balance sheet\nand earnings statement consolidating the entire group.\n\nBalance Sheet 12/31/03 (in $ millions)\nAssets Liabilities and Equity\nCash and equivalents................................. $ 1,250 Notes payable............................... $ 1,593\nAccounts and notes receivable.................. 2,796 Other current liabilities................. 4,300\nInventory................................................... 3,656 Total current liabilities................. 5,893\nOther current assets................................... 262\nTotal current assets.................................... 7,964\n\nGoodwill and other intangibles.................. 8,351 Deferred taxes............................... 105\nFixed assets............................................... 5,898 Term debt and other liabilities...... 1,890\nOther assets............................................... 1,054 Equity........................................... 15,379\n$23,267 $23,267\n\n[[PAGE_BREAK]]\n\nEarnings Statement (in $ millions)\n2003 2002\nRevenues............................................................................................................ $32,106 $16,970\nOperating expenses (including depreciation of $605 in 2003\nand $477 in 2002)........................................................................................ 29,885 14,921\nInterest expense (net).......................................................................................... 64 108\nPre-tax income.................................................................................................... 2,157 1,941\nIncome taxes....................................................................................................... 813 743\nNet income......................................................................................................... $ 1,344 $ 1,198\nThis eclectic group, which sells products ranging from Dilly Bars to B-737 s, earned a hefty 20.7%\non average tangible net worth last year. However, we purchased these businesses at substantial premiums\nto net worth – that fact is reflected in the goodwill item shown on the balance sheet – and that reduces the\nearnings on our average carrying value to 9.2%.\nHere are the pre-tax earnings for the larger categories or units.\n\nPre-Tax Earnings\n(in $ millions)\n2003 2002\nBuilding Products................................................................................................... $ 559 $ 516\nShaw Industries...................................................................................................... 436 424\nApparel................................................................................................................... 289 229\nRetail Operations.................................................................................................... 224 219\nFlight Services........................................................................................................ 72 225\nMc Lane *................................................................................................................ 150 —\nOther businesses..................................................................................................... 427 328\n$2,157 $1,941\n* From date of acquisition, May 23,2003.\n• Three of our building-materials businesses – Acme Brick, Benjamin Moore and Mi Tek – had record\noperating earnings last year. And earnings at Johns Manville, the fourth, were trending upward at\nyearend. Collectively, these companies earned 21.0% on tangible net worth.\n• Shaw Industries, the world’s largest manufacturer of broadloom carpet, also had a record year. Led by\nBob Shaw, who built this huge enterprise from a standing start, the company will likely set another\nearnings record in 2004. In November, Shaw acquired various carpet operations from Dixie Group,\nwhich should add about $240 million to sales this year, boosting Shaw’s volume to nearly $5 billion.\n• Within the apparel group, Fruit of the Loom is our largest operation. Fruit has three major assets: a\n148-year-old universally-recognized brand, a low-cost manufacturing operation, and John Holland, its\nCEO. In 2003, Fruit accounted for 42.3% of the men’s and boys’ underwear that was sold by mass\nmarketers (Wal-Mart, Target, K-Mart, etc.) and increased its share of the women’s and girls’ business\nin that channel to 13.9%, up from 11.3% in 2002.\n• In retailing, our furniture group earned $106 million pre-tax, our jewelers $59 million and See’s, which\nis both a manufacturer and retailer, $59 million.\n\nBoth R. C. Willey and Nebraska Furniture Mart (“NFM”) opened hugely successful stores last year,\nWilley in Las Vegas and NFM in Kansas City, Kansas. Indeed, we believe the Kansas City store is the\ncountry’s largest-volume home-furnishings store. (Our Omaha operation, while located on a single\nplot of land, consists of three units.)\n\n[[PAGE_BREAK]]\n\nNFM was founded by Rose Blumkin (“Mrs. B”) in 1937 with $500. She worked until she was 103\n(hmmm . . . not a bad idea). One piece of wisdom she imparted to the generations following her was,\n“If you have the lowest price, customers will find you at the bottom of a river.” Our store serving\ngreater Kansas City, which is located in one of the area’s more sparsely populated parts, has proved\nMrs. B’s point. Though we have more than 25 acres of parking, the lot has at times overflowed.\n“Victory,” President Kennedy told us after the Bay of Pigs disaster, “has a thousand fathers, but defeat\nis an orphan.” At NFM, we knew we had a winner a month after the boffo opening in Kansas City,\nwhen our new store attracted an unexpected paternity claim. A speaker there, referring to the Blumkin\nfamily, asserted, “They had enough confidence and the policies of the Administration were working\nsuch that they were able to provide work for 1,000 of our fellow citizens.” The proud papa at the\npodium? President George W. Bush.\n• In flight services, Flight Safety, our training operation, experienced a drop in “normal” operating\nearnings from $183 million to $150 million. (The abnormals: In 2002 we had a $60 million pre-tax\ngain from the sale of a partnership interest to Boeing, and in 2003 we recognized a $37 million loss\nstemming from the premature obsolescence of simulators.) The corporate aviation business has slowed\nsignificantly in the past few years, and this fact has hurt Flight Safety’s results. The company\ncontinues, however, to be far and away the leader in its field. Its simulators have an original cost of\n$1.2 billion, which is more than triple the cost of those operated by our closest competitor.\nNet Jets, our fractional-ownership operation lost $41 million pre-tax in 2003. The company had a\nmodest operating profit in the U. S., but this was more than offset by a $32 million loss on aircraft\ninventory and by continued losses in Europe.\nNet Jets continues to dominate the fractional-ownership field, and its lead is increasing: Prospects\noverwhelmingly turn to us rather than to our three major competitors. Last year, among the four of us,\nwe accounted for 70% of net sales (measured by value).\nAn example of what sets Net Jets apart from competitors is our Mayo Clinic Executive Travel\nResponse program, a free benefit enjoyed by all of our owners. On land or in the air, anywhere in the\nworld and at any hour of any day, our owners and their families have an immediate link to Mayo.\nShould an emergency occur while they are traveling here or abroad, Mayo will instantly direct them to\nan appropriate doctor or hospital. Any baseline data about the patient that Mayo possesses is\nsimultaneously made available to the treating physician. Many owners have already found this service\ninvaluable, including one who needed emergency brain surgery in Eastern Europe.\nThe $32 million inventory write-down we took in 2003 occurred because of falling prices for used\naircraft early in the year. Specifically, we bought back fractions from withdrawing owners at\nprevailing prices, and these fell in value before we were able to remarket them. Prices are now stable.\nThe European loss is painful. But any company that forsakes Europe, as all of our competitors have\ndone, is destined for second-tier status. Many of our U. S. owners fly extensively in Europe and want\nthe safety and security assured by a Net Jets plane and pilots. Despite a slow start, furthermore, we are\nnow adding European customers at a good pace. During the years 2001 through 2003, we had gains of\n88%, 61% and 77% in European management-and-flying revenues. We have not, however, yet\nsucceeded in stemming the flow of red ink.\nRich Santulli, Net Jets’ extraordinary CEO, and I expect our European loss to diminish in 2004 and also\nanticipate that it will be more than offset by U. S. profits. Overwhelmingly, our owners love the\nNet Jets experience. Once a customer has tried us, going back to commercial aviation is like going\nback to holding hands. Net Jets will become a very big business over time and will be one in which we\nare preeminent in both customer satisfaction and profits. Rich will see to that.\n\n[[PAGE_BREAK]]\n\n",
+    "metadata": {
+      "letter_year": 2003,
+      "letter_date": "2004-02-27",
+      "source_file": "2003_cleaned.txt",
+      "section_title": "Manufacturing, Service and Retailing Operations",
+      "section_hierarchy": [
+        "Letter Body",
+        "Business Segments",
+        "Manufacturing, Service and Retailing Operations"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [
+        "2003-S11-T3-001"
+      ],
+      "content_type": "narrative",
+      "contextual_summary": "Summarizes Berkshire’s diverse operating businesses outside insurance and finance, provides simplified consolidated balance sheet and income statements plus pre-tax earnings by subgroup, and comments on notable business performances.",
+      "has_table": true,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "Shaw Industries",
+          "Johns Manville",
+          "Benjamin Moore",
+          "Mi Tek",
+          "Acme Brick"
+        ],
+        "people": [
+          "Bob Shaw"
+        ],
+        "metrics": [
+          "operating earnings",
+          "pre-tax",
+          "net income",
+          "debt",
+          "cost",
+          "earnings",
+          "revenues"
+        ]
+      },
+      "themes": [
+        "acquisitions",
+        "taxation"
+      ],
+      "buffett_concepts": [],
+      "principles": [
+        {
+          "statement": "Indeed, we believe the Kansas City store is the country’s largest-volume home-furnishings store.",
+          "category": "general"
+        }
+      ],
+      "temporal_references": {
+        "primary_year": 2003,
+        "comparison_years": [
+          1937,
+          2001,
+          2002,
+          2004
+        ],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "low",
+      "token_count": 3365,
+      "char_count": 9227,
+      "source_span": {
+        "start_char": 61807,
+        "end_char_exclusive": 71034
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "2003-S11-T3-001",
+    "content": "Balance Sheet 12/31/03 (in $ millions)\nAssets Liabilities and Equity\nCash and equivalents................................. $ 1,250 Notes payable............................... $ 1,593\nAccounts and notes receivable.................. 2,796 Other current liabilities................. 4,300\nInventory................................................... 3,656 Total current liabilities................. 5,893\nOther current assets................................... 262\nTotal current assets.................................... 7,964\n\nGoodwill and other intangibles.................. 8,351 Deferred taxes............................... 105\nFixed assets............................................... 5,898 Term debt and other liabilities...... 1,890\nOther assets............................................... 1,054 Equity........................................... 15,379\n$23,267 $23,267\n\n[[PAGE_BREAK]]\n\nEarnings Statement (in $ millions)\n2003 2002\nRevenues............................................................................................................ $32,106 $16,970\nOperating expenses (including depreciation of $605 in 2003\nand $477 in 2002)........................................................................................ 29,885 14,921\nInterest expense (net).......................................................................................... 64 108\nPre-tax income.................................................................................................... 2,157 1,941\nIncome taxes....................................................................................................... 813 743\nNet income......................................................................................................... $ 1,344 $ 1,198\nThis eclectic group, which sells products ranging from Dilly Bars to B-737 s, earned a hefty 20.7%\non average tangible net worth last year. However, we purchased these businesses at substantial premiums\nto net worth – that fact is reflected in the goodwill item shown on the balance sheet – and that reduces the\nearnings on our average carrying value to 9.2%.\nHere are the pre-tax earnings for the larger categories or units.\n\nPre-Tax Earnings\n(in $ millions)\n2003 2002\nBuilding Products................................................................................................... $ 559 $ 516\nShaw Industries...................................................................................................... 436 424\nApparel................................................................................................................... 289 229\nRetail Operations.................................................................................................... 224 219\nFlight Services........................................................................................................ 72 225\nMc Lane *................................................................................................................ 150 —\nOther businesses..................................................................................................... 427 328\n$2,157 $1,941\n* From date of acquisition, May 23,2003.\n",
+    "metadata": {
+      "letter_year": 2003,
+      "letter_date": "2004-02-27",
+      "source_file": "2003_cleaned.txt",
+      "section_title": "Manufacturing, Service and Retailing – Financial summaries",
+      "section_hierarchy": [
+        "Tables",
+        "Manufacturing, Service and Retailing Operations"
+      ],
+      "chunk_tier": 3,
+      "parent_chunk_id": "2003-S11-T1-001",
+      "child_chunk_ids": [],
+      "content_type": "financial_table",
+      "contextual_summary": "Combined financial tables for Berkshire’s manufacturing, service and retailing group: a simplified balance sheet at 12/31/03, an income statement for 2003 vs. 2002, and pre-tax earnings by business group.",
+      "has_table": true,
+      "table_data": [
+        {
+          "table_name": "Manufacturing, Service and Retailing – Balance Sheet 12/31/03",
+          "summary": "Simplified consolidated balance sheet (assets vs. liabilities and equity) for Berkshire’s manufacturing, service and retailing group at 12/31/03.",
+          "columns": [
+            "Assets item",
+            "Amount ($ millions)",
+            "Liabilities & equity item",
+            "Amount ($ millions)"
+          ],
+          "rows": [
+            [
+              "Cash and equivalents",
+              "$1,250",
+              "Notes payable",
+              "$1,593"
+            ],
+            [
+              "Accounts and notes receivable",
+              "2,796",
+              "Other current liabilities",
+              "4,300"
+            ],
+            [
+              "Inventory",
+              "3,656",
+              "Total current liabilities",
+              "5,893"
+            ],
+            [
+              "Other current assets",
+              "262",
+              "",
+              ""
+            ],
+            [
+              "Total current assets",
+              "7,964",
+              "",
+              ""
+            ],
+            [
+              "Goodwill and other intangibles",
+              "8,351",
+              "Deferred taxes",
+              "105"
+            ],
+            [
+              "Fixed assets",
+              "5,898",
+              "Term debt and other liabilities",
+              "1,890"
+            ],
+            [
+              "Other assets",
+              "1,054",
+              "Equity",
+              "15,379"
+            ],
+            [
+              "Total",
+              "$23,267",
+              "Total",
+              "$23,267"
+            ]
+          ],
+          "row_count": 9
+        },
+        {
+          "table_name": "Manufacturing, Service and Retailing – Earnings Statement",
+          "summary": "Consolidated income statement for the manufacturing, service and retailing group, showing revenues through net income for 2003 vs. 2002.",
+          "columns": [
+            "Line item",
+            "2003 ($ millions)",
+            "2002 ($ millions)"
+          ],
+          "rows": [
+            [
+              "Revenues",
+              "$32,106",
+              "$16,970"
+            ],
+            [
+              "and $477 in 2002)",
+              "29,885",
+              "14,921"
+            ],
+            [
+              "Interest expense (net)",
+              "64",
+              "108"
+            ],
+            [
+              "Pre-tax income",
+              "2,157",
+              "1,941"
+            ],
+            [
+              "Income taxes",
+              "813",
+              "743"
+            ],
+            [
+              "Net income",
+              "$1,344",
+              "$1,198"
+            ]
+          ],
+          "row_count": 6
+        },
+        {
+          "table_name": "Manufacturing, Service and Retailing – Pre-tax earnings by business group",
+          "summary": "Shows pre-tax earnings by major business group within manufacturing, service and retailing operations for 2003 versus 2002, summing to consolidated pre-tax income.",
+          "columns": [
+            "Business group",
+            "2003 ($ millions)",
+            "2002 ($ millions)"
+          ],
+          "rows": [
+            [
+              "Building Products",
+              "$559",
+              "$516"
+            ],
+            [
+              "Shaw Industries",
+              "436",
+              "424"
+            ],
+            [
+              "Apparel",
+              "289",
+              "229"
+            ],
+            [
+              "Retail Operations",
+              "224",
+              "219"
+            ],
+            [
+              "Flight Services",
+              "72",
+              "225"
+            ],
+            [
+              "Mc Lane *",
+              "150",
+              "—"
+            ],
+            [
+              "Other businesses",
+              "427",
+              "328"
+            ],
+            [
+              "Total",
+              "$2,157",
+              "$1,941"
+            ]
+          ],
+          "row_count": 8
+        }
+      ],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "Shaw Industries"
+        ],
+        "people": [],
+        "metrics": [
+          "pre-tax",
+          "net income",
+          "debt",
+          "earnings",
+          "revenues"
+        ]
+      },
+      "themes": [
+        "acquisitions",
+        "taxation"
+      ],
+      "buffett_concepts": [],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 2003,
+        "comparison_years": [
+          2002
+        ],
+        "future_outlook": false
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "low",
+      "token_count": 2084,
+      "char_count": 3176,
+      "source_span": {
+        "start_char": 62011,
+        "end_char_exclusive": 65187
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "2003-S12-T1-001",
+    "content": "Investments\nThe table that follows shows our common stock investments. Those that had a market value of\nmore than $500 million at the end of 2003 are itemized.\n\n12/31/03\nPercentage of\nShares Company Company Owned Cost Market\n(in $ millions)\n\n151,610,700 American Express Company................ 11.8 $ 1,470 $ 7,312\n200,000,000 The Coca-Cola Company..................... 8.2 1,299 10,150\n96,000,000 The Gillette Company.......................... 9.5 600 3,526\n14,610,900 H&R Block, Inc.................................... 8.2 227 809\n15,476,500 HCA Inc............................................... 3.1 492 665\n6,708,760 M&T Bank Corporation....................... 5.6 103 659\n24,000,000 Moody’s Corporation........................... 16.1 499 1,453\n2,338,961,000 Petro China Company Limited.............. 1.3 488 1,340\n1,727,765 The Washington Post Company........... 18.1 11 1,367\n56,448,380 Wells Fargo & Company...................... 3.3 463 3,324\nOthers................................................... 2,863 4,682\nTotal Common Stocks.......................... $ 8,515 $35,287\nWe bought some Wells Fargo shares last year. Otherwise, among our six largest holdings, we last\nchanged our position in Coca-Cola in 1994, American Express in 1998, Gillette in 1989, Washington Post\nin 1973, and Moody’s in 2000. Brokers don’t love us.\nWe are neither enthusiastic nor negative about the portfolio we hold. We own pieces of excellent\nbusinesses – all of which had good gains in intrinsic value last year – but their current prices reflect their\nexcellence. The unpleasant corollary to this conclusion is that I made a big mistake in not selling several of\nour larger holdings during The Great Bubble. If these stocks are fully priced now, you may wonder what I\nwas thinking four years ago when their intrinsic value was lower and their prices far higher. So do I.\nIn 2002, junk bonds became very cheap, and we purchased about $8 billion of these. The\npendulum swung quickly though, and this sector now looks decidedly unattractive to us. Yesterday’s\nweeds are today being priced as flowers.\n\nWe’ve repeatedly emphasized that realized gains at Berkshire are meaningless for analytical\npurposes. We have a huge amount of unrealized gains on our books, and our thinking about when, and if,\nto cash them depends not at all on a desire to report earnings at one specific time or another. Nevertheless,\nto see the diversity of our investment activities, you may be interested in the following table, categorizing\nthe gains we reported during 2003:\nCategory Pre-Tax Gain\n(in $ million)\nCommon Stocks.............................................................................................................. $ 448\nU. S. Government Bonds.................................................................................................. 1,485\nJunk Bonds...................................................................................................................... 1,138\nForeign Exchange Contracts........................................................................................... 825\nOther................................................................................................................................ 233\n$4,129\n\nThe common stock profits occurred around the edges of our portfolio – not, as we already\nmentioned, from our selling down our major positions. The profits in governments arose from our\n\n[[PAGE_BREAK]]\n\nliquidation of long-term strips (the most volatile of government securities) and from certain strategies I\nfollow within our finance and financial products division. We retained most of our junk portfolio, selling\nonly a few issues. Calls and maturing bonds accounted for the rest of the gains in the junk category.\nDuring 2002 we entered the foreign currency market for the first time in my life, and in 2003 we\nenlarged our position, as I became increasingly bearish on the dollar. I should note that the cemetery for\nseers has a huge section set aside for macro forecasters. We have in fact made few macro forecasts at\nBerkshire, and we have seldom seen others make them with sustained success.\nWe have – and will continue to have – the bulk of Berkshire’s net worth in U. S. assets. But in\nrecent years our country’s trade deficit has been force-feeding huge amounts of claims on, and ownership\nin, America to the rest of the world. For a time, foreign appetite for these assets readily absorbed the\nsupply. Late in 2002, however, the world started choking on this diet, and the dollar’s value began to slide\nagainst major currencies. Even so, prevailing exchange rates will not lead to a material letup in our trade\ndeficit. So whether foreign investors like it or not, they will continue to be flooded with dollars. The\nconsequences of this are anybody’s guess. They could, however, be troublesome – and reach, in fact, well\nbeyond currency markets.\nAs an American, I hope there is a benign ending to this problem. I myself suggested one possible\nsolution – which, incidentally, leaves Charlie cold – in a November 10,2003 article in Fortune Magazine.\nThen again, perhaps the alarms I have raised will prove needless: Our country’s dynamism and resiliency\nhave repeatedly made fools of naysayers. But Berkshire holds many billions of cash-equivalents\ndenominated in dollars. So I feel more comfortable owning foreign-exchange contracts that are at least a\npartial offset to that position.\nThese contracts are subject to accounting rules that require changes in their value to be\ncontemporaneously included in capital gains or losses, even though the contracts have not been closed. We\nshow these changes each quarter in the Finance and Financial Products segment of our earnings statement.\nAt yearend, our open foreign exchange contracts totaled about $12 billion at market values and were spread\namong five currencies. Also, when we were purchasing junk bonds in 2002, we tried when possible to buy\nissues denominated in Euros. Today, we own about $1 billion of these.\nWhen we can’t find anything exciting in which to invest, our “default” position is U. S. Treasuries,\nboth bills and repos. No matter how low the yields on these instruments go, we never “reach” for a little\nmore income by dropping our credit standards or by extending maturities. Charlie and I detest taking even\nsmall risks unless we feel we are being adequately compensated for doing so. About as far as we will go\ndown that path is to occasionally eat cottage cheese a day after the expiration date on the carton.\n* * * * * * * * * * * *\nA 2003 book that investors can learn much from is Bull! by Maggie Mahar. Two other books I’d\nrecommend are The Smartest Guys in the Room by Bethany Mc Lean and Peter Elkind, and In an Uncertain\nWorld by Bob Rubin. All three are well-reported and well-written. Additionally, Jason Zweig last year did\na first-class job in revising The Intelligent Investor, my favorite book on investing.\n",
+    "metadata": {
+      "letter_year": 2003,
+      "letter_date": "2004-02-27",
+      "source_file": "2003_cleaned.txt",
+      "section_title": "Investments",
+      "section_hierarchy": [
+        "Letter Body",
+        "Investments"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [
+        "2003-S12-T3-001",
+        "2003-S12-T3-002"
+      ],
+      "content_type": "narrative",
+      "contextual_summary": "Explains Berkshire’s approach to equity investing, presents a table of major common stock holdings at year-end 2003, and categorizes realized gains reported during the year by asset type.",
+      "has_table": true,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "Berkshire",
+          "H&R Block",
+          "American Express",
+          "The Coca-Cola Company",
+          "The Gillette Company",
+          "Moody’s",
+          "Petro China",
+          "The Washington Post Company",
+          "Wells Fargo",
+          "M&T Bank",
+          "HCA",
+          "HCA Inc",
+          "U. S. Government Bonds",
+          "Junk Bonds"
+        ],
+        "people": [],
+        "metrics": [
+          "intrinsic value",
+          "pre-tax",
+          "capital gains",
+          "market value",
+          "cost",
+          "earnings"
+        ]
+      },
+      "themes": [
+        "valuation",
+        "taxation",
+        "finance",
+        "investing"
+      ],
+      "buffett_concepts": [
+        "intrinsic value"
+      ],
+      "principles": [
+        {
+          "statement": "No matter how low the yields on these instruments go, we never “reach” for a little more income by dropping our credit standards or by extending maturities.",
+          "category": "general"
+        },
+        {
+          "statement": "About as far as we will go down that path is to occasionally eat cottage cheese a day after the expiration date on the carton.",
+          "category": "general"
+        }
+      ],
+      "temporal_references": {
+        "primary_year": 2003,
+        "comparison_years": [
+          1973,
+          1989,
+          1994,
+          1998,
+          2000,
+          2002
+        ],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "low",
+      "token_count": 2162,
+      "char_count": 6945,
+      "source_span": {
+        "start_char": 71034,
+        "end_char_exclusive": 77979
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "2003-S12-T3-001",
+    "content": "12/31/03\nPercentage of\nShares Company Company Owned Cost Market\n(in $ millions)\n\n151,610,700 American Express Company................ 11.8 $ 1,470 $ 7,312\n200,000,000 The Coca-Cola Company..................... 8.2 1,299 10,150\n96,000,000 The Gillette Company.......................... 9.5 600 3,526\n14,610,900 H&R Block, Inc.................................... 8.2 227 809\n15,476,500 HCA Inc............................................... 3.1 492 665\n6,708,760 M&T Bank Corporation....................... 5.6 103 659\n24,000,000 Moody’s Corporation........................... 16.1 499 1,453\n2,338,961,000 Petro China Company Limited.............. 1.3 488 1,340\n1,727,765 The Washington Post Company........... 18.1 11 1,367\n56,448,380 Wells Fargo & Company...................... 3.3 463 3,324\nOthers................................................... 2,863 4,682\nTotal Common Stocks.......................... $ 8,515 $35,287\n",
+    "metadata": {
+      "letter_year": 2003,
+      "letter_date": "2004-02-27",
+      "source_file": "2003_cleaned.txt",
+      "section_title": "Common stock investments (12/31/03)",
+      "section_hierarchy": [
+        "Tables",
+        "Investments"
+      ],
+      "chunk_tier": 3,
+      "parent_chunk_id": "2003-S12-T1-001",
+      "child_chunk_ids": [],
+      "content_type": "financial_table",
+      "contextual_summary": "Table of Berkshire’s common stock investments at 12/31/03, listing major holdings with shares, percent owned, cost, and market value, plus an 'Others' line and total.",
+      "has_table": true,
+      "table_data": [
+        {
+          "table_name": "Common stock investments (12/31/03)",
+          "summary": "Lists Berkshire’s common stock holdings at 12/31/03 (itemizing positions with market value over $500 million), showing shares owned, percent owned, cost and market value.",
+          "columns": [
+            "Shares",
+            "Company",
+            "% of company owned",
+            "Cost ($ millions)",
+            "Market ($ millions)"
+          ],
+          "rows": [
+            [
+              "200,000,000",
+              "The Coca-Cola Company.....................",
+              "8.2",
+              "1,299",
+              "10,150"
+            ],
+            [
+              "96,000,000",
+              "The Gillette Company..........................",
+              "9.5",
+              "600",
+              "3,526"
+            ],
+            [
+              "14,610,900",
+              "H&R Block, Inc....................................",
+              "8.2",
+              "227",
+              "809"
+            ],
+            [
+              "15,476,500",
+              "HCA Inc...............................................",
+              "3.1",
+              "492",
+              "665"
+            ],
+            [
+              "6,708,760",
+              "M&T Bank Corporation.......................",
+              "5.6",
+              "103",
+              "659"
+            ],
+            [
+              "24,000,000",
+              "Moody’s Corporation...........................",
+              "16.1",
+              "499",
+              "1,453"
+            ],
+            [
+              "2,338,961,000",
+              "Petro China Company Limited..............",
+              "1.3",
+              "488",
+              "1,340"
+            ],
+            [
+              "1,727,765",
+              "The Washington Post Company...........",
+              "18.1",
+              "11",
+              "1,367"
+            ],
+            [
+              "56,448,380",
+              "Wells Fargo & Company......................",
+              "3.3",
+              "463",
+              "3,324"
+            ],
+            [
+              "",
+              "Others",
+              "",
+              "2,863",
+              "4,682"
+            ],
+            [
+              "",
+              "Total Common Stocks",
+              "",
+              "$8,515",
+              "$35,287"
+            ]
+          ],
+          "row_count": 11
+        }
+      ],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "H&R Block",
+          "American Express",
+          "The Coca-Cola Company",
+          "The Gillette Company",
+          "Moody’s",
+          "Petro China",
+          "The Washington Post Company",
+          "Wells Fargo",
+          "M&T Bank",
+          "HCA",
+          "HCA Inc"
+        ],
+        "people": [],
+        "metrics": [
+          "cost"
+        ]
+      },
+      "themes": [
+        "investing"
+      ],
+      "buffett_concepts": [],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 2003,
+        "comparison_years": [],
+        "future_outlook": false
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "low",
+      "token_count": 518,
+      "char_count": 924,
+      "source_span": {
+        "start_char": 71195,
+        "end_char_exclusive": 72119
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "2003-S12-T3-002",
+    "content": "Category Pre-Tax Gain\n(in $ million)\nCommon Stocks.............................................................................................................. $ 448\nU. S. Government Bonds.................................................................................................. 1,485\nJunk Bonds...................................................................................................................... 1,138\nForeign Exchange Contracts........................................................................................... 825\nOther................................................................................................................................ 233\n$4,129\n\n",
+    "metadata": {
+      "letter_year": 2003,
+      "letter_date": "2004-02-27",
+      "source_file": "2003_cleaned.txt",
+      "section_title": "Realized gains categorized (2003)",
+      "section_hierarchy": [
+        "Tables",
+        "Investments"
+      ],
+      "chunk_tier": 3,
+      "parent_chunk_id": "2003-S12-T1-001",
+      "child_chunk_ids": [],
+      "content_type": "financial_table",
+      "contextual_summary": "Table categorizing Berkshire’s reported 2003 pre-tax gains by category (common stocks, U.S. governments, junk bonds, FX contracts, and other) with a total.",
+      "has_table": true,
+      "table_data": [
+        {
+          "table_name": "Realized gains categorized (2003)",
+          "summary": "Breaks down Berkshire’s reported 2003 pre-tax gains by asset category (common stocks, government bonds, junk bonds, FX contracts, other).",
+          "columns": [
+            "Category",
+            "Pre-tax gain (in $ million)"
+          ],
+          "rows": [
+            [
+              "Common Stocks",
+              "$"
+            ],
+            [
+              "U. S. Government Bonds",
+              "1,485"
+            ],
+            [
+              "Junk Bonds",
+              "1,138"
+            ],
+            [
+              "Foreign Exchange Contracts",
+              "825"
+            ],
+            [
+              "Other",
+              "233"
+            ],
+            [
+              "Total",
+              "$4,129"
+            ]
+          ],
+          "row_count": 6
+        }
+      ],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "U. S. Government Bonds",
+          "Junk Bonds"
+        ],
+        "people": [],
+        "metrics": [
+          "pre-tax"
+        ]
+      },
+      "themes": [
+        "taxation",
+        "investing"
+      ],
+      "buffett_concepts": [],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 2003,
+        "comparison_years": [],
+        "future_outlook": false
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "low",
+      "token_count": 583,
+      "char_count": 697,
+      "source_span": {
+        "start_char": 73576,
+        "end_char_exclusive": 74273
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "2003-S13-T1-001",
+    "content": "Designated Gifts Program\nFrom 1981 through 2002, Berkshire administered a program whereby shareholders could direct\nBerkshire to make gifts to their favorite charitable organizations. Over the years we disbursed $197 million\npursuant to this program. Churches were the most frequently named designees, and many thousands of\nother organizations benefited as well. We were the only major public company that offered such a program\nto shareholders, and Charlie and I were proud of it.\nWe reluctantly terminated the program in 2003 because of controversy over the abortion issue.\nOver the years numerous organizations on both sides of this issue had been designated by our shareholders\nto receive contributions. As a result, we regularly received some objections to the gifts designated for prochoice operations. A few of these came from people and organizations that proceeded to boycott products\n\n[[PAGE_BREAK]]\n\nof our subsidiaries. That did not concern us. We refused all requests to limit the right of our owners to\nmake whatever gifts they chose (as long as the recipients had 501(c)(3) status).\nIn 2003, however, many independent associates of The Pampered Chef began to feel the boycotts.\nThis development meant that people who trusted us – but who were neither employees of ours nor had a\nvoice in Berkshire decision-making – suffered serious losses of income.\nFor our shareholders, there was some modest tax efficiency in Berkshire doing the giving rather\nthan their making their gifts directly. Additionally, the program was consistent with our “partnership”\napproach, the first principle set forth in our Owner’s Manual. But these advantages paled when they were\nmeasured against damage done loyal associates who had with great personal effort built businesses of their\nown. Indeed, Charlie and I see nothing charitable in harming decent, hard-working people just so we and\nother shareholders can gain some minor tax efficiencies.\nBerkshire now makes no contributions at the parent company level. Our various subsidiaries\nfollow philanthropic policies consistent with their practices prior to their acquisition by Berkshire, except\nthat any personal contributions that former owners had earlier made from their corporate pocketbook are\nnow funded by them personally.\n",
+    "metadata": {
+      "letter_year": 2003,
+      "letter_date": "2004-02-27",
+      "source_file": "2003_cleaned.txt",
+      "section_title": "Designated Gifts Program",
+      "section_hierarchy": [
+        "Letter Body",
+        "Philanthropy"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "narrative",
+      "contextual_summary": "Explains Berkshire’s designated gifts program and how shareholders can direct Berkshire’s charitable contributions, including participation details and deadlines.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "Berkshire",
+          "The Pampered Chef"
+        ],
+        "people": [],
+        "metrics": []
+      },
+      "themes": [
+        "acquisitions",
+        "taxation",
+        "philanthropy"
+      ],
+      "buffett_concepts": [],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 2003,
+        "comparison_years": [
+          1981,
+          2002
+        ],
+        "future_outlook": false
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "medium",
+      "abstraction_level": "medium",
+      "token_count": 399,
+      "char_count": 2275,
+      "source_span": {
+        "start_char": 77979,
+        "end_char_exclusive": 80254
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "2003-S14-T1-001",
+    "content": "The Annual Meeting\nLast year, I asked you to vote as to whether you wished our annual meeting to be held on Saturday\nor Monday. I was hoping for Monday. Saturday won by 2 to 1. It will be a while before shareholder\ndemocracy resurfaces at Berkshire.\nBut you have spoken, and we will hold this year’s annual meeting on Saturday, May 1 at the new\nQwest Center in downtown Omaha. The Qwest offers us 194,000 square feet for exhibition by our\nsubsidiaries (up from 65,000 square feet last year) and much more seating capacity as well. The Qwest’s\ndoors will open at 7 a. m., the movie will begin at 8: 30, and the meeting itself will commence at 9: 30.\nThere will be a short break at noon for food. (Sandwiches will be available at the Qwest’s concession\nstands.) That interlude aside, Charlie and I will answer questions until 3: 30. We will tell you everything\nwe know . . . and, at least in my case, more.\nAn attachment to the proxy material that is enclosed with this report explains how you can obtain\nthe credential you will need for admission to the meeting and other events. As for plane, hotel and car\nreservations, we have again signed up American Express (800-799-6634) to give you special help. They do\na terrific job for us each year, and I thank them for it.\nIn our usual fashion, we will run vans from the larger hotels to the meeting. Afterwards, the vans\nwill make trips back to the hotels and to Nebraska Furniture Mart, Borsheim’s and the airport. Even so,\nyou are likely to find a car useful.\nOur exhibition of Berkshire goods and services will blow you away this year. On the floor, for\nexample, will be a 1,600 square foot Clayton home (featuring Acme brick, Shaw carpet, Johns-Manville\ninsulation, Mi Tek fasteners, Carefree awnings, and outfitted with NFM furniture). You’ll find it a far cry\nfrom the mobile-home stereotype of a few decades ago.\nGEICO will have a booth staffed by a number of its top counselors from around the country, all of\nthem ready to supply you with auto insurance quotes. In most cases, GEICO will be able to give you a\nspecial shareholder discount (usually 8%). This special offer is permitted by 41 of the 49 jurisdictions in\nwhich we operate. Bring the details of your existing insurance and check out whether we can save you\nmoney.\nOn Saturday, at the Omaha airport, we will have the usual array of aircraft from Net Jets®\navailable for your inspection. Stop by the Net Jets booth at the Qwest to learn about viewing these planes.\nIf you buy what we consider an appropriate number of items during the weekend, you may well need your\nown plane to take them home.\n\n[[PAGE_BREAK]]\n\nAt Nebraska Furniture Mart, located on a 77-acre site on 72 nd Street between Dodge and Pacific,\nwe will again be having “Berkshire Weekend” pricing, which means we will be offering our shareholders a\ndiscount that is customarily given only to employees. We initiated this special pricing at NFM seven years\nago, and sales during the “Weekend” grew from $5.3 million in 1997 to $17.3 million in 2003. Every year\nhas set a new record.\nTo get the discount, you must make your purchases between Thursday, April 29 and Monday,\nMay 3 inclusive, and also present your meeting credential. The period’s special pricing will even apply to\nthe products of several prestigious manufacturers that normally have ironclad rules against discounting but\nthat, in the spirit of our shareholder weekend, have made an exception for you. We appreciate their\ncooperation. NFM is open from 10 a. m. to 9 p. m. Monday through Saturday, and 10 a. m. to 6 p. m. on\nSunday. On Saturday this year, from 5: 30 p. m. to 8 p. m., we are having a special affair for shareholders\nonly. I’ll be there, eating barbeque and drinking Coke.\nBorsheim’s ⎯ the largest jewelry store in the country except for Tiffany’s Manhattan store ⎯ will\nhave two shareholder-only events. The first will be a cocktail reception from 6 p. m. to 10 p. m. on Friday,\nApril 30. The second, the main gala, will be from 9 a. m. to 4 p. m. on Sunday, May 2. Ask Charlie to\nautograph your sales ticket.\nShareholder prices will be available Thursday through Monday, so if you wish to avoid the large\ncrowds that will assemble on Friday evening and Sunday, come at other times and identify yourself as a\nshareholder. On Saturday, we will be open until 6 p. m. Borsheim’s operates on a gross margin that is fully\ntwenty percentage points below that of its major rivals, so the more you buy, the more you save – at least\nthat’s what my wife and daughter tell me. (Both were impressed early in life by the story of the boy who,\nafter missing a street car, walked home and proudly announced that he had saved 5¢ by doing so. His\nfather was irate: “Why didn’t you miss a cab and save 85¢?”)\nIn the mall outside of Borsheim’s, we will have Bob Hamman and Sharon Osberg, two of the\nworld’s top bridge experts, available to play with our shareholders on Sunday afternoon. Additionally,\nPatrick Wolff, twice U. S. chess champion, will be in the mall, taking on all comers ⎯ blindfolded! I’ve\nwatched, and he doesn’t peek.\nGorat’s ⎯ my favorite steakhouse ⎯ will again be open exclusively for Berkshire shareholders on\nSunday, May 2, and will be serving from 4 p. m. until 10 p. m. Please remember that to come to Gorat’s on\nSunday, you must have a reservation. To make one, call 402-551-3733 on April 1 (but not before). If\nSunday is sold out, try Gorat’s on one of the other evenings you will be in town. Flaunt your mastery of\nfine dining by ordering, as I do, a rare T-bone with a double order of hash browns.\nWe will have a special reception on Saturday afternoon from 4: 00 to 5: 00 for shareholders who\ncome from outside of North America. Every year our meeting draws many people from around the globe,\nand Charlie and I want to be sure we personally meet those who have come so far. Any shareholder who\ncomes from other than the U. S. or Canada will be given special credentials and instructions for attending\nthis function.\nCharlie and I have a great time at the annual meeting. And you will, too. So join us at the Qwest\nfor our annual Woodstock for Capitalists.\nWarren E. Buffett\nFebruary 27,2004 Chairman of the Board",
+    "metadata": {
+      "letter_year": 2003,
+      "letter_date": "2004-02-27",
+      "source_file": "2003_cleaned.txt",
+      "section_title": "The Annual Meeting",
+      "section_hierarchy": [
+        "Appendix",
+        "Annual Meeting"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "narrative",
+      "contextual_summary": "Provides logistics and guidance for Berkshire’s annual meeting, including schedules, shareholder activities, and related information meant to help attendees plan their visit.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "Berkshire",
+          "GEICO",
+          "Mi Tek",
+          "American Express"
+        ],
+        "people": [],
+        "metrics": []
+      },
+      "themes": [
+        "insurance",
+        "annual meeting"
+      ],
+      "buffett_concepts": [],
+      "principles": [
+        {
+          "statement": "But you have spoken, and we will hold this year’s annual meeting on Saturday, May 1 at the new Qwest Center in downtown Omaha.",
+          "category": "general"
+        },
+        {
+          "statement": "In our usual fashion, we will run vans from the larger hotels to the meeting.",
+          "category": "general"
+        },
+        {
+          "statement": "On Saturday, at the Omaha airport, we will have the usual array of aircraft from Net Jets® available for your inspection.",
+          "category": "general"
+        }
+      ],
+      "temporal_references": {
+        "primary_year": 2003,
+        "comparison_years": [
+          1997,
+          2004
+        ],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "low",
+      "abstraction_level": "medium",
+      "token_count": 1383,
+      "char_count": 6185,
+      "source_span": {
+        "start_char": 80254,
+        "end_char_exclusive": 86439
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  }
+]
