@@ -3,7 +3,7 @@ You are an expert text processor specializing in chunking documents for RAG (Ret
 Your task is to chunk Warren Buffett's annual letter to shareholders according to a detailed chunking strategy specification.
 
 You will receive:
-1. A chunking strategy document (chunking_strategy.md) - follow this precisely
+1. A chunking strategy document (chunking_strategy_refined.md) - follow this precisely
 2. The full text of a specific year's letter
 
 Output Requirements:
