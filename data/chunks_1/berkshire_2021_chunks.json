@@ -1,906 +1,749 @@
 [
   {
-    "chunk_id": "2021-S1-T1-001",
+    "chunk_id": "berkshire_2021_0001",
     "content": "To the Shareholders of Berkshire Hathaway Inc.:\nCharlie Munger, my long-time partner, and I have the job of managing a portion of your savings. We are\nhonored by your trust.\nOur position carries with it the responsibility to report to you what we would like to know if we were the\nabsentee owner and you were the manager. We enjoy communicating directly with you through this annual letter, and\nthrough the annual meeting as well.\nOur policy is to treat all shareholders equally. Therefore, we do not hold discussions with analysts nor large\ninstitutions. Whenever possible, also, we release important communications on Saturday mornings in order to\nmaximize the time for shareholders and the media to absorb the news before markets open on Monday.\nA wealth of Berkshire facts and figures are set forth in the annual 10-K that the company regularly files with\nthe S. E. C. and that we reproduce on pages K-1 – K-119. Some shareholders will find this detail engrossing; others\nwill simply prefer to learn what Charlie and I believe is new or interesting at Berkshire.\nAlas, there was little action of that sort in 2021. We did, though, make reasonable progress in increasing the\nintrinsic value of your shares. That task has been my primary duty for 57 years. And it will continue to be.",
+    "contextual_summary": "Buffett explains Berkshire’s owner-oriented communication approach and reiterates that his central duty is to grow intrinsic value over the long term.",
     "metadata": {
       "letter_year": 2021,
       "letter_date": "2022-02-26",
-      "source_file": "2021_cleaned.txt",
       "section_title": "To the Shareholders of Berkshire Hathaway Inc.:",
       "section_hierarchy": [
         "Letter Body",
-        "Opening"
+        "Opening",
+        "Shareholder Communication & Duty"
       ],
       "chunk_tier": 1,
       "parent_chunk_id": null,
-      "child_chunk_ids": [],
       "content_type": "narrative",
-      "contextual_summary": "Sets expectations for equal treatment of shareholders and direct communication, then summarizes 2021 progress and frames Berkshire as a collection of controlled businesses plus major stock interests.",
-      "has_table": false,
-      "table_data": [],
-      "has_financial_data": false,
-      "entities": {
-        "companies": [
-          "Berkshire Hathaway"
-        ],
-        "people": [
-          "Charlie Munger"
-        ],
-        "metrics": [
-          "intrinsic value"
-        ]
-      },
-      "themes": [
-        "shareholder_communication",
-        "stewardship"
-      ],
-      "buffett_concepts": [
-        "treat_shareholders_equally",
-        "communicate_directly"
-      ],
-      "principles": [],
-      "temporal_references": {
-        "primary_year": 2021,
-        "comparison_years": [],
-        "future_outlook": true
-      },
-      "cross_references": {
-        "related_sections_same_letter": [],
-        "related_years": []
-      },
       "retrieval_priority": "high",
-      "abstraction_level": "medium",
-      "token_count": 221,
-      "char_count": 1286,
-      "source_span": {
-        "start_char": 9810,
-        "end_char_exclusive": 11048
-      },
-      "standalone_exception": false,
-      "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
-    }
-  },
-  {
-    "chunk_id": "2021-S10-T1-001",
-    "content": "The Annual Meeting\nClear your calendar! Berkshire will have its annual gathering of capitalists in Omaha on Friday, April 29 th\nthrough Sunday, May 1 st. The details regarding the weekend are laid out on pages A-1 and A-2. Omaha eagerly awaits\nyou, as do I.\nI will end this letter with a sales pitch. “Cousin” Jimmy Buffett has designed a pontoon “party” boat that is\nnow being manufactured by Forest River, a Berkshire subsidiary. The boat will be introduced on April 29 at our\nBerkshire Bazaar of Bargains. And, for two days only, shareholders will be able to purchase Jimmy’s masterpiece at\na 10% discount. Your bargain-hunting chairman will be buying a boat for his family’s use. Join me.\nFebruary 26,2022 Warren E. Buffett\nChairman of the Board",
-    "metadata": {
-      "letter_year": 2021,
-      "letter_date": "2022-02-26",
-      "source_file": "2021_cleaned.txt",
-      "section_title": "The Annual Meeting",
-      "section_hierarchy": [
-        "Letter Body",
-        "Appendix",
-        "Annual Meeting"
-      ],
-      "chunk_tier": 1,
-      "parent_chunk_id": null,
-      "child_chunk_ids": [],
-      "content_type": "narrative",
-      "contextual_summary": "Provides annual meeting dates, schedule details, and a shareholder offer, reinforcing equal access to information.",
+      "abstraction_level": "mixed",
       "has_table": false,
       "table_data": [],
-      "has_financial_data": true,
       "entities": {
         "companies": [
-          "Forest River"
+          "Berkshire Hathaway Inc.",
+          "S.E.C."
         ],
         "people": [
-          "Warren E. Buffett",
-          "Jimmy Buffett"
+          "Charlie Munger",
+          "Warren E. Buffett"
+        ],
+        "topics": [
+          "shareholder communication",
+          "equal treatment of shareholders",
+          "intrinsic value"
         ],
         "metrics": [
-          "capital"
+          "Buffett says increasing intrinsic value has been his primary duty for 57 years (as of 2021)."
         ]
       },
       "themes": [
-        "annual_meeting",
-        "community"
+        "owner communication",
+        "intrinsic value focus",
+        "long-term stewardship"
       ],
-      "buffett_concepts": [
-        "treat_all_shareholders_equally"
+      "principles": [
+        "Communicate with shareholders as you would want to be informed as an absentee owner.",
+        "Treat all shareholders equally and avoid selective disclosure."
       ],
-      "principles": [],
-      "temporal_references": {
-        "primary_year": 2021,
-        "comparison_years": [
-          2022
-        ],
-        "future_outlook": true
-      },
-      "cross_references": {
-        "related_sections_same_letter": [],
-        "related_years": []
-      },
-      "retrieval_priority": "medium",
-      "abstraction_level": "low",
-      "token_count": 129,
-      "char_count": 749,
-      "source_span": {
-        "start_char": 40302,
-        "end_char_exclusive": 41032
-      },
-      "standalone_exception": false,
-      "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "token_count": 321,
+      "char_count": 1286
     }
   },
   {
-    "chunk_id": "2021-S2-T1-001",
+    "chunk_id": "berkshire_2021_0002",
     "content": "What You Own\nBerkshire owns a wide variety of businesses, some in their entirety, some only in part. The second group\nlargely consists of marketable common stocks of major American companies. Additionally, we own a few non-U. S.\nequities and participate in several joint ventures or other collaborative activities.\nWhatever our form of ownership, our goal is to have meaningful investments in businesses with both durable\neconomic advantages and a first-class CEO. Please note particularly that we own stocks based upon our expectations\nabout their long-term business performance and not because we view them as vehicles for timely market moves. That\npoint is crucial: Charlie and I are not stock-pickers; we are business-pickers.\nI make many mistakes. Consequently, our extensive collection of businesses includes some enterprises that\nhave truly extraordinary economics, many others that enjoy good economic characteristics, and a few that are\nmarginal. One advantage of our common-stock segment is that – on occasion – it becomes easy to buy pieces of\nwonderful businesses at wonderful prices. That shooting-fish-in-a-barrel experience is very rare in negotiated\ntransactions and never occurs en masse. It is also far easier to exit from a mistake when it has been made in the\nmarketable arena.",
+    "contextual_summary": "Berkshire frames its holdings as ownership in businesses and emphasizes business-quality selection over short-term market timing.",
     "metadata": {
       "letter_year": 2021,
       "letter_date": "2022-02-26",
-      "source_file": "2021_cleaned.txt",
       "section_title": "What You Own",
       "section_hierarchy": [
         "Letter Body",
-        "Portfolio Overview",
-        "What You Own"
+        "Core Businesses",
+        "What You Own & Business-Picking"
       ],
       "chunk_tier": 1,
       "parent_chunk_id": null,
-      "child_chunk_ids": [],
       "content_type": "narrative",
-      "contextual_summary": "Explains Berkshire’s ownership mix (controlled businesses and marketable equities) and emphasizes a long-term business-owner mindset rather than trading.",
+      "retrieval_priority": "high",
+      "abstraction_level": "mixed",
       "has_table": false,
       "table_data": [],
-      "has_financial_data": false,
       "entities": {
-        "companies": [],
-        "people": [],
-        "metrics": []
+        "companies": [
+          "Berkshire Hathaway Inc."
+        ],
+        "people": [
+          "Charlie Munger",
+          "Warren E. Buffett"
+        ],
+        "topics": [
+          "business-picking vs stock-picking",
+          "durable economic advantages",
+          "CEO quality",
+          "error correction in public markets"
+        ],
+        "metrics": [
+          "Berkshire owns some businesses outright and others as marketable common stocks of major companies (plus a few non-U.S. equities)."
+        ]
       },
       "themes": [
-        "ownership_mindset",
-        "portfolio_construction"
+        "ownership mindset",
+        "investment philosophy",
+        "durable advantages"
       ],
-      "buffett_concepts": [
-        "stocks_as_business_ownership",
-        "business_picker_not_stock_picker"
+      "principles": [
+        "Buy stocks as partial ownership of businesses, not as vehicles for timely market moves.",
+        "Prefer businesses with durable advantages and first-class managers, and admit mistakes quickly when public markets allow."
       ],
-      "principles": [],
-      "temporal_references": {
-        "primary_year": 2021,
-        "comparison_years": [],
-        "future_outlook": false
-      },
-      "cross_references": {
-        "related_sections_same_letter": [],
-        "related_years": []
-      },
-      "retrieval_priority": "high",
-      "abstraction_level": "medium",
-      "token_count": 201,
-      "char_count": 1297,
-      "source_span": {
-        "start_char": 11062,
-        "end_char_exclusive": 12346
-      },
-      "standalone_exception": false,
-      "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "token_count": 324,
+      "char_count": 1297
     }
   },
   {
-    "chunk_id": "2021-S3-T1-001",
-    "content": "Surprise, Surprise\nHere are a few items about your company that often surprise even seasoned investors:\n• Many people perceive Berkshire as a large and somewhat strange collection of financial assets. In truth,\nBerkshire owns and operates more U. S.-based “infrastructure” assets – classified on our balance sheet as\nproperty, plant and equipment – than are owned and operated by any other American corporation. That\nsupremacy has never been our goal. It has, however, become a fact.\nAt yearend, those domestic infrastructure assets were carried on Berkshire’s balance sheet at $158 billion.\nThat number increased last year and will continue to increase. Berkshire always will be building.\n• Every year, your company makes substantial federal income tax payments. In 2021, for example, we paid\n$3.3 billion while the U. S. Treasury reported total corporate income-tax receipts of $402 billion.\nAdditionally, Berkshire pays substantial state and foreign taxes. “I gave at the office” is an unassailable\nassertion when made by Berkshire shareholders.\nBerkshire’s history vividly illustrates the invisible and often unrecognized financial partnership between\ngovernment and American businesses. Our tale begins early in 1955, when Berkshire Fine Spinning and\nHathaway Manufacturing agreed to merge their businesses. In their requests for shareholder approval, these\nvenerable New England textile companies expressed high hopes for the combination.\nThe Hathaway solicitation, for example, assured its shareholders that “The combination of the resources and\nmanagements will result in one of the strongest and most efficient organizations in the textile industry.” That\nupbeat view was endorsed by the company’s advisor, Lehman Brothers (yes, that Lehman Brothers).\nI’m sure it was a joyous day in both Fall River (Berkshire) and New Bedford (Hathaway) when the union\nwas consummated. After the bands stopped playing and the bankers went home, however, the shareholders\nreaped a disaster.\nIn the nine years following the merger, Berkshire’s owners watched the company’s net worth crater from\n$51.4 million to $22.1 million. In part, this decline was caused by stock repurchases, ill-advised dividends\nand plant shutdowns. But nine years of effort by many thousands of employees delivered an operating loss\nas well. Berkshire’s struggles were not unusual: The New England textile industry had silently entered an\nextended and non-reversible death march.\nDuring the nine post-merger years, the U. S. Treasury suffered as well from Berkshire’s troubles. All told, the\ncompany paid the government only $337,359 in income tax during that period – a pathetic $100 per day.\nEarly in 1965, things changed. Berkshire installed new management that redeployed available cash and\nsteered essentially all earnings into a variety of good businesses, most of which remained good through the\nyears. Coupling reinvestment of earnings with the power of compounding worked its magic, and shareholders\nprospered.\nBerkshire’s owners, it should be noted, were not the only beneficiary of that course correction. Their “silent\npartner,” the U. S. Treasury, proceeded to collect many tens of billions of dollars from the company in income\ntax payments. Remember the $100 daily? Now, Berkshire pays roughly $9 million daily to the Treasury.\n\nIn fairness to our governmental partner, our shareholders should acknowledge – indeed trumpet – the fact\nthat Berkshire’s prosperity has been fostered mightily because the company has operated in America. Our\ncountry would have done splendidly in the years since 1965 without Berkshire. Absent our American home,\nhowever, Berkshire would never have come close to becoming what it is today. When you see the flag, say\nthanks.\n• From an $8.6 million purchase of National Indemnity in 1967, Berkshire has become the world leader in\ninsurance “float” – money we hold and can invest but that does not belong to us. Including a relatively small\nsum derived from life insurance, Berkshire’s total float has grown from $19 million when we entered the\ninsurance business to $147 billion.\nSo far, this float has cost us less than nothing. Though we have experienced a number of years when insurance\nlosses combined with operating expenses exceeded premiums, overall we have earned a modest 55-year\nprofit from the underwriting activities that generated our float.\nOf equal importance, float is very sticky. Funds attributable to our insurance operations come and go daily,\nbut their aggregate total is immune from precipitous decline. When it comes to investing float, we can\ntherefore think long-term.\nIf you are not already familiar with the concept of float, I refer you to a long explanation on page A-5. To\nmy surprise, our float increased $9 billion last year, a buildup of value that is important to Berkshire owners\nthough is not reflected in our GAAP (“generally-accepted accounting principles”) presentation of earnings\nand net worth.\nMuch of our huge value creation in insurance is attributable to Berkshire’s good luck in my 1986 hiring of\nAjit Jain. We first met on a Saturday morning, and I quickly asked Ajit what his insurance experience had\nbeen. He replied, “None.”\nI said, “Nobody’s perfect,” and hired him. That was my lucky day: Ajit actually was as perfect a choice as\ncould have been made. Better yet, he continues to be – 35 years later.\nOne final thought about insurance: I believe that it is likely – but far from assured – that Berkshire’s float\ncan be maintained without our incurring a long-term underwriting loss. I am certain, however, that there will\nbe some years when we experience such losses, perhaps involving very large sums.\nBerkshire is constructed to handle catastrophic events as no other insurer – and that priority will remain long\nafter Charlie and I are gone.",
+    "chunk_id": "berkshire_2021_0003",
+    "content": "Surprise, Surprise\nHere are a few items about your company that often surprise even seasoned investors:\n• Many people perceive Berkshire as a large and somewhat strange collection of financial assets. In truth,\nBerkshire owns and operates more U. S.-based “infrastructure” assets – classified on our balance sheet as\nproperty, plant and equipment – than are owned and operated by any other American corporation. That\nsupremacy has never been our goal. It has, however, become a fact.\nAt yearend, those domestic infrastructure assets were carried on Berkshire’s balance sheet at $158 billion.\nThat number increased last year and will continue to increase. Berkshire always will be building.\n• Every year, your company makes substantial federal income tax payments. In 2021, for example, we paid\n$3.3 billion while the U. S. Treasury reported total corporate income-tax receipts of $402 billion.\nAdditionally, Berkshire pays substantial state and foreign taxes. “I gave at the office” is an unassailable\nassertion when made by Berkshire shareholders.\nBerkshire’s history vividly illustrates the invisible and often unrecognized financial partnership between\ngovernment and American businesses. Our tale begins early in 1955, when Berkshire Fine Spinning and\nHathaway Manufacturing agreed to merge their businesses. In their requests for shareholder approval, these\nvenerable New England textile companies expressed high hopes for the combination.\nThe Hathaway solicitation, for example, assured its shareholders that “The combination of the resources and\nmanagements will result in one of the strongest and most efficient organizations in the textile industry.” That\nupbeat view was endorsed by the company’s advisor, Lehman Brothers (yes, that Lehman Brothers).\nI’m sure it was a joyous day in both Fall River (Berkshire) and New Bedford (Hathaway) when the union\nwas consummated. After the bands stopped playing and the bankers went home, however, the shareholders\nreaped a disaster.\nIn the nine years following the merger, Berkshire’s owners watched the company’s net worth crater from\n$51.4 million to $22.1 million. In part, this decline was caused by stock repurchases, ill-advised dividends\nand plant shutdowns. But nine years of effort by many thousands of employees delivered an operating loss\nas well. Berkshire’s struggles were not unusual: The New England textile industry had silently entered an\nextended and non-reversible death march.\nDuring the nine post-merger years, the U. S. Treasury suffered as well from Berkshire’s troubles. All told, the\ncompany paid the government only $337,359 in income tax during that period – a pathetic $100 per day.",
+    "contextual_summary": "Buffett highlights surprising facts about Berkshire’s infrastructure scale and introduces a long-term view of taxes as an often-overlooked partnership between business success and government.",
     "metadata": {
       "letter_year": 2021,
       "letter_date": "2022-02-26",
-      "source_file": "2021_cleaned.txt",
       "section_title": "Surprise, Surprise",
       "section_hierarchy": [
         "Letter Body",
-        "Highlights",
-        "Surprises"
+        "Core Businesses",
+        "Infrastructure Assets & Taxes"
       ],
       "chunk_tier": 1,
       "parent_chunk_id": null,
-      "child_chunk_ids": [],
       "content_type": "narrative",
-      "contextual_summary": "Highlights often-missed realities about Berkshire: massive U.S. infrastructure assets, substantial tax payments illustrating government as a silent partner, and the long-term value of insurance float and underwriting discipline.",
+      "retrieval_priority": "high",
+      "abstraction_level": "mixed",
       "has_table": false,
       "table_data": [],
-      "has_financial_data": true,
       "entities": {
         "companies": [
-          "National Indemnity",
+          "Berkshire Hathaway Inc.",
+          "U.S. Treasury",
+          "Berkshire Fine Spinning",
+          "Hathaway Manufacturing",
           "Lehman Brothers"
         ],
         "people": [
-          "Ajit Jain"
+          "Warren E. Buffett"
+        ],
+        "topics": [
+          "infrastructure assets (PP&E)",
+          "corporate income taxes",
+          "history of Berkshire’s textile roots",
+          "industry decline"
         ],
         "metrics": [
-          "net worth",
-          "GAAP",
-          "property, plant and equipment",
-          "income tax",
-          "corporate income-tax receipts",
-          "float",
-          "underwriting",
-          "premiums",
-          "losses",
-          "earnings",
-          "dividends",
-          "repurchases",
-          "cash"
+          "Domestic infrastructure assets were carried at $158 billion at yearend 2021.",
+          "Berkshire paid $3.3 billion in federal income taxes in 2021; U.S. Treasury reported $402 billion of total corporate income-tax receipts.",
+          "From 1955 to 1964 (nine years post-merger), Berkshire’s net worth fell from $51.4 million to $22.1 million and paid only $337,359 in income tax (~$100/day)."
         ]
       },
       "themes": [
-        "infrastructure",
-        "taxes",
-        "insurance_float",
-        "american_tailwind"
-      ],
-      "buffett_concepts": [
-        "infrastructure_assets_building",
-        "government_as_silent_partner",
-        "float_as_low_cost_leverage"
+        "scale surprises",
+        "taxes and society",
+        "business history"
       ],
       "principles": [
-        {
-          "statement": "Many people perceive Berkshire as a large and somewhat strange collection of financial assets. In truth,",
-          "category": "general"
-        },
-        {
-          "statement": "Every year, your company makes substantial federal income tax payments. In 2021, for example, we paid",
-          "category": "general"
-        },
-        {
-          "statement": "From an $8.6 million purchase of National Indemnity in 1967, Berkshire has become the world leader in",
-          "category": "general"
-        }
+        "Large, productive businesses often create value for society in ways that are easy to overlook, including substantial tax contributions."
       ],
-      "temporal_references": {
-        "primary_year": 2021,
-        "comparison_years": [
-          1955,
-          1965,
-          1967,
-          1986
-        ],
-        "future_outlook": true
-      },
-      "cross_references": {
-        "related_sections_same_letter": [],
-        "related_years": []
-      },
-      "retrieval_priority": "high",
-      "abstraction_level": "medium",
-      "token_count": 915,
-      "char_count": 5807,
-      "source_span": {
-        "start_char": 12383,
-        "end_char_exclusive": 12683
-      },
-      "standalone_exception": false,
-      "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "token_count": 665,
+      "char_count": 2661
     }
   },
   {
-    "chunk_id": "2021-S4-T1-001",
-    "content": "Our Four Giants\nThrough Berkshire, our shareholders own many dozens of businesses. Some of these, in turn, have a\ncollection of subsidiaries of their own. For example, Marmon has more than 100 individual business operations,\nranging from the leasing of railroad cars to the manufacture of medical devices.\n• Nevertheless, operations of our “Big Four” companies account for a very large chunk of Berkshire’s value.\nLeading this list is our cluster of insurers. Berkshire effectively owns 100% of this group, whose massive\nfloat value we earlier described. The invested assets of these insurers are further enlarged by the extraordinary\namount of capital we invest to back up their promises.\n\nThe insurance business is made to order for Berkshire. The product will never be obsolete, and sales volume\nwill generally increase along with both economic growth and inflation. Also, integrity and capital will forever\nbe important. Our company can and will behave well.\nThere are, of course, other insurers with excellent business models and prospects. Replication of Berkshire’s\noperation, however, would be almost impossible.\n• Apple – our runner-up Giant as measured by its yearend market value – is a different sort of holding. Here,\nour ownership is a mere 5.55%, up from 5.39% a year earlier. That increase sounds like small potatoes. But\nconsider that each 0.1% of Apple’s 2021 earnings amounted to $100 million. We spent no Berkshire funds\nto gain our accretion. Apple’s repurchases did the job.\nIt’s important to understand that only dividends from Apple are counted in the GAAP earnings Berkshire\nreports – and last year, Apple paid us $785 million of those. Yet our “share” of Apple’s earnings amounted\nto a staggering $5.6 billion. Much of what the company retained was used to repurchase Apple shares, an act\nwe applaud. Tim Cook, Apple’s brilliant CEO, quite properly regards users of Apple products as his first\nlove, but all of his other constituencies benefit from Tim’s managerial touch as well.\n• BNSF, our third Giant, continues to be the number one artery of American commerce, which makes it an\nindispensable asset for America as well as for Berkshire. If the many essential products BNSF carries were\ninstead hauled by truck, America’s carbon emissions would soar.\nYour railroad had record earnings of $6 billion in 2021. Here, it should be noted, we are talking about the\nold-fashioned sort of earnings that we favor: a figure calculated after interest, taxes, depreciation,\namortization and all forms of compensation. (Our definition suggests a warning: Deceptive “adjustments” to\nearnings – to use a polite description – have become both more frequent and more fanciful as stocks have\nrisen. Speaking less politely, I would say that bull markets breed bloviated bull . . ..)\nBNSF trains traveled 143 million miles last year and carried 535 million tons of cargo. Both accomplishments\nfar exceed those of any other American carrier. You can be proud of your railroad.\n• BHE, our final Giant, earned a record $4 billion in 2021. That’s up more than 30-fold from the $122 million\nearned in 2000, the year that Berkshire first purchased a BHE stake. Now, Berkshire owns 91.1% of the\ncompany.\nBHE’s record of societal accomplishment is as remarkable as its financial performance. The company had\nno wind or solar generation in 2000. It was then regarded simply as a relatively new and minor participant in\nthe huge electric utility industry. Subsequently, under David Sokol’s and Greg Abel’s leadership, BHE has\nbecome a utility powerhouse (no groaning, please) and a leading force in wind, solar and transmission\nthroughout much of the United States.\nGreg’s report on these accomplishments appears on pages A-3 and A-4. The profile you will find there is not\nin any way one of those currently-fashionable “green-washing” stories. BHE has been faithfully detailing its\nplans and performance in renewables and transmissions every year since 2007.\nTo further review this information, visit BHE’s website at brkenergy. com. There, you will see that the\ncompany has long been making climate-conscious moves that soak up all of its earnings. More opportunities\nlie ahead. BHE has the management, the experience, the capital and the appetite for the huge power projects\nthat our country needs.",
+    "chunk_id": "berkshire_2021_0004",
+    "content": "Early in 1965, things changed. Berkshire installed new management that redeployed available cash and\nsteered essentially all earnings into a variety of good businesses, most of which remained good through the\nyears. Coupling reinvestment of earnings with the power of compounding worked its magic, and shareholders\nprospered.\nBerkshire’s owners, it should be noted, were not the only beneficiary of that course correction. Their “silent\npartner,” the U. S. Treasury, proceeded to collect many tens of billions of dollars from the company in income\ntax payments. Remember the $100 daily? Now, Berkshire pays roughly $9 million daily to the Treasury.\n\n\n\n\nIn fairness to our governmental partner, our shareholders should acknowledge – indeed trumpet – the fact\nthat Berkshire’s prosperity has been fostered mightily because the company has operated in America. Our\ncountry would have done splendidly in the years since 1965 without Berkshire. Absent our American home,\nhowever, Berkshire would never have come close to becoming what it is today. When you see the flag, say\nthanks.\n•",
+    "contextual_summary": "The letter ties Berkshire’s 1965 turnaround and compounding to a surge in tax payments, then credits Berkshire’s success to operating in America.",
     "metadata": {
       "letter_year": 2021,
       "letter_date": "2022-02-26",
-      "source_file": "2021_cleaned.txt",
+      "section_title": "Surprise, Surprise",
+      "section_hierarchy": [
+        "Letter Body",
+        "Owners",
+        "Government Partnership & America"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "content_type": "narrative",
+      "retrieval_priority": "high",
+      "abstraction_level": "mixed",
+      "has_table": false,
+      "table_data": [],
+      "entities": {
+        "companies": [
+          "Berkshire Hathaway Inc.",
+          "U.S. Treasury"
+        ],
+        "people": [
+          "Warren E. Buffett"
+        ],
+        "topics": [
+          "reinvestment and compounding",
+          "implicit partnership with government",
+          "importance of operating environment"
+        ],
+        "metrics": [
+          "After 1965, Berkshire’s reinvestment and compounding benefited shareholders and led the U.S. Treasury to collect many tens of billions in taxes.",
+          "Buffett says Berkshire now pays roughly $9 million daily to the U.S. Treasury (vs. about $100/day in the 1955–1964 period)."
+        ]
+      },
+      "themes": [
+        "compounding",
+        "public-private partnership",
+        "American business environment"
+      ],
+      "principles": [
+        "Reinvesting earnings and compounding can transform a business and expand the benefits shared by owners and society.",
+        "Avoid taking the operating environment for granted; durable success depends on it."
+      ],
+      "token_count": 269,
+      "char_count": 1079
+    }
+  },
+  {
+    "chunk_id": "berkshire_2021_0005",
+    "content": "From an $8.6 million purchase of National Indemnity in 1967, Berkshire has become the world leader in\ninsurance “float” – money we hold and can invest but that does not belong to us. Including a relatively small\nsum derived from life insurance, Berkshire’s total float has grown from $19 million when we entered the\ninsurance business to $147 billion.\nSo far, this float has cost us less than nothing. Though we have experienced a number of years when insurance\nlosses combined with operating expenses exceeded premiums, overall we have earned a modest 55-year\nprofit from the underwriting activities that generated our float.\nOf equal importance, float is very sticky. Funds attributable to our insurance operations come and go daily,\nbut their aggregate total is immune from precipitous decline. When it comes to investing float, we can\ntherefore think long-term.\nIf you are not already familiar with the concept of float, I refer you to a long explanation on page A-5. To\nmy surprise, our float increased $9 billion last year, a buildup of value that is important to Berkshire owners\nthough is not reflected in our GAAP (“generally-accepted accounting principles”) presentation of earnings\nand net worth.\nMuch of our huge value creation in insurance is attributable to Berkshire’s good luck in my 1986 hiring of\nAjit Jain. We first met on a Saturday morning, and I quickly asked Ajit what his insurance experience had\nbeen. He replied, “None.”\nI said, “Nobody’s perfect,” and hired him. That was my lucky day: Ajit actually was as perfect a choice as\ncould have been made. Better yet, he continues to be – 35 years later.\nOne final thought about insurance: I believe that it is likely – but far from assured – that Berkshire’s float\ncan be maintained without our incurring a long-term underwriting loss. I am certain, however, that there will\nbe some years when we experience such losses, perhaps involving very large sums.\nBerkshire is constructed to handle catastrophic events as no other insurer – and that priority will remain long\nafter Charlie and I are gone.",
+    "contextual_summary": "Buffett explains insurance float as a sticky, low-cost source of investable funds and credits Ajit Jain’s leadership while stressing Berkshire’s capacity for catastrophic years.",
+    "metadata": {
+      "letter_year": 2021,
+      "letter_date": "2022-02-26",
+      "section_title": "Surprise, Surprise",
+      "section_hierarchy": [
+        "Letter Body",
+        "Core Businesses",
+        "Insurance & Float"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "content_type": "narrative",
+      "retrieval_priority": "high",
+      "abstraction_level": "mixed",
+      "has_table": false,
+      "table_data": [],
+      "entities": {
+        "companies": [
+          "Berkshire Hathaway Inc.",
+          "National Indemnity"
+        ],
+        "people": [
+          "Warren E. Buffett",
+          "Ajit Jain",
+          "Charlie Munger"
+        ],
+        "topics": [
+          "insurance float",
+          "underwriting profitability",
+          "long-term investing horizon",
+          "catastrophe resilience",
+          "GAAP vs economic value"
+        ],
+        "metrics": [
+          "Float grew from $19 million to $147 billion (including a small amount from life insurance).",
+          "Buffett says float has cost Berkshire “less than nothing” over 55 years (modest cumulative underwriting profit).",
+          "Float increased by $9 billion in 2021, which Buffett notes is not reflected in GAAP earnings/net worth in the same way."
+        ]
+      },
+      "themes": [
+        "insurance economics",
+        "float as leverage",
+        "risk management"
+      ],
+      "principles": [
+        "Seek sources of stable, low-cost capital (like well-managed float) that allow truly long-term investing.",
+        "Design the organization to withstand rare but severe losses without forced selling."
+      ],
+      "token_count": 517,
+      "char_count": 2068
+    }
+  },
+  {
+    "chunk_id": "berkshire_2021_0006",
+    "content": "Our Four Giants\nThrough Berkshire, our shareholders own many dozens of businesses. Some of these, in turn, have a\ncollection of subsidiaries of their own. For example, Marmon has more than 100 individual business operations,\nranging from the leasing of railroad cars to the manufacture of medical devices.\n• Nevertheless, operations of our “Big Four” companies account for a very large chunk of Berkshire’s value.\nLeading this list is our cluster of insurers. Berkshire effectively owns 100% of this group, whose massive\nfloat value we earlier described. The invested assets of these insurers are further enlarged by the extraordinary\namount of capital we invest to back up their promises.\n\n\n\n\nThe insurance business is made to order for Berkshire. The product will never be obsolete, and sales volume\nwill generally increase along with both economic growth and inflation. Also, integrity and capital will forever\nbe important. Our company can and will behave well.\nThere are, of course, other insurers with excellent business models and prospects. Replication of Berkshire’s\noperation, however, would be almost impossible.",
+    "contextual_summary": "Berkshire’s ‘Big Four’ begin with its insurer group, whose large, investable float and capital base are difficult to replicate.",
+    "metadata": {
+      "letter_year": 2021,
+      "letter_date": "2022-02-26",
       "section_title": "Our Four Giants",
       "section_hierarchy": [
         "Letter Body",
-        "Business Segments",
-        "Big Four"
+        "Core Businesses",
+        "Insurance (Big Four)"
       ],
       "chunk_tier": 1,
       "parent_chunk_id": null,
-      "child_chunk_ids": [],
       "content_type": "narrative",
-      "contextual_summary": "Describes Berkshire’s four largest value drivers—insurance, Apple stake, BNSF railroad, and Berkshire Hathaway Energy—emphasizing durable advantages, capital strength, and long-run reinvestment.",
+      "retrieval_priority": "high",
+      "abstraction_level": "mixed",
       "has_table": false,
       "table_data": [],
-      "has_financial_data": true,
       "entities": {
         "companies": [
-          "BNSF",
-          "BHE",
-          "Marmon",
-          "Apple"
+          "Berkshire Hathaway Inc.",
+          "Marmon"
         ],
         "people": [
-          "Greg Abel",
-          "Tim Cook",
-          "David Sokol"
+          "Warren E. Buffett"
+        ],
+        "topics": [
+          "conglomerate structure",
+          "insurance scale",
+          "capital strength",
+          "replicability barriers"
         ],
         "metrics": [
-          "market value",
-          "GAAP",
-          "float",
-          "capital",
-          "earnings",
-          "dividends",
-          "retained",
-          "repurchases"
+          "Buffett says the Big Four account for a very large portion of Berkshire’s value; the insurer cluster is #1 by value."
         ]
       },
       "themes": [
-        "business_segments",
-        "insurance",
-        "railroads",
-        "utilities",
-        "technology_platforms"
-      ],
-      "buffett_concepts": [
-        "scale_and_durability",
-        "capital_and_integrity_matter"
+        "business mix",
+        "insurance leadership",
+        "scale advantages"
       ],
       "principles": [
-        {
-          "statement": "Nevertheless, operations of our “Big Four” companies account for a very large chunk of Berkshire’s value.",
-          "category": "general"
-        },
-        {
-          "statement": "Apple – our runner-up Giant as measured by its yearend market value – is a different sort of holding. Here,",
-          "category": "general"
-        },
-        {
-          "statement": "BNSF, our third Giant, continues to be the number one artery of American commerce, which makes it an",
-          "category": "general"
-        },
-        {
-          "statement": "BHE, our final Giant, earned a record $4 billion in 2021. That’s up more than 30-fold from the $122 million",
-          "category": "general"
-        }
+        "In insurance, integrity and capital strength create durable advantage and allow long-duration investment thinking."
       ],
-      "temporal_references": {
-        "primary_year": 2021,
-        "comparison_years": [
-          2000,
-          2007
-        ],
-        "future_outlook": true
-      },
-      "cross_references": {
-        "related_sections_same_letter": [],
-        "related_years": []
-      },
-      "retrieval_priority": "high",
-      "abstraction_level": "medium",
-      "token_count": 696,
-      "char_count": 4301,
-      "source_span": {
-        "start_char": 18204,
-        "end_char_exclusive": 18504
-      },
-      "standalone_exception": false,
-      "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "token_count": 280,
+      "char_count": 1123
     }
   },
   {
-    "chunk_id": "2021-S5-T1-001",
-    "content": "Investments\nNow let’s talk about companies we don’t control, a list that again references Apple. Below we list our fifteen\nlargest equity holdings, several of which are selections of Berkshire’s two long-time investment managers, Todd\nCombs and Ted Weschler. At yearend, this valued pair had total authority in respect to $34 billion of investments,\nmany of which do not meet the threshold value we use in the table. Also, a significant portion of the dollars that Todd\nand Ted manage are lodged in various pension plans of Berkshire-owned businesses, with the assets of these plans not\nincluded in this table.\n12/31/21\nPercentage of\nCompany\nShares Company Owned Cost* Market\n(in millions)\n151,610,700 American Express Company . . . . . . . . . . . . . . . . . . . . 19.9 1,287 24,804\n907,559,761 Apple Inc. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5.6 31,089 161,155\n1,032,852,006 Bank of America Corp. . . . . . . . . . . . . . . . . . . . . . . . . 12.8 14,631 45,952\n66,835,615 The Bank of New York Mellon Corp. . . . . . . . . . . . . 8.3 2,918 3,882\n225,000,000 BYD Co. Ltd.**. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7.7 232 7,693\n3,828,941 Charter Communications, Inc. . . . . . . . . . . . . . . . . . . 2.2 643 2,496\n38,245,036 Chevron Corporation . . . . . . . . . . . . . . . . . . . . . . . . . . 2.0 3,420 4,488\n400,000,000 The Coca-Cola Company . . . . . . . . . . . . . . . . . . . . . . 9.2 1,299 23,684\n52,975,000 General Motors Company . . . . . . . . . . . . . . . . . . . . . . 3.6 1,616 3,106\n89,241,000 ITOCHU Corporation . . . . . . . . . . . . . . . . . . . . . . . . . 5.6 2,099 2,728\n81,714,800 Mitsubishi Corporation . . . . . . . . . . . . . . . . . . . . . . . . 5.5 2,102 2,593\n93,776,200 Mitsui & Co., Ltd. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5.7 1,621 2,219\n24,669,778 Moody’s Corporation . . . . . . . . . . . . . . . . . . . . . . . . . 13.3 248 9,636\n143,456,055 U. S. Bancorp . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9.7 5,384 8,058\n158,824,575 Verizon Communications Inc. . . . . . . . . . . . . . . . . . . 3.8 9,387 8,253\nOthers*** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26,629 39,972\nTotal Equity Investments Carried at Market . . . . . . . . $ 104,605 $ 350,719\n* This is our actual purchase price and also our tax basis.\n** Held by BHE; consequently, Berkshire shareholders have only a 91.1% interest in this position.\n*** Includes a $10 billion investment in Occidental Petroleum, consisting of preferred stock and warrants to\nbuy common stock, a combination now being valued at $10.7 billion.\nIn addition to the footnoted Occidental holding and our various common-stock positions, Berkshire also owns\na 26.6% interest in Kraft Heinz (accounted for on the “equity” method, not market value, and carried at $13.1 billion)\nand 38.6% of Pilot Corp., a leader in travel centers that had revenues last year of $45 billion.\nSince we purchased our Pilot stake in 2017, this holding has warranted “equity” accounting treatment. Early\nin 2023, Berkshire will purchase an additional interest in Pilot that will raise our ownership to 80% and lead to our\nfully consolidating Pilot’s earnings, assets and liabilities in our financial statements.",
+    "chunk_id": "berkshire_2021_0007",
+    "content": "• Apple – our runner-up Giant as measured by its yearend market value – is a different sort of holding. Here,\nour ownership is a mere 5.55%, up from 5.39% a year earlier. That increase sounds like small potatoes. But\nconsider that each 0.1% of Apple’s 2021 earnings amounted to $100 million. We spent no Berkshire funds\nto gain our accretion. Apple’s repurchases did the job.\nIt’s important to understand that only dividends from Apple are counted in the GAAP earnings Berkshire\nreports – and last year, Apple paid us $785 million of those. Yet our “share” of Apple’s earnings amounted\nto a staggering $5.6 billion. Much of what the company retained was used to repurchase Apple shares, an act\nwe applaud. Tim Cook, Apple’s brilliant CEO, quite properly regards users of Apple products as his first\nlove, but all of his other constituencies benefit from Tim’s managerial touch as well.",
+    "contextual_summary": "Buffett describes Berkshire’s Apple stake and explains how buybacks at Apple increase Berkshire’s ownership and economic share beyond GAAP-reported dividends.",
     "metadata": {
       "letter_year": 2021,
       "letter_date": "2022-02-26",
-      "source_file": "2021_cleaned.txt",
-      "section_title": "Investments",
+      "section_title": "Our Four Giants",
       "section_hierarchy": [
         "Letter Body",
-        "Investments"
+        "Investments",
+        "Apple Stake (Big Four)"
       ],
       "chunk_tier": 1,
       "parent_chunk_id": null,
-      "child_chunk_ids": [
-        "2021-S5-T3-001",
-        "2021-S5-T3-002"
-      ],
       "content_type": "narrative",
-      "contextual_summary": "Presents Berkshire’s largest equity holdings and explains the role of delegated investment managers, portfolio composition, and key minority stakes such as Kraft Heinz and Pilot.",
-      "has_table": true,
-      "table_data": [
-        {
-          "table_name": "Largest Equity Holdings (12/31/21)",
-          "summary": "Table extracted from the letter; rows preserve the original rendered lines.",
-          "columns": [
-            "raw_line"
-          ],
-          "rows": [
-            [
-              "12/31/21"
-            ],
-            [
-              "Percentage of"
-            ],
-            [
-              "Company"
-            ],
-            [
-              "Shares Company Owned Cost* Market"
-            ]
-          ],
-          "row_count": 4
-        },
-        {
-          "table_name": "Table",
-          "summary": "Table extracted from the letter; rows preserve the original rendered lines.",
-          "columns": [
-            "raw_line"
-          ],
-          "rows": [
-            [
-              "151,610,700 American Express Company . . . . . . . . . . . . . . . . . . . . 19.9 1,287 24,804"
-            ],
-            [
-              "907,559,761 Apple Inc. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5.6 31,089 161,155"
-            ],
-            [
-              "1,032,852,006 Bank of America Corp. . . . . . . . . . . . . . . . . . . . . . . . . 12.8 14,631 45,952"
-            ],
-            [
-              "66,835,615 The Bank of New York Mellon Corp. . . . . . . . . . . . . 8.3 2,918 3,882"
-            ],
-            [
-              "225,000,000 BYD Co. Ltd.**. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7.7 232 7,693"
-            ],
-            [
-              "3,828,941 Charter Communications, Inc. . . . . . . . . . . . . . . . . . . 2.2 643 2,496"
-            ],
-            [
-              "38,245,036 Chevron Corporation . . . . . . . . . . . . . . . . . . . . . . . . . . 2.0 3,420 4,488"
-            ],
-            [
-              "400,000,000 The Coca-Cola Company . . . . . . . . . . . . . . . . . . . . . . 9.2 1,299 23,684"
-            ],
-            [
-              "52,975,000 General Motors Company . . . . . . . . . . . . . . . . . . . . . . 3.6 1,616 3,106"
-            ],
-            [
-              "89,241,000 ITOCHU Corporation . . . . . . . . . . . . . . . . . . . . . . . . . 5.6 2,099 2,728"
-            ],
-            [
-              "81,714,800 Mitsubishi Corporation . . . . . . . . . . . . . . . . . . . . . . . . 5.5 2,102 2,593"
-            ],
-            [
-              "93,776,200 Mitsui & Co., Ltd. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5.7 1,621 2,219"
-            ],
-            [
-              "24,669,778 Moody’s Corporation . . . . . . . . . . . . . . . . . . . . . . . . . 13.3 248 9,636"
-            ],
-            [
-              "143,456,055 U. S. Bancorp . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9.7 5,384 8,058"
-            ],
-            [
-              "158,824,575 Verizon Communications Inc. . . . . . . . . . . . . . . . . . . 3.8 9,387 8,253"
-            ],
-            [
-              "Others*** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26,629 39,972"
-            ],
-            [
-              "Total Equity Investments Carried at Market . . . . . . . . $ 104,605 $ 350,719"
-            ]
-          ],
-          "row_count": 17
-        }
-      ],
-      "has_financial_data": true,
+      "retrieval_priority": "high",
+      "abstraction_level": "mixed",
+      "has_table": false,
+      "table_data": [],
       "entities": {
         "companies": [
-          "BHE",
-          "Apple",
-          "American Express",
-          "Bank of America",
-          "The Bank of New York Mellon",
-          "BYD",
-          "Charter Communications",
-          "Chevron",
-          "The Coca-Cola Company",
-          "Coca-Cola",
-          "General Motors",
-          "ITOCHU",
-          "Mitsubishi",
-          "Mitsui",
-          "Moody’s",
-          "U. S. Bancorp",
-          "Verizon",
-          "Occidental Petroleum",
-          "Kraft Heinz",
-          "Pilot Corp."
+          "Berkshire Hathaway Inc.",
+          "Apple Inc."
         ],
         "people": [
-          "Ted Weschler"
+          "Warren E. Buffett",
+          "Tim Cook",
+          "Charlie Munger"
+        ],
+        "topics": [
+          "share repurchases",
+          "ownership accretion",
+          "GAAP dividends vs look-through earnings",
+          "capital allocation at investees"
         ],
         "metrics": [
-          "market value",
-          "earnings"
+          "Berkshire owned 5.55% of Apple at yearend 2021 (up from 5.39% a year earlier).",
+          "Buffett notes each 0.1% of Apple’s 2021 earnings was about $100 million.",
+          "Apple paid Berkshire $785 million in dividends in 2021, while Berkshire’s share of Apple’s earnings was about $5.6 billion."
         ]
       },
       "themes": [
-        "investing",
-        "capital_allocation",
-        "equity_portfolio"
+        "look-through earnings",
+        "buyback-driven ownership",
+        "quality management"
       ],
-      "buffett_concepts": [
-        "delegate_to_good_investment_managers",
-        "equity_method_vs_consolidation"
+      "principles": [
+        "Evaluate economic ownership and retained earnings effects, not just dividends recognized under accounting rules.",
+        "Applaud investee buybacks when done at sensible prices and supported by strong business performance."
       ],
-      "principles": [],
-      "temporal_references": {
-        "primary_year": 2021,
-        "comparison_years": [
-          2017,
-          2023
-        ],
-        "future_outlook": true
-      },
-      "cross_references": {
-        "related_sections_same_letter": [],
-        "related_years": []
-      },
-      "retrieval_priority": "high",
-      "abstraction_level": "medium",
-      "token_count": 786,
-      "char_count": 3294,
-      "source_span": {
-        "start_char": 22535,
-        "end_char_exclusive": 25817
-      },
-      "standalone_exception": false,
-      "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "token_count": 221,
+      "char_count": 885
     }
   },
   {
-    "chunk_id": "2021-S5-T3-001",
-    "content": "Investments\n\nInvestments\nNow let’s talk about companies we don’t control, a list that again references Apple. Below we list our fifteen\nlargest equity holdings, several of which are selections of Berkshire’s two long-time investment managers, Todd\nCombs and Ted Weschler. At yearend, this valued pair had total authority in respect to $34 billion of investments,\nmany of which do not meet the threshold value we use in the table. Also, a significant portion of the dollars that Todd\nand Ted manage are lodged in various pension plans of Berkshire-owned businesses, with the assets of these plans not\nincluded in this table.\n\n12/31/21\nPercentage of\nCompany\nShares Company Owned Cost* Market\n\n(in millions)\n151,610,700 American Express Company . . . . . . . . . . . . . . . . . . . . 19.9 1,287 24,804\n907,559,761 Apple Inc. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5.6 31,089 161,155\n1,032,852,006 Bank of America Corp. . . . . . . . . . . . . . . . . . . . . . . . . 12.8 14,631 45,952\n66,835,615 The Bank of New York Mellon Corp. . . . . . . . . . . . . 8.3 2,918 3,882\n225,000,000 BYD Co. Ltd.**. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7.7 232 7,693\n3,828,941 Charter Communications, Inc. . . . . . . . . . . . . . . . . . . 2.2 643 2,496\n38,245,036 Chevron Corporation . . . . . . . . . . . . . . . . . . . . . . . . . . 2.0 3,420 4,488\n400,000,000 The Coca-Cola Company . . . . . . . . . . . . . . . . . . . . . . 9.2 1,299 23,684\n52,975,000 General Motors Company . . . . . . . . . . . . . . . . . . . . . . 3.6 1,616 3,106\n89,241,000 ITOCHU Corporation . . . . . . . . . . . . . . . . . . . . . . . . . 5.6 2,099 2,728\n81,714,800 Mitsubishi Corporation . . . . . . . . . . . . . . . . . . . . . . . . 5.5 2,102 2,593\n93,776,200 Mitsui & Co., Ltd. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5.7 1,621 2,219\n24,669,778 Moody’s Corporation . . . . . . . . . . . . . . . . . . . . . . . . . 13.3 248 9,636\n143,456,055 U. S. Bancorp . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9.7 5,384 8,058\n158,824,575 Verizon Communications Inc. . . . . . . . . . . . . . . . . . . 3.8 9,387 8,253\nOthers*** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26,629 39,972\nTotal Equity Investments Carried at Market . . . . . . . . $ 104,605 $ 350,719\n* This is our actual purchase price and also our tax basis.\n** Held by BHE; consequently, Berkshire shareholders have only a 91.1% interest in this position.\n*** Includes a $10 billion investment in Occidental Petroleum, consisting of preferred stock and warrants to\nbuy common stock, a combination now being valued at $10.7 billion.\nIn addition to the footnoted Occidental holding and our various common-stock positions, Berkshire also owns\na 26.6% interest in Kraft Heinz (accounted for on the “equity” method, not market value, and carried at $13.1 billion)\nand 38.6% of Pilot Corp., a leader in travel centers that had revenues last year of $45 billion.\nSince we purchased our Pilot stake in 2017, this holding has warranted “equity” accounting treatment. Early\nin 2023, Berkshire will purchase an additional interest in Pilot that will raise our ownership to 80% and lead to our\nfully consolidating Pilot’s earnings, assets and liabilities in our financial statements.",
+    "chunk_id": "berkshire_2021_0008",
+    "content": "• BNSF, our third Giant, continues to be the number one artery of American commerce, which makes it an\nindispensable asset for America as well as for Berkshire. If the many essential products BNSF carries were\ninstead hauled by truck, America’s carbon emissions would soar.\nYour railroad had record earnings of $6 billion in 2021. Here, it should be noted, we are talking about the\nold-fashioned sort of earnings that we favor: a figure calculated after interest, taxes, depreciation,\namortization and all forms of compensation. (Our definition suggests a warning: Deceptive “adjustments” to\nearnings – to use a polite description – have become both more frequent and more fanciful as stocks have\nrisen. Speaking less politely, I would say that bull markets breed bloviated bull . . ..)\nBNSF trains traveled 143 million miles last year and carried 535 million tons of cargo. Both accomplishments\nfar exceed those of any other American carrier. You can be proud of your railroad.",
+    "contextual_summary": "Buffett positions BNSF as a vital artery of U.S. commerce with strong ‘old-fashioned’ earnings and environmental advantages versus trucking.",
     "metadata": {
       "letter_year": 2021,
       "letter_date": "2022-02-26",
-      "source_file": "2021_cleaned.txt",
-      "section_title": "Investments",
+      "section_title": "Our Four Giants",
       "section_hierarchy": [
         "Letter Body",
-        "Investments"
+        "Operations",
+        "BNSF Railroad (Big Four)"
       ],
-      "chunk_tier": 3,
-      "parent_chunk_id": "2021-S5-T1-001",
-      "child_chunk_ids": [],
-      "content_type": "financial_table",
-      "contextual_summary": "Extracts and contextualizes the table 'Largest Equity Holdings (12/31/21)' from the Investments section.",
-      "has_table": true,
-      "table_data": [
-        {
-          "table_name": "Largest Equity Holdings (12/31/21)",
-          "summary": "Table extracted from the letter; rows preserve the original rendered lines.",
-          "columns": [
-            "raw_line"
-          ],
-          "rows": [
-            [
-              "12/31/21"
-            ],
-            [
-              "Percentage of"
-            ],
-            [
-              "Company"
-            ],
-            [
-              "Shares Company Owned Cost* Market"
-            ]
-          ],
-          "row_count": 4
-        }
-      ],
-      "has_financial_data": true,
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "content_type": "narrative",
+      "retrieval_priority": "high",
+      "abstraction_level": "mixed",
+      "has_table": false,
+      "table_data": [],
       "entities": {
         "companies": [
-          "BHE",
-          "Apple",
-          "American Express",
-          "Bank of America",
-          "The Bank of New York Mellon",
-          "BYD",
-          "Charter Communications",
-          "Chevron",
-          "The Coca-Cola Company",
-          "Coca-Cola",
-          "General Motors",
-          "ITOCHU",
-          "Mitsubishi",
-          "Mitsui",
-          "Moody’s",
-          "U. S. Bancorp",
-          "Verizon",
-          "Occidental Petroleum",
-          "Kraft Heinz",
-          "Pilot Corp."
+          "Berkshire Hathaway Inc.",
+          "BNSF"
         ],
         "people": [
-          "Ted Weschler"
+          "Warren E. Buffett"
+        ],
+        "topics": [
+          "railroad economics",
+          "carbon efficiency",
+          "earnings quality",
+          "adjusted earnings skepticism"
         ],
         "metrics": [
-          "market value",
-          "earnings"
+          "BNSF had record earnings of $6 billion in 2021 (after interest, taxes, depreciation, amortization, and compensation).",
+          "BNSF trains traveled 143 million miles and carried 535 million tons of cargo in 2021."
         ]
       },
       "themes": [
-        "investing",
-        "capital_allocation",
-        "equity_portfolio"
+        "infrastructure operations",
+        "earnings quality",
+        "long-lived assets"
       ],
-      "buffett_concepts": [
-        "delegate_to_good_investment_managers",
-        "equity_method_vs_consolidation"
+      "principles": [
+        "Prefer straightforward, fully-expensed earnings measures and be skeptical of ‘adjusted’ figures that proliferate in bull markets."
       ],
-      "principles": [],
-      "temporal_references": {
-        "primary_year": 2021,
-        "comparison_years": [
-          2017,
-          2023
-        ],
-        "future_outlook": true
-      },
-      "cross_references": {
-        "related_sections_same_letter": [],
-        "related_years": []
-      },
-      "retrieval_priority": "high",
-      "abstraction_level": "low",
-      "token_count": 787,
-      "char_count": 3309,
-      "source_span": {
-        "start_char": 22523,
-        "end_char_exclusive": 22823
-      },
-      "standalone_exception": false,
-      "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "token_count": 244,
+      "char_count": 978
     }
   },
   {
-    "chunk_id": "2021-S5-T3-002",
-    "content": "Investments\n\nInvestments\nNow let’s talk about companies we don’t control, a list that again references Apple. Below we list our fifteen\nlargest equity holdings, several of which are selections of Berkshire’s two long-time investment managers, Todd\nCombs and Ted Weschler. At yearend, this valued pair had total authority in respect to $34 billion of investments,\nmany of which do not meet the threshold value we use in the table. Also, a significant portion of the dollars that Todd\nand Ted manage are lodged in various pension plans of Berkshire-owned businesses, with the assets of these plans not\nincluded in this table.\n12/31/21\nPercentage of\nCompany\nShares Company Owned Cost* Market\n(in millions)\n\n151,610,700 American Express Company . . . . . . . . . . . . . . . . . . . . 19.9 1,287 24,804\n907,559,761 Apple Inc. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5.6 31,089 161,155\n1,032,852,006 Bank of America Corp. . . . . . . . . . . . . . . . . . . . . . . . . 12.8 14,631 45,952\n66,835,615 The Bank of New York Mellon Corp. . . . . . . . . . . . . 8.3 2,918 3,882\n225,000,000 BYD Co. Ltd.**. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7.7 232 7,693\n3,828,941 Charter Communications, Inc. . . . . . . . . . . . . . . . . . . 2.2 643 2,496\n38,245,036 Chevron Corporation . . . . . . . . . . . . . . . . . . . . . . . . . . 2.0 3,420 4,488\n400,000,000 The Coca-Cola Company . . . . . . . . . . . . . . . . . . . . . . 9.2 1,299 23,684\n52,975,000 General Motors Company . . . . . . . . . . . . . . . . . . . . . . 3.6 1,616 3,106\n89,241,000 ITOCHU Corporation . . . . . . . . . . . . . . . . . . . . . . . . . 5.6 2,099 2,728\n81,714,800 Mitsubishi Corporation . . . . . . . . . . . . . . . . . . . . . . . . 5.5 2,102 2,593\n93,776,200 Mitsui & Co., Ltd. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5.7 1,621 2,219\n24,669,778 Moody’s Corporation . . . . . . . . . . . . . . . . . . . . . . . . . 13.3 248 9,636\n143,456,055 U. S. Bancorp . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9.7 5,384 8,058\n158,824,575 Verizon Communications Inc. . . . . . . . . . . . . . . . . . . 3.8 9,387 8,253\nOthers*** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26,629 39,972\nTotal Equity Investments Carried at Market . . . . . . . . $ 104,605 $ 350,719\n\n* This is our actual purchase price and also our tax basis.\n** Held by BHE; consequently, Berkshire shareholders have only a 91.1% interest in this position.\n*** Includes a $10 billion investment in Occidental Petroleum, consisting of preferred stock and warrants to\nbuy common stock, a combination now being valued at $10.7 billion.\nIn addition to the footnoted Occidental holding and our various common-stock positions, Berkshire also owns\na 26.6% interest in Kraft Heinz (accounted for on the “equity” method, not market value, and carried at $13.1 billion)\nand 38.6% of Pilot Corp., a leader in travel centers that had revenues last year of $45 billion.\nSince we purchased our Pilot stake in 2017, this holding has warranted “equity” accounting treatment. Early\nin 2023, Berkshire will purchase an additional interest in Pilot that will raise our ownership to 80% and lead to our\nfully consolidating Pilot’s earnings, assets and liabilities in our financial statements.",
+    "chunk_id": "berkshire_2021_0009",
+    "content": "• BHE, our final Giant, earned a record $4 billion in 2021. That’s up more than 30-fold from the $122 million\nearned in 2000, the year that Berkshire first purchased a BHE stake. Now, Berkshire owns 91.1% of the\ncompany.\nBHE’s record of societal accomplishment is as remarkable as its financial performance. The company had\nno wind or solar generation in 2000. It was then regarded simply as a relatively new and minor participant in\nthe huge electric utility industry. Subsequently, under David Sokol’s and Greg Abel’s leadership, BHE has\nbecome a utility powerhouse (no groaning, please) and a leading force in wind, solar and transmission\nthroughout much of the United States.\nGreg’s report on these accomplishments appears on pages A-3 and A-4. The profile you will find there is not\nin any way one of those currently-fashionable “green-washing” stories. BHE has been faithfully detailing its\nplans and performance in renewables and transmissions every year since 2007.\nTo further review this information, visit BHE’s website at brkenergy. com. There, you will see that the\ncompany has long been making climate-conscious moves that soak up all of its earnings. More opportunities\nlie ahead. BHE has the management, the experience, the capital and the appetite for the huge power projects\nthat our country needs.",
+    "contextual_summary": "Berkshire Hathaway Energy’s growth and reinvestment into renewables is framed as both a financial success and a long-running, detailed decarbonization effort.",
     "metadata": {
       "letter_year": 2021,
       "letter_date": "2022-02-26",
-      "source_file": "2021_cleaned.txt",
-      "section_title": "Investments",
+      "section_title": "Our Four Giants",
       "section_hierarchy": [
         "Letter Body",
-        "Investments"
+        "Operations",
+        "Berkshire Hathaway Energy (BHE)"
       ],
-      "chunk_tier": 3,
-      "parent_chunk_id": "2021-S5-T1-001",
-      "child_chunk_ids": [],
-      "content_type": "financial_table",
-      "contextual_summary": "Extracts and contextualizes the table 'Table' from the Investments section.",
-      "has_table": true,
-      "table_data": [
-        {
-          "table_name": "Table",
-          "summary": "Table extracted from the letter; rows preserve the original rendered lines.",
-          "columns": [
-            "raw_line"
-          ],
-          "rows": [
-            [
-              "151,610,700 American Express Company . . . . . . . . . . . . . . . . . . . . 19.9 1,287 24,804"
-            ],
-            [
-              "907,559,761 Apple Inc. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5.6 31,089 161,155"
-            ],
-            [
-              "1,032,852,006 Bank of America Corp. . . . . . . . . . . . . . . . . . . . . . . . . 12.8 14,631 45,952"
-            ],
-            [
-              "66,835,615 The Bank of New York Mellon Corp. . . . . . . . . . . . . 8.3 2,918 3,882"
-            ],
-            [
-              "225,000,000 BYD Co. Ltd.**. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7.7 232 7,693"
-            ],
-            [
-              "3,828,941 Charter Communications, Inc. . . . . . . . . . . . . . . . . . . 2.2 643 2,496"
-            ],
-            [
-              "38,245,036 Chevron Corporation . . . . . . . . . . . . . . . . . . . . . . . . . . 2.0 3,420 4,488"
-            ],
-            [
-              "400,000,000 The Coca-Cola Company . . . . . . . . . . . . . . . . . . . . . . 9.2 1,299 23,684"
-            ],
-            [
-              "52,975,000 General Motors Company . . . . . . . . . . . . . . . . . . . . . . 3.6 1,616 3,106"
-            ],
-            [
-              "89,241,000 ITOCHU Corporation . . . . . . . . . . . . . . . . . . . . . . . . . 5.6 2,099 2,728"
-            ],
-            [
-              "81,714,800 Mitsubishi Corporation . . . . . . . . . . . . . . . . . . . . . . . . 5.5 2,102 2,593"
-            ],
-            [
-              "93,776,200 Mitsui & Co., Ltd. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5.7 1,621 2,219"
-            ],
-            [
-              "24,669,778 Moody’s Corporation . . . . . . . . . . . . . . . . . . . . . . . . . 13.3 248 9,636"
-            ],
-            [
-              "143,456,055 U. S. Bancorp . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9.7 5,384 8,058"
-            ],
-            [
-              "158,824,575 Verizon Communications Inc. . . . . . . . . . . . . . . . . . . 3.8 9,387 8,253"
-            ],
-            [
-              "Others*** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26,629 39,972"
-            ],
-            [
-              "Total Equity Investments Carried at Market . . . . . . . . $ 104,605 $ 350,719"
-            ]
-          ],
-          "row_count": 17
-        }
-      ],
-      "has_financial_data": true,
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "content_type": "narrative",
+      "retrieval_priority": "high",
+      "abstraction_level": "mixed",
+      "has_table": false,
+      "table_data": [],
       "entities": {
         "companies": [
-          "BHE",
-          "Apple",
-          "American Express",
-          "Bank of America",
-          "The Bank of New York Mellon",
-          "BYD",
-          "Charter Communications",
-          "Chevron",
-          "The Coca-Cola Company",
-          "Coca-Cola",
-          "General Motors",
-          "ITOCHU",
-          "Mitsubishi",
-          "Mitsui",
-          "Moody’s",
-          "U. S. Bancorp",
-          "Verizon",
-          "Occidental Petroleum",
-          "Kraft Heinz",
-          "Pilot Corp."
+          "Berkshire Hathaway Inc.",
+          "Berkshire Hathaway Energy (BHE)"
         ],
         "people": [
-          "Ted Weschler"
+          "Warren E. Buffett",
+          "David Sokol",
+          "Greg Abel"
+        ],
+        "topics": [
+          "utility reinvestment",
+          "renewables and transmission",
+          "long-horizon capital spending",
+          "greenwashing skepticism"
         ],
         "metrics": [
-          "market value",
-          "earnings"
+          "BHE earned $4 billion in 2021; Berkshire owns 91.1% of BHE.",
+          "BHE earned $122 million in 2000, the year Berkshire first purchased a stake (Buffett cites a 30x+ increase by 2021)."
         ]
       },
       "themes": [
-        "investing",
-        "capital_allocation",
-        "equity_portfolio"
+        "energy transition",
+        "capital intensity",
+        "long-term reinvestment"
       ],
-      "buffett_concepts": [
-        "delegate_to_good_investment_managers",
-        "equity_method_vs_consolidation"
+      "principles": [
+        "Long-lived infrastructure businesses can compound by reinvesting heavily for decades, even when near-term payouts are limited."
       ],
-      "principles": [],
-      "temporal_references": {
-        "primary_year": 2021,
-        "comparison_years": [
-          2017,
-          2023
-        ],
-        "future_outlook": true
-      },
-      "cross_references": {
-        "related_sections_same_letter": [],
-        "related_years": []
-      },
-      "retrieval_priority": "high",
-      "abstraction_level": "low",
-      "token_count": 787,
-      "char_count": 3309,
-      "source_span": {
-        "start_char": 22523,
-        "end_char_exclusive": 22823
-      },
-      "standalone_exception": false,
-      "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "token_count": 328,
+      "char_count": 1315
     }
   },
   {
-    "chunk_id": "2021-S6-T1-001",
+    "chunk_id": "berkshire_2021_0010",
+    "content": "Investments\nNow let’s talk about companies we don’t control, a list that again references Apple. Below we list our fifteen\nlargest equity holdings, several of which are selections of Berkshire’s two long-time investment managers, Todd\nCombs and Ted Weschler. At yearend, this valued pair had total authority in respect to $34 billion of investments,\nmany of which do not meet the threshold value we use in the table. Also, a significant portion of the dollars that Todd\nand Ted manage are lodged in various pension plans of Berkshire-owned businesses, with the assets of these plans not\nincluded in this table.\n12/31/21\nPercentage of\nCompany\nShares Company Owned Cost* Market\n(in millions)\n151,610,700 American Express Company . . . . . . . . . . . . . . . . . . . . 19.9 1,287 24,804\n907,559,761 Apple Inc. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5.6 31,089 161,155\n1,032,852,006 Bank of America Corp. . . . . . . . . . . . . . . . . . . . . . . . . 12.8 14,631 45,952\n66,835,615 The Bank of New York Mellon Corp. . . . . . . . . . . . . 8.3 2,918 3,882\n225,000,000 BYD Co. Ltd.**. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7.7 232 7,693\n3,828,941 Charter Communications, Inc. . . . . . . . . . . . . . . . . . . 2.2 643 2,496\n38,245,036 Chevron Corporation . . . . . . . . . . . . . . . . . . . . . . . . . . 2.0 3,420 4,488\n400,000,000 The Coca-Cola Company . . . . . . . . . . . . . . . . . . . . . . 9.2 1,299 23,684\n52,975,000 General Motors Company . . . . . . . . . . . . . . . . . . . . . . 3.6 1,616 3,106\n89,241,000 ITOCHU Corporation . . . . . . . . . . . . . . . . . . . . . . . . . 5.6 2,099 2,728\n81,714,800 Mitsubishi Corporation . . . . . . . . . . . . . . . . . . . . . . . . 5.5 2,102 2,593\n93,776,200 Mitsui & Co., Ltd. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5.7 1,621 2,219\n24,669,778 Moody’s Corporation . . . . . . . . . . . . . . . . . . . . . . . . . 13.3 248 9,636\n143,456,055 U. S. Bancorp . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9.7 5,384 8,058\n158,824,575 Verizon Communications Inc. . . . . . . . . . . . . . . . . . . 3.8 9,387 8,253\nOthers*** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26,629 39,972\nTotal Equity Investments Carried at Market . . . . . . . . $ 104,605 $ 350,719\n* This is our actual purchase price and also our tax basis.\n** Held by BHE; consequently, Berkshire shareholders have only a 91.1% interest in this position.\n*** Includes a $10 billion investment in Occidental Petroleum, consisting of preferred stock and warrants to\nbuy common stock, a combination now being valued at $10.7 billion.\nIn addition to the footnoted Occidental holding and our various common-stock positions, Berkshire also owns\na 26.6% interest in Kraft Heinz (accounted for on the “equity” method, not market value, and carried at $13.1 billion)\nand 38.6% of Pilot Corp., a leader in travel centers that had revenues last year of $45 billion.\nSince we purchased our Pilot stake in 2017, this holding has warranted “equity” accounting treatment. Early\nin 2023, Berkshire will purchase an additional interest in Pilot that will raise our ownership to 80% and lead to our\nfully consolidating Pilot’s earnings, assets and liabilities in our financial statements.",
+    "contextual_summary": "The letter summarizes Berkshire’s major public equity positions and related holdings, explaining the role of investment managers and highlighting major stakes such as Apple, American Express, and Bank of America.",
+    "metadata": {
+      "letter_year": 2021,
+      "letter_date": "2022-02-26",
+      "section_title": "Investments",
+      "section_hierarchy": [
+        "Letter Body",
+        "Investments",
+        "Equity Portfolio (Largest Holdings)"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "content_type": "mixed",
+      "retrieval_priority": "high",
+      "abstraction_level": "mixed",
+      "has_table": true,
+      "table_data": [
+        {
+          "table_name": "Berkshire’s largest equity holdings (12/31/21): shares, ownership %, cost and market value",
+          "columns": [
+            "shares",
+            "company",
+            "ownership_pct",
+            "cost_usd_m",
+            "market_usd_m"
+          ],
+          "rows": [
+            {
+              "shares": 151610700,
+              "company": "American Express Company",
+              "ownership_pct": 19.9,
+              "cost_usd_m": "1287",
+              "market_usd_m": "24804"
+            },
+            {
+              "shares": 907559761,
+              "company": "Apple Inc.",
+              "ownership_pct": 5.6,
+              "cost_usd_m": "31089",
+              "market_usd_m": "161155"
+            },
+            {
+              "shares": 1032852006,
+              "company": "Bank of America Corp.",
+              "ownership_pct": 12.8,
+              "cost_usd_m": "14631",
+              "market_usd_m": "45952"
+            },
+            {
+              "shares": 66835615,
+              "company": "The Bank of New York Mellon Corp.",
+              "ownership_pct": 8.3,
+              "cost_usd_m": "2918",
+              "market_usd_m": "3882"
+            },
+            {
+              "shares": 225000000,
+              "company": "BYD Co. Ltd.",
+              "ownership_pct": 7.7,
+              "cost_usd_m": "232",
+              "market_usd_m": "7693"
+            },
+            {
+              "shares": 3828941,
+              "company": "Charter Communications, Inc.",
+              "ownership_pct": 2.2,
+              "cost_usd_m": "643",
+              "market_usd_m": "2496"
+            },
+            {
+              "shares": 38245036,
+              "company": "Chevron Corporation",
+              "ownership_pct": 2.0,
+              "cost_usd_m": "3420",
+              "market_usd_m": "4488"
+            },
+            {
+              "shares": 400000000,
+              "company": "The Coca-Cola Company",
+              "ownership_pct": 9.2,
+              "cost_usd_m": "1299",
+              "market_usd_m": "23684"
+            },
+            {
+              "shares": 52975000,
+              "company": "General Motors Company",
+              "ownership_pct": 3.6,
+              "cost_usd_m": "1616",
+              "market_usd_m": "3106"
+            },
+            {
+              "shares": 89241000,
+              "company": "ITOCHU Corporation",
+              "ownership_pct": 5.6,
+              "cost_usd_m": "2099",
+              "market_usd_m": "2728"
+            },
+            {
+              "shares": 81714800,
+              "company": "Mitsubishi Corporation",
+              "ownership_pct": 5.5,
+              "cost_usd_m": "2102",
+              "market_usd_m": "2593"
+            },
+            {
+              "shares": 93776200,
+              "company": "Mitsui & Co., Ltd.",
+              "ownership_pct": 5.7,
+              "cost_usd_m": "1621",
+              "market_usd_m": "2219"
+            },
+            {
+              "shares": 24669778,
+              "company": "Moody’s Corporation",
+              "ownership_pct": 13.3,
+              "cost_usd_m": "248",
+              "market_usd_m": "9636"
+            },
+            {
+              "shares": 143456055,
+              "company": "U. S. Bancorp",
+              "ownership_pct": 9.7,
+              "cost_usd_m": "5384",
+              "market_usd_m": "8058"
+            },
+            {
+              "shares": 158824575,
+              "company": "Verizon Communications Inc.",
+              "ownership_pct": 3.8,
+              "cost_usd_m": "9387",
+              "market_usd_m": "8253"
+            },
+            {
+              "shares": null,
+              "company": "Others",
+              "ownership_pct": null,
+              "cost_usd_m": "26629",
+              "market_usd_m": "39972"
+            }
+          ],
+          "totals": {
+            "cost_usd_m": "104605",
+            "market_usd_m": "350719"
+          },
+          "footnotes": [
+            "* This is our actual purchase price and also our tax basis.",
+            "** Held by BHE; consequently, Berkshire shareholders have only a 91.1% interest in this position.",
+            "*** Includes a $10 billion investment in Occidental Petroleum, consisting of preferred stock and warrants to buy common stock, a combination now being valued at $10.7 billion."
+          ]
+        }
+      ],
+      "entities": {
+        "companies": [
+          "Berkshire Hathaway Inc.",
+          "Apple Inc.",
+          "American Express Company",
+          "Bank of America Corp.",
+          "The Bank of New York Mellon Corp.",
+          "BYD Co. Ltd.",
+          "Charter Communications, Inc.",
+          "Chevron Corporation",
+          "The Coca-Cola Company",
+          "General Motors Company",
+          "ITOCHU Corporation",
+          "Mitsubishi Corporation",
+          "Mitsui & Co., Ltd.",
+          "Moody’s Corporation",
+          "U. S. Bancorp",
+          "Verizon Communications Inc.",
+          "Occidental Petroleum",
+          "Kraft Heinz",
+          "Pilot Corp.",
+          "Berkshire Hathaway Energy (BHE)"
+        ],
+        "people": [
+          "Warren E. Buffett",
+          "Todd Combs",
+          "Ted Weschler"
+        ],
+        "topics": [
+          "public equity portfolio",
+          "investment delegation",
+          "equity method accounting",
+          "ownership levels",
+          "portfolio concentration"
+        ],
+        "metrics": [
+          "Total equity investments carried at market: cost $104,605 million; market $350,719 million (12/31/21).",
+          "Berkshire held $34 billion of investments under Todd Combs’ and Ted Weschler’s authority (as described in the letter).",
+          "Berkshire owned 26.6% of Kraft Heinz (carried at $13.1 billion) and 38.6% of Pilot Corp.; Berkshire planned to increase Pilot ownership to 80% in early 2023."
+        ]
+      },
+      "themes": [
+        "portfolio disclosure",
+        "accounting treatments",
+        "concentration in core holdings"
+      ],
+      "principles": [
+        "Disclose major holdings transparently while emphasizing long-term ownership intent and the economic significance of retained earnings at investees."
+      ],
+      "token_count": 823,
+      "char_count": 3294
+    }
+  },
+  {
+    "chunk_id": "berkshire_2021_0011",
     "content": "U. S. Treasury Bills\nBerkshire’s balance sheet includes $144 billion of cash and cash equivalents (excluding the holdings of\nBNSF and BHE). Of this sum, $120 billion is held in U. S. Treasury bills, all maturing in less than a year. That stake\n⁄\nleaves Berkshire financing about 1 of 1% of the publicly-held national debt.\nCharlie and I have pledged that Berkshire (along with our subsidiaries other than BNSF and BHE) will always\nhold more than $30 billion of cash and equivalents. We want your company to be financially impregnable and never\ndependent on the kindness of strangers (or even that of friends). Both of us like to sleep soundly, and we want our\ncreditors, insurance claimants and you to do so as well.\nBut $144 billion?\nThat imposing sum, I assure you, is not some deranged expression of patriotism. Nor have Charlie and I lost\nour overwhelming preference for business ownership. Indeed, I first manifested my enthusiasm for that 80 years ago,\non March 11,1942, when I purchased three shares of Cities Services preferred stock. Their cost was $114.75 and\nrequired all of my savings. (The Dow Jones Industrial Average that day closed at 99, a fact that should scream to you:\nNever bet against America.)\nAfter my initial plunge, I always kept at least 80% of my net worth in equities. My favored status throughout\nthat period was 100% – and still is. Berkshire’s current 80%-or-so position in businesses is a consequence of my\nfailure to find entire companies or small portions thereof (that is, marketable stocks) which meet our criteria for longterm holding.\nCharlie and I have endured similar cash-heavy positions from time to time in the past. These periods are\nnever pleasant; they are also never permanent. And, fortunately, we have had a mildly attractive alternative during\n2020 and 2021 for deploying capital. Read on.",
+    "contextual_summary": "Buffett explains Berkshire’s unusually large cash position, its preference for business ownership, and why low rates and limited opportunities can temporarily push cash balances higher.",
     "metadata": {
       "letter_year": 2021,
       "letter_date": "2022-02-26",
-      "source_file": "2021_cleaned.txt",
       "section_title": "U. S. Treasury Bills",
       "section_hierarchy": [
         "Letter Body",
         "Capital Allocation",
-        "Liquidity"
+        "Cash, T-Bills & Opportunity Set"
       ],
       "chunk_tier": 1,
       "parent_chunk_id": null,
-      "child_chunk_ids": [],
       "content_type": "narrative",
-      "contextual_summary": "Explains Berkshire’s unusually large cash and Treasury-bill position, the permanence of its minimum liquidity pledge, and why cash levels rise when attractive business ownership opportunities are scarce.",
+      "retrieval_priority": "high",
+      "abstraction_level": "mixed",
       "has_table": false,
       "table_data": [],
-      "has_financial_data": true,
       "entities": {
         "companies": [
+          "Berkshire Hathaway Inc.",
           "BNSF",
-          "BHE",
-          "Cities Services"
+          "Berkshire Hathaway Energy (BHE)",
+          "U.S. Treasury",
+          "Cities Service"
         ],
-        "people": [],
+        "people": [
+          "Warren E. Buffett",
+          "Charlie Munger"
+        ],
+        "topics": [
+          "liquidity policy",
+          "financial resilience",
+          "interest rates and asset prices",
+          "opportunity cost of cash",
+          "never bet against America"
+        ],
         "metrics": [
-          "net worth",
-          "capital",
-          "cash",
-          "cash equivalents",
-          "Treasury bills",
-          "national debt"
+          "Berkshire held $144 billion of cash and cash equivalents at yearend 2021 (excluding BNSF and BHE), including $120 billion in U.S. Treasury bills maturing in less than a year.",
+          "Buffett and Munger pledge to always hold more than $30 billion of cash and equivalents at Berkshire (excluding BNSF and BHE).",
+          "Buffett recounts buying three shares of Cities Service preferred on March 11, 1942 for $114.75; the Dow closed at 99."
         ]
       },
       "themes": [
-        "liquidity_management",
-        "risk_management"
-      ],
-      "buffett_concepts": [
-        "maintain_huge_cash_buffer",
-        "avoid_kindness_of_strangers",
-        "never_bet_against_america"
+        "liquidity and safety",
+        "valuation drivers",
+        "capital deployment constraints"
       ],
       "principles": [
-        {
-          "statement": "Never bet against America.",
-          "category": "investing"
-        }
+        "Maintain a fortress balance sheet so the company is never dependent on external funding during stress.",
+        "Recognize that low long-term rates lift valuations across productive assets, reducing the availability of bargains."
       ],
-      "temporal_references": {
-        "primary_year": 2021,
-        "comparison_years": [
-          1942,
-          2020
-        ],
-        "future_outlook": true
-      },
-      "cross_references": {
-        "related_sections_same_letter": [],
-        "related_years": []
-      },
-      "retrieval_priority": "high",
-      "abstraction_level": "medium",
-      "token_count": 310,
-      "char_count": 1840,
-      "source_span": {
-        "start_char": 25856,
-        "end_char_exclusive": 27675
-      },
-      "standalone_exception": false,
-      "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "token_count": 460,
+      "char_count": 1840
     }
   },
   {
-    "chunk_id": "2021-S7-T1-001",
-    "content": "Share Repurchases\nThere are three ways that we can increase the value of your investment. The first is always front and center\nin our minds: Increase the long-term earning power of Berkshire’s controlled businesses through internal growth or\nby making acquisitions. Today, internal opportunities deliver far better returns than acquisitions. The size of those\nopportunities, however, is small compared to Berkshire’s resources.\nOur second choice is to buy non-controlling part-interests in the many good or great businesses that are\npublicly traded. From time to time, such possibilities are both numerous and blatantly attractive. Today, though, we\nfind little that excites us.\nThat’s largely because of a truism: Long-term interest rates that are low push the prices of all productive\ninvestments upward, whether these are stocks, apartments, farms, oil wells, whatever. Other factors influence\nvaluations as well, but interest rates will always be important.\nOur final path to value creation is to repurchase Berkshire shares. Through that simple act, we increase your\nshare of the many controlled and non-controlled businesses Berkshire owns. When the price/value equation is right,\nthis path is the easiest and most certain way for us to increase your wealth. (Alongside the accretion of value to\ncontinuing shareholders, a couple of other parties gain: Repurchases are modestly beneficial to the seller of the\nrepurchased shares and to society as well.)\n\nPeriodically, as alternative paths become unattractive, repurchases make good sense for Berkshire’s owners.\nDuring the past two years, we therefore repurchased 9% of the shares that were outstanding at yearend 2019 for a total\ncost of $51.7 billion. That expenditure left our continuing shareholders owning about 10% more of all Berkshire\nbusinesses, whether these are wholly-owned (such as BNSF and GEICO) or partly-owned (such as Coca-Cola and\nMoody’s).\nI want to underscore that for Berkshire repurchases to make sense, our shares must offer appropriate value.\nWe don’t want to overpay for the shares of other companies, and it would be value-destroying if we were to overpay\nwhen we are buying Berkshire. As of February 23,2022, since yearend we repurchased additional shares at a cost of\n$1.2 billion. Our appetite remains large but will always remain price-dependent.\nIt should be noted that Berkshire’s buyback opportunities are limited because of its high-class investor base.\nIf our shares were heavily held by short-term speculators, both price volatility and transaction volumes would\nmaterially increase. That kind of reshaping would offer us far greater opportunities for creating value by making\nrepurchases. Nevertheless, Charlie and I far prefer the owners we have, even though their admirable buy-and-keep\nattitudes limit the extent to which long-term shareholders can profit from opportunistic repurchases.\nFinally, one easily-overlooked value calculation specific to Berkshire: As we’ve discussed, insurance “float”\nof the right sort is of great value to us. As it happens, repurchases automatically increase the amount of “float” per\nshare. That figure has increased during the past two years by 25% – going from $79,387 per “A” share to $99,497, a\nmeaningful gain that, as noted, owes some thanks to repurchases.",
+    "chunk_id": "berkshire_2021_0012",
+    "content": "Share Repurchases\nThere are three ways that we can increase the value of your investment. The first is always front and center\nin our minds: Increase the long-term earning power of Berkshire’s controlled businesses through internal growth or\nby making acquisitions. Today, internal opportunities deliver far better returns than acquisitions. The size of those\nopportunities, however, is small compared to Berkshire’s resources.\nOur second choice is to buy non-controlling part-interests in the many good or great businesses that are\npublicly traded. From time to time, such possibilities are both numerous and blatantly attractive. Today, though, we\nfind little that excites us.\nThat’s largely because of a truism: Long-term interest rates that are low push the prices of all productive\ninvestments upward, whether these are stocks, apartments, farms, oil wells, whatever. Other factors influence\nvaluations as well, but interest rates will always be important.\nOur final path to value creation is to repurchase Berkshire shares. Through that simple act, we increase your\nshare of the many controlled and non-controlled businesses Berkshire owns. When the price/value equation is right,\nthis path is the easiest and most certain way for us to increase your wealth. (Alongside the accretion of value to\ncontinuing shareholders, a couple of other parties gain: Repurchases are modestly beneficial to the seller of the\nrepurchased shares and to society as well.)\n\n\n\n\nPeriodically, as alternative paths become unattractive, repurchases make good sense for Berkshire’s owners.\nDuring the past two years, we therefore repurchased 9% of the shares that were outstanding at yearend 2019 for a total\ncost of $51.7 billion. That expenditure left our continuing shareholders owning about 10% more of all Berkshire\nbusinesses, whether these are wholly-owned (such as BNSF and GEICO) or partly-owned (such as Coca-Cola and\nMoody’s).\nI want to underscore that for Berkshire repurchases to make sense, our shares must offer appropriate value.\nWe don’t want to overpay for the shares of other companies, and it would be value-destroying if we were to overpay\nwhen we are buying Berkshire. As of February 23,2022, since yearend we repurchased additional shares at a cost of\n$1.2 billion. Our appetite remains large but will always remain price-dependent.\nIt should be noted that Berkshire’s buyback opportunities are limited because of its high-class investor base.\nIf our shares were heavily held by short-term speculators, both price volatility and transaction volumes would\nmaterially increase. That kind of reshaping would offer us far greater opportunities for creating value by making\nrepurchases. Nevertheless, Charlie and I far prefer the owners we have, even though their admirable buy-and-keep\nattitudes limit the extent to which long-term shareholders can profit from opportunistic repurchases.\nFinally, one easily-overlooked value calculation specific to Berkshire: As we’ve discussed, insurance “float”\nof the right sort is of great value to us. As it happens, repurchases automatically increase the amount of “float” per\nshare. That figure has increased during the past two years by 25% – going from $79,387 per “A” share to $99,497, a\nmeaningful gain that, as noted, owes some thanks to repurchases.",
+    "contextual_summary": "Berkshire lays out its value-creation options and argues that repurchases are often the simplest way to raise each owner’s share when the stock trades below intrinsic value.",
     "metadata": {
       "letter_year": 2021,
       "letter_date": "2022-02-26",
-      "source_file": "2021_cleaned.txt",
       "section_title": "Share Repurchases",
       "section_hierarchy": [
         "Letter Body",
@@ -909,212 +752,263 @@
       ],
       "chunk_tier": 1,
       "parent_chunk_id": null,
-      "child_chunk_ids": [],
       "content_type": "narrative",
-      "contextual_summary": "Lays out Berkshire’s three paths to value creation and explains why repurchases were the best option recently, insisting that buybacks must be price/value sensible and noting how buybacks increase ownership and float per share.",
+      "retrieval_priority": "high",
+      "abstraction_level": "mixed",
       "has_table": false,
       "table_data": [],
-      "has_financial_data": true,
       "entities": {
         "companies": [
-          "BNSF",
+          "Berkshire Hathaway Inc.",
           "GEICO",
-          "TTI",
           "Coca-Cola",
           "Moody’s"
         ],
-        "people": [],
+        "people": [
+          "Warren E. Buffett",
+          "Charlie Munger"
+        ],
+        "topics": [
+          "capital allocation hierarchy",
+          "repurchases vs acquisitions",
+          "interest rates and valuation",
+          "shareholder base composition",
+          "float per share"
+        ],
         "metrics": [
-          "float",
-          "repurchases"
+          "Berkshire repurchased 9% of shares outstanding at yearend 2019 for $51.7 billion over 2020–2021, increasing continuing owners’ share of Berkshire businesses by about 10%.",
+          "As of February 23, 2022, Berkshire repurchased an additional $1.2 billion of shares since yearend 2021.",
+          "Float per ‘A’ share increased 25% over two years, from $79,387 to $99,497 (Buffett notes repurchases helped)."
         ]
       },
       "themes": [
-        "share_repurchases",
-        "capital_allocation"
+        "repurchase discipline",
+        "owner per-share value",
+        "opportunity set"
       ],
-      "buffett_concepts": [
-        "buybacks_only_below_intrinsic_value",
-        "repurchases_increase_ownership_per_share",
-        "interest_rates_drive_asset_prices"
+      "principles": [
+        "Repurchase shares only when price-to-value is attractive; overpaying destroys value whether buying another company’s shares or Berkshire’s own.",
+        "Per-share value matters: repurchases increase each continuing owner’s claim on operating businesses and float."
       ],
-      "principles": [],
-      "temporal_references": {
-        "primary_year": 2021,
-        "comparison_years": [
-          2019,
-          2022
-        ],
-        "future_outlook": true
-      },
-      "cross_references": {
-        "related_sections_same_letter": [],
-        "related_years": []
-      },
-      "retrieval_priority": "high",
-      "abstraction_level": "medium",
-      "token_count": 502,
-      "char_count": 3294,
-      "source_span": {
-        "start_char": 27694,
-        "end_char_exclusive": 27994
-      },
-      "standalone_exception": false,
-      "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "token_count": 824,
+      "char_count": 3297
     }
   },
   {
-    "chunk_id": "2021-S8-T1-001",
-    "content": "A Wonderful Man and a Wonderful Business\nLast year, Paul Andrews died. Paul was the founder and CEO of TTI, a Fort Worth-based subsidiary of\nBerkshire. Throughout his life – in both his business and his personal pursuits – Paul quietly displayed all the qualities\nthat Charlie and I admire. His story should be told.\nIn 1971, Paul was working as a purchasing agent for General Dynamics when the roof fell in. After losing a\nhuge defense contract, the company fired thousands of employees, including Paul.\nWith his first child due soon, Paul decided to bet on himself, using $500 of his savings to found Tex-Tronics\n(later renamed TTI). The company set itself up to distribute small electronic components, and first-year sales totaled\n$112,000. Today, TTI markets more than one million different items with annual volume of $7.7 billion.\nBut back to 2006: Paul, at 63, then found himself happy with his family, his job, and his associates. But he\nhad one nagging worry, heightened because he had recently witnessed a friend’s early death and the disastrous results\nthat followed for that man’s family and business. What, Paul asked himself in 2006, would happen to the many people\ndepending on him if he should unexpectedly die?\nFor a year, Paul wrestled with his options. Sell to a competitor? From a strictly economic viewpoint, that\ncourse made the most sense. After all, competitors could envision lucrative “synergies” – savings that would be\nachieved as the acquiror slashed duplicated functions at TTI.\nBut . . . Such a purchaser would most certainly also retain its CFO, its legal counsel, its HR unit. Their TTI\ncounterparts would therefore be sent packing. And ugh! If a new distribution center were to be needed, the acquirer’s\nhome city would certainly be favored over Fort Worth.\n\nWhatever the financial benefits, Paul quickly concluded that selling to a competitor was not for him. He next\nconsidered seeking a financial buyer, a species once labeled – aptly so – a leveraged buyout firm. Paul knew, however,\nthat such a purchaser would be focused on an “exit strategy.” And who could know what that would be? Brooding\nover it all, Paul found himself having no interest in handing his 35-year-old creation over to a reseller.\nWhen Paul met me, he explained why he had eliminated these two alternatives as buyers. He then summed\nup his dilemma by saying – in far more tactful phrasing than this – “After a year of pondering the alternatives, I want\nto sell to Berkshire because you are the only guy left.” So, I made an offer and Paul said “Yes.” One meeting; one\nlunch; one deal.\nTo say we both lived happily ever after is an understatement. When Berkshire purchased TTI, the company\nemployed 2,387. Now the number is 8,043. A large percentage of that growth took place in Fort Worth and environs.\nEarnings have increased 673%.\nAnnually, I would call Paul and tell him his salary should be substantially increased. Annually, he would tell\nme, “We can talk about that next year, Warren; I’m too busy now.”\nWhen Greg Abel and I attended Paul’s memorial service, we met children, grandchildren, long-time\nassociates (including TTI’s first employee) and John Roach, the former CEO of a Fort Worth company Berkshire had\npurchased in 2000. John had steered his friend Paul to Omaha, instinctively knowing we would be a match.\nAt the service, Greg and I heard about the multitudes of people and organizations that Paul had silently\nsupported. The breadth of his generosity was extraordinary – geared always to improving the lives of others,\nparticularly those in Fort Worth.\nIn all ways, Paul was a class act.\n* * * * * * * * * * * *\nGood luck – occasionally extraordinary luck – has played its part at Berkshire. If Paul and I had not enjoyed\na mutual friend – John Roach – TTI would not have found its home with us. But that ample serving of luck was only\nthe beginning. TTI was soon to lead Berkshire to its most important acquisition.\nEvery fall, Berkshire directors gather for a presentation by a few of our executives. We sometimes choose\nthe site based upon the location of a recent acquisition, by that means allowing directors to meet the new subsidiary’s\nCEO and learn more about the acquiree’s activities.\nIn the fall of 2009, we consequently selected Fort Worth so that we could visit TTI. At that time, BNSF,\nwhich also had Fort Worth as its hometown, was the third-largest holding among our marketable equities. Despite that\nlarge stake, I had never visited the railroad’s headquarters.\nDeb Bosanek, my assistant, scheduled our board’s opening dinner for October 22. Meanwhile, I arranged to\narrive earlier that day to meet with Matt Rose, CEO of BNSF, whose accomplishments I had long admired. When I\nmade the date, I had no idea that our get-together would coincide with BNSF’s third-quarter earnings report, which\nwas released late on the 22 nd.\nThe market reacted badly to the railroad’s results. The Great Recession was in full force in the third quarter,\nand BNSF’s earnings reflected that slump. The economic outlook was also bleak, and Wall Street wasn’t feeling\nfriendly to railroads – or much else.\n\nOn the following day, I again got together with Matt and suggested that Berkshire would offer the railroad a\nbetter long-term home than it could expect as a public company. I also told him the maximum price that Berkshire\nwould pay.\nMatt relayed the offer to his directors and advisors. Eleven busy days later, Berkshire and BNSF announced\na firm deal. And here I’ll venture a rare prediction: BNSF will be a key asset for Berkshire and our country a century\nfrom now.\nThe BNSF acquisition would never have happened if Paul Andrews hadn’t sized up Berkshire as the right\nhome for TTI.",
+    "chunk_id": "berkshire_2021_0013",
+    "content": "A Wonderful Man and a Wonderful Business\nLast year, Paul Andrews died. Paul was the founder and CEO of TTI, a Fort Worth-based subsidiary of\nBerkshire. Throughout his life – in both his business and his personal pursuits – Paul quietly displayed all the qualities\nthat Charlie and I admire. His story should be told.\nIn 1971, Paul was working as a purchasing agent for General Dynamics when the roof fell in. After losing a\nhuge defense contract, the company fired thousands of employees, including Paul.\nWith his first child due soon, Paul decided to bet on himself, using $500 of his savings to found Tex-Tronics\n(later renamed TTI). The company set itself up to distribute small electronic components, and first-year sales totaled\n$112,000. Today, TTI markets more than one million different items with annual volume of $7.7 billion.\nBut back to 2006: Paul, at 63, then found himself happy with his family, his job, and his associates. But he\nhad one nagging worry, heightened because he had recently witnessed a friend’s early death and the disastrous results\nthat followed for that man’s family and business. What, Paul asked himself in 2006, would happen to the many people\ndepending on him if he should unexpectedly die?\nFor a year, Paul wrestled with his options. Sell to a competitor? From a strictly economic viewpoint, that\ncourse made the most sense. After all, competitors could envision lucrative “synergies” – savings that would be\nachieved as the acquiror slashed duplicated functions at TTI.\nBut . . . Such a purchaser would most certainly also retain its CFO, its legal counsel, its HR unit. Their TTI\ncounterparts would therefore be sent packing. And ugh! If a new distribution center were to be needed, the acquirer’s\nhome city would certainly be favored over Fort Worth.\n\n\n\n\nWhatever the financial benefits, Paul quickly concluded that selling to a competitor was not for him. He next\nconsidered seeking a financial buyer, a species once labeled – aptly so – a leveraged buyout firm. Paul knew, however,\nthat such a purchaser would be focused on an “exit strategy.” And who could know what that would be? Brooding\nover it all, Paul found himself having no interest in handing his 35-year-old creation over to a reseller.\nWhen Paul met me, he explained why he had eliminated these two alternatives as buyers. He then summed\nup his dilemma by saying – in far more tactful phrasing than this – “After a year of pondering the alternatives, I want\nto sell to Berkshire because you are the only guy left.” So, I made an offer and Paul said “Yes.” One meeting; one\nlunch; one deal.\nTo say we both lived happily ever after is an understatement. When Berkshire purchased TTI, the company\nemployed 2,387. Now the number is 8,043. A large percentage of that growth took place in Fort Worth and environs.\nEarnings have increased 673%.\nAnnually, I would call Paul and tell him his salary should be substantially increased. Annually, he would tell\nme, “We can talk about that next year, Warren; I’m too busy now.”\nWhen Greg Abel and I attended Paul’s memorial service, we met children, grandchildren, long-time\nassociates (including TTI’s first employee) and John Roach, the former CEO of a Fort Worth company Berkshire had\npurchased in 2000. John had steered his friend Paul to Omaha, instinctively knowing we would be a match.\nAt the service, Greg and I heard about the multitudes of people and organizations that Paul had silently\nsupported. The breadth of his generosity was extraordinary – geared always to improving the lives of others,\nparticularly those in Fort Worth.\nIn all ways, Paul was a class act.",
+    "contextual_summary": "Buffett memorializes Paul Andrews of TTI, explaining how Andrews chose Berkshire as an acquirer to protect employees and the Fort Worth community, and how the partnership flourished.",
     "metadata": {
       "letter_year": 2021,
       "letter_date": "2022-02-26",
-      "source_file": "2021_cleaned.txt",
       "section_title": "A Wonderful Man and a Wonderful Business",
       "section_hierarchy": [
         "Letter Body",
-        "Culture",
-        "Managers",
-        "Paul Andrews and TTI"
+        "Business Stories",
+        "Paul Andrews & TTI"
       ],
       "chunk_tier": 1,
       "parent_chunk_id": null,
-      "child_chunk_ids": [],
       "content_type": "narrative",
-      "contextual_summary": "Tells the story of Paul Andrews and TTI to illustrate Berkshire’s culture, deal-making style, and how luck and relationships can lead to transformative acquisitions such as BNSF.",
+      "retrieval_priority": "medium",
+      "abstraction_level": "mixed",
       "has_table": false,
       "table_data": [],
-      "has_financial_data": true,
       "entities": {
         "companies": [
-          "BNSF",
+          "Berkshire Hathaway Inc.",
           "TTI",
+          "Tex-Tronics",
           "General Dynamics"
         ],
         "people": [
-          "Greg Abel",
           "Paul Andrews",
+          "Warren E. Buffett",
+          "Greg Abel",
           "John Roach",
-          "Deb Bosanek",
-          "Matt Rose"
+          "Charlie Munger"
+        ],
+        "topics": [
+          "acquisition philosophy",
+          "culture and continuity",
+          "stakeholder considerations",
+          "community impact",
+          "leadership character"
         ],
         "metrics": [
-          "earnings"
+          "Andrews founded Tex-Tronics (later TTI) in 1971 with $500; first-year sales were $112,000 and later annual volume reached $7.7 billion.",
+          "TTI headcount grew from 2,387 at acquisition to 8,043; Buffett cites earnings up 673%."
         ]
       },
       "themes": [
-        "culture",
-        "acquisitions",
-        "management_quality",
-        "succession"
+        "founder legacy",
+        "Berkshire acquisition model",
+        "culture and community"
       ],
-      "buffett_concepts": [
-        "buy_and_hold_with_trusted_owners",
-        "avoid_synergy_cuts",
-        "simple_dealmaking_one_meeting_one_deal"
+      "principles": [
+        "Choose acquisition structures that preserve strong cultures and protect key stakeholders, not just maximize short-term deal economics.",
+        "Great businesses are often built by exceptional people; character is a competitive advantage."
       ],
-      "principles": [],
-      "temporal_references": {
-        "primary_year": 2021,
-        "comparison_years": [
-          1971,
-          2000,
-          2006,
-          2009
-        ],
-        "future_outlook": true
-      },
-      "cross_references": {
-        "related_sections_same_letter": [],
-        "related_years": []
-      },
-      "retrieval_priority": "high",
-      "abstraction_level": "medium",
-      "token_count": 981,
-      "char_count": 5714,
-      "source_span": {
-        "start_char": 31028,
-        "end_char_exclusive": 31328
-      },
-      "standalone_exception": false,
-      "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "token_count": 904,
+      "char_count": 3618
     }
   },
   {
-    "chunk_id": "2021-S9-T1-001",
-    "content": "Thanks\nI taught my first investing class 70 years ago. Since then, I have enjoyed working almost every year with\nstudents of all ages, finally “retiring” from that pursuit in 2018.\nAlong the way, my toughest audience was my grandson’s fifth-grade class. The 11-year-olds were squirming\nin their seats and giving me blank stares until I mentioned Coca-Cola and its famous secret formula. Instantly, every\nhand went up, and I learned that “secrets” are catnip to kids.\nTeaching, like writing, has helped me develop and clarify my own thoughts. Charlie calls this phenomenon\nthe orangutan effect: If you sit down with an orangutan and carefully explain to it one of your cherished ideas, you\nmay leave behind a puzzled primate, but will yourself exit thinking more clearly.\nTalking to university students is far superior. I have urged that they seek employment in (1) the field and (2)\nwith the kind of people they would select, if they had no need for money. Economic realities, I acknowledge, may\ninterfere with that kind of search. Even so, I urge the students never to give up the quest, for when they find that sort\nof job, they will no longer be “working.”\nCharlie and I, ourselves, followed that liberating course after a few early stumbles. We both started as parttimers at my grandfather’s grocery store, Charlie in 1940 and I in 1942. We were each assigned boring tasks and paid\nlittle, definitely not what we had in mind. Charlie later took up law, and I tried selling securities. Job satisfaction\ncontinued to elude us.\nFinally, at Berkshire, we found what we love to do. With very few exceptions, we have now “worked” for\nmany decades with people whom we like and trust. It’s a joy in life to join with managers such as Paul Andrews or\nthe Berkshire families I told you about last year. In our home office, we employ decent and talented people – no jerks.\nTurnover averages, perhaps, one person per year.\nI would like, however, to emphasize a further item that turns our jobs into fun and satisfaction - - - - working\nfor you. There is nothing more rewarding to Charlie and me than enjoying the trust of individual long-term\nshareholders who, for many decades, have joined us with the expectation that we would be a reliable custodian of their\nfunds.\nObviously, we can’t select our owners, as we could do if our form of operation were a partnership. Anyone\ncan buy shares of Berkshire today with the intention of soon reselling them. For sure, we get a few of that type of\nshareholder, just as we get index funds that own huge amounts of Berkshire simply because they are required to do\nso.\n\nTo a truly unusual degree, however, Berkshire has as owners a very large corps of individuals and families\nthat have elected to join us with an intent approaching “til death do us part.” Often, they have trusted us with a large\n• some might say excessive – portion of their savings.\nBerkshire, these shareholders would sometimes acknowledge, might be far from the best selection they could\nhave made. But they would add that Berkshire would rank high among those with which they would be most\ncomfortable. And people who are comfortable with their investments will, on average, achieve better results than those\nwho are motivated by ever-changing headlines, chatter and promises.\nLong-term individual owners are both the “partners” Charlie and I have always sought and the ones we\nconstantly have in mind as we make decisions at Berkshire. To them we say, “It feels good to ‘work’ for you, and you\nhave our thanks for your trust.”",
+    "chunk_id": "berkshire_2021_0014",
+    "content": "Good luck – occasionally extraordinary luck – has played its part at Berkshire. If Paul and I had not enjoyed\na mutual friend – John Roach – TTI would not have found its home with us. But that ample serving of luck was only\nthe beginning. TTI was soon to lead Berkshire to its most important acquisition.\nEvery fall, Berkshire directors gather for a presentation by a few of our executives. We sometimes choose\nthe site based upon the location of a recent acquisition, by that means allowing directors to meet the new subsidiary’s\nCEO and learn more about the acquiree’s activities.\nIn the fall of 2009, we consequently selected Fort Worth so that we could visit TTI. At that time, BNSF,\nwhich also had Fort Worth as its hometown, was the third-largest holding among our marketable equities. Despite that\nlarge stake, I had never visited the railroad’s headquarters.\nDeb Bosanek, my assistant, scheduled our board’s opening dinner for October 22. Meanwhile, I arranged to\narrive earlier that day to meet with Matt Rose, CEO of BNSF, whose accomplishments I had long admired. When I\nmade the date, I had no idea that our get-together would coincide with BNSF’s third-quarter earnings report, which\nwas released late on the 22 nd.\nThe market reacted badly to the railroad’s results. The Great Recession was in full force in the third quarter,\nand BNSF’s earnings reflected that slump. The economic outlook was also bleak, and Wall Street wasn’t feeling\nfriendly to railroads – or much else.\n\n\n\n\nOn the following day, I again got together with Matt and suggested that Berkshire would offer the railroad a\nbetter long-term home than it could expect as a public company. I also told him the maximum price that Berkshire\nwould pay.\nMatt relayed the offer to his directors and advisors. Eleven busy days later, Berkshire and BNSF announced\na firm deal. And here I’ll venture a rare prediction: BNSF will be a key asset for Berkshire and our country a century\nfrom now.\nThe BNSF acquisition would never have happened if Paul Andrews hadn’t sized up Berkshire as the right\nhome for TTI.",
+    "contextual_summary": "The Paul Andrews relationship indirectly led Berkshire to its landmark BNSF acquisition, illustrating how trust, timing, and long-term thinking shape Berkshire’s biggest decisions.",
     "metadata": {
       "letter_year": 2021,
       "letter_date": "2022-02-26",
-      "source_file": "2021_cleaned.txt",
-      "section_title": "Thanks",
+      "section_title": "A Wonderful Man and a Wonderful Business",
       "section_hierarchy": [
         "Letter Body",
-        "Shareholder Communication",
-        "Thanks"
+        "Business Stories",
+        "BNSF Acquisition Origin"
       ],
       "chunk_tier": 1,
       "parent_chunk_id": null,
-      "child_chunk_ids": [],
       "content_type": "narrative",
-      "contextual_summary": "Thanks long-term individual shareholders, explains why investor comfort and patience matter, and reflects on learning through teaching and writing while emphasizing Berkshire’s owner base and culture.",
+      "retrieval_priority": "medium",
+      "abstraction_level": "mixed",
       "has_table": false,
       "table_data": [],
-      "has_financial_data": false,
       "entities": {
         "companies": [
+          "Berkshire Hathaway Inc.",
           "TTI",
+          "BNSF"
+        ],
+        "people": [
+          "Warren E. Buffett",
+          "Deb Bosanek",
+          "Matt Rose",
+          "John Roach"
+        ],
+        "topics": [
+          "serendipity in deal-making",
+          "board process",
+          "Great Recession market conditions",
+          "long-term ownership benefits"
+        ],
+        "metrics": [
+          "Berkshire’s board dinner in Fort Worth was scheduled for October 22, 2009; Buffett met BNSF CEO Matt Rose the same day as BNSF’s third-quarter earnings release.",
+          "Berkshire and BNSF announced a firm deal 11 days after Buffett relayed an offer and price limit."
+        ]
+      },
+      "themes": [
+        "deal origins",
+        "long-term partnerships",
+        "crisis opportunity"
+      ],
+      "principles": [
+        "Be prepared to act decisively when long-term value is clear and conditions create opportunity."
+      ],
+      "token_count": 519,
+      "char_count": 2077
+    }
+  },
+  {
+    "chunk_id": "berkshire_2021_0015",
+    "content": "Thanks\nI taught my first investing class 70 years ago. Since then, I have enjoyed working almost every year with\nstudents of all ages, finally “retiring” from that pursuit in 2018.\nAlong the way, my toughest audience was my grandson’s fifth-grade class. The 11-year-olds were squirming\nin their seats and giving me blank stares until I mentioned Coca-Cola and its famous secret formula. Instantly, every\nhand went up, and I learned that “secrets” are catnip to kids.\nTeaching, like writing, has helped me develop and clarify my own thoughts. Charlie calls this phenomenon\nthe orangutan effect: If you sit down with an orangutan and carefully explain to it one of your cherished ideas, you\nmay leave behind a puzzled primate, but will yourself exit thinking more clearly.\nTalking to university students is far superior. I have urged that they seek employment in (1) the field and (2)\nwith the kind of people they would select, if they had no need for money. Economic realities, I acknowledge, may\ninterfere with that kind of search. Even so, I urge the students never to give up the quest, for when they find that sort\nof job, they will no longer be “working.”\nCharlie and I, ourselves, followed that liberating course after a few early stumbles. We both started as parttimers at my grandfather’s grocery store, Charlie in 1940 and I in 1942. We were each assigned boring tasks and paid\nlittle, definitely not what we had in mind. Charlie later took up law, and I tried selling securities. Job satisfaction\ncontinued to elude us.\nFinally, at Berkshire, we found what we love to do. With very few exceptions, we have now “worked” for\nmany decades with people whom we like and trust. It’s a joy in life to join with managers such as Paul Andrews or\nthe Berkshire families I told you about last year. In our home office, we employ decent and talented people – no jerks.\nTurnover averages, perhaps, one person per year.\nI would like, however, to emphasize a further item that turns our jobs into fun and satisfaction - - - - working\nfor you. There is nothing more rewarding to Charlie and me than enjoying the trust of individual long-term\nshareholders who, for many decades, have joined us with the expectation that we would be a reliable custodian of their\nfunds.\nObviously, we can’t select our owners, as we could do if our form of operation were a partnership. Anyone\ncan buy shares of Berkshire today with the intention of soon reselling them. For sure, we get a few of that type of\nshareholder, just as we get index funds that own huge amounts of Berkshire simply because they are required to do\nso.\n\n\n\n\nTo a truly unusual degree, however, Berkshire has as owners a very large corps of individuals and families\nthat have elected to join us with an intent approaching “til death do us part.” Often, they have trusted us with a large\n• some might say excessive – portion of their savings.\nBerkshire, these shareholders would sometimes acknowledge, might be far from the best selection they could\nhave made. But they would add that Berkshire would rank high among those with which they would be most\ncomfortable. And people who are comfortable with their investments will, on average, achieve better results than those\nwho are motivated by ever-changing headlines, chatter and promises.\nLong-term individual owners are both the “partners” Charlie and I have always sought and the ones we\nconstantly have in mind as we make decisions at Berkshire. To them we say, “It feels good to ‘work’ for you, and you\nhave our thanks for your trust.”",
+    "contextual_summary": "Buffett reflects on teaching and the ‘orangutan effect,’ then thanks Berkshire’s long-term individual shareholders for their trust and partnership mindset.",
+    "metadata": {
+      "letter_year": 2021,
+      "letter_date": "2022-02-26",
+      "section_title": "Thanks",
+      "section_hierarchy": [
+        "Letter Body",
+        "Owners",
+        "Shareholder Partnership & Trust"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "content_type": "narrative",
+      "retrieval_priority": "medium",
+      "abstraction_level": "mixed",
+      "has_table": false,
+      "table_data": [],
+      "entities": {
+        "companies": [
+          "Berkshire Hathaway Inc.",
           "Coca-Cola"
         ],
         "people": [
-          "Paul Andrews"
+          "Warren E. Buffett",
+          "Charlie Munger"
         ],
-        "metrics": []
+        "topics": [
+          "learning by teaching",
+          "career satisfaction",
+          "owner base composition",
+          "long-term investing behavior"
+        ],
+        "metrics": [
+          "Buffett says he taught investing for 70 years and retired from teaching in 2018.",
+          "In Berkshire’s home office, turnover averages about one person per year (as stated in the letter)."
+        ]
       },
       "themes": [
-        "shareholder_communication",
-        "long_term_owners",
-        "behavioral_finance"
-      ],
-      "buffett_concepts": [
-        "comfortable_investors_do_better",
-        "avoid_headline_trading"
+        "shareholder alignment",
+        "life and work satisfaction",
+        "long-term behavior"
       ],
       "principles": [
-        {
-          "statement": "some might say excessive – portion of their savings.",
-          "category": "general"
-        }
+        "Seek work you would do even without needing money, ideally with people you like and trust.",
+        "Investors who are comfortable with their holdings and ignore headlines tend to achieve better results than those who chase noise."
       ],
-      "temporal_references": {
-        "primary_year": 2021,
-        "comparison_years": [
-          1940,
-          1942,
-          2018
+      "token_count": 883,
+      "char_count": 3535
+    }
+  },
+  {
+    "chunk_id": "berkshire_2021_0016",
+    "content": "The Annual Meeting\nClear your calendar! Berkshire will have its annual gathering of capitalists in Omaha on Friday, April 29 th\nthrough Sunday, May 1 st. The details regarding the weekend are laid out on pages A-1 and A-2. Omaha eagerly awaits\nyou, as do I.\nI will end this letter with a sales pitch. “Cousin” Jimmy Buffett has designed a pontoon “party” boat that is\nnow being manufactured by Forest River, a Berkshire subsidiary. The boat will be introduced on April 29 at our\nBerkshire Bazaar of Bargains. And, for two days only, shareholders will be able to purchase Jimmy’s masterpiece at\na 10% discount. Your bargain-hunting chairman will be buying a boat for his family’s use. Join me.\nFebruary 26,2022 Warren E. Buffett\nChairman of the Board",
+    "contextual_summary": "Berkshire announces its 2022 annual meeting weekend in Omaha and closes with a light sales pitch for a new Jimmy Buffett-designed pontoon boat sold by a Berkshire subsidiary.",
+    "metadata": {
+      "letter_year": 2021,
+      "letter_date": "2022-02-26",
+      "section_title": "The Annual Meeting",
+      "section_hierarchy": [
+        "Letter Body",
+        "Company Updates",
+        "Annual Meeting Logistics"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "content_type": "narrative",
+      "retrieval_priority": "low",
+      "abstraction_level": "concrete",
+      "has_table": false,
+      "table_data": [],
+      "entities": {
+        "companies": [
+          "Berkshire Hathaway Inc.",
+          "Forest River"
         ],
-        "future_outlook": true
+        "people": [
+          "Warren E. Buffett",
+          "Jimmy Buffett"
+        ],
+        "topics": [
+          "annual meeting logistics",
+          "shareholder events",
+          "Berkshire subsidiaries products"
+        ],
+        "metrics": [
+          "Annual meeting weekend: Friday April 29 through Sunday May 1 (2022), in Omaha.",
+          "Berkshire shareholders could purchase the Jimmy Buffett pontoon boat at a 10% discount for two days (as described).",
+          "Letter signed February 26, 2022."
+        ]
       },
-      "cross_references": {
-        "related_sections_same_letter": [],
-        "related_years": []
-      },
-      "retrieval_priority": "high",
-      "abstraction_level": "medium",
-      "token_count": 613,
-      "char_count": 3532,
-      "source_span": {
-        "start_char": 36741,
-        "end_char_exclusive": 37041
-      },
-      "standalone_exception": false,
-      "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "themes": [
+        "shareholder community",
+        "annual meeting",
+        "closing remarks"
+      ],
+      "principles": [],
+      "token_count": 187,
+      "char_count": 749
     }
   }
 ]
