@@ -26,7 +26,7 @@ Every chunk MUST match this exact structure. No optional keys. No type variation
   "parent_chunk_id": null,
   "child_chunk_ids": [],
   "content_type": "narrative",
-  "contextual_summary": "1-3 standalone sentences for retrieval.",
+  "contextual_summary": "1-3 standalone sentences that summarize the context of the current chunk for retrieval.",
   "has_table": false,
   "table_data": [],
   "has_financial_data": false,
