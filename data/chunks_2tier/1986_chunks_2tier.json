@@ -1,0 +1,2048 @@
+[
+  {
+    "chunk_id": "1986-S01-T1-001",
+    "content": "To the Shareholders of Berkshire Hathaway Inc.:\n\nOur gain in net worth during 1986 was $492.5 million, or\n26.1%. Over the last 22 years (that is, since present management\ntook over), our per-share book value has grown from $19.46 to\n$2,073.06, or 23.3% compounded annually. Both the numerator and\ndenominator are important in the per-share book value\ncalculation: during the 22-year period our corporate net worth\nhas increased 10,600% while shares outstanding have increased\nless than 1%.\n\nIn past reports I have noted that book value at most\ncompanies differs widely from intrinsic business value - the\nnumber that really counts for owners. In our own case, however,\nbook value has served for more than a decade as a reasonable if\nsomewhat conservative proxy for business value. That is, our\nbusiness value has moderately exceeded our book value, with the\nratio between the two remaining fairly steady.\n\nThe good news is that in 1986 our percentage gain in\nbusiness value probably exceeded the book value gain. I say\n\"probably\" because business value is a soft number: in our own\ncase, two equally well-informed observers might make judgments\nmore than 10% apart.\n\nA large measure of our improvement in business value\nrelative to book value reflects the outstanding performance of\nkey managers at our major operating businesses. These managers -\nthe Blumkins, Mike Goldberg, the Heldmans, Chuck Huggins, Stan\nLipsey, and Ralph Schey - have over the years improved the\nearnings of their businesses dramatically while, except in the\ncase of insurance, utilizing little additional capital. This\naccomplishment builds economic value, or \"Goodwill,\" that does\nnot show up in the net worth figure on our balance sheet, nor in\nour per-share book value. In 1986 this unrecorded gain was\nsubstantial.\n\nSo much for the good news. The bad news is that my\nperformance did not match that of our managers. While they were\ndoing a superb job in running our businesses, I was unable to\nskillfully deploy much of the capital they generated.\n\nCharlie Munger, our Vice Chairman, and I really have only\ntwo jobs. One is to attract and keep outstanding managers to run\nour various operations. This hasnt been all that difficult.\nUsually the managers came with the companies we bought, having\ndemonstrated their talents throughout careers that spanned a wide\nvariety of business circumstances. They were managerial stars\nlong before they knew us, and our main contribution has been to\nnot get in their way. This approach seems elementary: if my job\nwere to manage a golf team - and if Jack Nicklaus or Arnold\nPalmer were willing to play for me - neither would get a lot of\ndirectives from me about how to swing.\n\nSome of our key managers are independently wealthy (we hope\nthey all become so), but that poses no threat to their continued\ninterest: they work because they love what they do and relish the\nthrill of outstanding performance. They unfailingly think like\nowners (the highest compliment we can pay a manager) and find all\naspects of their business absorbing.\n\n(Our prototype for occupational fervor is the Catholic\ntailor who used his small savings of many years to finance a\npilgrimage to the Vatican. When he returned, his parish held a\nspecial meeting to get his first-hand account of the Pope. \"Tell\nus,\" said the eager faithful, \"just what sort of fellow is he?\"\nOur hero wasted no words: \"Hes a forty-four, medium.\")\n\nCharlie and I know that the right players will make almost\nany team manager look good. We subscribe to the philosophy of\nOgilvy & Mathers founding genius, David Ogilvy: \"If each of us\nhires people who are smaller than we are, we shall become a\ncompany of dwarfs. But, if each of us hires people who are\nbigger than we are, we shall become a company of giants.\"\n\nA by-product of our managerial style is the ability it gives\nus to easily expand Berkshires activities. Weve read\nmanagement treatises that specify exactly how many people should\nreport to any one executive, but they make little sense to us.\nWhen you have able managers of high character running businesses\nabout which they are passionate, you can have a dozen or more\nreporting to you and still have time for an afternoon nap.\nConversely, if you have even one person reporting to you who is\ndeceitful, inept or uninterested, you will find yourself with\nmore than you can handle. Charlie and I could work with double\nthe number of managers we now have, so long as they had the rare\nqualities of the present ones.",
+    "metadata": {
+      "letter_year": 1986,
+      "letter_date": "1987-02-27",
+      "source_file": "1986_cleaned.txt",
+      "section_title": "Overview and Capital Allocation",
+      "section_hierarchy": [
+        "Letter Body",
+        "Overview"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "narrative",
+      "contextual_summary": "Buffett contrasts Berkshire’s book value with intrinsic business value and explains why book value has been a conservative proxy for owners. Focus: Berkshire Hathaway; opening detail: To the Shareholders of Berkshire Hathaway Inc: Our gain in net worth during 1986 was $4925 million, or.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "Berkshire Hathaway"
+        ],
+        "people": [
+          "Charlie Munger",
+          "Chuck Huggins",
+          "David Ogilvy",
+          "Mike Goldberg",
+          "Ralph Schey"
+        ],
+        "metrics": [
+          "book value",
+          "business value"
+        ]
+      },
+      "themes": [],
+      "buffett_concepts": [],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1986,
+        "comparison_years": [],
+        "future_outlook": false
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "medium",
+      "abstraction_level": "low",
+      "token_count": 763,
+      "char_count": 4489,
+      "source_span": {
+        "start_char": 0,
+        "end_char_exclusive": 0
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "1986-S01-T1-002",
+    "content": "We intend to continue our practice of working only with\npeople whom we like and admire. This policy not only maximizes\nour chances for good results, it also ensures us an\nextraordinarily good time. On the other hand, working with\npeople who cause your stomach to churn seems much like marrying\nfor money - probably a bad idea under any circumstances, but\nabsolute madness if you are already rich.\n\nThe second job Charlie and I must handle is the allocation\nof capital, which at Berkshire is a considerably more important\nchallenge than at most companies. Three factors make that so: we\nearn more money than average; we retain all that we earn; and, we\nare fortunate to have operations that, for the most part, require\nlittle incremental capital to remain competitive and to grow.\nObviously, the future results of a business earning 23% annually\nand retaining it all are far more affected by todays capital\nallocations than are the results of a business earning 10% and\ndistributing half of that to shareholders. If our retained\nearnings - and those of our major investees, GEICO and Capital\nCities/ABC, Inc. - are employed in an unproductive manner, the\neconomics of Berkshire will deteriorate very quickly. In a\ncompany adding only, say, 5% to net worth annually, capitalallocation decisions, though still important, will change the\ncompanys economics far more slowly.\n\nCapital allocation at Berkshire was tough work in 1986. We\ndid make one business acquisition - The Fechheimer Bros.\nCompany, which we will discuss in a later section. Fechheimer is\na company with excellent economics, run by exactly the kind of\npeople with whom we enjoy being associated. But it is relatively\nsmall, utilizing only about 2% of Berkshires net worth.\n\nMeanwhile, we had no new ideas in the marketable equities\nfield, an area in which once, only a few years ago, we could\nreadily employ large sums in outstanding businesses at very\nreasonable prices. So our main capital allocation moves in 1986\nwere to pay off debt and stockpile funds. Neither is a fate\nworse than death, but they do not inspire us to do handsprings\neither. If Charlie and I were to draw blanks for a few years in\nour capital-allocation endeavors, Berkshires rate of growth\nwould slow significantly.\n\nWe will continue to look for operating businesses that meet\nour tests and, with luck, will acquire such a business every\ncouple of years. But an acquisition will have to be large if it\nis to help our performance materially. Under current stock\nmarket conditions, we have little hope of finding equities to buy\nfor our insurance companies. Markets will change significantly -\nyou can be sure of that and some day we will again get our turn\nat bat. However, we havent the faintest idea when that might\nhappen.\n\nIt cant be said too often (although Im sure you feel Ive\ntried) that, even under favorable conditions, our returns are\ncertain to drop substantially because of our enlarged size. We\nhave told you that we hope to average a return of 15% on equity\nand we maintain that hope, despite some negative tax law changes\ndescribed in a later section of this report. If we are to\nachieve this rate of return, our net worth must increase $7.2\nbillion in the next ten years. A gain of that magnitude will be\npossible only if, before too long, we come up with a few very big\n(and good) ideas. Charlie and I cant promise results, but we do\npromise you that we will keep our efforts focused on our goals.",
+    "metadata": {
+      "letter_year": 1986,
+      "letter_date": "1987-02-27",
+      "source_file": "1986_cleaned.txt",
+      "section_title": "Overview and Capital Allocation",
+      "section_hierarchy": [
+        "Letter Body",
+        "Overview"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "principle_statement",
+      "contextual_summary": "He describes capital allocation as a central challenge at Berkshire and notes the difficulty of finding large, attractive opportunities in 1986. Focus: Fechheimer; opening detail: We intend to continue our practice of working only with people whom we like and admire This policy.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "Fechheimer",
+          "GEICO"
+        ],
+        "people": [],
+        "metrics": []
+      },
+      "themes": [],
+      "buffett_concepts": [],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1986,
+        "comparison_years": [],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "medium",
+      "abstraction_level": "high",
+      "token_count": 598,
+      "char_count": 3451,
+      "source_span": {
+        "start_char": 0,
+        "end_char_exclusive": 0
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "1986-S02-T1-001",
+    "content": "Sources of Reported Earnings\n\nThe table on the next page shows the major sources of\nBerkshires reported earnings. This table differs in several\nways from the one presented last year. We have added four new\nlines of business because of the Scott Fetzer and Fechheimer\nacquisitions. In the case of Scott Fetzer, the two major units\nacquired were World Book and Kirby, and each is presented\nseparately. Fourteen other businesses of Scott Fetzer are\naggregated in Scott Fetzer - Diversified Manufacturing. SF\nFinancial Group, a credit company holding both World Book and\nKirby receivables, is included in \"Other.\" This year, because\nBerkshire is so much larger, we also have eliminated separate\nreporting for several of our smaller businesses.\n\nIn the table, amortization of Goodwill is not charged\nagainst the specific businesses but, for reasons outlined in the\nAppendix to my letter in the 1983 Annual Report, is aggregated as\na separate item. (A Compendium of earlier letters, including the\nGoodwill discussion, is available upon request.) Both the Scott\nFetzer and Fechheimer acquisitions created accounting Goodwill,\nwhich is why the amortization charge for Goodwill increased in\n1986.\n\nAdditionally, the Scott Fetzer acquisition required other\nmajor purchase-price accounting adjustments, as prescribed by\ngenerally accepted accounting principles (GAAP). The GAAP\nfigures, of course, are the ones used in our consolidated\nfinancial statements. But, in our view, the GAAP figures are not\nnecessarily the most useful ones for investors or managers.\nTherefore, the figures shown for specific operating units are\nearnings before purchase-price adjustments are taken into\naccount. In effect, these are the earnings that would have been\nreported by the businesses if we had not purchased them.\n\nA discussion of our reasons for preferring this form of\npresentation is in the Appendix to this letter. This Appendix\nwill never substitute for a steamy novel and definitely is not\nrequired reading. However, I know that among our 6,000\nshareholders there are those who are thrilled by my essays on\naccounting - and I hope that both of you enjoy the Appendix.\n\nIn the Business Segment Data on pages 41-43 and in the\nManagements Discussion section on pages 45-49, you will find\nmuch additional information about our businesses. I urge you to\nread those sections, as well as Charlie Mungers letter to Wesco\nshareholders, describing the various businesses of that\nsubsidiary, which starts on page 50.\n\nAs you can see, operating earnings substantially improved\nduring 1986. Some of the improvement came from the insurance\noperation, whose results I will discuss in a later section.\nFechheimer also will be discussed separately. Our other major\nbusinesses performed as follows:\n\no\nOperating results at The Buffalo News continue to reflect a\ntruly superb managerial job by Stan Lipsey. For the third year\nin a row, man-hours worked fell significantly and other costs\nwere closely controlled. Consequently, our operating margins\nimproved materially in 1986, even though our advertising rate\nincreases were well below those of most major newspapers.\n\nOur cost-control efforts have in no way reduced our\ncommitment to news. We continue to deliver a 50% \"news hole\"\n(the portion of the total space in the paper devoted to news), a\nhigher percentage, we believe, than exists at any dominant\nnewspaper in this country of our size or larger.\n\nThe average news hole at papers comparable to the News is\nabout 40%. The difference between 40% and 50% is more important\nthan it might first seem: a paper with 30 pages of ads and a 40%\nnews hole delivers 20 pages of news a day, whereas our paper\nmatches 30 pages of ads with 30 pages of news. Therefore, given\nad pages equal in number, we end up delivering our readers no\nless than 50% more news.\n\nWe believe this heavy commitment to news is one of the\nreasons The Buffalo News has the highest weekday penetration rate\n(the percentage of households in the papers primary marketing\narea purchasing it each day) among any of the top 50 papers in\nthe country. Our Sunday penetration, where we are also number\none, is even more impressive. Ten years ago, the only Sunday\npaper serving Buffalo (the Courier-Express) had circulation of\n271,000 and a penetration ratio of about 63%. The Courier Express had served the area for many decades and its penetration\nratio - which was similar to those existing in many metropolitan\nmarkets - was thought to be a \"natural\" one, accurately\nreflecting the local citizenrys appetite for a Sunday product.",
+    "metadata": {
+      "letter_year": 1986,
+      "letter_date": "1987-02-27",
+      "source_file": "1986_cleaned.txt",
+      "section_title": "Sources of Reported Earnings",
+      "section_hierarchy": [
+        "Letter Body",
+        "Business Segments",
+        "Sources of Reported Earnings"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [
+        "1986-S02-T2-001"
+      ],
+      "content_type": "principle_statement",
+      "contextual_summary": "Buffett recounts Berkshire’s acquisition of Fechheimer, emphasizing durable economics, owner-oriented managers, and preference for straightforward deals. Focus: Fechheimer; opening detail: Sources of Reported Earnings The table on the next page shows the major sources of Berkshires reported earnings.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "Fechheimer",
+          "Kirby",
+          "Scott Fetzer",
+          "Wesco",
+          "World Book"
+        ],
+        "people": [
+          "Charlie Munger",
+          "Stan Lipsey"
+        ],
+        "metrics": []
+      },
+      "themes": [],
+      "buffett_concepts": [],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1986,
+        "comparison_years": [],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "medium",
+      "abstraction_level": "high",
+      "token_count": 741,
+      "char_count": 4559,
+      "source_span": {
+        "start_char": 0,
+        "end_char_exclusive": 0
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "1986-S02-T1-002",
+    "content": "Our Sunday paper was started in late 1977. It now has a\npenetration ratio of 83% and sells about 100,000 copies more each\nSunday than did the Courier-Express ten years ago - even though\npopulation in our market area has declined during the decade. In\nrecent history, no other city that has long had a local Sunday\npaper has experienced a penetration gain anywhere close to\nBuffalos.\n\nDespite our exceptional market acceptance, our operating\nmargins almost certainly have peaked. A major newsprint price\nincrease took effect at the end of 1986, and our advertising rate\nincreases in 1987 will again be moderate compared to those of the\nindustry. However, even if margins should materially shrink, we\nwould not reduce our news-hole ratio.\n\nAs I write this, it has been exactly ten years since we\npurchased The News. The financial rewards it has brought us have\nfar exceeded our expectations and so, too, have the non-financial\nrewards. Our respect for the News - high when we bought it - has\ngrown consistently ever since the purchase, as has our respect\nand admiration for Murray Light, the editor who turns out the\nproduct that receives such extraordinary community acceptance.\nThe efforts of Murray and Stan, which were crucial to the News\nduring its dark days of financial reversals and litigation, have\nnot in the least been lessened by prosperity. Charlie and I are\ngrateful to them.\n\no\nThe amazing Blumkins continue to perform business miracles\nat Nebraska Furniture Mart. Competitors come and go (mostly go),\nbut Mrs. B. and her progeny roll on. In 1986 net sales increased\n10.2% to $132 million. Ten years ago sales were $44 million and,\neven then, NFM appeared to be doing just about all of the\nbusiness available in the Greater Omaha Area. Given NFMs\nremarkable dominance, Omahas slow growth in population and the\nmodest inflation rates that have applied to the goods NFM sells,\nhow can this operation continue to rack up such large sales\ngains? The only logical explanation is that the marketing\nterritory of NFMs one-and-only store continues to widen because\nof its ever-growing reputation for rock-bottom everyday prices\nand the broadest of selections. In preparation for further\ngains, NFM is expanding the capacity of its warehouse, located a\nfew hundred yards from the store, by about one-third.\n\nMrs. B, Chairman of Nebraska Furniture Mart, continues at\nage 93 to outsell and out-hustle any manager Ive ever seen.\nShes at the store seven days a week, from opening to close.\nCompeting with her represents a triumph of courage over judgment.\n\nIts easy to overlook what I consider to be the critical\nlesson of the Mrs. B saga: at 93, Omaha based Board Chairmen have\nyet to reach their peak. Please file this fact away to consult\nbefore you mark your ballot at the 2024 annual meeting of\nBerkshire.\n\no\nAt Sees, sales trends improved somewhat from those of\nrecent years. Total pounds sold rose about 2%. (For you\nchocaholics who like to fantasize, one statistic: we sell over\n12,000 tons annually.) Same-store sales, measured in pounds, were\nvirtually unchanged. In the previous six years, same store\npoundage fell, and we gained or maintained poundage volume only\nby adding stores. But a particularly strong Christmas season in\n1986 stemmed the decline. By stabilizing same-store volume and\nmaking a major effort to control costs, Sees was able to\nmaintain its excellent profit margin in 1986 though it put\nthrough only minimal price increases. We have Chuck Huggins, our\nlong-time manager at Sees, to thank for this significant\nachievement.\n\nSees has a one-of-a-kind product \"personality\" produced by\na combination of its candys delicious taste and moderate price,\nthe companys total control of the distribution process, and the\nexceptional service provided by store employees. Chuck\nrightfully measures his success by the satisfaction of our\ncustomers, and his attitude permeates the organization. Few\nmajor retailing companies have been able to sustain such a\ncustomer-oriented spirit, and we owe Chuck a great deal for\nkeeping it alive and well at Sees.\n\nSees profits should stay at about their present level. We\nwill continue to increase prices very modestly, merely matching\nprospective cost increases.\n\no\nWorld Book is the largest of 17 Scott Fetzer operations\nthat joined Berkshire at the beginning of 1986. Last year I\nreported to you enthusiastically about the businesses of Scott\nFetzer and about Ralph Schey, its manager. A years experience\nhas added to my enthusiasm for both. Ralph is a superb\nbusinessman and a straight shooter. He also brings exceptional\nversatility and energy to his job: despite the wide array of\nbusinesses that he manages, he is on top of the operations,\nopportunities and problems of each. And, like our other\nmanagers, Ralph is a real pleasure to work with. Our good\nfortune continues.",
+    "metadata": {
+      "letter_year": 1986,
+      "letter_date": "1987-02-27",
+      "source_file": "1986_cleaned.txt",
+      "section_title": "Sources of Reported Earnings",
+      "section_hierarchy": [
+        "Letter Body",
+        "Business Segments",
+        "Sources of Reported Earnings"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "narrative",
+      "contextual_summary": "Key points from the 'Sources of Reported Earnings' portion of the letter are summarized with emphasis on decisions, results, and forward-looking implications. Focus: Nebraska Furniture Mart; opening detail: Our Sunday paper was started in late 1977 It now has a penetration ratio of 83% and sells.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "Nebraska Furniture Mart",
+          "Scott Fetzer",
+          "World Book"
+        ],
+        "people": [
+          "Chuck Huggins",
+          "Mrs. B.",
+          "Ralph Schey"
+        ],
+        "metrics": []
+      },
+      "themes": [],
+      "buffett_concepts": [],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1986,
+        "comparison_years": [],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "medium",
+      "abstraction_level": "low",
+      "token_count": 799,
+      "char_count": 4836,
+      "source_span": {
+        "start_char": 0,
+        "end_char_exclusive": 0
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "1986-S02-T1-003",
+    "content": "World Books unit volume increased for the fourth\nconsecutive year, with encyclopedia sales up 7% over 1985 and 45%\nover 1982. Childcrafts unit sales also grew significantly.\n\nWorld Book continues to dominate the U. S. direct-sales\nencyclopedia market - and for good reasons. Extraordinarily\nwell-edited and priced at under 5 cents per page, these books are\na bargain for youngster and adult alike. You may find one\nediting technique interesting: World Book ranks over 44,000 words\nby difficulty. Longer entries in the encyclopedia include only\nthe most easily comprehended words in the opening sections, with\nthe difficulty of the material gradually escalating as the\nexposition proceeds. As a result, youngsters can easily and\nprofitably read to the point at which subject matter gets too\ndifficult, instead of immediately having to deal with a\ndiscussion that mixes up words requiring college-level\ncomprehension with others of fourth-grade level.\n\nSelling World Book is a calling. Over one-half of our\nactive salespeople are teachers or former teachers, and another\n5% have had experience as librarians. They correctly think of\nthemselves as educators, and they do a terrific job. If you\ndont have a World Book set in your house, I recommend one.\n\no\nKirby likewise recorded its fourth straight year of unit\nvolume gains. Worldwide, unit sales grew 4% from 1985 and 33%\nfrom 1982. While the Kirby product is more expensive than most\ncleaners, it performs in a manner that leaves cheaper units far\nbehind (\"in the dust,\" so to speak). Many 30- and 40-year-old\nKirby cleaners are still in active duty. If you want the best,\nyou buy a Kirby.\n\nSome companies that historically have had great success in\ndirect sales have stumbled in recent years. Certainly the era of\nthe working woman has created new challenges for direct sales\norganizations. So far, the record shows that both Kirby and\nWorld Book have responded most successfully.\n\nThe businesses described above, along with the insurance\noperation and Fechheimer, constitute our major business units.\nThe brevity of our descriptions is in no way meant to diminish\nthe importance of these businesses to us. All have been\ndiscussed in past annual reports and, because of the tendency of\nBerkshire owners to stay in the fold (about 98% of the stock at\nthe end of each year is owned by people who were owners at the\nstart of the year), we want to avoid undue repetition of basic\nfacts. You can be sure that we will immediately report to you in\ndetail if the underlying economics or competitive position of any\nof these businesses should materially change. In general, the\nbusinesses described in this section can be characterized as\nhaving very strong market positions, very high returns on capital\nemployed, and the best of operating managements.",
+    "metadata": {
+      "letter_year": 1986,
+      "letter_date": "1987-02-27",
+      "source_file": "1986_cleaned.txt",
+      "section_title": "Sources of Reported Earnings",
+      "section_hierarchy": [
+        "Letter Body",
+        "Business Segments",
+        "Sources of Reported Earnings"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "principle_statement",
+      "contextual_summary": "Buffett recounts Berkshire’s acquisition of Fechheimer, emphasizing durable economics, owner-oriented managers, and preference for straightforward deals. Focus: Fechheimer; opening detail: World Books unit volume increased for the fourth consecutive year, with encyclopedia sales up 7% over 1985 and.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "Fechheimer",
+          "Kirby",
+          "World Book"
+        ],
+        "people": [],
+        "metrics": []
+      },
+      "themes": [],
+      "buffett_concepts": [],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1986,
+        "comparison_years": [],
+        "future_outlook": false
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "medium",
+      "abstraction_level": "high",
+      "token_count": 460,
+      "char_count": 2796,
+      "source_span": {
+        "start_char": 0,
+        "end_char_exclusive": 0
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "1986-S02-T2-001",
+    "content": "The table on the next page shows the major sources of\nBerkshires reported earnings. This table differs in several\nways from the one presented last year. We have added four new\nlines of business because of the Scott Fetzer and Fechheimer\nacquisitions. In the case of Scott Fetzer, the two major units\nacquired were World Book and Kirby, and each is presented\nseparately. Fourteen other businesses of Scott Fetzer are\naggregated in Scott Fetzer - Diversified Manufacturing. SF\nFinancial Group, a credit company holding both World Book and\nKirby receivables, is included in \"Other.\" This year, because\nBerkshire is so much larger, we also have eliminated separate\nreporting for several of our smaller businesses.\n\n(000 s omitted)\n------------------------------------------\nBerkshire's Share\nof Net Earnings\n(after taxes and\nPre-Tax Earnings minority interests)\n------------------- -------------------\n1986 1985 1986 1985\n\n-------- -------- -------- --------\nOperating Earnings:\nInsurance Group:\nUnderwriting ............... $(55,844) $(44,230) $(29,864) $(23,569)\nNet Investment Income ...... 107,143 95,217 96,440 79,716\nBuffalo News ................. 34,736 29,921 16,918 14,580\nFechheimer (Acquired 6/3/86) 8,400 --- 3,792 ---\nKirby ........................ 20,218 --- 10,508 ---\nNebraska Furniture Mart ...... 17,685 12,686 7,192 5,181\nScott Fetzer - Diversified Mfg. 25,358 --- 13,354 ---\nSees Candies ................ 30,347 28,989 15,176 14,558\nWesco - other than insurance 5,542 16,018 5,550 9,684\nWorld Book ................... 21,978 --- 11,670 ---\nAmortization of Goodwill (2,555) (1,475) (2,555) (1,475)\nOther purchase-price\naccounting charges ........ (10,033) --- (11,031) ---\nInterest on Debt and\nPre-Payment penalty ....... (23,891) (14,415) (12,213) (7,288)\nShareholder-Designated\nContributions ............. (3,997) (4,006) (2,158) (2,164)\nOther ........................ 20,770 6,744 8,685 3,725\n-------- -------- -------- --------\nOperating Earnings ............. 195,857 125,449 131,464 92,948\nSpecial General Foods\nDistribution ................ --- 4,127 --- 3,779\nSpecial Washington Post\nDistribution ................ --- 14,877 --- 13,851\nSales of securities ............ 216,242 468,903 150,897 325,237\n-------- -------- -------- --------\nTotal Earnings - all entities .. $412,099 $613,356 $282,361 $435,815\n======== ======== ======== ========\n\nAs you can see, operating earnings substantially improved\nduring 1986. Some of the improvement came from the insurance\noperation, whose results I will discuss in a later section.\nFechheimer also will be discussed separately. Our other major\nbusinesses performed as follows:",
+    "metadata": {
+      "letter_year": 1986,
+      "letter_date": "1987-02-27",
+      "source_file": "1986_cleaned.txt",
+      "section_title": "Sources of Reported Earnings",
+      "section_hierarchy": [
+        "Letter Body",
+        "Business Segments",
+        "Sources of Reported Earnings"
+      ],
+      "chunk_tier": 2,
+      "parent_chunk_id": "1986-S02-T1-001",
+      "child_chunk_ids": [],
+      "content_type": "financial_table",
+      "contextual_summary": "Buffett outlines how the 1986 tax law changes corporate and shareholder outcomes, with mixed effects across Berkshire’s businesses and investments.",
+      "has_table": true,
+      "table_data": [
+        {
+          "table_name": "Sources of Reported Earnings",
+          "summary": "Parsed table: Sources of Reported Earnings.",
+          "columns": [
+            "Item",
+            "Pre-Tax 1986",
+            "Pre-Tax 1985",
+            "Net 1986",
+            "Net 1985"
+          ],
+          "rows": [
+            [
+              "Net Investment Income ",
+              "107,143",
+              "95,217",
+              "96,440",
+              "79,716"
+            ],
+            [
+              "Buffalo News ",
+              "34,736",
+              "29,921",
+              "16,918",
+              "14,580"
+            ],
+            [
+              "Fechheimer (Acquired 6/3/86)",
+              "8,400",
+              "---",
+              "3,792",
+              "---"
+            ],
+            [
+              "Kirby ",
+              "20,218",
+              "---",
+              "10,508",
+              "---"
+            ],
+            [
+              "Nebraska Furniture Mart ",
+              "17,685",
+              "12,686",
+              "7,192",
+              "5,181"
+            ],
+            [
+              "Scott Fetzer - Diversified Mfg",
+              "25,358",
+              "---",
+              "13,354",
+              "---"
+            ],
+            [
+              "Sees Candies ",
+              "30,347",
+              "28,989",
+              "15,176",
+              "14,558"
+            ],
+            [
+              "Wesco - other than insurance",
+              "5,542",
+              "16,018",
+              "5,550",
+              "9,684"
+            ],
+            [
+              "World Book ",
+              "21,978",
+              "---",
+              "11,670",
+              "---"
+            ],
+            [
+              "Amortization of Goodwill",
+              "2,555",
+              "1,475",
+              "2,555",
+              "1,475"
+            ],
+            [
+              "accounting charges ",
+              "10,033",
+              "---",
+              "11,031",
+              "---"
+            ],
+            [
+              "Pre-Payment penalty ",
+              "23,891",
+              "14,415",
+              "12,213",
+              "7,288"
+            ],
+            [
+              "Contributions ",
+              "3,997",
+              "4,006",
+              "2,158",
+              "2,164"
+            ],
+            [
+              "Other ",
+              "20,770",
+              "6,744",
+              "8,685",
+              "3,725"
+            ],
+            [
+              "Operating Earnings ",
+              "195,857",
+              "125,449",
+              "131,464",
+              "92,948"
+            ],
+            [
+              "Sales of securities ",
+              "216,242",
+              "468,903",
+              "150,897",
+              "325,237"
+            ],
+            [
+              "Total Earnings - all entities ",
+              "412,099",
+              "613,356",
+              "282,361",
+              "435,815"
+            ]
+          ],
+          "row_count": 17
+        }
+      ],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "Fechheimer",
+          "Kirby",
+          "Nebraska Furniture Mart",
+          "Scott Fetzer",
+          "Wesco",
+          "World Book"
+        ],
+        "people": [],
+        "metrics": [
+          "underwriting"
+        ]
+      },
+      "themes": [],
+      "buffett_concepts": [],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1986,
+        "comparison_years": [],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "low",
+      "token_count": 354,
+      "char_count": 2639,
+      "source_span": {
+        "start_char": 10434,
+        "end_char_exclusive": 12087
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "1986-S03-T1-001",
+    "content": "The Fechheimer Bros. Co.\n\nEvery year in Berkshires annual report I include a\ndescription of the kind of business that we would like to buy.\nThis \"ad\" paid off in 1986.\n\nOn January 15 th of last year I received a letter from Bob\nHeldman of Cincinnati, a shareholder for many years and also\nChairman of Fechheimer Bros. Until I read the letter, however, I\ndid not know of either Bob or Fechheimer. Bob wrote that he ran\na company that met our tests and suggested that we get together,\nwhich we did in Omaha after their results for 1985 were compiled.\n\nHe filled me in on a little history: Fechheimer, a uniform\nmanufacturing and distribution business, began operations in\n1842. Warren Heldman, Bobs father, became involved in the\nbusiness in 1941 and his sons, Bob and George (now President),\nalong with their sons, subsequently joined the company. Under\nthe Heldmans management, the business was highly successful.\n\nIn 1981 Fechheimer was sold to a group of venture\ncapitalists in a leveraged buy out (an LBO), with management\nretaining an equity interest. The new company, as is the case\nwith all LBOS, started with an exceptionally high debt/equity\nratio. After the buy out, however, operations continued to be\nvery successful. So by the start of last year debt had been paid\ndown substantially and the value of the equity had increased\ndramatically. For a variety of reasons, the venture capitalists\nwished to sell and Bob, having dutifully read Berkshires annual\nreports, thought of us.\n\nFechheimer is exactly the sort of business we like to buy.\nIts economic record is superb; its managers are talented, highgrade, and love what they do; and the Heldman family wanted to\ncontinue its financial interest in partnership with us.\nTherefore, we quickly purchased about 84% of the stock for a\nprice that was based upon a $55 million valuation for the entire\nbusiness.\n\nThe circumstances of this acquisition were similar to those\nprevailing in our purchase of Nebraska Furniture Mart: most of\nthe shares were held by people who wished to employ funds\nelsewhere; family members who enjoyed running their business\nwanted to continue both as owners and managers; several\ngenerations of the family were active in the business, providing\nmanagement for as far as the eye can see; and the managing family\nwanted a purchaser who would not re-sell, regardless of price,\nand who would let the business be run in the future as it had\nbeen in the past. Both Fechheimer and NFM were right for us, and\nwe were right for them.",
+    "metadata": {
+      "letter_year": 1986,
+      "letter_date": "1987-02-27",
+      "source_file": "1986_cleaned.txt",
+      "section_title": "The Fechheimer Bros. Co.",
+      "section_hierarchy": [
+        "Letter Body",
+        "Business Segments",
+        "Fechheimer"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "narrative",
+      "contextual_summary": "Buffett recounts Berkshire’s acquisition of Fechheimer, emphasizing durable economics, owner-oriented managers, and preference for straightforward deals. Focus: Fechheimer; opening detail: The Fechheimer Bros Co Every year in Berkshires annual report I include a description of the kind of.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "Fechheimer",
+          "Nebraska Furniture Mart"
+        ],
+        "people": [],
+        "metrics": []
+      },
+      "themes": [],
+      "buffett_concepts": [],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1986,
+        "comparison_years": [],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "medium",
+      "abstraction_level": "low",
+      "token_count": 429,
+      "char_count": 2510,
+      "source_span": {
+        "start_char": 0,
+        "end_char_exclusive": 0
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "1986-S03-T1-002",
+    "content": "You may be amused to know that neither Charlie nor I have\nbeen to Cincinnati, headquarters for Fechheimer, to see their\noperation. (And, incidentally, it works both ways: Chuck Huggins,\nwho has been running Sees for 15 years, has never been to\nOmaha.) If our success were to depend upon insights we developed\nthrough plant inspections, Berkshire would be in big trouble.\nRather, in considering an acquisition, we attempt to evaluate the\neconomic characteristics of the business - its competitive\nstrengths and weaknesses - and the quality of the people we will\nbe joining. Fechheimer was a standout in both respects. In\naddition to Bob and George Heldman, who are in their mid-60 s -\nspring chickens by our standards - there are three members of the\nnext generation, Gary, Roger and Fred, to insure continuity.\n\nAs a prototype for acquisitions, Fechheimer has only one\ndrawback: size. We hope our next acquisition is at least several\ntimes as large but a carbon copy in all other respects. Our\nthreshold for minimum annual after-tax earnings of potential\nacquisitions has been moved up to $10 million from the $5 million\nlevel that prevailed when Bob wrote to me.\n\nFlushed with success, we repeat our ad. If you have a\nbusiness that fits, call me or, preferably, write.\n\nHeres what were looking for:\n(1) large purchases (at least $10 million of after-tax\nearnings),\n(2) demonstrated consistent earning power (future\nprojections are of little interest to us, nor are\n\"turn-around\" situations),\n(3) businesses earning good returns on equity while\nemploying little or no debt.\n(4) management in place (we cant supply it),\n(5) simple businesses (if theres lots of technology, we\nwont understand it),\n(6) an offering price (we dont want to waste our time\nor that of the seller by talking, even preliminarily,\nabout a transaction when price is unknown).\n\nWe will not engage in unfriendly takeovers. We can promise\ncomplete confidentiality and a very fast answer - customarily\nwithin five minutes - as to whether were interested. We prefer\nto buy for cash, but will consider issuing stock when we receive\nas much in intrinsic business value as we give. Indeed,\nfollowing recent advances in the price of Berkshire stock,\ntransactions involving stock issuance may be quite feasible. We\ninvite potential sellers to check us out by contacting people\nwith whom we have done business in the past. For the right\nbusiness - and the right people - we can provide a good home.\n\nOn the other hand, we frequently get approached about\nacquisitions that dont come close to meeting our tests: new\nventures, turnarounds, auction-like sales, and the ever-popular\n(among brokers) \"Im-sure-something-will-work-out-if-you-peopleget-to-know-each-other.\" None of these attracts us in the least.\n\n* * *\n\nBesides being interested in the purchases of entire\nbusinesses as described above, we are also interested in the\nnegotiated purchase of large, but not controlling, blocks of\nstock, as in our Cap Cities purchase. Such purchases appeal to\nus only when we are very comfortable with both the economics of\nthe business and the ability and integrity of the people running\nthe operation. We prefer large transactions: in the unusual case\nwe might do something as small as $50 million (or even smaller),\nbut our preference is for commitments many times that size.",
+    "metadata": {
+      "letter_year": 1986,
+      "letter_date": "1987-02-27",
+      "source_file": "1986_cleaned.txt",
+      "section_title": "The Fechheimer Bros. Co.",
+      "section_hierarchy": [
+        "Letter Body",
+        "Business Segments",
+        "Fechheimer"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "principle_statement",
+      "contextual_summary": "Buffett contrasts Berkshire’s book value with intrinsic business value and explains why book value has been a conservative proxy for owners. Focus: Fechheimer; opening detail: You may be amused to know that neither Charlie nor I have been to Cincinnati, headquarters for Fechheimer,.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "Fechheimer"
+        ],
+        "people": [
+          "Chuck Huggins",
+          "George Heldman"
+        ],
+        "metrics": [
+          "business value"
+        ]
+      },
+      "themes": [],
+      "buffett_concepts": [],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1986,
+        "comparison_years": [],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "medium",
+      "abstraction_level": "high",
+      "token_count": 545,
+      "char_count": 3329,
+      "source_span": {
+        "start_char": 0,
+        "end_char_exclusive": 0
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": "Merged backward to satisfy minimum token threshold.",
+      "merged_from": [
+        "1986-S03-T1-003"
+      ]
+    }
+  },
+  {
+    "chunk_id": "1986-S04-T1-001",
+    "content": "Insurance Operations\n\nWe present our usual table of industry figures, expanded\nthis year to include data about incurred losses and the GNP\ninflation index. The contrast in 1986 between the growth in\npremiums and growth in incurred losses will show you why\nunderwriting results for the year improved materially:\n\nThe combined ratio represents total insurance costs (losses\nincurred plus expenses) compared to revenue from premiums: a\nratio below 100 indicates an underwriting profit, and one above\n100 indicates a loss. When the investment income that an insurer\nearns from holding on to policyholders funds (\"the float\") is\ntaken into account, a combined ratio in the 107-112 range\ntypically produces an overall break-even result, exclusive of\nearnings on the funds provided by shareholders.\n\nThe math of the insurance business, encapsulated by the\ntable, is not very complicated. In years when the industrys\nannual gain in revenues (premiums) pokes along at 4% or 5%,\nunderwriting losses are sure to mount. This is not because auto\naccidents, fires, windstorms and the like are occurring more\nfrequently, nor has it lately been the fault of general\ninflation. Today, social and judicial inflation are the major\nculprits; the cost of entering a courtroom has simply ballooned.\nPart of the jump in cost arises from skyrocketing verdicts, and\npart from the tendency of judges and juries to expand the\ncoverage of insurance policies beyond that contemplated by the\ninsurer when the policies were written. Seeing no let-up in\neither trend, we continue to believe that the industrys revenues\nmust grow at close to 10% annually for it to just hold its own\nin terms of profitability, even though general inflation may be\nrunning only 2% - 4%.\n\nIn 1986, as noted, the industrys premium volume soared even\nfaster than loss costs. Consequently, the underwriting loss of\nthe industry fell dramatically. In last years report we\npredicted this sharp improvement but also predicted that\nprosperity would be fleeting. Alas, this second prediction is\nalready proving accurate. The rate of gain in the industrys\npremium volume has slowed significantly (from an estimated 27.1%\nin 1986 s first quarter, to 23.5% in the second, to 21.8% in the\nthird, to 18.7% in the fourth), and we expect further slowing in\n1987. Indeed, the rate of gain may well fall below my 10%\n\"equilibrium\" figure by the third quarter.\n\nNevertheless, underwriting results in 1987, assuming they\nare not dragged down by a major natural catastrophe, will again\nimprove materially because price increases are recognized in\nrevenues on a lagged basis. In effect, the good news in earnings\nfollows the good news in prices by six to twelve months. But the\nimproving trend in earnings will probably end by late 1988 or\nearly 1989. Thereafter the industry is likely to head south in a\nhurry.\n\nPricing behavior in the insurance industry continues to be\nexactly what can be expected in a commodity-type business. Only\nunder shortage conditions are high profits achieved, and such\nconditions dont last long. When the profit sun begins to shine,\nlong-established insurers shower investors with new shares in\norder to build capital. In addition, newly-formed insurers rush\nto sell shares at the advantageous prices available in the newissue market (prices advantageous, that is, to the insiders\npromoting the company but rarely to the new shareholders). These\nmoves guarantee future trouble: capacity soars, competitive\njuices flow, and prices fade.\n\nIts interesting to observe insurance leaders beseech their\ncolleagues to behave in a more \"statesmanlike\" manner when\npricing policies. \"Why,\" they ask, \"cant we learn from history,\neven out the peaks and valleys, and consistently price to make\nreasonable profits?\" What they wish, of course, is pricing that\nresembles, say, that of The Wall Street journal, whose prices are\nample to start with and rise consistently each year.\n\nSuch calls for improved behavior have all of the efficacy of\nthose made by a Nebraska corn grower asking his fellow growers,\nworldwide, to market their corn with more statesmanship. Whats\nneeded is not more statesmen, but less corn. By raising large\namounts of capital in the last two years, the insurance industry\nhas, to continue our metaphor, vastly expanded its plantings of\ncorn. The resulting increase in \"crop\" - i. e., the proliferation\nof insurance capacity - will have the same effect on prices and\nprofits that surplus crops have had since time immemorial.\n\nOur own insurance operation did well in 1986 and is also\nlikely to do well in 1987. We have benefited significantly from\nindustry conditions. But much of our prosperity arises from the\nefforts and ability of Mike Goldberg, manager of all insurance\noperations.",
+    "metadata": {
+      "letter_year": 1986,
+      "letter_date": "1987-02-27",
+      "source_file": "1986_cleaned.txt",
+      "section_title": "Insurance Operations",
+      "section_hierarchy": [
+        "Letter Body",
+        "Insurance",
+        "Insurance Operations"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [
+        "1986-S04-T2-001"
+      ],
+      "content_type": "narrative",
+      "contextual_summary": "The letter explains how industry pricing cycles affect underwriting results and summarizes Berkshire’s improved combined ratio and premium growth. Focus: combined ratio; opening detail: Insurance Operations We present our usual table of industry figures, expanded this year to include data about incurred.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [],
+        "people": [
+          "Mike Goldberg"
+        ],
+        "metrics": [
+          "combined ratio",
+          "float",
+          "incurred losses",
+          "premiums",
+          "underwriting"
+        ]
+      },
+      "themes": [],
+      "buffett_concepts": [],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1986,
+        "comparison_years": [],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "medium",
+      "abstraction_level": "low",
+      "token_count": 767,
+      "char_count": 4750,
+      "source_span": {
+        "start_char": 0,
+        "end_char_exclusive": 0
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "1986-S04-T1-002",
+    "content": "Our combined ratio (on a statutory basis and excluding\nstructured settlements and financial reinsurance) fell from 111\nin 1985 to 103 in 1986. In addition, our premium growth has been\nexceptional: although final figures arent available, I believe\nthat over the past two years we were the fastest growing company\namong the countrys top 100 insurers. Some of our growth, it is\ntrue, came from our large quota-share contract with Firemans\nFund, described in last years report and updated in Charlies\nletter on page 54. But even if the premiums from that contract\nare excluded from the calculation, we probably still ranked first\nin growth.\n\nInterestingly, we were the slowest-growing large insurer in\nthe years immediately preceding 1985. In fact, we shrank - and\nwe will do so again from time to time in the future. Our large\nswings in volume do not mean that we come and go from the\ninsurance marketplace. Indeed, we are its most steadfast\nparticipant, always standing ready, at prices we believe\nadequate, to write a wide variety of high-limit coverages. The\nswings in our volume arise instead from the here-today, gonetomorrow behavior of other insurers. When most insurers are\n\"gone,\" because their capital is inadequate or they have been\nfrightened by losses, insureds rush to us and find us ready to\ndo business. But when hordes of insurers are \"here,\" and are\nslashing prices far below expectable costs, many customers\nnaturally leave us in order to take advantage of the bargains\ntemporarily being offered by our competition.\n\nOur firmness on prices works no hardship on the consumer: he\nis being bombarded by attractively priced insurance offers at\nthose times when we are doing little business. And it works no\nhardship on our employees: we dont engage in layoffs when we\nexperience a cyclical slowdown at one of our generally-profitable\ninsurance operations. This no-layoff practice is in our selfinterest. Employees who fear that large layoffs will accompany\nsizable reductions in premium volume will understandably produce\nscads of business through thick and thin (mostly thin).\n\nThe trends in National Indemnitys traditional business -\nthe writing of commercial auto and general liability policies\nthrough general agents - suggest how gun-shy other insurers\nbecame for a while and how brave they are now getting. In the\nlast quarter of 1984, NICOs monthly volume averaged $5 million,\nabout what it had been running for several years. By the first\nquarter of 1986, monthly volume had climbed to about $35 million.\nIn recent months, a sharp decline has set in. Monthly volume is\ncurrently about $20 million and will continue to fall as new\ncompetitors surface and prices are cut. Ironically, the managers\nof certain major new competitors are the very same managers that\njust a few years ago bankrupted insurers that were our old\ncompetitors. Through state-mandated guaranty funds, we must pay\nsome of the losses these managers left unpaid, and now we find\nthem writing the same sort of business under a new name. Cest\nla guerre.\n\nThe business we call \"large risks\" expanded significantly\nduring 1986, and will be important to us in the future. In this\noperation, we regularly write policies with annual premiums of $1\n- $3 million, or even higher. This business will necessarily be\nhighly volatile - both in volume and profitability - but our\npremier capital position and willingness to write large net lines\nmake us a very strong force in the market when prices are right.\nOn the other hand, our structured settlement business has become\nnear-dormant because present prices make no sense to us.\n\nThe 1986 loss reserve development of our insurance group is\nchronicled on page 46. The figures show the amount of error in\nour yearend 1985 liabilities that a year of settlements and\nfurther evaluation has revealed. As you can see, what I told you\nlast year about our loss liabilities was far from true - and that\nmakes three years in a row of error. If the physiological rules\nthat applied to Pinocchio were to apply to me, my nose would now\ndraw crowds.\n\nWhen insurance executives belatedly establish proper\nreserves, they often speak of \"reserve strengthening,\" a term\nthat has a rather noble ring to it. They almost make it sound as\nif they are adding extra layers of strength to an already-solid\nbalance sheet. Thats not the case: instead the term is a\neuphemism for what should more properly be called \"correction of\nprevious untruths\" (albeit non-intentional ones).\n\nWe made a special effort at the end of 1986 to reserve\naccurately. However, we tried just as hard at the end of 1985.\nOnly time will tell whether we have finally succeeded in\ncorrectly estimating our insurance liabilities.",
+    "metadata": {
+      "letter_year": 1986,
+      "letter_date": "1987-02-27",
+      "source_file": "1986_cleaned.txt",
+      "section_title": "Insurance Operations",
+      "section_hierarchy": [
+        "Letter Body",
+        "Insurance",
+        "Insurance Operations"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "mistake_confession",
+      "contextual_summary": "The letter explains how industry pricing cycles affect underwriting results and summarizes Berkshire’s improved combined ratio and premium growth. Focus: National Indemnity; opening detail: Our combined ratio (on a statutory basis and excluding structured settlements and financial reinsurance) fell from 111 in.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "National Indemnity"
+        ],
+        "people": [],
+        "metrics": [
+          "combined ratio",
+          "premiums"
+        ]
+      },
+      "themes": [],
+      "buffett_concepts": [],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1986,
+        "comparison_years": [],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "medium",
+      "abstraction_level": "low",
+      "token_count": 783,
+      "char_count": 4703,
+      "source_span": {
+        "start_char": 0,
+        "end_char_exclusive": 0
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "1986-S04-T1-003",
+    "content": "Despite the difficulties we have had in reserving and the\ncommodity economics of the industry, we expect our insurance\nbusiness to both grow and make significant amounts of money - but\nprogress will be distinctly irregular and there will be major\nunpleasant surprises from time to time. Its a treacherous\nbusiness and a wary attitude is essential. We must heed Woody\nAllen: \"While the lamb may lie down with the lion, the lamb\nshouldnt count on getting a whole lot of sleep.\"\n\nIn our insurance operations we have an advantage in\nattitude, we have an advantage in capital, and we are developing\nan advantage in personnel. Additionally, I like to think we have\nsome long-term edge in investing the float developed from\npolicyholder funds. The nature of the business suggests that we\nwill need all of these advantages in order to prosper.\n\n* * *\n\nGEICO Corporation, 41% owned by Berkshire, had an\noutstanding year in 1986. Industrywide, underwriting experience\nin personal lines did not improve nearly as much as it did in\ncommercial lines. But GEICO, writing personal lines almost\nexclusively, improved its combined ratio to 96.9 and recorded a\n16% gain in premium volume. GEICO also continued to repurchase\nits own shares and ended the year with 5.5% fewer shares\noutstanding than it had at the start of the year. Our share of\nGEICOs premium volume is over $500 million, close to double that\nof only three years ago. GEICOs book of business is one of the\nbest in the world of insurance, far better indeed than\nBerkshires own book.\n\nThe most important ingredient in GEICOs success is rockbottom operating costs, which set the company apart from\nliterally hundreds of competitors that offer auto insurance. The\ntotal of GEICOs underwriting expense and loss adjustment expense\nin 1986 was only 23.5% of premiums. Many major companies show\npercentages 15 points higher than that. Even such huge direct\nwriters as Allstate and State Farm incur appreciably higher costs\nthan does GEICO.\n\nThe difference between GEICOs costs and those of its\ncompetitors is a kind of moat that protects a valuable and muchsought-after business castle. No one understands this moataround-the-castle concept better than Bill Snyder, Chairman of\nGEICO. He continually widens the moat by driving down costs\nstill more, thereby defending and strengthening the economic\nfranchise. Between 1985 and 1986, GEICOs total expense ratio\ndropped from 24.1% to the 23.5% mentioned earlier and, under\nBills leadership, the ratio is almost certain to drop further.\nIf it does - and if GEICO maintains its service and underwriting\nstandards - the companys future will be brilliant indeed.\n\nThe second stage of the GEICO rocket is fueled by Lou\nSimpson, Vice Chairman, who has run the companys investments\nsince late 1979. Indeed, its a little embarrassing for me, the\nfellow responsible for investments at Berkshire, to chronicle\nLous performance at GEICO. Only my ownership of a controlling\nblock of Berkshire stock makes me secure enough to give you the\nfollowing figures, comparing the overall return of the equity\nportfolio at GEICO to that of the Standard & Poors 500:\n\nYear GEICOs Equities S&P 500\n---- ---------------- -------\n\n1980 .................. 23.7% 32.3%\n1981 .................. 5.4 (5.0)\n1982 .................. 45.8 21.4\n1983 .................. 36.0 22.4\n1984 .................. 21.8 6.2\n1985 .................. 45.8 31.6\n1986 .................. 38.7 18.6\n\nThese are not only terrific figures but, fully as important,\nthey have been achieved in the right way. Lou has consistently\ninvested in undervalued common stocks that, individually, were\nunlikely to present him with a permanent loss and that,\ncollectively, were close to risk-free.\n\nIn sum, GEICO is an exceptional business run by exceptional\nmanagers. We are fortunate to be associated with them.",
+    "metadata": {
+      "letter_year": 1986,
+      "letter_date": "1987-02-27",
+      "source_file": "1986_cleaned.txt",
+      "section_title": "Insurance Operations",
+      "section_hierarchy": [
+        "Letter Body",
+        "Insurance",
+        "Insurance Operations"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "principle_statement",
+      "contextual_summary": "The letter explains how industry pricing cycles affect underwriting results and summarizes Berkshire’s improved combined ratio and premium growth. Focus: Allstate; opening detail: Despite the difficulties we have had in reserving and the commodity economics of the industry, we expect our.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "Allstate",
+          "GEICO",
+          "State Farm"
+        ],
+        "people": [
+          "Bill Snyder"
+        ],
+        "metrics": [
+          "combined ratio",
+          "float",
+          "premiums",
+          "underwriting"
+        ]
+      },
+      "themes": [],
+      "buffett_concepts": [],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1986,
+        "comparison_years": [],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "medium",
+      "abstraction_level": "high",
+      "token_count": 614,
+      "char_count": 3830,
+      "source_span": {
+        "start_char": 0,
+        "end_char_exclusive": 0
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "1986-S04-T2-001",
+    "content": "We present our usual table of industry figures, expanded\nthis year to include data about incurred losses and the GNP\ninflation index. The contrast in 1986 between the growth in\npremiums and growth in incurred losses will show you why\nunderwriting results for the year improved materially:\n\nStatutory\nYearly Change Combined Ratio Yearly Change Inflation Rate\nin Premiums After Policyholder in Incurred Measured by\nWritten (%) Dividends Losses (%) GNP Deflator (%)\n\n------------- ------------------ ------------- ----------------\n1981 ..... 3.8 106.0 6.5 9.7\n1982 ..... 4.4 109.8 8.4 6.4\n1983 ..... 4.6 112.0 6.8 3.9\n1984 ..... 9.2 117.9 16.9 3.8\n1985 ..... 22.1 116.5 16.1 3.3\n1986 (Est.) 22.6 108.5 15.5 2.6\n\nSource: Bests Insurance Management Reports\n\nThe combined ratio represents total insurance costs (losses\nincurred plus expenses) compared to revenue from premiums: a\nratio below 100 indicates an underwriting profit, and one above\n100 indicates a loss. When the investment income that an insurer\nearns from holding on to policyholders funds (\"the float\") is\ntaken into account, a combined ratio in the 107-112 range\ntypically produces an overall break-even result, exclusive of\nearnings on the funds provided by shareholders.",
+    "metadata": {
+      "letter_year": 1986,
+      "letter_date": "1987-02-27",
+      "source_file": "1986_cleaned.txt",
+      "section_title": "Insurance Operations",
+      "section_hierarchy": [
+        "Letter Body",
+        "Insurance",
+        "Insurance Operations"
+      ],
+      "chunk_tier": 2,
+      "parent_chunk_id": "1986-S04-T1-001",
+      "child_chunk_ids": [],
+      "content_type": "financial_table",
+      "contextual_summary": "The letter explains how industry pricing cycles affect underwriting results and summarizes Berkshire’s improved combined ratio and premium growth.",
+      "has_table": true,
+      "table_data": [
+        {
+          "table_name": "Insurance Industry Figures",
+          "summary": "Parsed table: Insurance Industry Figures.",
+          "columns": [
+            "Year",
+            "Premiums % Change",
+            "Combined Ratio",
+            "Incurred Losses % Change",
+            "GNP Deflator %"
+          ],
+          "rows": [
+            [
+              "1981",
+              "3.8",
+              "106.0",
+              "6.5",
+              "9.7"
+            ],
+            [
+              "1982",
+              "4.4",
+              "109.8",
+              "8.4",
+              "6.4"
+            ],
+            [
+              "1983",
+              "4.6",
+              "112.0",
+              "6.8",
+              "3.9"
+            ],
+            [
+              "1984",
+              "9.2",
+              "117.9",
+              "16.9",
+              "3.8"
+            ],
+            [
+              "1985",
+              "22.1",
+              "116.5",
+              "16.1",
+              "3.3"
+            ],
+            [
+              "1986(Est.)",
+              "22.6",
+              "108.5",
+              "15.5",
+              "2.6"
+            ]
+          ],
+          "row_count": 6
+        }
+      ],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [],
+        "people": [],
+        "metrics": [
+          "combined ratio",
+          "dividends",
+          "float",
+          "incurred losses",
+          "premiums",
+          "underwriting"
+        ]
+      },
+      "themes": [],
+      "buffett_concepts": [],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1986,
+        "comparison_years": [],
+        "future_outlook": false
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "low",
+      "token_count": 190,
+      "char_count": 1232,
+      "source_span": {
+        "start_char": 27951,
+        "end_char_exclusive": 28413
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "1986-S05-T1-001",
+    "content": "Marketable Securities\n\nDuring 1986, our insurance companies purchased about $700\nmillion of tax-exempt bonds, most having a maturity of 8 to 12\nyears. You might think that this commitment indicates a\nconsiderable enthusiasm for such bonds. Unfortunately, thats\nnot so: at best, the bonds are mediocre investments. They simply\nseemed the least objectionable alternative at the time we bought\nthem, and still seem so. (Currently liking neither stocks nor\nbonds, I find myself the polar opposite of Mae West as she\ndeclared: \"I like only two kinds of men - foreign and domestic.\")\n\nWe must, of necessity, hold marketable securities in our\ninsurance companies and, as money comes in, we have only five\ndirections to go: (1) long-term common stock investments; (2)\nlong-term fixed-income securities; (3) medium-term fixed-income\nsecurities; (4) short-term cash equivalents; and (5) short-term\narbitrage commitments.\n\nCommon stocks, of course, are the most fun. When conditions\nare right that is, when companies with good economics and good\nmanagement sell well below intrinsic business value - stocks\nsometimes provide grand-slam home runs. But we currently find no\nequities that come close to meeting our tests. This statement in\nno way translates into a stock market prediction: we have no idea\n- and never have had - whether the market is going to go up,\ndown, or sideways in the near- or intermediate term future.\n\nWhat we do know, however, is that occasional outbreaks of\nthose two super-contagious diseases, fear and greed, will forever\noccur in the investment community. The timing of these epidemics\nwill be unpredictable. And the market aberrations produced by\nthem will be equally unpredictable, both as to duration and\ndegree. Therefore, we never try to anticipate the arrival or\ndeparture of either disease. Our goal is more modest: we simply\nattempt to be fearful when others are greedy and to be greedy\nonly when others are fearful.\n\nAs this is written, little fear is visible in Wall Street.\nInstead, euphoria prevails - and why not? What could be more\nexhilarating than to participate in a bull market in which the\nrewards to owners of businesses become gloriously uncoupled from\nthe plodding performances of the businesses themselves.\nUnfortunately, however, stocks cant outperform businesses\nindefinitely.\n\nIndeed, because of the heavy transaction and investment\nmanagement costs they bear, stockholders as a whole and over the\nlong term must inevitably underperform the companies they own.\nIf American business, in aggregate, earns about 12% on equity\nannually, investors must end up earning significantly less. Bull\nmarkets can obscure mathematical laws, but they cannot repeal\nthem.\n\nThe second category of investments open to our insurance\ncompanies is long-term bonds. These are unlikely to be of\ninterest to us except in very special situations, such as the\nWashington Public Power Supply System #1, #2 and #3 issues,\ndiscussed in our 1984 report. (At yearend, we owned WPPSS issues\nhaving an amortized cost of $218 million and a market value of\n$310 million, paying us $31.7 million in annual tax-exempt\nincome.) Our aversion to long-term bonds relates to our fear that\nwe will see much higher rates of inflation within the next\ndecade. Over time, the behavior of our currency will be\ndetermined by the behavior of our legislators. This relationship\nposes a continuing threat to currency stability - and a\ncorresponding threat to the owners of long-term bonds.\n\nWe continue to periodically employ money in the arbitrage\nfield. However, unlike most arbitrageurs, who purchase dozens of\nsecurities each year, we purchase only a few. We restrict\nourselves to large deals that have been announced publicly and do\nnot bet on the come. Therefore, our potential profits are apt to\nbe small; but, with luck, our disappointments will also be few.\n\nOur yearend portfolio shown below includes one arbitrage\ncommitment, Lear-Siegler. Our balance sheet also includes a\nreceivable for $145 million, representing the money owed us (and\npaid a few days later) by Unilever, then in the process of\npurchasing Chesebrough-Ponds, another of our arbitrage holdings.\nArbitrage is an alternative to Treasury Bills as a short-term\nparking place for money - a choice that combines potentially\nhigher returns with higher risks. To date, our returns from the\nfunds committed to arbitrage have been many times higher than\nthey would have been had we left those funds in Treasury Bills.\nNonetheless, one bad experience could change the scorecard\nmarkedly.",
+    "metadata": {
+      "letter_year": 1986,
+      "letter_date": "1987-02-27",
+      "source_file": "1986_cleaned.txt",
+      "section_title": "Marketable Securities",
+      "section_hierarchy": [
+        "Letter Body",
+        "Investments",
+        "Marketable Securities"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [
+        "1986-S05-T2-001"
+      ],
+      "content_type": "principle_statement",
+      "contextual_summary": "Buffett contrasts Berkshire’s book value with intrinsic business value and explains why book value has been a conservative proxy for owners. Focus: Chesebrough-Ponds; opening detail: Marketable Securities During 1986, our insurance companies purchased about $700 million of tax-exempt bonds, most having a maturity.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "Chesebrough-Ponds",
+          "Unilever"
+        ],
+        "people": [
+          "Mae West"
+        ],
+        "metrics": [
+          "business value"
+        ]
+      },
+      "themes": [],
+      "buffett_concepts": [],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1986,
+        "comparison_years": [],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "medium",
+      "abstraction_level": "high",
+      "token_count": 724,
+      "char_count": 4546,
+      "source_span": {
+        "start_char": 0,
+        "end_char_exclusive": 0
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "1986-S05-T1-002",
+    "content": "We also, though it takes some straining, currently view\nmedium-term tax-exempt bonds as an alternative to short-term\nTreasury holdings. Buying these bonds, we run a risk of\nsignificant loss if, as seems probable, we sell many of them well\nbefore maturity. However, we believe this risk is more than\ncounter-balanced first, by the much higher after-tax returns\ncurrently realizable from these securities as compared to\nTreasury Bills and second, by the possibility that sales will\nproduce an overall profit rather than a loss. Our expectation of\na higher total return, after allowing for the possibility of loss\nand after taking into account all tax effects, is a relatively\nclose call and could well be wrong. Even if we sell our bonds at\na fairly large loss, however, we may end up reaping a higher\nafter-tax return than we would have realized by repeatedly\nrolling over Treasury Bills.\n\nIn any event, you should know that our expectations for both\nthe stocks and bonds we now hold are exceptionally modest, given\ncurrent market levels. Probably the best thing that could happen\nto us is a market in which we would choose to sell many of our\nbond holdings at a significant loss in order to re-allocate funds\nto the far-better equity values then very likely to exist. The\nbond losses I am talking about would occur if high interest rates\ncame along; the same rates would probably depress common stocks\nconsiderably more than medium-term bonds.\n\nWe show below our 1986 yearend net holdings in marketable\nequities. All positions with a market value of over $25 million\nare listed, and the interests attributable to minority\nshareholdings of Wesco Financial Corp. and Nebraska Furniture\nMart are excluded.\n\nWe should note that we expect to keep permanently our three\nprimary holdings, Capital Cities/ABC, Inc., GEICO Corporation,\nand The Washington Post. Even if these securities were to appear\nsignificantly overpriced, we would not anticipate selling them,\njust as we would not sell Sees or Buffalo Evening News if\nsomeone were to offer us a price far above what we believe those\nbusinesses are worth.\n\nThis attitude may seem old-fashioned in a corporate world in\nwhich activity has become the order of the day. The modern\nmanager refers to his \"portfolio\" of businesses - meaning that\nall of them are candidates for \"restructuring\" whenever such a\nmove is dictated by Wall Street preferences, operating conditions\nor a new corporate \"concept.\" (Restructuring is defined narrowly,\nhowever: it extends only to dumping offending businesses, not to\ndumping the officers and directors who bought the businesses in\nthe first place. \"Hate the sin but love the sinner\" is a\ntheology as popular with the Fortune 500 as it is with the\nSalvation Army.)\n\nInvestment managers are even more hyperkinetic: their\nbehavior during trading hours makes whirling dervishes appear\nsedated by comparison. Indeed, the term \"institutional investor\"\nis becoming one of those self-contradictions called an oxymoron,\ncomparable to \"jumbo shrimp,\" \"lady mudwrestler\" and \"inexpensive\nlawyer.\"\n\nDespite the enthusiasm for activity that has swept business\nand financial America, we will stick with our til-death-do-uspart policy. Its the only one with which Charlie and I are\ncomfortable, it produces decent results, and it lets our managers\nand those of our investees run their businesses free of\ndistractions.",
+    "metadata": {
+      "letter_year": 1986,
+      "letter_date": "1987-02-27",
+      "source_file": "1986_cleaned.txt",
+      "section_title": "Marketable Securities",
+      "section_hierarchy": [
+        "Letter Body",
+        "Investments",
+        "Marketable Securities"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "mistake_confession",
+      "contextual_summary": "Buffett outlines how the 1986 tax law changes corporate and shareholder outcomes, with mixed effects across Berkshire’s businesses and investments. Focus: Capital Cities/ABC; opening detail: We also, though it takes some straining, currently view medium-term tax-exempt bonds as an alternative to short-term Treasury.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "Capital Cities/ABC",
+          "GEICO",
+          "The Washington Post",
+          "Wesco"
+        ],
+        "people": [],
+        "metrics": []
+      },
+      "themes": [],
+      "buffett_concepts": [],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1986,
+        "comparison_years": [],
+        "future_outlook": false
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "medium",
+      "abstraction_level": "low",
+      "token_count": 544,
+      "char_count": 3380,
+      "source_span": {
+        "start_char": 0,
+        "end_char_exclusive": 0
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "1986-S05-T2-001",
+    "content": "We show below our 1986 yearend net holdings in marketable\nequities. All positions with a market value of over $25 million\nare listed, and the interests attributable to minority\nshareholdings of Wesco Financial Corp. and Nebraska Furniture\nMart are excluded.\n\nNo. of Shares Cost Market\n------------- ---------- ----------\n(000 s omitted)\n\n2,990,000 Capital Cities/ABC, Inc. ....... $515,775 $ 801,694\n6,850,000 GEICO Corporation .............. 45,713 674,725\n2,379,200 Handy & Harman ................. 27,318 46,989\n489,300 Lear Siegler, Inc. ............. 44,064 44,587\n1,727,765 The Washington Post Company .... 9,731 269,531\n---------- ----------\n642,601 1,837,526\nAll Other Common Stockholdings 12,763 36,507\n---------- ----------\nTotal Common Stocks ............ $655,364 $1,874,033\n\nWe should note that we expect to keep permanently our three\nprimary holdings, Capital Cities/ABC, Inc., GEICO Corporation,\nand The Washington Post. Even if these securities were to appear\nsignificantly overpriced, we would not anticipate selling them,\njust as we would not sell Sees or Buffalo Evening News if\nsomeone were to offer us a price far above what we believe those\nbusinesses are worth.",
+    "metadata": {
+      "letter_year": 1986,
+      "letter_date": "1987-02-27",
+      "source_file": "1986_cleaned.txt",
+      "section_title": "Marketable Securities",
+      "section_hierarchy": [
+        "Letter Body",
+        "Investments",
+        "Marketable Securities"
+      ],
+      "chunk_tier": 2,
+      "parent_chunk_id": "1986-S05-T1-001",
+      "child_chunk_ids": [],
+      "content_type": "financial_table",
+      "contextual_summary": "Buffett reviews Berkshire’s investment posture, preferring patience and discipline amid unattractive equity valuations and mixed bond alternatives.",
+      "has_table": true,
+      "table_data": [
+        {
+          "table_name": "Marketable Equities Holdings",
+          "summary": "Parsed table: Marketable Equities Holdings.",
+          "columns": [
+            "Shares",
+            "Company",
+            "Cost",
+            "Market"
+          ],
+          "rows": [
+            [
+              "2,990,000",
+              "Capital Cities/ABC, Inc. ",
+              "515,775",
+              "801,694"
+            ],
+            [
+              "6,850,000",
+              "GEICO Corporation ",
+              "45,713",
+              "674,725"
+            ],
+            [
+              "2,379,200",
+              "Handy & Harman ",
+              "27,318",
+              "46,989"
+            ],
+            [
+              "489,300",
+              "Lear Siegler, Inc. ",
+              "44,064",
+              "44,587"
+            ],
+            [
+              "1,727,765",
+              "The Washington Post Company ",
+              "9,731",
+              "269,531"
+            ]
+          ],
+          "row_count": 5
+        }
+      ],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "Capital Cities/ABC",
+          "GEICO",
+          "Handy & Harman",
+          "Lear Siegler",
+          "The Washington Post",
+          "Wesco"
+        ],
+        "people": [],
+        "metrics": []
+      },
+      "themes": [],
+      "buffett_concepts": [],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1986,
+        "comparison_years": [],
+        "future_outlook": false
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "low",
+      "token_count": 170,
+      "char_count": 1184,
+      "source_span": {
+        "start_char": 47643,
+        "end_char_exclusive": 48170
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "1986-S06-T1-001",
+    "content": "NHP, Inc.\n\nLast year we paid $23.7 million for about 50% of NHP, Inc.,\na developer, syndicator, owner and manager of multi-family rental\nhousing. Should all executive stock options that have been\nauthorized be granted and exercised, our equity interest will\ndecline to slightly over 45%.\n\nNHP, Inc. has a most unusual genealogy. In 1967, President\nJohnson appointed a commission of business and civic leaders, led\nby Edgar Kaiser, to study ways to increase the supply of\nmultifamily housing for low- and moderate-income tenants.\nCertain members of the commission subsequently formed and\npromoted two business entities to foster this goal. Both are now\nowned by NHP, Inc. and one operates under unusual ground rules:\nthree of its directors must be appointed by the President, with\nthe advice and consent of the Senate, and it is also required by\nlaw to submit an annual report to the President.\n\nOver 260 major corporations, motivated more by the idea of\npublic service than profit, invested $42 million in the two\noriginal entities, which promptly began, through partnerships, to\ndevelop government-subsidized rental property. The typical\npartnership owned a single property and was largely financed by a\nnon-recourse mortgage. Most of the equity money for each\npartnership was supplied by a group of limited partners who were\nprimarily attracted by the large tax deductions that went with\nthe investment. NHP acted as general partner and also purchased\na small portion of each partnerships equity.\n\nThe Governments housing policy has, of course, shifted and\nNHP has necessarily broadened its activities to include nonsubsidized apartments commanding market-rate rents. In addition,\na subsidiary of NHP builds single-family homes in the Washington,\nD. C. area, realizing revenues of about $50 million annually.\n\nNHP now oversees about 500 partnership properties that are\nlocated in 40 states, the District of Columbia and Puerto Rico,\nand that include about 80,000 housing units. The cost of these\nproperties was more than $2.5 billion and they have been well\nmaintained. NHP directly manages about 55,000 of the housing\nunits and supervises the management of the rest. The companys\nrevenues from management are about $16 million annually, and\ngrowing.\n\nIn addition to the equity interests it purchased upon the\nformation of each partnership, NHP owns varying residual\ninterests that come into play when properties are disposed of and\ndistributions are made to the limited partners. The residuals on\nmany of NHPs \"deep subsidy\" properties are unlikely to be of\nmuch value. But residuals on certain other properties could\nprove quite valuable, particularly if inflation should heat up.\n\nThe tax-oriented syndication of properties to individuals\nhas been halted by the Tax Reform Act of 1986. In the main, NHP\nis currently trying to develop equity positions or significant\nresidual interests in non-subsidized rental properties of quality\nand size (typically 200 to 500 units). In projects of this kind,\nNHP usually works with one or more large institutional investors\nor lenders. NHP will continue to seek ways to develop low- and\nmoderate-income apartment housing, but will not likely meet\nsuccess unless government policy changes.\n\nBesides ourselves, the large shareholders in NHP are\nWeyerhauser (whose interest is about 25%) and a management group\nled by Rod Heller, chief executive of NHP. About 60 major\ncorporations also continue to hold small interests, none larger\nthan 2%.",
+    "metadata": {
+      "letter_year": 1986,
+      "letter_date": "1987-02-27",
+      "source_file": "1986_cleaned.txt",
+      "section_title": "NHP, Inc.",
+      "section_hierarchy": [
+        "Letter Body",
+        "Investments",
+        "NHP, Inc."
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "narrative",
+      "contextual_summary": "Buffett outlines how the 1986 tax law changes corporate and shareholder outcomes, with mixed effects across Berkshire’s businesses and investments. Focus: NHP; opening detail: NHP, Inc Last year we paid $237 million for about 50% of NHP, Inc, a developer, syndicator, owner.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "NHP"
+        ],
+        "people": [
+          "Rod Heller"
+        ],
+        "metrics": []
+      },
+      "themes": [],
+      "buffett_concepts": [],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1986,
+        "comparison_years": [],
+        "future_outlook": false
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "medium",
+      "abstraction_level": "low",
+      "token_count": 547,
+      "char_count": 3481,
+      "source_span": {
+        "start_char": 0,
+        "end_char_exclusive": 0
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "1986-S07-T1-001",
+    "content": "Taxation\n\nThe Tax Reform Act of 1986 affects our various businesses in\nimportant and divergent ways. Although we find much to praise in\nthe Act, the net financial effect for Berkshire is negative: our\nrate of increase in business value is likely to be at least\nmoderately slower under the new law than under the old. The net\neffect for our shareholders is even more negative: every dollar\nof increase in per-share business value, assuming the increase is\naccompanied by an equivalent dollar gain in the market value of\nBerkshire stock, will produce 72 cents of after-tax gain for our\nshareholders rather than the 80 cents produced under the old law.\nThis result, of course, reflects the rise in the maximum tax rate\non personal capital gains from 20% to 28%.\n\nHere are the main tax changes that affect Berkshire:\n\no\nThe tax rate on corporate ordinary income is scheduled to\ndecrease from 46% in 1986 to 34% in 1988. This change obviously\naffects us positively - and it also has a significant positive\neffect on two of our three major investees, Capital Cities/ABC\nand The Washington Post Company.\n\nI say this knowing that over the years there has been a lot\nof fuzzy and often partisan commentary about who really pays\ncorporate taxes - businesses or their customers. The argument,\nof course, has usually turned around tax increases, not\ndecreases. Those people resisting increases in corporate rates\nfrequently argue that corporations in reality pay none of the\ntaxes levied on them but, instead, act as a sort of economic\npipeline, passing all taxes through to consumers. According to\nthese advocates, any corporate-tax increase will simply lead to\nhigher prices that, for the corporation, offset the increase.\nHaving taken this position, proponents of the \"pipeline\" theory\nmust also conclude that a tax decrease for corporations will not\nhelp profits but will instead flow through, leading to\ncorrespondingly lower prices for consumers.\n\nConversely, others argue that corporations not only pay the\ntaxes levied upon them, but absorb them also. Consumers, this\nschool says, will be unaffected by changes in corporate rates.\n\nWhat really happens? When the corporate rate is cut, do\nBerkshire, The Washington Post, Cap Cities, etc., themselves soak\nup the benefits, or do these companies pass the benefits along to\ntheir customers in the form of lower prices? This is an\nimportant question for investors and managers, as well as for\npolicymakers.\n\nOur conclusion is that in some cases the benefits of lower\ncorporate taxes fall exclusively, or almost exclusively, upon the\ncorporation and its shareholders, and that in other cases the\nbenefits are entirely, or almost entirely, passed through to the\ncustomer. What determines the outcome is the strength of the\ncorporations business franchise and whether the profitability of\nthat franchise is regulated.\n\nFor example, when the franchise is strong and after-tax\nprofits are regulated in a relatively precise manner, as is the\ncase with electric utilities, changes in corporate tax rates are\nlargely reflected in prices, not in profits. When taxes are cut,\nprices will usually be reduced in short order. When taxes are\nincreased, prices will rise, though often not as promptly.\n\nA similar result occurs in a second arena - in the pricecompetitive industry, whose companies typically operate with very\nweak business franchises. In such industries, the free market\n\"regulates\" after-tax profits in a delayed and irregular, but\ngenerally effective, manner. The marketplace, in effect,\nperforms much the same function in dealing with the pricecompetitive industry as the Public Utilities Commission does in\ndealing with electric utilities. In these industries, therefore,\ntax changes eventually affect prices more than profits.\n\nIn the case of unregulated businesses blessed with strong\nfranchises, however, its a different story: the corporation\nand its shareholders are then the major beneficiaries of tax\ncuts. These companies benefit from a tax cut much as the\nelectric company would if it lacked a regulator to force down\nprices.\n\nMany of our businesses, both those we own in whole and in\npart, possess such franchises. Consequently, reductions in their\ntaxes largely end up in our pockets rather than the pockets of\nour customers. While this may be impolitic to state, it is\nimpossible to deny. If you are tempted to believe otherwise,\nthink for a moment of the most able brain surgeon or lawyer in\nyour area. Do you really expect the fees of this expert (the\nlocal \"franchise-holder\" in his or her specialty) to be reduced\nnow that the top personal tax rate is being cut from 50% to 28%?",
+    "metadata": {
+      "letter_year": 1986,
+      "letter_date": "1987-02-27",
+      "source_file": "1986_cleaned.txt",
+      "section_title": "Taxation",
+      "section_hierarchy": [
+        "Letter Body",
+        "Taxation"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "narrative",
+      "contextual_summary": "Buffett contrasts Berkshire’s book value with intrinsic business value and explains why book value has been a conservative proxy for owners. Focus: Capital Cities/ABC; opening detail: Taxation The Tax Reform Act of 1986 affects our various businesses in important and divergent ways Although we.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": false,
+      "entities": {
+        "companies": [
+          "Capital Cities/ABC",
+          "The Washington Post"
+        ],
+        "people": [],
+        "metrics": [
+          "business value",
+          "capital gains",
+          "tax rate"
+        ]
+      },
+      "themes": [],
+      "buffett_concepts": [],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1986,
+        "comparison_years": [],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "medium",
+      "abstraction_level": "medium",
+      "token_count": 756,
+      "char_count": 4640,
+      "source_span": {
+        "start_char": 0,
+        "end_char_exclusive": 0
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "1986-S07-T1-002",
+    "content": "Your joy at our conclusion that lower rates benefit a number\nof our operating businesses and investees should be severely\ntempered, however, by another of our convictions: scheduled 1988\ntax rates, both individual and corporate, seem totally\nunrealistic to us. These rates will very likely bestow a fiscal\nproblem on Washington that will prove incompatible with price\nstability. We believe, therefore, that ultimately - within, say,\nfive years - either higher tax rates or higher inflation rates\nare almost certain to materialize. And it would not surprise us\nto see both.\n\no\nCorporate capital gains tax rates have been increased from\n28% to 34%, effective in 1987. This change will have an\nimportant adverse effect on Berkshire because we expect much of\nour gain in business value in the future, as in the past, to\narise from capital gains. For example, our three major\ninvestment holdings - Cap Cities, GEICO, and Washington Post - at\nyearend had a market value of over $1.7 billion, close to 75% of\nthe total net worth of Berkshire, and yet they deliver us only\nabout $9 million in annual income. Instead, all three retain a\nvery high percentage of their earnings, which we expect to\neventually deliver us capital gains.\n\nThe new law increases the rate for all gains realized in the\nfuture, including the unrealized gains that existed before the\nlaw was enacted. At yearend, we had $1.2 billion of such\nunrealized gains in our equity investments. The effect of the new\nlaw on our balance sheet will be delayed because a GAAP rule\nstipulates that the deferred tax liability applicable to\nunrealized gains should be stated at last years 28% tax rate\nrather than the current 34% rate. This rule is expected to change\nsoon. The moment it does, about $73 million will disappear from\nour GAAP net worth and be added to the deferred tax account.\n\no\nDividend and interest income received by our insurance\ncompanies will be taxed far more heavily under the new law.\nFirst, all corporations will be taxed on 20% of the dividends\nthey receive from other domestic corporations, up from 15% under\nthe old law. Second, there is a change concerning the residual\n80% that applies only to property/casualty companies: 15% of that\nresidual will be taxed if the stocks paying the dividends were\npurchased after August 7,1986. A third change, again applying\nonly to property/casualty companies, concerns tax-exempt bonds:\ninterest on bonds purchased by insurers after August 7,1986 will\nonly be 85% tax-exempt.\n\nThe last two changes are very important. They mean that our\nincome from the investments we make in future years will be\nsignificantly lower than would have been the case under the old\nlaw. My best guess is that these changes alone will eventually\nreduce the earning power of our insurance operation by at least\n10% from what we could previously have expected.\n\no\nThe new tax law also materially changes the timing of tax\npayments by property/casualty insurance companies. One new rule\nrequires us to discount our loss reserves in our tax returns, a\nchange that will decrease deductions and increase taxable income.\nAnother rule, to be phased in over six years, requires us to\ninclude 20% of our unearned premium reserve in taxable income.\n\nNeither rule changes the amount of the annual tax accrual in\nour reports to you, but each materially accelerates the schedule\nof payments. That is, taxes formerly deferred will now be frontended, a change that will significantly cut the profitability of\nour business. An analogy will suggest the toll: if, upon turning\n21, you were required to immediately pay tax on all income you\nwere due to receive throughout your life, both your lifetime\nwealth and your estate would be a small fraction of what they\nwould be if all taxes on your income were payable only when you\ndied.\n\nAttentive readers may spot an inconsistency in what we say.\nEarlier, discussing companies in price-competitive industries, we\nsuggested that tax increases or reductions affect these companies\nrelatively little, but instead are largely passed along to their\ncustomers. But now we are saying that tax increases will affect\nprofits of Berkshires property/casualty companies even though\nthey operate in an intensely price-competitive industry.",
+    "metadata": {
+      "letter_year": 1986,
+      "letter_date": "1987-02-27",
+      "source_file": "1986_cleaned.txt",
+      "section_title": "Taxation",
+      "section_hierarchy": [
+        "Letter Body",
+        "Taxation"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "narrative",
+      "contextual_summary": "Buffett contrasts Berkshire’s book value with intrinsic business value and explains why book value has been a conservative proxy for owners. Focus: GEICO; opening detail: Your joy at our conclusion that lower rates benefit a number of our operating businesses and investees should.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "GEICO"
+        ],
+        "people": [],
+        "metrics": [
+          "business value",
+          "capital gains",
+          "dividends",
+          "interest income",
+          "tax rate"
+        ]
+      },
+      "themes": [],
+      "buffett_concepts": [],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1986,
+        "comparison_years": [],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "medium",
+      "abstraction_level": "low",
+      "token_count": 705,
+      "char_count": 4250,
+      "source_span": {
+        "start_char": 0,
+        "end_char_exclusive": 0
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "1986-S07-T1-003",
+    "content": "The reason this industry is likely to be an exception to our\ngeneral rule is that not all major insurers will be working with\nidentical tax equations. Important differences will exist for\nseveral reasons: a new alternative minimum tax will materially\naffect some companies but not others; certain major insurers have\nhuge loss carry-forwards that will largely shield their income\nfrom significant taxes for at least a few years; and the results\nof some large insurers will be folded into the consolidated\nreturns of companies with non-insurance businesses. These\ndisparate conditions will produce widely varying marginal tax\nrates in the property/casualty industry. That will not be the\ncase, however, in most other price-competitive industries, such\nas aluminum, autos and department stores, in which the major\nplayers will generally contend with similar tax equations.\n\nThe absence of a common tax calculus for property/casualty\ncompanies means that the increased taxes falling on the industry\nwill probably not be passed along to customers to the degree that\nthey would in a typical price-competitive industry. Insurers, in\nother words, will themselves bear much of the new tax burdens.\n\no\nA partial offset to these burdens is a \"fresh start\"\nadjustment that occurred on January 1,1987 when our December 31,1986 loss reserve figures were converted for tax purposes to the\nnewly-required discounted basis. (In our reports to you, however,\nreserves will remain on exactly the same basis as in the past -\nundiscounted except in special cases such as structured\nsettlements.) The net effect of the \"fresh start\" is to give us a\ndouble deduction: we will get a tax deduction in 1987 and future\nyears for a portion of our-incurred-but-unpaid insurance losses\nthat have already been fully deducted as costs in 1986 and\nearlier years.\n\nThe increase in net worth that is produced by this change is\nnot yet reflected in our financial statements. Rather, under\npresent GAAP rules (which may be changed), the benefit will flow\ninto the earnings statement and, consequently, into net worth\nover the next few years by way of reduced tax charges. We expect\nthe total benefit from the fresh-start adjustment to be in the\n$30 - $40 million range. It should be noted, however, that this\nis a one-time benefit, whereas the negative impact of the other\ninsurance-related tax changes is not only ongoing but, in\nimportant respects, will become more severe as time passes.\n\no\nThe General Utilities Doctrine was repealed by the new tax\nlaw. This means that in 1987 and thereafter there will be a\ndouble tax on corporate liquidations, one at the corporate level\nand another at the shareholder level. In the past, the tax at\nthe corporate level could be avoided, If Berkshire, for example,\nwere to be liquidated - which it most certainly wont be -\nshareholders would, under the new law, receive far less from the\nsales of our properties than they would have if the properties\nhad been sold in the past, assuming identical prices in each\nsale. Though this outcome is theoretical in our case, the change\nin the law will very materially affect many companies.\nTherefore, it also affects our evaluations of prospective\ninvestments. Take, for example, producing oil and gas\nbusinesses, selected media companies, real estate companies, etc.\nthat might wish to sell out. The values that their shareholders\ncan realize are likely to be significantly reduced simply because\nthe General Utilities Doctrine has been repealed - though the\ncompanies operating economics will not have changed adversely at\nall. My impression is that this important change in the law has\nnot yet been fully comprehended by either investors or managers.\n\nThis section of our report has been longer and more\ncomplicated than I would have liked. But the changes in the law\nare many and important, particularly for property/casualty\ninsurers. As I have noted, the new law will hurt Berkshires\nresults, but the negative impact is impossible to quantify with\nany precision.",
+    "metadata": {
+      "letter_year": 1986,
+      "letter_date": "1987-02-27",
+      "source_file": "1986_cleaned.txt",
+      "section_title": "Taxation",
+      "section_hierarchy": [
+        "Letter Body",
+        "Taxation"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "principle_statement",
+      "contextual_summary": "Buffett outlines how the 1986 tax law changes corporate and shareholder outcomes, with mixed effects across Berkshire’s businesses and investments. Focus: Berkshire; opening detail: The reason this industry is likely to be an exception to our general rule is that not all.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [],
+        "people": [],
+        "metrics": []
+      },
+      "themes": [],
+      "buffett_concepts": [],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1986,
+        "comparison_years": [],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "medium",
+      "abstraction_level": "high",
+      "token_count": 655,
+      "char_count": 4013,
+      "source_span": {
+        "start_char": 0,
+        "end_char_exclusive": 0
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "1986-S08-T1-001",
+    "content": "Miscellaneous\n\nWe bought a corporate jet last year.\nWhat you have heard about such\nplanes is true: they are very expensive and a luxury in\nsituations like ours where little travel to out-of-the-way places\nis required. And planes not only cost a lot to operate, they cost\na lot just to look at. Pre-tax, cost of capital plus depreciation\non a new $15 million plane probably runs $3 million annually. On\nour own plane, bought for $850,000 used, such costs run close to\n$200,000 annually.\n\nCognizant of such figures, your Chairman, unfortunately, has\nin the past made a number of rather intemperate remarks about\ncorporate jets. Accordingly, prior to our purchase, I was forced\ninto my Galileo mode. I promptly experienced the necessary\n\"counter-revelation\" and travel is now considerably easier - and\nconsiderably costlier - than in the past. Whether Berkshire will\nget its moneys worth from the plane is an open question, but I\nwill work at achieving some business triumph that I can (no\nmatter how dubiously) attribute to it. Im afraid Ben Franklin\nhad my number. Said he: \"So convenient a thing it is to be a\nreasonable creature, since it enables one to find or make a\nreason for everything one has a mind to do.\"\n\nAbout 97% of all eligible shares participated in Berkshires\n1986 shareholder-designated contributions program. Contributions\nmade through the program were $4 million, and 1,934 charities\nwere recipients.\n\nWe urge new shareholders to read the description of our\nshareholder-designated contributions program that appears on\npages 58 and 59. If you wish to participate in future programs,\nwe strongly urge that you immediately make sure your shares are\nregistered in the name of the actual owner, not in \"street\" name\nor nominee name. Shares not so registered on September 30,1987\nwill be ineligible for the 1987 program.\n\n* * *\n\nLast year almost 450 people attended our shareholders\nmeeting, up from about 250 the year before (and from about a\ndozen ten years ago). I hope you can join us on May 19 th in\nOmaha. Charlie and I like to answer owner-related questions\nand I can promise you that our shareholders will pose many good\nones. Finishing up the questions may take quite a while - we\nhad about 65 last year so you should feel free to leave once\nyour own have been answered.\n\nLast year, after the meeting, one shareholder from New\nJersey and another from New York went to the Furniture Mart,\nwhere each purchased a $5,000 Oriental rug from Mrs. B. (To be\nprecise, they purchased rugs that might cost $10,000 elsewhere\nfor which they were charged about $5,000.) Mrs. B was pleased -\nbut not satisfied - and she will be looking for you at the store\nafter this years meeting. Unless our shareholders top last\nyears record, Ill be in trouble. So do me (and yourself) a\nfavor, and go see her.\n\nWarren E. Buffett\nFebruary 27,1987 Chairman of the Board",
+    "metadata": {
+      "letter_year": 1986,
+      "letter_date": "1987-02-27",
+      "source_file": "1986_cleaned.txt",
+      "section_title": "Miscellaneous",
+      "section_hierarchy": [
+        "Letter Body",
+        "Miscellaneous"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "narrative",
+      "contextual_summary": "Buffett outlines how the 1986 tax law changes corporate and shareholder outcomes, with mixed effects across Berkshire’s businesses and investments. Focus: Ben Franklin; opening detail: Miscellaneous We bought a corporate jet last year What you have heard about such planes is true: they.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [],
+        "people": [
+          "Ben Franklin",
+          "Mrs. B."
+        ],
+        "metrics": []
+      },
+      "themes": [],
+      "buffett_concepts": [],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1986,
+        "comparison_years": [],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "medium",
+      "abstraction_level": "low",
+      "token_count": 495,
+      "char_count": 2864,
+      "source_span": {
+        "start_char": 0,
+        "end_char_exclusive": 0
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "1986-S09-T1-001",
+    "content": "Appendix\n\nPurchase-Price Accounting Adjustments and the \"Cash Flow\" Fallacy\n\nFirst a short quiz: below are abbreviated 1986 statements of earnings for two companies. Which business is the more valuable?\n\n(Numbers (1) through (4) designate items discussed later in this section.)\n\nAs you've probably guessed, Companies O and N are the same business - Scott Fetzer. In the \"O\" (for \"old\") column we have shown what the company's 1986 GAAP earnings would have been if we had not purchased it; in the \"N\" (for \"new\") column we have shown Scott Fetzer's GAAP earnings as actually reported by Berkshire.\n\nIt should be emphasized that the two columns depict identical economics - i. e., the same sales, wages, taxes, etc. And both \"companies\" generate the same amount of cash for owners. Only the accounting is different.\n\nSo, fellow philosophers, which column presents truth? Upon which set of numbers should managers and investors focus?\n\nBefore we tackle those questions, let's look at what produces the disparity between O and N. We will simplify our discussion in some respects, but the simplification should not produce any inaccuracies in analysis or conclusions.\n\nThe contrast between O and N comes about because we paid an amount for Scott Fetzer that was different from its stated net worth. Under GAAP, such differences - such premiums or discounts - must be accounted for by \"purchase-price adjustments.\" In Scott Fetzer's case, we paid $315 million for net assets that were carried on its books at $172.4 million. So we paid a premium of $142.6 million.\n\nThe first step in accounting for any premium paid is to adjust the carrying value of current assets to current values. In practice, this requirement usually does not affect receivables, which are routinely carried at current value, but often affects inventories. Because of a $22.9 million LIFO reserve and other accounting intricacies, Scott Fetzer's inventory account was carried at a $37.3 million discount from current value. So, making our first accounting move, we used $37.3 million of our $142.6 million premium to increase the carrying value of the inventory.\n\nAssuming any premium is left after current assets are adjusted, the next step is to adjust fixed assets to current value. In our case, this adjustment also required a few accounting acrobatics relating to deferred taxes. Since this has been billed as a simplified discussion, I will skip the details and give you the bottom line: $68.0 million was added to fixed assets and $13.0 million was eliminated from deferred tax liabilities. After making this $81.0 million adjustment, we were left with $24.3 million of premium to allocate.\n\nHad our situation called for them two steps would next have been required: the adjustment of intangible assets other than Goodwill to current fair values, and the restatement of liabilities to current fair values, a requirement that typically affects only long-term debt and unfunded pension liabilities. In Scott Fetzer's case, however, neither of these steps was necessary.\n\nThe final accounting adjustment we needed to make, after recording fair market values for all assets and liabilities, was the assignment of the residual premium to Goodwill (technically known as \"excess of cost over the fair value of net assets acquired\"). This residual amounted to $24.3 million. Thus, the balance sheet of Scott Fetzer immediately before the acquisition, which is summarized below in column O, was transformed by the purchase into the balance sheet shown in column N. In real terms, both balance sheets depict the same assets and liabilities - but, as you can see, certain figures differ significantly.\n\nThe higher balance sheet figures shown in column N produce the lower income figures shown in column N of the earnings statement presented earlier. This is the result of the asset write-ups and of the fact that some of the written-up assets must be depreciated or amortized. The higher the asset figure, the higher the annual depreciation or amortization charge to earnings must be. The charges that flowed to the earnings statement because of the balance sheet write-ups were numbered in the statement of earnings shown earlier:\n\n$4,979,000 for non-cash inventory costs resulting, primarily, from reductions that Scott Fetzer made in its inventories during 1986; charges of this kind are apt to be small or non-existent in future years.\n\n$5,054,000 for extra depreciation attributable to the write-up of fixed assets; a charge approximating this amount will probably be made annually for 12 more years.\n\n$595,000 for amortization of Goodwill; this charge will be made annually for 39 more years in a slightly larger amount because our purchase was made on January 6 and, therefore, the 1986 figure applies to only 98% of the year.",
+    "metadata": {
+      "letter_year": 1986,
+      "letter_date": "1987-02-27",
+      "source_file": "1986_cleaned.txt",
+      "section_title": "Appendix: Purchase-Price Accounting Adjustments and the \"Cash Flow\" Fallacy",
+      "section_hierarchy": [
+        "Appendix",
+        "Purchase-Price Accounting Adjustments"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [
+        "1986-S09-T2-001",
+        "1986-S09-T2-002"
+      ],
+      "content_type": "principle_statement",
+      "contextual_summary": "Buffett outlines how the 1986 tax law changes corporate and shareholder outcomes, with mixed effects across Berkshire’s businesses and investments. Focus: Scott Fetzer; opening detail: Appendix Purchase-Price Accounting Adjustments and the \"Cash Flow\" Fallacy First a short quiz: below are abbreviated 1986 statements.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "Scott Fetzer"
+        ],
+        "people": [],
+        "metrics": [
+          "cash flow",
+          "premiums"
+        ]
+      },
+      "themes": [],
+      "buffett_concepts": [],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1986,
+        "comparison_years": [],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "medium",
+      "abstraction_level": "high",
+      "token_count": 773,
+      "char_count": 4796,
+      "source_span": {
+        "start_char": 0,
+        "end_char_exclusive": 0
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "1986-S09-T1-002",
+    "content": "$998,000 for deferred-tax acrobatics that are beyond my ability to explain briefly (or perhaps even non-briefly); a charge approximating this amount will probably be made annually for 12 more years.\n\nIt is important to understand that none of these newly-created accounting costs, totaling $11.6 million, are deductible for income tax purposes. The \"new\" Scott Fetzer pays exactly the same tax as the \"old\" Scott Fetzer would have, even though the GAAP earnings of the two entities differ greatly. And, in respect to operating earnings, that would be true in the future also. However, in the unlikely event that Scott Fetzer sells one of its businesses, the tax consequences to the \"old\" and \"new\" company might differ widely.\n\nBy the end of 1986 the difference between the net worth of the \"old\" and \"new\" Scott Fetzer had been reduced from $142.6 million to $131.0 million by means of the extra $11.6 million that was charged to earnings of the new entity. As the years go by, similar charges to earnings will cause most of the premium to disappear, and the two balance sheets will converge. However, the higher land values and most of the higher inventory values that were established on the new balance sheet will remain unless land is disposed of or inventory levels are further reduced.\n\n* * *\n\nWhat does all this mean for owners? Did the shareholders of Berkshire buy a business that earned $40.2 million in 1986 or did they buy one earning $28.6 million? Were those $11.6 million of new charges a real economic cost to us? Should investors pay more for the stock of Company O than of Company N? And, if a business is worth some given multiple of earnings, was Scott Fetzer worth considerably more the day before we bought it than it was worth the following day?\n\nIf we think through these questions, we can gain some insights about what may be called \"owner earnings.\" These represent (a) reported earnings plus (b) depreciation, depletion, amortization, and certain other non-cash charges such as Company N's items (1) and (4) less\n(\nc\n)\nthe average annual amount of capitalized expenditures for plant and equipment, etc. that the business requires to fully maintain its long-term competitive position and its unit volume. (If the business requires additional working capital to maintain its competitive position and unit volume, the increment also should be included in\n(\nc\n)\n. However, businesses following the LIFO inventory method usually do not require additional working capital if unit volume does not change.)\n\nOur owner-earnings equation does not yield the deceptively precise figures provided by GAAP, since\n(\nc\n)\nmust be a guess - and one sometimes very difficult to make. Despite this problem, we consider the owner earnings figure, not the GAAP figure, to be the relevant item for valuation purposes - both for investors in buying stocks and for managers in buying entire businesses. We agree with Keynes's observation: \"I would rather be vaguely right than precisely wrong.\"\n\nThe approach we have outlined produces \"owner earnings\" for Company O and Company N that are identical, which means valuations are also identical, just as common sense would tell you should be the case. This result is reached because the sum of (a) and (b) is the same in both columns O and N, and because\n(\nc\n)\nis necessarily the same in both cases.\n\nAnd what do Charlie and I, as owners and managers, believe is the correct figure for the owner earnings of Scott Fetzer? Under current circumstances, we believe\n(\nc\n)\nis very close to the \"old\" company's (b) number of $8.3 million and much below the \"new\" company's (b) number of $19.9 million. Therefore, we believe that owner earnings are far better depicted by the reported earnings in the O column than by those in the N column. In other words, we feel owner earnings of Scott Fetzer are considerably larger than the GAAP figures that we report.\n\nThat is obviously a happy state of affairs. But calculations of this sort usually do not provide such pleasant news. Most managers probably will acknowledge that they need to spend something more than (b) on their businesses over the longer term just to hold their ground in terms of both unit volume and competitive position. When this imperative exists - that is, when\n(\nc\n)\nexceeds (b) - GAAP earnings overstate owner earnings. Frequently this overstatement is substantial. The oil industry has in recent years provided a conspicuous example of this phenomenon. Had most major oil companies spent only (b) each year, they would have guaranteed their shrinkage in real terms.",
+    "metadata": {
+      "letter_year": 1986,
+      "letter_date": "1987-02-27",
+      "source_file": "1986_cleaned.txt",
+      "section_title": "Appendix: Purchase-Price Accounting Adjustments and the \"Cash Flow\" Fallacy",
+      "section_hierarchy": [
+        "Appendix",
+        "Purchase-Price Accounting Adjustments"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "mistake_confession",
+      "contextual_summary": "Buffett outlines how the 1986 tax law changes corporate and shareholder outcomes, with mixed effects across Berkshire’s businesses and investments. Focus: Scott Fetzer; opening detail: $998,000 for deferred-tax acrobatics that are beyond my ability to explain briefly (or perhaps even non-briefly); a charge.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "Scott Fetzer"
+        ],
+        "people": [
+          "Keynes"
+        ],
+        "metrics": [
+          "owner earnings"
+        ]
+      },
+      "themes": [],
+      "buffett_concepts": [],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1986,
+        "comparison_years": [],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "medium",
+      "abstraction_level": "low",
+      "token_count": 778,
+      "char_count": 4579,
+      "source_span": {
+        "start_char": 0,
+        "end_char_exclusive": 0
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "1986-S09-T1-003",
+    "content": "All of this points up the absurdity of the \"cash flow\" numbers that are often set forth in Wall Street reports. These numbers routinely include (a) plus (b) - but do not subtract\n(\nc\n)\n. Most sales brochures of investment bankers also feature deceptive presentations of this kind. These imply that the business being offered is the commercial counterpart of the Pyramids - forever state-of-the-art, never needing to be replaced, improved or refurbished. Indeed, if all U. S. corporations were to be offered simultaneously for sale through our leading investment bankers - and if the sales brochures describing them were to be believed - governmental projections of national plant and equipment spending would have to be slashed by 90%.\n\n\"Cash Flow\", true, may serve as a shorthand of some utility in descriptions of certain real estate businesses or other enterprises that make huge initial outlays and only tiny outlays thereafter. A company whose only holding is a bridge or an extremely long-lived gas field would be an example. But \"cash flow\" is meaningless in such businesses as manufacturing, retailing, extractive companies, and utilities because, for them,\n(\nc\n)\nis always significant. To be sure, businesses of this kind may in a given year be able to defer capital spending. But over a five- or ten-year period, they must make the investment - or the business decays.\n\nWhy, then, are \"cash flow\" numbers so popular today? In answer, we confess our cynicism: we believe these numbers are frequently used by marketers of businesses and securities in attempts to justify the unjustifiable (and thereby to sell what should be the unsalable). When (a) - that is, GAAP earnings - looks by itself inadequate to service debt of a junk bond or justify a foolish stock price, how convenient it becomes for salesmen to focus on (a) + (b). But you shouldn't add (b) without subtracting\n(\nc\n)\n: though dentists correctly claim that if you ignore your teeth they'll go away, the same is not true for\n(\nc\n)\n. The company or investor believing that the debt-servicing ability or the equity valuation of an enterprise can be measured by totaling (a) and (b) while ignoring\n(\nc\n)\nis headed for certain trouble.\n\n* * *\n\nTo sum up: in the case of both Scott Fetzer and our other businesses, we feel that (b) on an historical-cost basis - i. e., with both amortization of intangibles and other purchase-price adjustments excluded - is quite close in amount to\n(\nc\n)\n. (The two items are not identical, of course. For example, at See's we annually make capitalized expenditures that exceed depreciation by $500,000 to $1 million, simply to hold our ground competitively.) Our conviction about this point is the reason we show our amortization and other purchase-price adjustment items separately in the table on page 8 and is also our reason for viewing the earnings of the individual businesses as reported there as much more closely approximating owner earnings than the GAAP figures.\n\nQuestioning GAAP figures may seem impious to some. After all, what are we paying the accountants for if it is not to deliver us the \"truth\" about our business. But the accountants' job is to record, not to evaluate. The evaluation job falls to investors and managers.\n\nAccounting numbers, of course, are the language of business and as such are of enormous help to anyone evaluating the worth of a business and tracking its progress. Charlie and I would be lost without these numbers: they invariably are the starting point for us in evaluating our own businesses and those of others. Managers and owners need to remember, however, that accounting is but an aid to business thinking, never a substitute for it.",
+    "metadata": {
+      "letter_year": 1986,
+      "letter_date": "1987-02-27",
+      "source_file": "1986_cleaned.txt",
+      "section_title": "Appendix: Purchase-Price Accounting Adjustments and the \"Cash Flow\" Fallacy",
+      "section_hierarchy": [
+        "Appendix",
+        "Purchase-Price Accounting Adjustments"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "narrative",
+      "contextual_summary": "In the appendix, Buffett clarifies purchase-price accounting effects and argues that owner earnings—not simplistic cash flow—drive valuation. Focus: Scott Fetzer; opening detail: All of this points up the absurdity of the \"cash flow\" numbers that are often set forth in.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "Scott Fetzer",
+          "See's"
+        ],
+        "people": [],
+        "metrics": [
+          "cash flow",
+          "owner earnings"
+        ]
+      },
+      "themes": [],
+      "buffett_concepts": [],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1986,
+        "comparison_years": [],
+        "future_outlook": false
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "medium",
+      "abstraction_level": "low",
+      "token_count": 630,
+      "char_count": 3687,
+      "source_span": {
+        "start_char": 0,
+        "end_char_exclusive": 0
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "1986-S09-T2-001",
+    "content": "First a short quiz: below are abbreviated 1986 statements of earnings for two companies. Which business is the more valuable?\n\nCompany O\n\nCompany N\n\n(000 s Omitted)\n\nRevenues.\n\n$677,240\n\n$677,240\n\nCosts of Goods Sold:\n\nHistorical costs, excluding depreciation.\n\n$341,170\n\n$341,170\n\nSpecial non-cash inventory costs.\n\n4,979\n\n(1)\n\nDepreciation of plant and equipment ...\n\n8,301\n\n13,355\n\n(2)\n\n349,471\n\n359,504\n\n$327,769\n\n$317,736\n\nGross Profit .\n\nSelling & Admin. Expense........\n\n$260,286\n\n$260,286\n\nAmortization of Goodwill .........\n\n______\n\n____\n\n(3)\n\n260,286\n\n260,881\n\nOperating Profit .....................\n\n$ 67,483\n\n$ 56,855\n\nOther Income, Net .................\n\n4,135\n\n4,135\n\nPre-Tax Income ......................\n\n$ 71,618\n\n$ 60,990\n\nApplicable Income Tax:\n\nHistorical deferred and current tax .\n\n$ 31,387\n\n$ 31,387\n\nNon-Cash Inter-period Allocation Adjustment .............\n\n______\n\n_____\n\n(4)\n\n31,387\n\n32,385\n\nNet Income\n............\n$40,231 $28,605\n======= =======\n\n(Numbers (1) through (4) designate items discussed later in this section.)\n\nAs you've probably guessed, Companies O and N are the same business - Scott Fetzer. In the \"O\" (for \"old\") column we have shown what the company's 1986 GAAP earnings would have been if we had not purchased it; in the \"N\" (for \"new\") column we have shown Scott Fetzer's GAAP earnings as actually reported by Berkshire.",
+    "metadata": {
+      "letter_year": 1986,
+      "letter_date": "1987-02-27",
+      "source_file": "1986_cleaned.txt",
+      "section_title": "Appendix: Purchase-Price Accounting Adjustments and the \"Cash Flow\" Fallacy",
+      "section_hierarchy": [
+        "Appendix",
+        "Purchase-Price Accounting Adjustments"
+      ],
+      "chunk_tier": 2,
+      "parent_chunk_id": "1986-S09-T1-001",
+      "child_chunk_ids": [],
+      "content_type": "financial_table",
+      "contextual_summary": "Buffett outlines how the 1986 tax law changes corporate and shareholder outcomes, with mixed effects across Berkshire’s businesses and investments.",
+      "has_table": true,
+      "table_data": [
+        {
+          "table_name": "Scott Fetzer Earnings Statement (Old vs New)",
+          "summary": "Raw table text captured for Scott Fetzer Earnings Statement (Old vs New).",
+          "columns": [
+            "raw_line"
+          ],
+          "rows": [
+            [
+              "Company O"
+            ],
+            [
+              "Company N"
+            ],
+            [
+              "(000 s Omitted)"
+            ],
+            [
+              "Revenues."
+            ],
+            [
+              "$677,240"
+            ],
+            [
+              "$677,240"
+            ],
+            [
+              "Costs of Goods Sold:"
+            ],
+            [
+              "Historical costs, excluding depreciation."
+            ],
+            [
+              "$341,170"
+            ],
+            [
+              "$341,170"
+            ],
+            [
+              "Special non-cash inventory costs."
+            ],
+            [
+              "4,979"
+            ],
+            [
+              "(1)"
+            ],
+            [
+              "Depreciation of plant and equipment ..."
+            ],
+            [
+              "8,301"
+            ],
+            [
+              "13,355"
+            ],
+            [
+              "(2)"
+            ],
+            [
+              "349,471"
+            ],
+            [
+              "359,504"
+            ],
+            [
+              "$327,769"
+            ],
+            [
+              "$317,736"
+            ],
+            [
+              "Gross Profit ."
+            ],
+            [
+              "Selling & Admin. Expense........"
+            ],
+            [
+              "$260,286"
+            ],
+            [
+              "$260,286"
+            ],
+            [
+              "Amortization of Goodwill ........."
+            ],
+            [
+              "______"
+            ],
+            [
+              "____"
+            ],
+            [
+              "(3)"
+            ],
+            [
+              "260,286"
+            ],
+            [
+              "260,881"
+            ],
+            [
+              "Operating Profit ....................."
+            ],
+            [
+              "$ 67,483"
+            ],
+            [
+              "$ 56,855"
+            ],
+            [
+              "Other Income, Net ................."
+            ],
+            [
+              "4,135"
+            ],
+            [
+              "4,135"
+            ],
+            [
+              "Pre-Tax Income ......................"
+            ],
+            [
+              "$ 71,618"
+            ],
+            [
+              "$ 60,990"
+            ],
+            [
+              "Applicable Income Tax:"
+            ],
+            [
+              "Historical deferred and current tax ."
+            ],
+            [
+              "$ 31,387"
+            ],
+            [
+              "$ 31,387"
+            ],
+            [
+              "Non-Cash Inter-period Allocation Adjustment ............."
+            ],
+            [
+              "______"
+            ],
+            [
+              "_____"
+            ],
+            [
+              "(4)"
+            ],
+            [
+              "31,387"
+            ],
+            [
+              "32,385"
+            ],
+            [
+              "Net Income"
+            ],
+            [
+              "............"
+            ],
+            [
+              "$40,231 $28,605"
+            ],
+            [
+              "======= ======="
+            ]
+          ],
+          "row_count": 54
+        }
+      ],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "Scott Fetzer"
+        ],
+        "people": [],
+        "metrics": []
+      },
+      "themes": [],
+      "buffett_concepts": [],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1986,
+        "comparison_years": [],
+        "future_outlook": false
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "low",
+      "token_count": 195,
+      "char_count": 1369,
+      "source_span": {
+        "start_char": 69312,
+        "end_char_exclusive": 70160
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "1986-S09-T2-002",
+    "content": "The final accounting adjustment we needed to make, after recording fair market values for all assets and liabilities, was the assignment of the residual premium to Goodwill (technically known as \"excess of cost over the fair value of net assets acquired\"). This residual amounted to $24.3 million. Thus, the balance sheet of Scott Fetzer immediately before the acquisition, which is summarized below in column O, was transformed by the purchase into the balance sheet shown in column N. In real terms, both balance sheets depict the same assets and liabilities - but, as you can see, certain figures differ significantly.\n\nCompany O\n\nCompany N\n\n(000 s Omitted)\n\nAssets\n\nCash and Cash Equivalents ...\n\n$ 3,593\n\n$ 3,593\n\nReceivables, net ..\n\n90,919\n\n90,919\n\nInventories\n\n77,489\n\n114,764\n\nOther .\n\n5,954\n\n5,954\n\nTotal Current Assets ..\n\n177,955\n\n215,230\n\nProperty, Plant, and Equipment, net .\n\n80,967\n\n148,960\n\nInvestments in and Advances to Unconsolidated Subsidiaries and Joint Ventures\n\n93,589\n\n93,589\n\nOther Assets, including Goodwill .\n\n9,836\n\n34,210\n\n$362,347\n\n$491,989\n\nLiabilities\n\nNotes Payable and Current Portion of Long-term Debt\n\n$ 4,650\n\n$ 4,650\n\nAccounts Payable ...\n\n39,003\n\n39,003\n\nAccrued Liabilities ..\n\n84,939\n\n84,939\n\nTotal Current Liabilities ..\n\n128,592\n\n128,592\n\nLong-term Debt and Capitalized Leases .\n\n34,669\n\n34,669\n\nDeferred Income Taxes ..\n\n17,052\n\n4,075\n\nOther Deferred Credits\n\n9,657\n\n9,657\n\nTotal Liabilities\n\n189,970\n\n176,993\n\nShareholders' Equity ...\n\n172,377\n\n314,996\n\n$362,347 $491,989\n======== ========\n\nThe higher balance sheet figures shown in column N produce the lower income figures shown in column N of the earnings statement presented earlier. This is the result of the asset write-ups and of the fact that some of the written-up assets must be depreciated or amortized. The higher the asset figure, the higher the annual depreciation or amortization charge to earnings must be. The charges that flowed to the earnings statement because of the balance sheet write-ups were numbered in the statement of earnings shown earlier:",
+    "metadata": {
+      "letter_year": 1986,
+      "letter_date": "1987-02-27",
+      "source_file": "1986_cleaned.txt",
+      "section_title": "Appendix: Purchase-Price Accounting Adjustments and the \"Cash Flow\" Fallacy",
+      "section_hierarchy": [
+        "Appendix",
+        "Purchase-Price Accounting Adjustments"
+      ],
+      "chunk_tier": 2,
+      "parent_chunk_id": "1986-S09-T1-001",
+      "child_chunk_ids": [],
+      "content_type": "financial_table",
+      "contextual_summary": "Buffett recounts Berkshire’s acquisition of Fechheimer, emphasizing durable economics, owner-oriented managers, and preference for straightforward deals.",
+      "has_table": true,
+      "table_data": [
+        {
+          "table_name": "Scott Fetzer Balance Sheet (Old vs New)",
+          "summary": "Raw table text captured for Scott Fetzer Balance Sheet (Old vs New).",
+          "columns": [
+            "raw_line"
+          ],
+          "rows": [
+            [
+              "Company O"
+            ],
+            [
+              "Company N"
+            ],
+            [
+              "(000 s Omitted)"
+            ],
+            [
+              "Assets"
+            ],
+            [
+              "Cash and Cash Equivalents ..."
+            ],
+            [
+              "$ 3,593"
+            ],
+            [
+              "$ 3,593"
+            ],
+            [
+              "Receivables, net .."
+            ],
+            [
+              "90,919"
+            ],
+            [
+              "90,919"
+            ],
+            [
+              "Inventories"
+            ],
+            [
+              "77,489"
+            ],
+            [
+              "114,764"
+            ],
+            [
+              "Other ."
+            ],
+            [
+              "5,954"
+            ],
+            [
+              "5,954"
+            ],
+            [
+              "Total Current Assets .."
+            ],
+            [
+              "177,955"
+            ],
+            [
+              "215,230"
+            ],
+            [
+              "Property, Plant, and Equipment, net ."
+            ],
+            [
+              "80,967"
+            ],
+            [
+              "148,960"
+            ],
+            [
+              "Investments in and Advances to Unconsolidated Subsidiaries and Joint Ventures"
+            ],
+            [
+              "93,589"
+            ],
+            [
+              "93,589"
+            ],
+            [
+              "Other Assets, including Goodwill ."
+            ],
+            [
+              "9,836"
+            ],
+            [
+              "34,210"
+            ],
+            [
+              "$362,347"
+            ],
+            [
+              "$491,989"
+            ],
+            [
+              "Liabilities"
+            ],
+            [
+              "Notes Payable and Current Portion of Long-term Debt"
+            ],
+            [
+              "$ 4,650"
+            ],
+            [
+              "$ 4,650"
+            ],
+            [
+              "Accounts Payable ..."
+            ],
+            [
+              "39,003"
+            ],
+            [
+              "39,003"
+            ],
+            [
+              "Accrued Liabilities .."
+            ],
+            [
+              "84,939"
+            ],
+            [
+              "84,939"
+            ],
+            [
+              "Total Current Liabilities .."
+            ],
+            [
+              "128,592"
+            ],
+            [
+              "128,592"
+            ],
+            [
+              "Long-term Debt and Capitalized Leases ."
+            ],
+            [
+              "34,669"
+            ],
+            [
+              "34,669"
+            ],
+            [
+              "Deferred Income Taxes .."
+            ],
+            [
+              "17,052"
+            ],
+            [
+              "4,075"
+            ],
+            [
+              "Other Deferred Credits"
+            ],
+            [
+              "9,657"
+            ],
+            [
+              "9,657"
+            ],
+            [
+              "Total Liabilities"
+            ],
+            [
+              "189,970"
+            ],
+            [
+              "176,993"
+            ],
+            [
+              "Shareholders' Equity ..."
+            ],
+            [
+              "172,377"
+            ],
+            [
+              "314,996"
+            ],
+            [
+              "$362,347 $491,989"
+            ],
+            [
+              "======== ========"
+            ]
+          ],
+          "row_count": 60
+        }
+      ],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "Scott Fetzer"
+        ],
+        "people": [],
+        "metrics": []
+      },
+      "themes": [],
+      "buffett_concepts": [],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1986,
+        "comparison_years": [],
+        "future_outlook": false
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "low",
+      "token_count": 312,
+      "char_count": 2066,
+      "source_span": {
+        "start_char": 73623,
+        "end_char_exclusive": 74537
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  }
+]

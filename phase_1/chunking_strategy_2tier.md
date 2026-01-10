@@ -26,7 +26,7 @@ Every chunk MUST match this exact structure. No optional keys. No type variation
   "parent_chunk_id": null,
   "child_chunk_ids": [],
   "content_type": "narrative",
-  "contextual_summary": "1-3 standalone sentences that summarize the context of the current chunk for retrieval.",
+  "contextual_summary": "from 1 to 3 standalone sentences that capture the context and key points of the current chunk for retrieval.",
   "has_table": false,
   "table_data": [],
   "has_financial_data": false,
@@ -47,6 +47,70 @@ Every chunk MUST match this exact structure. No optional keys. No type variation
   "merged_from": []
 }
 ```
+
+#### metadata.contextual_summary
+contextual_summary (MANDATORY, STRICT)
+
+Purpose
+Provide a short, standalone summary that captures the specific meaning and key points of this chunk for retrieval and ranking in RAG systems.
+
+Format Rules
+
+Length: 1–2 sentences, maximum 45 words
+
+Style: Natural language, complete sentences
+
+Must be standalone (readable without surrounding context)
+
+Content Requirements
+Each contextual_summary MUST include at least two of the following, if present in the chunk:
+
+A concrete entity (e.g., company, person)
+
+A specific action or judgment (e.g., acquisition, comparison, warning, capital allocation)
+
+A quantitative or factual detail (number, metric, outcome, comparison)
+
+Prohibitions (STRICT)
+The summary MUST NOT:
+
+Mention “section”, “part X of Y”, or document structure
+
+Use templates like:
+
+“Buffett discusses …”
+
+“This section talks about …”
+
+Be a list of keywords or comma-separated words
+
+Contain ellipses (...) or truncated words
+
+Copy sentences verbatim from the source text
+
+Quality Standard
+
+The summary should express what Buffett is saying or concluding, not just what topic appears.
+
+Prefer specific meaning over general themes.
+
+✅ Good Examples
+
+“Buffett explains why Berkshire’s insurance operations produced record underwriting profits in 1995, emphasizing disciplined pricing and the absence of catastrophe losses.”
+
+“The letter warns that accounting earnings can misrepresent true economic performance, using examples from capital-intensive businesses.”
+
+❌ Bad Examples
+
+“In the Introduction section (part 1 of 1), Buffett discusses have, over, share.”
+
+“Buffett discusses insurance, earnings, and business.”
+
+“This section talks about Berkshire’s performance.”
+
+Validation Rule (for execution)
+
+If a generated contextual_summary violates any rule above, it must be rewritten before final output.
 
 ### 1.3 Field Constraints
 
@@ -177,6 +241,7 @@ def validate(chunk):
 ### 5.2 Coherence Check
 - No mid-sentence breaks
 - No split numbered lists
+- No duplicate Tier-1 `contextual_summary`
 - All T2 have narrative context
 - No chunk < 150 tokens unless `standalone_exception`
 
