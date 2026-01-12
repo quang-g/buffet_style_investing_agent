@@ -51,27 +51,27 @@ Every chunk MUST match this exact structure. No optional keys. No type variation
 #### metadata.contextual_summary
 contextual_summary (MANDATORY, STRICT)
 
-Purpose
+**Purpose**
 Provide a 1 to 3 sentences short succinct context to situate this chunk within the overall document for the purposes of improving search retrieval of the chunk.
 Answer only with the succinct context and nothing else.
 
-Format Rules
+**Format Rules**
 
 Length: 1–3 sentences, maximum 45 words
 Style: Natural language, complete sentences
 Must be standalone (readable without surrounding context)
 
-Prohibitions (STRICT)
+**Prohibitions (STRICT)**
 The summary MUST NOT:
-Mention “section”, “part X of Y”, or document structure
-Use templates like:
-“Buffett discusses …”
-“This section talks about …”
-Be a list of keywords or comma-separated words
-Contain ellipses (...) or truncated words
-Copy sentences verbatim from the source text
+- Mention “section”, “part X of Y”, or document structure
+- Use templates like:
+  “Buffett discusses …”
+  “This section talks about …”
+- Be a list of keywords or comma-separated words
+- Contain ellipses (...) or truncated words
+- Copy sentences verbatim from the source text
 
-Quality Standard
+**Quality Standard**
 Prefer specific meaning over general themes.
 
 ✅ Good Examples
