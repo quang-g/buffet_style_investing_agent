@@ -119,7 +119,7 @@ If a generated contextual_summary violates any rule above, it must be rewritten 
 ---
 
 ## 2. Chunking Rules (DETERMINISTIC)
-Skip the first table "Berkshire's Corporate Performance vs. the S&P 500" in the letter. Only start chunking after the first table.
+Skip the tables whose size are more than 600 tokens like "Berkshire's Corporate Performance vs. the S&P 500" in the letter.
 
 ### 2.1 Tier Definitions
 | Tier | Purpose | Tokens | Creation |
