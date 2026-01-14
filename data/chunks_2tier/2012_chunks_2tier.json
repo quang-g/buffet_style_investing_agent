@@ -15,7 +15,7 @@
       "parent_chunk_id": null,
       "child_chunk_ids": [],
       "content_type": "narrative",
-      "contextual_summary": "In the 'To the Shareholders of Berkshire Hathaway Inc.' section, this chunk covers accounting, capital allocation and the related points Buffett emphasizes in 2012. It provides context for the surrounding sections of the shareholder letter and any referenced numbers or policies.",
+      "contextual_summary": "Berkshire reports 2012 results, including a $24.1 billion gain and a 14.4% rise in book value per share, then notes the year trailed the S&P 500. It treats book value as a proxy for intrinsic value and expects uneven relative results.",
       "has_table": false,
       "table_data": [],
       "has_financial_data": true,
@@ -88,7 +88,7 @@
       "parent_chunk_id": null,
       "child_chunk_ids": [],
       "content_type": "narrative",
-      "contextual_summary": "In the 'To the Shareholders of Berkshire Hathaway Inc.' section, this chunk covers capital allocation, governance and the related points Buffett emphasizes in 2012. It provides context for the surrounding sections of the shareholder letter and any referenced numbers or policies.",
+      "contextual_summary": "Early 2013 brought a major deal: Berkshire agreed to invest about $12 billion to acquire Heinz with partners, using preferred shares and warrants to boost returns. It also highlights strong 2012 momentum across major subsidiaries, bolt-on acquisitions, and record underwriting profits led by GEICO.",
       "has_table": false,
       "table_data": [],
       "has_financial_data": true,
@@ -167,7 +167,7 @@
       "parent_chunk_id": null,
       "child_chunk_ids": [],
       "content_type": "mistake_confession",
-      "contextual_summary": "In the 'To the Shareholders of Berkshire Hathaway Inc.' section, this chunk covers capital allocation, governance and the related points Buffett emphasizes in 2012. It provides context for the surrounding sections of the shareholder letter and any referenced numbers or policies.",
+      "contextual_summary": "Berkshire highlights operating strengths beyond acquisitions: new investment managers outperformed, employment grew without expanding headquarters, and big equity holdings increased their ownership stakes. It also defends aggressive U.S. capital spending and argues that “uncertainty” is a constant that shouldn’t freeze long-term investment.",
       "has_table": false,
       "table_data": [],
       "has_financial_data": true,
@@ -242,7 +242,7 @@
       "parent_chunk_id": null,
       "child_chunk_ids": [],
       "content_type": "mistake_confession",
-      "contextual_summary": "In the 'To the Shareholders of Berkshire Hathaway Inc.' section, this chunk covers capital allocation, governance and the related points Buffett emphasizes in 2012. It provides context for the surrounding sections of the shareholder letter and any referenced numbers or policies.",
+      "contextual_summary": "The narrative argues that staying invested in American business beats market-timing, using long-run market and GDP growth to make the case. It then summarizes how Berkshire aims to grow per-share intrinsic value through operating improvement, bolt-on deals, investee participation, opportunistic buybacks, and occasional large acquisitions.",
       "has_table": false,
       "table_data": [],
       "has_financial_data": true,
@@ -315,7 +315,7 @@
       "parent_chunk_id": null,
       "child_chunk_ids": [],
       "content_type": "principle_statement",
-      "contextual_summary": "In the 'Intrinsic Business Value' section, this chunk covers governance, insurance and the related points Buffett emphasizes in 2012. It provides context for the surrounding sections of the shareholder letter and any referenced numbers or policies.",
+      "contextual_summary": "Intrinsic value is treated as the key yardstick, but only approximated through a mix of qualitative judgment and two quantitative measures. For 2012, Berkshire updates per-share investments and non-insurance pre-tax earnings and emphasizes that building operating earnings is the primary objective.",
       "has_table": false,
       "table_data": [],
       "has_financial_data": true,
@@ -385,7 +385,7 @@
       "parent_chunk_id": null,
       "child_chunk_ids": [],
       "content_type": "mistake_confession",
-      "contextual_summary": "In the 'Insurance' section, this chunk covers accounting, insurance and the related points Buffett emphasizes in 2012. It provides context for the surrounding sections of the shareholder letter and any referenced numbers or policies.",
+      "contextual_summary": "Insurance is presented as Berkshire’s growth engine because float provides investable funds that can be stable and low-cost when underwriting is disciplined. The discussion contrasts accounting treatment of float and goodwill with their economic meaning, and notes the industry’s structural tendency toward underwriting losses.",
       "has_table": false,
       "table_data": [],
       "has_financial_data": true,
@@ -463,7 +463,7 @@
       "parent_chunk_id": null,
       "child_chunk_ids": [],
       "content_type": "principle_statement",
-      "contextual_summary": "In the 'Insurance' section, this chunk covers accounting, capital allocation and the related points Buffett emphasizes in 2012. It provides context for the surrounding sections of the shareholder letter and any referenced numbers or policies.",
+      "contextual_summary": "Cost-free, enduring float is described as a key reason Berkshire’s intrinsic value can exceed book value. The text names major insurance leaders and lays out four underwriting disciplines, stressing that walking away from inadequately priced business is the toughest and most important test.",
       "has_table": false,
       "table_data": [],
       "has_financial_data": true,
@@ -526,7 +526,7 @@
   },
   {
     "chunk_id": "2012-S03-T1-003",
-    "content": "Tad has observed all four of the insurance commandments, and it shows in his results. General Re’s huge\nfloat has been better than cost-free under his leadership, and we expect that, on average, it will continue to be. We\nare particularly enthusiastic about General Re’s international life reinsurance business, which has achieved\nconsistent and profitable growth since we acquired the company in 1998.\n* * * * * * * * * * * *\nFinally, there is GEICO, the insurer on which I cut my teeth 62 years ago. GEICO is run by Tony Nicely,\nwho joined the company at 18 and completed 51 years of service in 2012.\nI rub my eyes when I look at what Tony has accomplished. Last year, it should be noted, his record was\nconsiderably better than is indicated by GEICO’s GAAP underwriting profit of $680 million. Because of a change\nin accounting rules at the beginning of the year, we recorded a charge to GEICO’s underwriting earnings of\n$410 million. This item had nothing to do with 2012’s operating results, changing neither cash, revenues, expenses\nnor taxes. In effect, the writedown simply widened the already huge difference between GEICO’s intrinsic value\nand the value at which we carry it on our books.\nGEICO earned its underwriting profit, moreover, despite the company suffering its largest single loss in\nhistory. The cause was Hurricane Sandy, which cost GEICO more than three times the loss it sustained from\nKatrina, the previous record-holder. We insured 46,906 vehicles that were destroyed or damaged in the storm, a\nstaggering number reflecting GEICO’s leading market share in the New York metropolitan area.\nLast year GEICO enjoyed a meaningful increase in both the renewal rate for existing policyholders\n(“persistency”) and in the percentage of rate quotations that resulted in sales (“closures”). Big dollars ride on those\ntwo factors: A sustained gain in persistency of a bare one percentage point increases intrinsic value by more than\n$1 billion. GEICO’s gains in 2012 offer dramatic proof that when people check the company’s prices, they usually\nfind they can save important sums. (Give us a try at 1-800-847-7536 or GEICO. com. Be sure to mention that you are a\nshareholder; that fact will usually result in a discount.)\n* * * * * * * * * * * *\nIn addition to our three major insurance operations, we own a group of smaller companies, most of them\nplying their trade in odd corners of the insurance world. In aggregate, these companies have consistently delivered\nan underwriting profit. Moreover, as the table below shows, they also provide us with substantial float. Charlie and\nI treasure these companies and their managers.\nLate in 2012, we enlarged this group by acquiring Guard Insurance, a Wilkes-Barre company that writes\nworkers compensation insurance, primarily for smaller businesses. Guard’s annual premiums total about $300\nmillion. The company has excellent prospects for growth in both its traditional business and new lines it has begun\nto offer.\nUnderwriting Profit Yearend Float\n(in millions)\nInsurance Operations 2012 2011 2012 2011\nBH Reinsurance . . . . . . . . . $ 304 $(714) $34,821 $33,728\nGeneral Re . . . . . . . . . . . . . 355 144 20,128 19,714\nGEICO . . . . . . . . . . . . . . . . 680* 576 11,578 11,169\nOther Primary . . . . . . . . . . 286 242 6,598 5,960\n$1,625 $ 248 $73,125 $70,571\n*After a $410 million charge against earnings arising from an industry-wide accounting change.\nAmong large insurance operations, Berkshire’s impresses me as the best in the world. It was our lucky day\nwhen, in March 1967, Jack Ringwalt sold us his two property-casualty insurers for $8.6 million.",
+    "content": "Tad has observed all four of the insurance commandments, and it shows in his results. General Re’s huge\nfloat has been better than cost-free under his leadership, and we expect that, on average, it will continue to be. We\nare particularly enthusiastic about General Re’s international life reinsurance business, which has achieved\nconsistent and profitable growth since we acquired the company in 1998.\n* * * * * * * * * * * *\nFinally, there is GEICO, the insurer on which I cut my teeth 62 years ago. GEICO is run by Tony Nicely,\nwho joined the company at 18 and completed 51 years of service in 2012.\nI rub my eyes when I look at what Tony has accomplished. Last year, it should be noted, his record was\nconsiderably better than is indicated by GEICO’s GAAP underwriting profit of $680 million. Because of a change\nin accounting rules at the beginning of the year, we recorded a charge to GEICO’s underwriting earnings of\n$410 million. This item had nothing to do with 2012’s operating results, changing neither cash, revenues, expenses\nnor taxes. In effect, the writedown simply widened the already huge difference between GEICO’s intrinsic value\nand the value at which we carry it on our books.\nGEICO earned its underwriting profit, moreover, despite the company suffering its largest single loss in\nhistory. The cause was Hurricane Sandy, which cost GEICO more than three times the loss it sustained from\nKatrina, the previous record-holder. We insured 46,906 vehicles that were destroyed or damaged in the storm, a\nstaggering number reflecting GEICO’s leading market share in the New York metropolitan area.\nLast year GEICO enjoyed a meaningful increase in both the renewal rate for existing policyholders\n(“persistency”) and in the percentage of rate quotations that resulted in sales (“closures”). Big dollars ride on those\ntwo factors: A sustained gain in persistency of a bare one percentage point increases intrinsic value by more than\n$1 billion. GEICO’s gains in 2012 offer dramatic proof that when people check the company’s prices, they usually\nfind they can save important sums. (Give us a try at 1-800-847-7536 or GEICO. com. Be sure to mention that you are a\nshareholder; that fact will usually result in a discount.)\n* * * * * * * * * * * *\nIn addition to our three major insurance operations, we own a group of smaller companies, most of them\nplying their trade in odd corners of the insurance world. In aggregate, these companies have consistently delivered\nan underwriting profit. Moreover, as the table below shows, they also provide us with substantial float. Charlie and\nI treasure these companies and their managers.\nLate in 2012, we enlarged this group by acquiring Guard Insurance, a Wilkes-Barre company that writes\nworkers compensation insurance, primarily for smaller businesses. Guard’s annual premiums total about $300\nmillion. The company has excellent prospects for growth in both its traditional business and new lines it has begun\nto offer.\n[TABLE — see child chunk 2012-S03-T2-001]\nAmong large insurance operations, Berkshire’s impresses me as the best in the world. It was our lucky day\nwhen, in March 1967, Jack Ringwalt sold us his two property-casualty insurers for $8.6 million.",
     "metadata": {
       "letter_year": 2012,
       "letter_date": "2013-03-01",
@@ -539,9 +539,11 @@
       ],
       "chunk_tier": 1,
       "parent_chunk_id": null,
-      "child_chunk_ids": [],
+      "child_chunk_ids": [
+        "2012-S03-T2-001"
+      ],
       "content_type": "narrative",
-      "contextual_summary": "In the 'Insurance' section, this chunk covers accounting, governance and the related points Buffett emphasizes in 2012. It provides context for the surrounding sections of the shareholder letter and any referenced numbers or policies.",
+      "contextual_summary": "Operating results for major insurers show disciplined growth, including GEICO’s strong year despite Hurricane Sandy and improved retention and quote-to-sale conversion. The update also covers smaller insurers, the Guard acquisition, and a table summarizing underwriting profit and float by unit.",
       "has_table": false,
       "table_data": [],
       "has_financial_data": true,
@@ -592,10 +594,122 @@
       },
       "retrieval_priority": "high",
       "abstraction_level": "medium",
-      "token_count": 841,
-      "char_count": 3628,
+      "token_count": 713,
+      "char_count": 3221,
       "source_span": {
         "start_char": 29352,
+        "end_char_exclusive": 32980
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
+    "chunk_id": "2012-S03-T2-001",
+    "content": "to offer.\n\nUnderwriting Profit Yearend Float\n(in millions)\nInsurance Operations 2012 2011 2012 2011\nBH Reinsurance . . . . . . . . . $ 304 $(714) $34,821 $33,728\nGeneral Re . . . . . . . . . . . . . 355 144 20,128 19,714\nGEICO . . . . . . . . . . . . . . . . 680* 576 11,578 11,169\nOther Primary . . . . . . . . . . 286 242 6,598 5,960\n$1,625 $ 248 $73,125 $70,571\n*After a $410 million charge against earnings arising from an industry-wide accounting change.\n\nAmong large insurance operations, Berkshire’s impresses me as the best in the world. It was our lucky day\nwhen, in March 1967, Jack Ringwalt sold us his two property-casualty insurers for $8.6 million.",
+    "metadata": {
+      "letter_year": 2012,
+      "letter_date": "2013-03-01",
+      "source_file": "2012_cleaned.txt",
+      "section_title": "Insurance",
+      "section_hierarchy": [
+        "Letter Body",
+        "Business Segments",
+        "Insurance"
+      ],
+      "chunk_tier": 2,
+      "parent_chunk_id": "2012-S03-T1-003",
+      "child_chunk_ids": [],
+      "content_type": "financial_table",
+      "contextual_summary": "In the Insurance section, Buffett includes a table (Underwriting Profit Yearend Float) to anchor the surrounding discussion with concrete figures.",
+      "has_table": true,
+      "table_data": [
+        {
+          "table_name": "Underwriting Profit Yearend Float",
+          "summary": "Shows underwriting profit and yearend float by insurance operation for 2012 versus 2011.",
+          "columns": [
+            "raw_line"
+          ],
+          "rows": [
+            [
+              "Underwriting Profit Yearend Float"
+            ],
+            [
+              "BH Reinsurance . . . . . . . . . $ 304 $(714) $34,821 $33,728"
+            ],
+            [
+              "General Re . . . . . . . . . . . . . 355 144 20,128 19,714"
+            ],
+            [
+              "GEICO . . . . . . . . . . . . . . . . 680* 576 11,578 11,169"
+            ],
+            [
+              "Other Primary . . . . . . . . . . 286 242 6,598 5,960"
+            ],
+            [
+              "$1,625 $ 248 $73,125 $70,571"
+            ],
+            [
+              "*After a $410 million charge against earnings arising from an industry-wide accounting change."
+            ]
+          ],
+          "row_count": 7
+        }
+      ],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "Berkshire",
+          "GEICO",
+          "General Re"
+        ],
+        "people": [
+          "Charlie",
+          "Tony Nicely"
+        ],
+        "metrics": [
+          "GAAP",
+          "earnings",
+          "float",
+          "intrinsic value",
+          "underwriting profit"
+        ]
+      },
+      "themes": [
+        "accounting",
+        "governance",
+        "insurance",
+        "intrinsic value",
+        "operations"
+      ],
+      "buffett_concepts": [
+        "accounting_earnings",
+        "float",
+        "intrinsic_value",
+        "underwriting_discipline"
+      ],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 2012,
+        "comparison_years": [
+          1967,
+          1998,
+          2011
+        ],
+        "future_outlook": false
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "low",
+      "token_count": 182,
+      "char_count": 662,
+      "source_span": {
+        "start_char": 32320,
         "end_char_exclusive": 32980
       },
       "standalone_exception": false,
@@ -621,7 +735,7 @@
       "parent_chunk_id": null,
       "child_chunk_ids": [],
       "content_type": "narrative",
-      "contextual_summary": "In the 'Regulated, Capital-Intensive Businesses' section, this chunk covers accounting, capital allocation and the related points Buffett emphasizes in 2012. It provides context for the surrounding sections of the shareholder letter and any referenced numbers or policies.",
+      "contextual_summary": "BNSF and MidAmerican are grouped as regulated, capital-intensive businesses with long-lived assets financed partly by non-recourse debt and supported by strong interest coverage. The text explains how rail transport and renewable-energy buildouts require heavy, multi-year investment and depend on constructive regulation.",
       "has_table": false,
       "table_data": [],
       "has_financial_data": true,
@@ -677,7 +791,7 @@
   },
   {
     "chunk_id": "2012-S04-T1-002",
-    "content": "In Matt Rose, at BNSF, and Greg Abel, at Mid American, we have two outstanding CEOs. They are\nextraordinary managers who have developed businesses that serve both their customers and owners well. Each has\nmy gratitude and each deserves yours. Here are the key figures for their businesses:\nMid American (89.8% owned) Earnings (in millions)\n2012 2011\nU. K. utilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 429 $ 469\nIowa utility . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 236 279\nWestern utilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 737 771\nPipelines . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 383 388\nHome Services . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 82 39\nOther (net) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 91 36\nOperating earnings before corporate interest and taxes . . . . . . . . . . . . . . . . . . . 1,958 1,982\nInterest . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 314 336\nIncome taxes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 172 315\nNet earnings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 1,472 $ 1,331\nEarnings applicable to Berkshire . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 1,323 $ 1,204\nBNSF Earnings (in millions)\n2012 2011\nRevenues . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $20,835 $19,548\nOperating expenses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14,835 14,247\nOperating earnings before interest and taxes . . . . . . . . . . . . . . . . . . . . . . . . . . . 6,000 5,301\nInterest (net) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 623 560\nIncome taxes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2,005 1,769\nNet earnings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 3,372 $ 2,972\nSharp-eyed readers will notice an incongruity in the Mid American earnings tabulation. What in the world\nis Home Services, a real estate brokerage operation, doing in a section entitled “Regulated, Capital-Intensive\nBusinesses?”\nWell, its ownership came with Mid American when we bought control of that company in 2000. At that\ntime, I focused on Mid American’s utility operations and barely noticed Home Services, which then owned only a\nfew real estate brokerage companies.\nSince then, however, the company has regularly added residential brokers – three in 2012 – and now has\nabout 16,000 agents in a string of major U. S. cities. (Our real estate brokerage companies are listed on page 107.)\nIn 2012, our agents participated in $42 billion of home sales, up 33% from 2011.\nAdditionally, Home Services last year purchased 67% of the Prudential and Real Living franchise\noperations, which together license 544 brokerage companies throughout the country and receive a small royalty on\ntheir sales. We have an arrangement to purchase the balance of those operations within five years. In the coming\nyears, we will gradually rebrand both our franchisees and the franchise firms we own as Berkshire Hathaway\nHome Services.\nRon Peltier has done an outstanding job in managing Home Services during a depressed period. Now, as\nthe housing market continues to strengthen, we expect earnings to rise significantly.",
+    "content": "In Matt Rose, at BNSF, and Greg Abel, at Mid American, we have two outstanding CEOs. They are\nextraordinary managers who have developed businesses that serve both their customers and owners well. Each has\nmy gratitude and each deserves yours. Here are the key figures for their businesses:\n[TABLE — see child chunk 2012-S04-T2-001]\nSharp-eyed readers will notice an incongruity in the Mid American earnings tabulation. What in the world\nis Home Services, a real estate brokerage operation, doing in a section entitled “Regulated, Capital-Intensive\nBusinesses?”\nWell, its ownership came with Mid American when we bought control of that company in 2000. At that\ntime, I focused on Mid American’s utility operations and barely noticed Home Services, which then owned only a\nfew real estate brokerage companies.\nSince then, however, the company has regularly added residential brokers – three in 2012 – and now has\nabout 16,000 agents in a string of major U. S. cities. (Our real estate brokerage companies are listed on page 107.)\nIn 2012, our agents participated in $42 billion of home sales, up 33% from 2011.\nAdditionally, Home Services last year purchased 67% of the Prudential and Real Living franchise\noperations, which together license 544 brokerage companies throughout the country and receive a small royalty on\ntheir sales. We have an arrangement to purchase the balance of those operations within five years. In the coming\nyears, we will gradually rebrand both our franchisees and the franchise firms we own as Berkshire Hathaway\nHome Services.\nRon Peltier has done an outstanding job in managing Home Services during a depressed period. Now, as\nthe housing market continues to strengthen, we expect earnings to rise significantly.",
     "metadata": {
       "letter_year": 2012,
       "letter_date": "2013-03-01",
@@ -690,9 +804,11 @@
       ],
       "chunk_tier": 1,
       "parent_chunk_id": null,
-      "child_chunk_ids": [],
+      "child_chunk_ids": [
+        "2012-S04-T2-001"
+      ],
       "content_type": "narrative",
-      "contextual_summary": "In the 'Regulated, Capital-Intensive Businesses' section, this chunk covers capital allocation, regulated businesses and the related points Buffett emphasizes in 2012. It provides context for the surrounding sections of the shareholder letter and any referenced numbers or policies.",
+      "contextual_summary": "Key financial figures are provided for MidAmerican and BNSF, alongside praise for their CEOs and debt-servicing resilience. The discussion also explains why HomeServices belongs in the group and describes its rapid expansion in agents, sales volume, and real-estate franchising.",
       "has_table": false,
       "table_data": [],
       "has_financial_data": true,
@@ -730,8 +846,8 @@
       },
       "retrieval_priority": "high",
       "abstraction_level": "medium",
-      "token_count": 1577,
-      "char_count": 3929,
+      "token_count": 370,
+      "char_count": 1739,
       "source_span": {
         "start_char": 36705,
         "end_char_exclusive": 40634
@@ -743,8 +859,149 @@
     }
   },
   {
+    "chunk_id": "2012-S04-T2-001",
+    "content": "my gratitude and each deserves yours. Here are the key figures for their businesses:\n\nMid American (89.8% owned) Earnings (in millions)\n2012 2011\nU. K. utilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 429 $ 469\nIowa utility . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 236 279\nWestern utilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 737 771\nPipelines . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 383 388\nHome Services . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 82 39\nOther (net) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 91 36\nOperating earnings before corporate interest and taxes . . . . . . . . . . . . . . . . . . . 1,958 1,982\nInterest . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 314 336\nIncome taxes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 172 315\nNet earnings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 1,472 $ 1,331\nEarnings applicable to Berkshire . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 1,323 $ 1,204\nBNSF Earnings (in millions)\n2012 2011\nRevenues . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $20,835 $19,548\nOperating expenses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14,835 14,247\nOperating earnings before interest and taxes . . . . . . . . . . . . . . . . . . . . . . . . . . . 6,000 5,301\nInterest (net) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 623 560\nIncome taxes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2,005 1,769\nNet earnings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 3,372 $ 2,972\n\nSharp-eyed readers will notice an incongruity in the Mid American earnings tabulation. What in the world\nis Home Services, a real estate brokerage operation, doing in a section entitled “Regulated, Capital-Intensive\nBusinesses?”\nWell, its ownership came with Mid American when we bought control of that company in 2000. At that\ntime, I focused on Mid American’s utility operations and barely noticed Home Services, which then owned only a\nfew real estate brokerage companies.",
+    "metadata": {
+      "letter_year": 2012,
+      "letter_date": "2013-03-01",
+      "source_file": "2012_cleaned.txt",
+      "section_title": "Regulated, Capital-Intensive Businesses",
+      "section_hierarchy": [
+        "Letter Body",
+        "Business Segments",
+        "Regulated Businesses"
+      ],
+      "chunk_tier": 2,
+      "parent_chunk_id": "2012-S04-T1-002",
+      "child_chunk_ids": [],
+      "content_type": "financial_table",
+      "contextual_summary": "In the Regulated, Capital-Intensive Businesses section, Buffett includes a table (Mid American (89.8% owned) Earnings (in millions)) to anchor the surrounding discussion with concrete figures.",
+      "has_table": true,
+      "table_data": [
+        {
+          "table_name": "Mid American (89.8% owned) Earnings (in millions)",
+          "summary": "Summarizes MidAmerican’s segment earnings and key components for 2012 and 2011.",
+          "columns": [
+            "raw_line"
+          ],
+          "rows": [
+            [
+              "Mid American (89.8% owned) Earnings (in millions)"
+            ],
+            [
+              "2012 2011"
+            ],
+            [
+              "U. K. utilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 429 $ 469"
+            ],
+            [
+              "Iowa utility . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 236 279"
+            ],
+            [
+              "Western utilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 737 771"
+            ],
+            [
+              "Pipelines . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 383 388"
+            ],
+            [
+              "Home Services . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 82 39"
+            ],
+            [
+              "Other (net) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 91 36"
+            ],
+            [
+              "Operating earnings before corporate interest and taxes . . . . . . . . . . . . . . . . . . . 1,958 1,982"
+            ],
+            [
+              "Interest . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 314 336"
+            ],
+            [
+              "Income taxes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 172 315"
+            ],
+            [
+              "Net earnings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 1,472 $ 1,331"
+            ],
+            [
+              "Earnings applicable to Berkshire . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 1,323 $ 1,204"
+            ],
+            [
+              "BNSF Earnings (in millions)"
+            ],
+            [
+              "2012 2011"
+            ],
+            [
+              "Revenues . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $20,835 $19,548"
+            ],
+            [
+              "Operating expenses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14,835 14,247"
+            ],
+            [
+              "Operating earnings before interest and taxes . . . . . . . . . . . . . . . . . . . . . . . . . . . 6,000 5,301"
+            ],
+            [
+              "Interest (net) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 623 560"
+            ],
+            [
+              "Income taxes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2,005 1,769"
+            ],
+            [
+              "Net earnings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 3,372 $ 2,972"
+            ]
+          ],
+          "row_count": 21
+        }
+      ],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "BNSF",
+          "Berkshire",
+          "Berkshire Hathaway"
+        ],
+        "people": [],
+        "metrics": [
+          "earnings",
+          "operating earnings"
+        ]
+      },
+      "themes": [
+        "capital allocation",
+        "regulated businesses"
+      ],
+      "buffett_concepts": [
+        "capital_allocation"
+      ],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 2012,
+        "comparison_years": [
+          2000,
+          2011
+        ],
+        "future_outlook": false
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "low",
+      "token_count": 1331,
+      "char_count": 2794,
+      "source_span": {
+        "start_char": 36910,
+        "end_char_exclusive": 39702
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
     "chunk_id": "2012-S05-T1-001",
-    "content": "Our activities in this part of Berkshire cover the waterfront. Let’s look, though, at a summary balance sheet\nand earnings statement for the entire group.\nBalance Sheet 12/31/12 (in millions)\nAssets Liabilities and Equity\nCash and equivalents . . . . . . . . . . . . . . $ 5,338 Notes payable . . . . . . . . . . . . . . . $ 1,454\nAccounts and notes receivable . . . . . . . 7,382 Other current liabilities . . . . . . . . 8,527\nInventory . . . . . . . . . . . . . . . . . . . . . . . 9,675 Total current liabilities . . . . . . . . 9,981\nOther current assets . . . . . . . . . . . . . . . 734\nTotal current assets . . . . . . . . . . . . . . . . 23,129\nDeferred taxes . . . . . . . . . . . . . . . 4,907\nGoodwill and other intangibles . . . . . . 26,017 Term debt and other liabilities . . 5,826\nFixed assets . . . . . . . . . . . . . . . . . . . . . 18,871 Non-controlling interests . . . . . . 2,062\nOther assets . . . . . . . . . . . . . . . . . . . . . 3,416 Berkshire equity . . . . . . . . . . . . . 48,657\n$71,433 $71,433\nEarnings Statement (in millions)\n2012 2011* 2010\nRevenues . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $83,255 $72,406 $66,610\nOperating expenses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 76,978 67,239 62,225\nInterest expense . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 146 130 111\nPre-tax earnings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6,131 5,037 4,274\nIncome taxes and non-controlling interests . . . . . . . . . . . . . . . . . . 2,432 1,998 1,812\nNet earnings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 3,699 $ 3,039 $ 2,462\n*Includes earnings of Lubrizol from September 16.\nOur income and expense data conforming to Generally Accepted Accounting Principles (“GAAP”) is on\npage 29. In contrast, the operating expense figures above are non-GAAP. In particular, they exclude some\npurchase-accounting items, primarily the amortization of certain intangible assets. We present the data in this\nmanner because Charlie and I believe the adjusted numbers more accurately reflect the real expenses and profits of\nthe businesses aggregated in the table.\nI won’t explain all of the adjustments – some are small and arcane – but serious investors should\nunderstand the disparate nature of intangible assets: Some truly deplete over time while others never lose value.\nWith software, for example, amortization charges are very real expenses. Charges against other intangibles such as\nthe amortization of customer relationships, however, arise through purchase-accounting rules and are clearly not real\nexpenses. GAAP accounting draws no distinction between the two types of charges. Both, that is, are recorded as\nexpenses when calculating earnings – even though from an investor’s viewpoint they could not be more different.\nIn the GAAP-compliant figures we show on page 29, amortization charges of $600 million for the\ncompanies included in this section are deducted as expenses. We would call about 20% of these “real” – and indeed\nthat is the portion we have included in the table above – and the rest not. This difference has become significant\nbecause of the many acquisitions we have made.\n“Non-real” amortization expense also looms large at some of our major investees. IBM has made many\nsmall acquisitions in recent years and now regularly reports “adjusted operating earnings,” a non-GAAP figure that\nexcludes certain purchase-accounting adjustments. Analysts focus on this number, as they should.",
+    "content": "Our activities in this part of Berkshire cover the waterfront. Let’s look, though, at a summary balance sheet\nand earnings statement for the entire group.\n[TABLE — see child chunk 2012-S05-T2-001]\nOur income and expense data conforming to Generally Accepted Accounting Principles (“GAAP”) is on\npage 29. In contrast, the operating expense figures above are non-GAAP. In particular, they exclude some\npurchase-accounting items, primarily the amortization of certain intangible assets. We present the data in this\nmanner because Charlie and I believe the adjusted numbers more accurately reflect the real expenses and profits of\nthe businesses aggregated in the table.\nI won’t explain all of the adjustments – some are small and arcane – but serious investors should\nunderstand the disparate nature of intangible assets: Some truly deplete over time while others never lose value.\nWith software, for example, amortization charges are very real expenses. Charges against other intangibles such as\nthe amortization of customer relationships, however, arise through purchase-accounting rules and are clearly not real\nexpenses. GAAP accounting draws no distinction between the two types of charges. Both, that is, are recorded as\nexpenses when calculating earnings – even though from an investor’s viewpoint they could not be more different.\nIn the GAAP-compliant figures we show on page 29, amortization charges of $600 million for the\ncompanies included in this section are deducted as expenses. We would call about 20% of these “real” – and indeed\nthat is the portion we have included in the table above – and the rest not. This difference has become significant\nbecause of the many acquisitions we have made.\n“Non-real” amortization expense also looms large at some of our major investees. IBM has made many\nsmall acquisitions in recent years and now regularly reports “adjusted operating earnings,” a non-GAAP figure that\nexcludes certain purchase-accounting adjustments. Analysts focus on this number, as they should.",
     "metadata": {
       "letter_year": 2012,
       "letter_date": "2013-03-01",
@@ -757,9 +1014,11 @@
       ],
       "chunk_tier": 1,
       "parent_chunk_id": null,
-      "child_chunk_ids": [],
+      "child_chunk_ids": [
+        "2012-S05-T2-001"
+      ],
       "content_type": "narrative",
-      "contextual_summary": "In the 'Manufacturing, Service and Retailing Operations' section, this chunk covers accounting, governance and the related points Buffett emphasizes in 2012. It provides context for the surrounding sections of the shareholder letter and any referenced numbers or policies.",
+      "contextual_summary": "A consolidated balance sheet and earnings statement summarize Berkshire’s manufacturing, service, and retailing operations. The commentary explains why certain purchase-accounting amortization charges can be economically misleading and justifies using adjusted figures to reflect “real” operating expenses.",
       "has_table": false,
       "table_data": [],
       "has_financial_data": true,
@@ -802,8 +1061,8 @@
       },
       "retrieval_priority": "high",
       "abstraction_level": "medium",
-      "token_count": 1104,
-      "char_count": 3620,
+      "token_count": 412,
+      "char_count": 2017,
       "source_span": {
         "start_char": 40700,
         "end_char_exclusive": 44320
@@ -831,7 +1090,7 @@
       "parent_chunk_id": null,
       "child_chunk_ids": [],
       "content_type": "narrative",
-      "contextual_summary": "In the 'Manufacturing, Service and Retailing Operations' section, this chunk covers accounting, capital allocation and the related points Buffett emphasizes in 2012. It provides context for the surrounding sections of the shareholder letter and any referenced numbers or policies.",
+      "contextual_summary": "The accounting discussion continues with examples like Wells Fargo’s core-deposit amortization, then shifts to capital-allocation lessons: wonderful businesses beat bargains, and “cheap” deals can be costly. Marmon illustrates how GAAP write-offs can hide an attractive price and a wide intrinsic-value gap.",
       "has_table": false,
       "table_data": [],
       "has_financial_data": true,
@@ -911,7 +1170,7 @@
       "parent_chunk_id": null,
       "child_chunk_ids": [],
       "content_type": "narrative",
-      "contextual_summary": "In the 'Manufacturing, Service and Retailing Operations' section, this chunk covers accounting, regulated businesses and the related points Buffett emphasizes in 2012. It provides context for the surrounding sections of the shareholder letter and any referenced numbers or policies.",
+      "contextual_summary": "Marmon’s tank-car leasing and manufacturing operations are highlighted, including the scale of its fleet and the long-lived economics of the assets. The passage links those businesses to rising U.S. oil production and growing crude-by-rail volumes carried by BNSF.",
       "has_table": false,
       "table_data": [],
       "has_financial_data": true,
@@ -959,8 +1218,151 @@
     }
   },
   {
+    "chunk_id": "2012-S05-T2-001",
+    "content": "and earnings statement for the entire group.\n\nBalance Sheet 12/31/12 (in millions)\nAssets Liabilities and Equity\nCash and equivalents . . . . . . . . . . . . . . $ 5,338 Notes payable . . . . . . . . . . . . . . . $ 1,454\nAccounts and notes receivable . . . . . . . 7,382 Other current liabilities . . . . . . . . 8,527\nInventory . . . . . . . . . . . . . . . . . . . . . . . 9,675 Total current liabilities . . . . . . . . 9,981\nOther current assets . . . . . . . . . . . . . . . 734\nTotal current assets . . . . . . . . . . . . . . . . 23,129\nDeferred taxes . . . . . . . . . . . . . . . 4,907\nGoodwill and other intangibles . . . . . . 26,017 Term debt and other liabilities . . 5,826\nFixed assets . . . . . . . . . . . . . . . . . . . . . 18,871 Non-controlling interests . . . . . . 2,062\nOther assets . . . . . . . . . . . . . . . . . . . . . 3,416 Berkshire equity . . . . . . . . . . . . . 48,657\n$71,433 $71,433\nEarnings Statement (in millions)\n2012 2011* 2010\nRevenues . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $83,255 $72,406 $66,610\nOperating expenses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 76,978 67,239 62,225\nInterest expense . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 146 130 111\nPre-tax earnings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6,131 5,037 4,274\nIncome taxes and non-controlling interests . . . . . . . . . . . . . . . . . . 2,432 1,998 1,812\nNet earnings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 3,699 $ 3,039 $ 2,462\n*Includes earnings of Lubrizol from September 16.\n\nOur income and expense data conforming to Generally Accepted Accounting Principles (“GAAP”) is on\npage 29. In contrast, the operating expense figures above are non-GAAP. In particular, they exclude some\npurchase-accounting items, primarily the amortization of certain intangible assets. We present the data in this\nmanner because Charlie and I believe the adjusted numbers more accurately reflect the real expenses and profits of\nthe businesses aggregated in the table.",
+    "metadata": {
+      "letter_year": 2012,
+      "letter_date": "2013-03-01",
+      "source_file": "2012_cleaned.txt",
+      "section_title": "Manufacturing, Service and Retailing Operations",
+      "section_hierarchy": [
+        "Letter Body",
+        "Business Segments",
+        "Manufacturing/Service/Retail"
+      ],
+      "chunk_tier": 2,
+      "parent_chunk_id": "2012-S05-T1-001",
+      "child_chunk_ids": [],
+      "content_type": "financial_table",
+      "contextual_summary": "In the Manufacturing, Service and Retailing Operations section, Buffett includes a table (Balance Sheet 12/31/12 (in millions)) to anchor the surrounding discussion with concrete figures.",
+      "has_table": true,
+      "table_data": [
+        {
+          "table_name": "Balance Sheet 12/31/12 (in millions)",
+          "summary": "Presents Berkshire’s year-end balance sheet line items at 12/31/12.",
+          "columns": [
+            "raw_line"
+          ],
+          "rows": [
+            [
+              "Assets Liabilities and Equity"
+            ],
+            [
+              "Cash and equivalents . . . . . . . . . . . . . . $ 5,338 Notes payable . . . . . . . . . . . . . . . $ 1,454"
+            ],
+            [
+              "Accounts and notes receivable . . . . . . . 7,382 Other current liabilities . . . . . . . . 8,527"
+            ],
+            [
+              "Inventory . . . . . . . . . . . . . . . . . . . . . . . 9,675 Total current liabilities . . . . . . . . 9,981"
+            ],
+            [
+              "Other current assets . . . . . . . . . . . . . . . 734"
+            ],
+            [
+              "Total current assets . . . . . . . . . . . . . . . . 23,129"
+            ],
+            [
+              "Deferred taxes . . . . . . . . . . . . . . . 4,907"
+            ],
+            [
+              "Goodwill and other intangibles . . . . . . 26,017 Term debt and other liabilities . . 5,826"
+            ],
+            [
+              "Fixed assets . . . . . . . . . . . . . . . . . . . . . 18,871 Non-controlling interests . . . . . . 2,062"
+            ],
+            [
+              "Other assets . . . . . . . . . . . . . . . . . . . . . 3,416 Berkshire equity . . . . . . . . . . . . . 48,657"
+            ],
+            [
+              "$71,433 $71,433"
+            ],
+            [
+              "Earnings Statement (in millions)"
+            ],
+            [
+              "2012 2011* 2010"
+            ],
+            [
+              "Revenues . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $83,255 $72,406 $66,610"
+            ],
+            [
+              "Operating expenses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 76,978 67,239 62,225"
+            ],
+            [
+              "Interest expense . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 146 130 111"
+            ],
+            [
+              "Pre-tax earnings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6,131 5,037 4,274"
+            ],
+            [
+              "Income taxes and non-controlling interests . . . . . . . . . . . . . . . . . . 2,432 1,998 1,812"
+            ],
+            [
+              "Net earnings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 3,699 $ 3,039 $ 2,462"
+            ],
+            [
+              "*Includes earnings of Lubrizol from September 16."
+            ]
+          ],
+          "row_count": 20
+        }
+      ],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "Berkshire",
+          "IBM",
+          "Lubrizol"
+        ],
+        "people": [
+          "Charlie"
+        ],
+        "metrics": [
+          "GAAP",
+          "earnings",
+          "operating earnings",
+          "pre-tax"
+        ]
+      },
+      "themes": [
+        "accounting",
+        "governance",
+        "investments"
+      ],
+      "buffett_concepts": [
+        "accounting_earnings"
+      ],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 2012,
+        "comparison_years": [
+          2010,
+          2011
+        ],
+        "future_outlook": false
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "low",
+      "token_count": 801,
+      "char_count": 2161,
+      "source_span": {
+        "start_char": 40810,
+        "end_char_exclusive": 42969
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
     "chunk_id": "2012-S06-T1-001",
-    "content": "This sector, our smallest, includes two rental companies, XTRA (trailers) and CORT (furniture), as well as\nClayton Homes, the country’s leading producer and financer of manufactured homes. Aside from these 100%-\nowned subsidiaries, we also include in this category a collection of financial assets and our 50% interest in Berkadia\nCommercial Mortgage.\nWe include Clayton in this sector because it owns and services 332,000 mortgages, totaling $13.7 billion.\nIn large part, these loans have been made to lower and middle-income families. Nevertheless, the loans have\nperformed well throughout the housing collapse, thereby validating our conviction that a reasonable down payment\nand a sensible payments-to-income ratio will ward off outsized foreclosure losses, even during stressful times.\nClayton also produced 25,872 manufactured homes last year, up 13.5% from 2011. That output accounted\nfor about 4.8% of all single-family residences built in the country, a share that makes Clayton America’s number\none homebuilder.\nCORT and XTRA are leaders in their industries as well. Our expenditures for new rental equipment at\nXTRA totaled $256 million in 2012, more than double its depreciation expense. While competitors fret about\ntoday’s uncertainties, XTRA is preparing for tomorrow.\nBerkadia continues to do well. Our partners at Leucadia do most of the work in this venture, an\narrangement that Charlie and I happily embrace.\nHere’s the pre-tax earnings recap for this sector:\n2012 2011\n(in millions)\nBerkadia . . . . . . . . . . . . . . . . . . . . . . . . $ 35 $ 25\nClayton . . . . . . . . . . . . . . . . . . . . . . . . . 255 154\nCORT . . . . . . . . . . . . . . . . . . . . . . . . . . 42 29\nXTRA . . . . . . . . . . . . . . . . . . . . . . . . . . 106 126\nNet financial income* . . . . . . . . . . . . . 410 440\n$848 $774\n*Excludes capital gains or losses",
+    "content": "This sector, our smallest, includes two rental companies, XTRA (trailers) and CORT (furniture), as well as\nClayton Homes, the country’s leading producer and financer of manufactured homes. Aside from these 100%-\nowned subsidiaries, we also include in this category a collection of financial assets and our 50% interest in Berkadia\nCommercial Mortgage.\nWe include Clayton in this sector because it owns and services 332,000 mortgages, totaling $13.7 billion.\nIn large part, these loans have been made to lower and middle-income families. Nevertheless, the loans have\nperformed well throughout the housing collapse, thereby validating our conviction that a reasonable down payment\nand a sensible payments-to-income ratio will ward off outsized foreclosure losses, even during stressful times.\nClayton also produced 25,872 manufactured homes last year, up 13.5% from 2011. That output accounted\nfor about 4.8% of all single-family residences built in the country, a share that makes Clayton America’s number\none homebuilder.\nCORT and XTRA are leaders in their industries as well. Our expenditures for new rental equipment at\nXTRA totaled $256 million in 2012, more than double its depreciation expense. While competitors fret about\ntoday’s uncertainties, XTRA is preparing for tomorrow.\nBerkadia continues to do well. Our partners at Leucadia do most of the work in this venture, an\narrangement that Charlie and I happily embrace.\nHere’s the pre-tax earnings recap for this sector:\n[TABLE — see child chunk 2012-S06-T2-001]",
     "metadata": {
       "letter_year": 2012,
       "letter_date": "2013-03-01",
@@ -973,9 +1375,11 @@
       ],
       "chunk_tier": 1,
       "parent_chunk_id": null,
-      "child_chunk_ids": [],
+      "child_chunk_ids": [
+        "2012-S06-T2-001"
+      ],
       "content_type": "narrative",
-      "contextual_summary": "In the 'Finance and Financial Products' section, this chunk covers accounting, capital allocation and the related points Buffett emphasizes in 2012. It provides context for the surrounding sections of the shareholder letter and any referenced numbers or policies.",
+      "contextual_summary": "This smaller segment is anchored by Clayton Homes’ mortgage portfolio and home production, alongside CORT, XTRA, and Berkshire’s stake in Berkadia. The recap emphasizes steady loan performance through the housing downturn and provides a pre-tax earnings breakdown for the group.",
       "has_table": false,
       "table_data": [],
       "has_financial_data": true,
@@ -1014,8 +1418,8 @@
       },
       "retrieval_priority": "medium",
       "abstraction_level": "medium",
-      "token_count": 488,
-      "char_count": 1863,
+      "token_count": 305,
+      "char_count": 1520,
       "source_span": {
         "start_char": 49898,
         "end_char_exclusive": 51761
@@ -1027,8 +1431,111 @@
     }
   },
   {
+    "chunk_id": "2012-S06-T2-001",
+    "content": "Here’s the pre-tax earnings recap for this sector:\n\n2012 2011\n(in millions)\nBerkadia . . . . . . . . . . . . . . . . . . . . . . . . $ 35 $ 25\nClayton . . . . . . . . . . . . . . . . . . . . . . . . . 255 154\nCORT . . . . . . . . . . . . . . . . . . . . . . . . . . 42 29\nXTRA . . . . . . . . . . . . . . . . . . . . . . . . . . 106 126\nNet financial income* . . . . . . . . . . . . . 410 440\n$848 $774\n*Excludes capital gains or losses",
+    "metadata": {
+      "letter_year": 2012,
+      "letter_date": "2013-03-01",
+      "source_file": "2012_cleaned.txt",
+      "section_title": "Finance and Financial Products",
+      "section_hierarchy": [
+        "Letter Body",
+        "Business Segments",
+        "Finance"
+      ],
+      "chunk_tier": 2,
+      "parent_chunk_id": "2012-S06-T1-001",
+      "child_chunk_ids": [],
+      "content_type": "financial_table",
+      "contextual_summary": "In the Finance and Financial Products section, Buffett includes a table (Here’s the pre-tax earnings recap for this sector) to anchor the surrounding discussion with concrete figures.",
+      "has_table": true,
+      "table_data": [
+        {
+          "table_name": "Here’s the pre-tax earnings recap for this sector",
+          "summary": "Provides the key figures reported in the 'Here’s the pre-tax earnings recap for this sector' table for the period shown.",
+          "columns": [
+            "raw_line"
+          ],
+          "rows": [
+            [
+              "2012 2011"
+            ],
+            [
+              "Berkadia . . . . . . . . . . . . . . . . . . . . . . . . $ 35 $ 25"
+            ],
+            [
+              "Clayton . . . . . . . . . . . . . . . . . . . . . . . . . 255 154"
+            ],
+            [
+              "CORT . . . . . . . . . . . . . . . . . . . . . . . . . . 42 29"
+            ],
+            [
+              "XTRA . . . . . . . . . . . . . . . . . . . . . . . . . . 106 126"
+            ],
+            [
+              "Net financial income* . . . . . . . . . . . . . 410 440"
+            ],
+            [
+              "$848 $774"
+            ],
+            [
+              "*Excludes capital gains or losses"
+            ]
+          ],
+          "row_count": 8
+        }
+      ],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "Clayton"
+        ],
+        "people": [
+          "Charlie"
+        ],
+        "metrics": [
+          "earnings",
+          "pre-tax"
+        ]
+      },
+      "themes": [
+        "accounting",
+        "capital allocation",
+        "governance",
+        "operations"
+      ],
+      "buffett_concepts": [
+        "capital_allocation"
+      ],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 2012,
+        "comparison_years": [
+          2011
+        ],
+        "future_outlook": false
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "low",
+      "token_count": 202,
+      "char_count": 436,
+      "source_span": {
+        "start_char": 51326,
+        "end_char_exclusive": 51762
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
     "chunk_id": "2012-S07-T1-001",
-    "content": "Below we show our common stock investments that at yearend had a market value of more than $1 billion.\n12/31/12\nPercentage of\nShares Company Company Cost* Market\nOwned\n(in millions)\n151,610,700 American Express Company . . . . . . . . . . . . . . 13.7 $ 1,287 $ 8,715\n400,000,000 The Coca-Cola Company . . . . . . . . . . . . . . . . . 8.9 1,299 14,500\n24,123,911 Conoco Phillips . . . . . . . . . . . . . . . . . . . . . . . . . 2.0 1,219 1,399\n22,999,600 DIRECTV . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3.8 1,057 1,154\n68,115,484 International Business Machines Corp. . . . . . . 6.0 11,680 13,048\n28,415,250 Moody’s Corporation . . . . . . . . . . . . . . . . . . . . 12.7 287 1,430\n20,060,390 Munich Re . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11.3 2,990 3,599\n20,668,118 Phillips 66 . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3.3 660 1,097\n3,947,555 POSCO . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5.1 768 1,295\n52,477,678 The Procter & Gamble Company . . . . . . . . . . . 1.9 336 3,563\n25,848,838 Sanofi . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2.0 2,073 2,438\n415,510,889 Tesco plc . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5.2 2,350 2,268\n78,060,769 U. S. Bancorp . . . . . . . . . . . . . . . . . . . . . . . . . . 4.2 2,401 2,493\n54,823,433 Wal-Mart Stores, Inc. . . . . . . . . . . . . . . . . . . . . 1.6 2,837 3,741\n456,170,061 Wells Fargo & Company . . . . . . . . . . . . . . . . . 8.7 10,906 15,592\nOthers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7,646 11,330\nTotal Common Stocks Carried at Market . . . . $49,796 $87,662\n*This is our actual purchase price and also our tax basis; GAAP “cost” differs in a few cases because of\nwrite-ups or write-downs that have been required.\nOne point about the composition of this list deserves mention. In Berkshire’s past annual reports, every\nstock itemized in this space has been bought by me, in the sense that I made the decision to buy it for Berkshire. But\nstarting with this list, any investment made by Todd Combs or Ted Weschler – or a combined purchase by them –\nthat meets the dollar threshold for the list ($1 billion this year) will be included. Above is the first such stock,\nDIRECTV, which both Todd and Ted hold in their portfolios and whose combined holdings at the end of 2012 were\nvalued at the $1.15 billion shown.\nTodd and Ted also manage the pension funds of certain Berkshire subsidiaries, while others, for regulatory\nreasons, are managed by outside advisers. We do not include holdings of the pension funds in our annual report\ntabulations, though their portfolios often overlap Berkshire’s.\n* * * * * * * * * * * *\nWe continue to wind down the part of our derivatives portfolio that involved the assumption by Berkshire\nof insurance-like risks. (Our electric and gas utility businesses, however, will continue to use derivatives for\noperational purposes.) New commitments would require us to post collateral and, with minor exceptions, we are\nunwilling to do that. Markets can behave in extraordinary ways, and we have no interest in exposing Berkshire to\nsome out-of-the-blue event in the financial world that might require our posting mountains of cash on a moment’s\nnotice.\nCharlie and I believe in operating with many redundant layers of liquidity, and we avoid any sort of\nobligation that could drain our cash in a material way. That reduces our returns in 99 years out of 100. But we will\nsurvive in the 100 th while many others fail. And we will sleep well in all 100.",
+    "content": "Below we show our common stock investments that at yearend had a market value of more than $1 billion.\n[TABLE — see child chunk 2012-S07-T2-001]\nwrite-ups or write-downs that have been required.\nOne point about the composition of this list deserves mention. In Berkshire’s past annual reports, every\nstock itemized in this space has been bought by me, in the sense that I made the decision to buy it for Berkshire. But\nstarting with this list, any investment made by Todd Combs or Ted Weschler – or a combined purchase by them –\nthat meets the dollar threshold for the list ($1 billion this year) will be included. Above is the first such stock,\nDIRECTV, which both Todd and Ted hold in their portfolios and whose combined holdings at the end of 2012 were\nvalued at the $1.15 billion shown.\nTodd and Ted also manage the pension funds of certain Berkshire subsidiaries, while others, for regulatory\nreasons, are managed by outside advisers. We do not include holdings of the pension funds in our annual report\ntabulations, though their portfolios often overlap Berkshire’s.\n* * * * * * * * * * * *\nWe continue to wind down the part of our derivatives portfolio that involved the assumption by Berkshire\nof insurance-like risks. (Our electric and gas utility businesses, however, will continue to use derivatives for\noperational purposes.) New commitments would require us to post collateral and, with minor exceptions, we are\nunwilling to do that. Markets can behave in extraordinary ways, and we have no interest in exposing Berkshire to\nsome out-of-the-blue event in the financial world that might require our posting mountains of cash on a moment’s\nnotice.\nCharlie and I believe in operating with many redundant layers of liquidity, and we avoid any sort of\nobligation that could drain our cash in a material way. That reduces our returns in 99 years out of 100. But we will\nsurvive in the 100 th while many others fail. And we will sleep well in all 100.",
     "metadata": {
       "letter_year": 2012,
       "letter_date": "2013-03-01",
@@ -1040,9 +1547,11 @@
       ],
       "chunk_tier": 1,
       "parent_chunk_id": null,
-      "child_chunk_ids": [],
+      "child_chunk_ids": [
+        "2012-S07-T2-001"
+      ],
       "content_type": "narrative",
-      "contextual_summary": "In the 'Investments' section, this chunk covers accounting, governance and the related points Buffett emphasizes in 2012. It provides context for the surrounding sections of the shareholder letter and any referenced numbers or policies.",
+      "contextual_summary": "Major equity holdings above $1 billion are listed with ownership stakes, cost, and market value, including the first qualifying position selected by Berkshire’s newer investment managers. The text also explains why Berkshire avoids collateral-posting derivatives and prioritizes redundant liquidity even when it lowers typical-year returns.",
       "has_table": false,
       "table_data": [],
       "has_financial_data": true,
@@ -1086,8 +1595,8 @@
       },
       "retrieval_priority": "high",
       "abstraction_level": "low",
-      "token_count": 1121,
-      "char_count": 3582,
+      "token_count": 451,
+      "char_count": 1957,
       "source_span": {
         "start_char": 51791,
         "end_char_exclusive": 55373
@@ -1114,7 +1623,7 @@
       "parent_chunk_id": null,
       "child_chunk_ids": [],
       "content_type": "narrative",
-      "contextual_summary": "In the 'Investments' section, this chunk covers accounting, governance and the related points Buffett emphasizes in 2012. It provides context for the surrounding sections of the shareholder letter and any referenced numbers or policies.",
+      "contextual_summary": "Derivatives are summarized: expiring credit-protection contracts are expected to earn about $1 billion pre-tax, and long-dated index puts provide float with settlement only at expiration. The update notes a lower near-term liability at yearend 2012 and continued ability to invest the premiums.",
       "has_table": false,
       "table_data": [],
       "has_financial_data": true,
@@ -1172,6 +1681,155 @@
     }
   },
   {
+    "chunk_id": "2012-S07-T2-001",
+    "content": "Below we show our common stock investments that at yearend had a market value of more than $1 billion.\n\n12/31/12\nPercentage of\nShares Company Company Cost* Market\nOwned\n(in millions)\n151,610,700 American Express Company . . . . . . . . . . . . . . 13.7 $ 1,287 $ 8,715\n400,000,000 The Coca-Cola Company . . . . . . . . . . . . . . . . . 8.9 1,299 14,500\n24,123,911 Conoco Phillips . . . . . . . . . . . . . . . . . . . . . . . . . 2.0 1,219 1,399\n22,999,600 DIRECTV . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3.8 1,057 1,154\n68,115,484 International Business Machines Corp. . . . . . . 6.0 11,680 13,048\n28,415,250 Moody’s Corporation . . . . . . . . . . . . . . . . . . . . 12.7 287 1,430\n20,060,390 Munich Re . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11.3 2,990 3,599\n20,668,118 Phillips 66 . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3.3 660 1,097\n3,947,555 POSCO . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5.1 768 1,295\n52,477,678 The Procter & Gamble Company . . . . . . . . . . . 1.9 336 3,563\n25,848,838 Sanofi . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2.0 2,073 2,438\n415,510,889 Tesco plc . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5.2 2,350 2,268\n78,060,769 U. S. Bancorp . . . . . . . . . . . . . . . . . . . . . . . . . . 4.2 2,401 2,493\n54,823,433 Wal-Mart Stores, Inc. . . . . . . . . . . . . . . . . . . . . 1.6 2,837 3,741\n456,170,061 Wells Fargo & Company . . . . . . . . . . . . . . . . . 8.7 10,906 15,592\nOthers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7,646 11,330\nTotal Common Stocks Carried at Market . . . . $49,796 $87,662\n*This is our actual purchase price and also our tax basis; GAAP “cost” differs in a few cases because of\n\nwrite-ups or write-downs that have been required.",
+    "metadata": {
+      "letter_year": 2012,
+      "letter_date": "2013-03-01",
+      "source_file": "2012_cleaned.txt",
+      "section_title": "Investments",
+      "section_hierarchy": [
+        "Letter Body",
+        "Investments"
+      ],
+      "chunk_tier": 2,
+      "parent_chunk_id": "2012-S07-T1-001",
+      "child_chunk_ids": [],
+      "content_type": "financial_table",
+      "contextual_summary": "In the Investments section, Buffett includes a table (12/31/12) to anchor the surrounding discussion with concrete figures.",
+      "has_table": true,
+      "table_data": [
+        {
+          "table_name": "12/31/12",
+          "summary": "Lists Berkshire’s major common stock holdings at year-end with cost, market value, and ownership percentages.",
+          "columns": [
+            "raw_line"
+          ],
+          "rows": [
+            [
+              "12/31/12"
+            ],
+            [
+              "Percentage of"
+            ],
+            [
+              "Shares Company Company Cost* Market"
+            ],
+            [
+              "Owned"
+            ],
+            [
+              "151,610,700 American Express Company . . . . . . . . . . . . . . 13.7 $ 1,287 $ 8,715"
+            ],
+            [
+              "400,000,000 The Coca-Cola Company . . . . . . . . . . . . . . . . . 8.9 1,299 14,500"
+            ],
+            [
+              "24,123,911 Conoco Phillips . . . . . . . . . . . . . . . . . . . . . . . . . 2.0 1,219 1,399"
+            ],
+            [
+              "22,999,600 DIRECTV . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3.8 1,057 1,154"
+            ],
+            [
+              "68,115,484 International Business Machines Corp. . . . . . . 6.0 11,680 13,048"
+            ],
+            [
+              "28,415,250 Moody’s Corporation . . . . . . . . . . . . . . . . . . . . 12.7 287 1,430"
+            ],
+            [
+              "20,060,390 Munich Re . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11.3 2,990 3,599"
+            ],
+            [
+              "20,668,118 Phillips 66 . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3.3 660 1,097"
+            ],
+            [
+              "3,947,555 POSCO . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5.1 768 1,295"
+            ],
+            [
+              "52,477,678 The Procter & Gamble Company . . . . . . . . . . . 1.9 336 3,563"
+            ],
+            [
+              "25,848,838 Sanofi . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2.0 2,073 2,438"
+            ],
+            [
+              "415,510,889 Tesco plc . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5.2 2,350 2,268"
+            ],
+            [
+              "78,060,769 U. S. Bancorp . . . . . . . . . . . . . . . . . . . . . . . . . . 4.2 2,401 2,493"
+            ],
+            [
+              "54,823,433 Wal-Mart Stores, Inc. . . . . . . . . . . . . . . . . . . . . 1.6 2,837 3,741"
+            ],
+            [
+              "456,170,061 Wells Fargo & Company . . . . . . . . . . . . . . . . . 8.7 10,906 15,592"
+            ],
+            [
+              "Others . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7,646 11,330"
+            ],
+            [
+              "Total Common Stocks Carried at Market . . . . $49,796 $87,662"
+            ],
+            [
+              "*This is our actual purchase price and also our tax basis; GAAP “cost” differs in a few cases because of"
+            ]
+          ],
+          "row_count": 22
+        }
+      ],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "American Express",
+          "Berkshire",
+          "Coca-Cola",
+          "Wells Fargo"
+        ],
+        "people": [
+          "Charlie",
+          "Ted Weschler",
+          "Todd Combs"
+        ],
+        "metrics": [
+          "GAAP",
+          "return"
+        ]
+      },
+      "themes": [
+        "accounting",
+        "governance",
+        "insurance",
+        "investments",
+        "operations",
+        "regulated businesses"
+      ],
+      "buffett_concepts": [
+        "accounting_earnings"
+      ],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 2012,
+        "comparison_years": [],
+        "future_outlook": false
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "low",
+      "token_count": 713,
+      "char_count": 1821,
+      "source_span": {
+        "start_char": 51791,
+        "end_char_exclusive": 53610
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": []
+    }
+  },
+  {
     "chunk_id": "2012-S08-T1-001",
     "content": "During the past fifteen months, we acquired 28 daily newspapers at a cost of $344 million. This may\npuzzle you for two reasons. First, I have long told you in these letters and at our annual meetings that the\ncirculation, advertising and profits of the newspaper industry overall are certain to decline. That prediction still\nholds. Second, the properties we purchased fell far short of meeting our oft-stated size requirements for\nacquisitions.\nWe can address the second point easily. Charlie and I love newspapers and, if their economics make sense,\nwill buy them even when they fall far short of the size threshold we would require for the purchase of, say, a widget\ncompany. Addressing the first point requires me to provide a more elaborate explanation, including some history.\nNews, to put it simply, is what people don’t know that they want to know. And people will seek their news\n• what’s important to them – from whatever sources provide the best combination of immediacy, ease of access,\nreliability, comprehensiveness and low cost. The relative importance of these factors varies with the nature of the\nnews and the person wanting it.\nBefore television and the Internet, newspapers were the primary source for an incredible variety of news, a\nfact that made them indispensable to a very high percentage of the population. Whether your interests were\ninternational, national, local, sports or financial quotations, your newspaper usually was first to tell you the latest\ninformation. Indeed, your paper contained so much you wanted to learn that you received your money’s worth, even\nif only a small number of its pages spoke to your specific interests. Better yet, advertisers typically paid almost all\nof the product’s cost, and readers rode their coattails.\nAdditionally, the ads themselves delivered information of vital interest to hordes of readers, in effect\nproviding even more “news.” Editors would cringe at the thought, but for many readers learning what jobs or\napartments were available, what supermarkets were carrying which weekend specials, or what movies were showing\nwhere and when was far more important than the views expressed on the editorial page.",
     "metadata": {
@@ -1187,7 +1845,7 @@
       "parent_chunk_id": null,
       "child_chunk_ids": [],
       "content_type": "narrative",
-      "contextual_summary": "In the 'We Buy Some Newspapers . . . Newspapers?' section, this chunk covers governance, newspapers and the related points Buffett emphasizes in 2012. It provides context for the surrounding sections of the shareholder letter and any referenced numbers or policies.",
+      "contextual_summary": "Berkshire’s purchase of 28 local newspapers is introduced as a selective bet despite industry-wide decline. The rationale focuses on newspapers’ historic role as an advertiser-subsidized information bundle and how community relevance once created exceptional economics.",
       "has_table": false,
       "table_data": [],
       "has_financial_data": true,
@@ -1243,7 +1901,7 @@
       "parent_chunk_id": null,
       "child_chunk_ids": [],
       "content_type": "narrative",
-      "contextual_summary": "In the 'We Buy Some Newspapers . . . Newspapers?' section, this chunk covers governance, newspapers and the related points Buffett emphasizes in 2012. It provides context for the surrounding sections of the shareholder letter and any referenced numbers or policies.",
+      "contextual_summary": "Newspaper economics are traced from monopoly-era “survival of the fattest” to the internet’s erosion of ads and timely information. Local reporting is portrayed as the remaining advantage, and pay models are presented as necessary to avoid giving away the core product for free.",
       "has_table": false,
       "table_data": [],
       "has_financial_data": true,
@@ -1301,7 +1959,7 @@
       "parent_chunk_id": null,
       "child_chunk_ids": [],
       "content_type": "principle_statement",
-      "contextual_summary": "In the 'We Buy Some Newspapers . . . Newspapers?' section, this chunk covers governance, newspapers and the related points Buffett emphasizes in 2012. It provides context for the surrounding sections of the shareholder letter and any referenced numbers or policies.",
+      "contextual_summary": "A long-term operating stance for local papers is outlined: maintain robust coverage, charge appropriately across print and digital, and shut down operations that cannot avoid persistent losses. The Buffalo News story illustrates how strategic choices and determined management can decide survival during intense competition.",
       "has_table": false,
       "table_data": [],
       "has_financial_data": true,
@@ -1372,7 +2030,7 @@
       "parent_chunk_id": null,
       "child_chunk_ids": [],
       "content_type": "mistake_confession",
-      "contextual_summary": "In the 'Dividends' section, this chunk covers accounting, capital allocation and the related points Buffett emphasizes in 2012. It provides context for the surrounding sections of the shareholder letter and any referenced numbers or policies.",
+      "contextual_summary": "Dividend policy is examined through the lens of capital allocation: reinvest in moat-widening projects first, and avoid rationalizing projects backward from a desired answer. The discussion leads into buybacks as an alternative and notes Berkshire’s updated repurchase limit at up to 120% of book value.",
       "has_table": false,
       "table_data": [],
       "has_financial_data": true,
@@ -1448,7 +2106,7 @@
       "parent_chunk_id": null,
       "child_chunk_ids": [],
       "content_type": "principle_statement",
-      "contextual_summary": "In the 'Dividends' section, this chunk covers accounting, capital allocation and the related points Buffett emphasizes in 2012. It provides context for the surrounding sections of the shareholder letter and any referenced numbers or policies.",
+      "contextual_summary": "Share repurchases are framed as beneficial only when done below intrinsic value, with simple partnership math showing how price determines whether remaining owners gain or lose. The text contrasts dividends with buybacks and emphasizes that payouts force a one-size-fits-all cash policy on shareholders.",
       "has_table": false,
       "table_data": [],
       "has_financial_data": true,
@@ -1517,7 +2175,7 @@
       "parent_chunk_id": null,
       "child_chunk_ids": [],
       "content_type": "principle_statement",
-      "contextual_summary": "In the 'Dividends' section, this chunk covers accounting, capital allocation and the related points Buffett emphasizes in 2012. It provides context for the surrounding sections of the shareholder letter and any referenced numbers or policies.",
+      "contextual_summary": "The sell-off alternative illustrates why diverse shareholders may prefer retaining earnings over a mandatory dividend. Berkshire plans to keep reinvesting when attractive opportunities exist and to revisit the policy if the market-price premium over book value changes materially.",
       "has_table": false,
       "table_data": [],
       "has_financial_data": true,
@@ -1585,7 +2243,7 @@
       "parent_chunk_id": null,
       "child_chunk_ids": [],
       "content_type": "narrative",
-      "contextual_summary": "In the 'The Annual Meeting' section, this chunk covers capital allocation, governance and the related points Buffett emphasizes in 2012. It provides context for the surrounding sections of the shareholder letter and any referenced numbers or policies.",
+      "contextual_summary": "Details for the May 4 annual meeting in Omaha describe the agenda, Q&A format, and shareholder events, including exhibits and a chance to win a Clayton Home. Practical tips are included for shopping discounts and navigating the weekend’s schedule.",
       "has_table": false,
       "table_data": [],
       "has_financial_data": true,
@@ -1662,7 +2320,7 @@
       "parent_chunk_id": null,
       "child_chunk_ids": [],
       "content_type": "narrative",
-      "contextual_summary": "In the 'The Annual Meeting' section, this chunk covers governance, insurance and the related points Buffett emphasizes in 2012. It provides context for the surrounding sections of the shareholder letter and any referenced numbers or policies.",
+      "contextual_summary": "The weekend guide highlights Berkshire-related shopping opportunities and travel logistics, from Nebraska Furniture Mart and Borsheims to discounted travel options and side events. It also explains how to obtain meeting credentials and plan flights or drives to Omaha.",
       "has_table": false,
       "table_data": [],
       "has_financial_data": true,
@@ -1726,7 +2384,7 @@
       "parent_chunk_id": null,
       "child_chunk_ids": [],
       "content_type": "narrative",
-      "contextual_summary": "In the 'The Annual Meeting' section, this chunk covers governance, insurance and the related points Buffett emphasizes in 2012. It provides context for the surrounding sections of the shareholder letter and any referenced numbers or policies.",
+      "contextual_summary": "Instructions are given for submitting concise, Berkshire-focused questions to journalists who will select topics for the meeting’s Q&A. The analyst panel lineup is described, and an invitation is extended for a professional skeptic of Berkshire to join the panel as a counterpoint.",
       "has_table": false,
       "table_data": [],
       "has_financial_data": true,
