@@ -18,7 +18,7 @@
       ],
       "content_type": "narrative",
       "contextual_summary": "This chunk captures a self-contained portion of Buffett’s annual letter, focusing on the main argument and supporting evidence in the excerpt.",
-      "has_table": true,
+      "has_table": false,
       "table_data": [],
       "has_financial_data": true,
       "entities": {
@@ -82,7 +82,10 @@
       "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
-    }
+    },
+    "table_data": [],
+    "has_table": false,
+    "principles": []
   },
   {
     "chunk_id": "2007-S01-T2-001",
@@ -449,7 +452,294 @@
       "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
-    }
+    },
+    "table_data": [
+      {
+        "table_name": "Berkshire’s Corporate Performance vs. the S&P 500",
+        "summary": "Table summarizing Berkshire’s Corporate Performance vs. the S&P 500 performance measures.",
+        "columns": [
+          "Year",
+          "Berkshire",
+          "S&P 500",
+          "(1)-(2)"
+        ],
+        "rows": [
+          [
+            "1965",
+            "23.8",
+            "10.0",
+            "13.8"
+          ],
+          [
+            "1966",
+            "20.3",
+            "(11.7)",
+            "32.0"
+          ],
+          [
+            "1967",
+            "11.0",
+            "30.9",
+            "(19.9)"
+          ],
+          [
+            "1968",
+            "19.0",
+            "11.0",
+            "8.0"
+          ],
+          [
+            "1969",
+            "16.2",
+            "(8.4)",
+            "24.6"
+          ],
+          [
+            "1970",
+            "12.0",
+            "3.9",
+            "8.1"
+          ],
+          [
+            "1971",
+            "16.4",
+            "14.6",
+            "1.8"
+          ],
+          [
+            "1972",
+            "21.7",
+            "18.9",
+            "2.8"
+          ],
+          [
+            "1973",
+            "4.7",
+            "(14.8)",
+            "19.5"
+          ],
+          [
+            "1974",
+            "5.5",
+            "(26.4)",
+            "31.9"
+          ],
+          [
+            "1975",
+            "21.9",
+            "37.2",
+            "(15.3)"
+          ],
+          [
+            "1976",
+            "59.3",
+            "23.6",
+            "35.7"
+          ],
+          [
+            "1977",
+            "31.9",
+            "(7.4)",
+            "39.3"
+          ],
+          [
+            "1978",
+            "24.0",
+            "6.4",
+            "17.6"
+          ],
+          [
+            "1979",
+            "35.7",
+            "18.2",
+            "17.5"
+          ],
+          [
+            "1980",
+            "19.3",
+            "32.3",
+            "(13.0)"
+          ],
+          [
+            "1981",
+            "31.4",
+            "(5.0)",
+            "36.4"
+          ],
+          [
+            "1982",
+            "40.0",
+            "21.4",
+            "18.6"
+          ],
+          [
+            "1983",
+            "32.3",
+            "22.4",
+            "9.9"
+          ],
+          [
+            "1984",
+            "13.6",
+            "6.1",
+            "7.5"
+          ],
+          [
+            "1985",
+            "48.2",
+            "31.6",
+            "16.6"
+          ],
+          [
+            "1986",
+            "26.1",
+            "18.6",
+            "7.5"
+          ],
+          [
+            "1987",
+            "19.5",
+            "5.1",
+            "14.4"
+          ],
+          [
+            "1988",
+            "20.1",
+            "16.6",
+            "3.5"
+          ],
+          [
+            "1989",
+            "44.4",
+            "31.7",
+            "12.7"
+          ],
+          [
+            "1990",
+            "7.4",
+            "(3.1)",
+            "10.5"
+          ],
+          [
+            "1991",
+            "39.6",
+            "30.5",
+            "9.1"
+          ],
+          [
+            "1992",
+            "20.3",
+            "7.6",
+            "12.7"
+          ],
+          [
+            "1993",
+            "14.3",
+            "10.1",
+            "4.2"
+          ],
+          [
+            "1994",
+            "13.9",
+            "1.3",
+            "12.6"
+          ],
+          [
+            "1995",
+            "43.1",
+            "37.6",
+            "5.5"
+          ],
+          [
+            "1996",
+            "31.8",
+            "23.0",
+            "8.8"
+          ],
+          [
+            "1997",
+            "34.1 33.4 . 7",
+            "",
+            ""
+          ],
+          [
+            "1998",
+            "48.3",
+            "28.6",
+            "19.7"
+          ],
+          [
+            "1999",
+            ". 5 21.0 (20.5)",
+            "",
+            ""
+          ],
+          [
+            "2000",
+            "6.5",
+            "(9.1)",
+            "15.6"
+          ],
+          [
+            "2001",
+            "(6.2)",
+            "(11.9)",
+            "5.7"
+          ],
+          [
+            "2002",
+            "10.0",
+            "(22.1)",
+            "32.1"
+          ],
+          [
+            "2003",
+            "21.0",
+            "28.7",
+            "(7.7)"
+          ],
+          [
+            "2004",
+            "10.5 10.9 (. 4)",
+            "",
+            ""
+          ],
+          [
+            "2005",
+            "6.4",
+            "4.9",
+            "1.5"
+          ],
+          [
+            "2006",
+            "18.4",
+            "15.8",
+            "2.6"
+          ],
+          [
+            "2007",
+            "11.0",
+            "5.5",
+            "5.5"
+          ],
+          [
+            "Compounded Annual Gain – 1965-2007 21.1% 10.3% 10.8",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Overall Gain – 1964-2007 400,863% 6,840%",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "row_count": 45
+      }
+    ],
+    "has_table": true,
+    "principles": []
   },
   {
     "chunk_id": "2007-S01-T1-002",
@@ -533,7 +823,10 @@
       "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
-    }
+    },
+    "table_data": [],
+    "has_table": false,
+    "principles": []
   },
   {
     "chunk_id": "2007-S02-T1-001",
@@ -576,7 +869,10 @@
         "Capital allocation"
       ],
       "principles": [
-        "Delegate to outstanding managers"
+        {
+          "statement": "Delegate to outstanding managers",
+          "category": "management"
+        }
       ],
       "temporal_references": {
         "primary_year": 2007,
@@ -602,7 +898,15 @@
       "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
-    }
+    },
+    "table_data": [],
+    "has_table": false,
+    "principles": [
+      {
+        "statement": "Delegate to outstanding managers",
+        "category": "management"
+      }
+    ]
   },
   {
     "chunk_id": "2007-S03-T1-001",
@@ -623,7 +927,7 @@
       ],
       "content_type": "narrative",
       "contextual_summary": "Buffett compares Berkshire’s growth in per-share investments and book value against market benchmarks and explains why these measures are imperfect but useful for tracking long-term progress.",
-      "has_table": true,
+      "has_table": false,
       "table_data": [],
       "has_financial_data": true,
       "entities": {
@@ -672,7 +976,10 @@
       "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
-    }
+    },
+    "table_data": [],
+    "has_table": false,
+    "principles": []
   },
   {
     "chunk_id": "2007-S03-T2-001",
@@ -771,7 +1078,48 @@
       "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
-    }
+    },
+    "table_data": [
+      {
+        "table_name": "Per-Share Compounded Annual",
+        "summary": "Table summarizing Per-Share Compounded Annual performance measures.",
+        "columns": [
+          "Year",
+          "Berkshire",
+          "S&P 500",
+          "(1)-(2)"
+        ],
+        "rows": [
+          [
+            "1965 $ 4",
+            "",
+            "",
+            ""
+          ],
+          [
+            "1979 577 1965-1979 42.8%",
+            "",
+            "",
+            ""
+          ],
+          [
+            "1993 13,961 1979-1993 25.6%",
+            "",
+            "",
+            ""
+          ],
+          [
+            "2007 90,343 1993-2007 14.3%",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "row_count": 4
+      }
+    ],
+    "has_table": true,
+    "principles": []
   },
   {
     "chunk_id": "2007-S03-T1-002",
@@ -792,7 +1140,7 @@
       ],
       "content_type": "narrative",
       "contextual_summary": "Buffett compares Berkshire’s growth in per-share investments and book value against market benchmarks and explains why these measures are imperfect but useful for tracking long-term progress.",
-      "has_table": true,
+      "has_table": false,
       "table_data": [],
       "has_financial_data": true,
       "entities": {
@@ -814,7 +1162,10 @@
         "Float"
       ],
       "principles": [
-        "Delegate to outstanding managers"
+        {
+          "statement": "Delegate to outstanding managers",
+          "category": "management"
+        }
       ],
       "temporal_references": {
         "primary_year": 2007,
@@ -841,7 +1192,15 @@
       "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
-    }
+    },
+    "table_data": [],
+    "has_table": false,
+    "principles": [
+      {
+        "statement": "Delegate to outstanding managers",
+        "category": "management"
+      }
+    ]
   },
   {
     "chunk_id": "2007-S03-T2-002",
@@ -926,7 +1285,30 @@
       "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
-    }
+    },
+    "table_data": [
+      {
+        "table_name": "1965 $ 4",
+        "summary": "Table summarizing 1965 $ 4 performance measures.",
+        "columns": [
+          "1965 $ 4"
+        ],
+        "rows": [
+          [
+            "1979 18 1965-1979 11.1%"
+          ],
+          [
+            "1993 212 1979-1993 19.1%"
+          ],
+          [
+            "2007 4,093 1993-2007 23.5%"
+          ]
+        ],
+        "row_count": 3
+      }
+    ],
+    "has_table": true,
+    "principles": []
   },
   {
     "chunk_id": "2007-S04-T1-001",
@@ -968,7 +1350,10 @@
         "Equity portfolio"
       ],
       "principles": [
-        "Delegate to outstanding managers"
+        {
+          "statement": "Delegate to outstanding managers",
+          "category": "management"
+        }
       ],
       "temporal_references": {
         "primary_year": 2007,
@@ -996,7 +1381,15 @@
       "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
-    }
+    },
+    "table_data": [],
+    "has_table": false,
+    "principles": [
+      {
+        "statement": "Delegate to outstanding managers",
+        "category": "management"
+      }
+    ]
   },
   {
     "chunk_id": "2007-S04-T1-002",
@@ -1062,7 +1455,10 @@
       "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
-    }
+    },
+    "table_data": [],
+    "has_table": false,
+    "principles": []
   },
   {
     "chunk_id": "2007-S05-T1-001",
@@ -1101,7 +1497,10 @@
         "Equity portfolio"
       ],
       "principles": [
-        "Delegate to outstanding managers"
+        {
+          "statement": "Delegate to outstanding managers",
+          "category": "management"
+        }
       ],
       "temporal_references": {
         "primary_year": 2007,
@@ -1124,7 +1523,15 @@
       "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
-    }
+    },
+    "table_data": [],
+    "has_table": false,
+    "principles": [
+      {
+        "statement": "Delegate to outstanding managers",
+        "category": "management"
+      }
+    ]
   },
   {
     "chunk_id": "2007-S05-T1-002",
@@ -1183,7 +1590,10 @@
       "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
-    }
+    },
+    "table_data": [],
+    "has_table": false,
+    "principles": []
   },
   {
     "chunk_id": "2007-S05-T1-003",
@@ -1244,7 +1654,10 @@
       "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
-    }
+    },
+    "table_data": [],
+    "has_table": false,
+    "principles": []
   },
   {
     "chunk_id": "2007-S05-T1-004",
@@ -1286,7 +1699,10 @@
         "Equity portfolio"
       ],
       "principles": [
-        "Delegate to outstanding managers"
+        {
+          "statement": "Delegate to outstanding managers",
+          "category": "management"
+        }
       ],
       "temporal_references": {
         "primary_year": 2007,
@@ -1311,7 +1727,15 @@
       "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
-    }
+    },
+    "table_data": [],
+    "has_table": false,
+    "principles": [
+      {
+        "statement": "Delegate to outstanding managers",
+        "category": "management"
+      }
+    ]
   },
   {
     "chunk_id": "2007-S05-T1-005",
@@ -1348,7 +1772,10 @@
         "Equity portfolio"
       ],
       "principles": [
-        "Delegate to outstanding managers"
+        {
+          "statement": "Delegate to outstanding managers",
+          "category": "management"
+        }
       ],
       "temporal_references": {
         "primary_year": 2007,
@@ -1374,7 +1801,15 @@
       "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
-    }
+    },
+    "table_data": [],
+    "has_table": false,
+    "principles": [
+      {
+        "statement": "Delegate to outstanding managers",
+        "category": "management"
+      }
+    ]
   },
   {
     "chunk_id": "2007-S05-T1-006",
@@ -1434,7 +1869,10 @@
       "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
-    }
+    },
+    "table_data": [],
+    "has_table": false,
+    "principles": []
   },
   {
     "chunk_id": "2007-S06-T1-001",
@@ -1456,7 +1894,7 @@
       ],
       "content_type": "narrative",
       "contextual_summary": "The insurance section explains how disciplined underwriting and strong operations produce float that can be invested, while warning that bad pricing can erase years of gains.",
-      "has_table": true,
+      "has_table": false,
       "table_data": [],
       "has_financial_data": true,
       "entities": {
@@ -1480,7 +1918,10 @@
         "Capital allocation"
       ],
       "principles": [
-        "Delegate to outstanding managers"
+        {
+          "statement": "Delegate to outstanding managers",
+          "category": "management"
+        }
       ],
       "temporal_references": {
         "primary_year": 2007,
@@ -1514,7 +1955,15 @@
       "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
-    }
+    },
+    "table_data": [],
+    "has_table": false,
+    "principles": [
+      {
+        "statement": "Delegate to outstanding managers",
+        "category": "management"
+      }
+    ]
   },
   {
     "chunk_id": "2007-S06-T2-001",
@@ -1626,7 +2075,54 @@
       "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
-    }
+    },
+    "table_data": [
+      {
+        "table_name": "Year Underwriting Profit (Loss) Float",
+        "summary": "Table summarizing Year Underwriting Profit (Loss) Float performance measures.",
+        "columns": [
+          "Year",
+          "Berkshire",
+          "S&P 500",
+          "(1)-(2)"
+        ],
+        "rows": [
+          [
+            "1967 $ 0.4 $18.5",
+            "",
+            "",
+            ""
+          ],
+          [
+            "1968 0.6 21.3",
+            "",
+            "",
+            ""
+          ],
+          [
+            "1969 0.1 25.4",
+            "",
+            "",
+            ""
+          ],
+          [
+            "1970 (0.4) 39.4",
+            "",
+            "",
+            ""
+          ],
+          [
+            "1971 1.4 65.6",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "row_count": 5
+      }
+    ],
+    "has_table": true,
+    "principles": []
   },
   {
     "chunk_id": "2007-S06-T2-002",
@@ -1710,7 +2206,10 @@
         "Float"
       ],
       "principles": [
-        "Delegate to outstanding managers"
+        {
+          "statement": "Delegate to outstanding managers",
+          "category": "management"
+        }
       ],
       "temporal_references": {
         "primary_year": 2007,
@@ -1743,7 +2242,59 @@
       "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
-    }
+    },
+    "table_data": [
+      {
+        "table_name": "Year Underwriting Profit (Loss) Float",
+        "summary": "Table summarizing Year Underwriting Profit (Loss) Float performance measures.",
+        "columns": [
+          "Year",
+          "Berkshire",
+          "S&P 500",
+          "(1)-(2)"
+        ],
+        "rows": [
+          [
+            "2003 $1,718 $44,220",
+            "",
+            "",
+            ""
+          ],
+          [
+            "2004 1,551 46,094",
+            "",
+            "",
+            ""
+          ],
+          [
+            "2005 53 49,287",
+            "",
+            "",
+            ""
+          ],
+          [
+            "2006 3,838 50,887",
+            "",
+            "",
+            ""
+          ],
+          [
+            "2007 3,374 58,698",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "row_count": 5
+      }
+    ],
+    "has_table": true,
+    "principles": [
+      {
+        "statement": "Delegate to outstanding managers",
+        "category": "management"
+      }
+    ]
   },
   {
     "chunk_id": "2007-S06-T1-002",
@@ -1764,7 +2315,7 @@
       ],
       "content_type": "narrative",
       "contextual_summary": "The insurance section explains how disciplined underwriting and strong operations produce float that can be invested, while warning that bad pricing can erase years of gains.",
-      "has_table": true,
+      "has_table": false,
       "table_data": [],
       "has_financial_data": true,
       "entities": {
@@ -1793,7 +2344,10 @@
         "Equity portfolio"
       ],
       "principles": [
-        "Underwrite only at acceptable prices"
+        {
+          "statement": "Underwrite only at acceptable prices",
+          "category": "insurance"
+        }
       ],
       "temporal_references": {
         "primary_year": 2007,
@@ -1822,7 +2376,15 @@
       "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
-    }
+    },
+    "table_data": [],
+    "has_table": false,
+    "principles": [
+      {
+        "statement": "Underwrite only at acceptable prices",
+        "category": "insurance"
+      }
+    ]
   },
   {
     "chunk_id": "2007-S06-T2-003",
@@ -1919,7 +2481,43 @@
       "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
-    }
+    },
+    "table_data": [
+      {
+        "table_name": "Underwriting Profit Yearend Float",
+        "summary": "Table summarizing Underwriting Profit Yearend Float performance measures.",
+        "columns": [
+          "Underwriting Profit Yearend Float"
+        ],
+        "rows": [
+          [
+            "Insurance Operations 2007 2006 2007 2006"
+          ],
+          [
+            "General Re",
+            "$ 555 $ 526 $23,009 $22,827"
+          ],
+          [
+            "BH Reinsurance",
+            "1,427 1,658 23,692 16,860"
+          ],
+          [
+            "GEICO",
+            "1,113 1,314 7,768 7,171"
+          ],
+          [
+            "Other Primary",
+            "279 340* 4,229 4,029*"
+          ],
+          [
+            "$3,374 $3,838 $58,698 $50,887"
+          ]
+        ],
+        "row_count": 6
+      }
+    ],
+    "has_table": true,
+    "principles": []
   },
   {
     "chunk_id": "2007-S07-T1-001",
@@ -1958,7 +2556,10 @@
         "Long-term capital deployment"
       ],
       "principles": [
-        "Delegate to outstanding managers"
+        {
+          "statement": "Delegate to outstanding managers",
+          "category": "management"
+        }
       ],
       "temporal_references": {
         "primary_year": 2007,
@@ -1981,7 +2582,15 @@
       "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
-    }
+    },
+    "table_data": [],
+    "has_table": false,
+    "principles": [
+      {
+        "statement": "Delegate to outstanding managers",
+        "category": "management"
+      }
+    ]
   },
   {
     "chunk_id": "2007-S07-T1-002",
@@ -2002,7 +2611,7 @@
       ],
       "content_type": "narrative",
       "contextual_summary": "Buffett describes the utility and energy segment’s economics, capital needs, and regulation-driven returns, focusing on long-lived assets and steady cash generation.",
-      "has_table": true,
+      "has_table": false,
       "table_data": [],
       "has_financial_data": true,
       "entities": {
@@ -2045,7 +2654,10 @@
       "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
-    }
+    },
+    "table_data": [],
+    "has_table": false,
+    "principles": []
   },
   {
     "chunk_id": "2007-S07-T2-001",
@@ -2176,7 +2788,80 @@
       "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
-    }
+    },
+    "table_data": [
+      {
+        "table_name": "Earnings (in millions)",
+        "summary": "Table summarizing Earnings (in millions) performance measures.",
+        "columns": [
+          "Earnings (in millions)"
+        ],
+        "rows": [
+          [
+            "2007 2006"
+          ],
+          [
+            "U. K. utilities",
+            "$ 337 $ 338"
+          ],
+          [
+            "Iowa utility",
+            "412 348"
+          ],
+          [
+            "Western utilities (acquired March 21,2006)",
+            "692 356"
+          ],
+          [
+            "Pipelines",
+            "473 376"
+          ],
+          [
+            "Home Services",
+            "42 74"
+          ],
+          [
+            "Other (net)",
+            "130 245"
+          ],
+          [
+            "Earnings before corporate interest and taxes",
+            "2,086 1,737"
+          ],
+          [
+            "Interest, other than to Berkshire",
+            "(312) (261)"
+          ],
+          [
+            "Interest on Berkshire junior debt",
+            "(108) (134)"
+          ],
+          [
+            "Income tax",
+            "(477) (426)"
+          ],
+          [
+            "Net earnings",
+            "$ 1,189 $ 916"
+          ],
+          [
+            "Earnings applicable to Berkshire*",
+            "$ 1,114 $ 885"
+          ],
+          [
+            "Debt owed to others",
+            "19,002 16,946"
+          ],
+          [
+            "Debt owed to Berkshire",
+            "821 1,055"
+          ]
+        ],
+        "row_count": 15
+      }
+    ],
+    "has_table": true,
+    "principles": []
   },
   {
     "chunk_id": "2007-S07-T1-003",
@@ -2243,7 +2928,10 @@
       "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
-    }
+    },
+    "table_data": [],
+    "has_table": false,
+    "principles": []
   },
   {
     "chunk_id": "2007-S08-T1-001",
@@ -2264,7 +2952,7 @@
       ],
       "content_type": "narrative",
       "contextual_summary": "The letter summarizes results across Berkshire’s non-insurance operating businesses and connects performance to demand, cost structure, and management execution.",
-      "has_table": true,
+      "has_table": false,
       "table_data": [],
       "has_financial_data": true,
       "entities": {
@@ -2311,7 +2999,10 @@
       "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
-    }
+    },
+    "table_data": [],
+    "has_table": false,
+    "principles": []
   },
   {
     "chunk_id": "2007-S08-T2-001",
@@ -2464,7 +3155,102 @@
       "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
-    }
+    },
+    "table_data": [
+      {
+        "table_name": "Balance Sheet 12/31/07 (in millions)",
+        "summary": "Table summarizing Balance Sheet 12/31/07 (in millions) performance measures.",
+        "columns": [
+          "Balance Sheet 12/31/07 (in millions)"
+        ],
+        "rows": [
+          [
+            "Cash and equivalents",
+            "$ 2,080 Notes payable",
+            "$ 1,278"
+          ],
+          [
+            "Accounts and notes receivable",
+            "4,488 Other current liabilities",
+            "7,652"
+          ],
+          [
+            "Inventory",
+            "5,793 Total current liabilities",
+            "8,930"
+          ],
+          [
+            "Other current assets",
+            "470"
+          ],
+          [
+            "Total current assets",
+            "12,831"
+          ],
+          [
+            "Goodwill and other intangibles",
+            "14,201 Deferred taxes",
+            "828"
+          ],
+          [
+            "Fixed assets",
+            "9,605 Term debt and other liabilities",
+            "3,079"
+          ],
+          [
+            "Other assets",
+            "1,685 Equity",
+            "25,485"
+          ],
+          [
+            "$38,322 $38,322"
+          ],
+          [
+            "2007 2006 2005"
+          ],
+          [
+            "Revenues",
+            "$59,100",
+            "$52,660",
+            "$46,896"
+          ],
+          [
+            "Operating expenses (including depreciation of $955 in 2007,"
+          ],
+          [
+            "$823 in 2006 and $699 in 2005)",
+            "55,026",
+            "49,002",
+            "44,190"
+          ],
+          [
+            "Interest expense",
+            "127",
+            "132",
+            "83"
+          ],
+          [
+            "Pre-tax earnings",
+            "3,947*",
+            "3,526*",
+            "2,623*"
+          ],
+          [
+            "Income taxes and minority interests",
+            "1,594",
+            "1,395",
+            "977"
+          ],
+          [
+            "Net income",
+            "$ 2,353 $ 2,131 $ 1,646"
+          ]
+        ],
+        "row_count": 17
+      }
+    ],
+    "has_table": true,
+    "principles": []
   },
   {
     "chunk_id": "2007-S08-T1-002",
@@ -2509,7 +3295,10 @@
         "Capital allocation"
       ],
       "principles": [
-        "Delegate to outstanding managers"
+        {
+          "statement": "Delegate to outstanding managers",
+          "category": "management"
+        }
       ],
       "temporal_references": {
         "primary_year": 2007,
@@ -2535,7 +3324,15 @@
       "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
-    }
+    },
+    "table_data": [],
+    "has_table": false,
+    "principles": [
+      {
+        "statement": "Delegate to outstanding managers",
+        "category": "management"
+      }
+    ]
   },
   {
     "chunk_id": "2007-S08-T1-003",
@@ -2571,7 +3368,10 @@
       ],
       "buffett_concepts": [],
       "principles": [
-        "Delegate to outstanding managers"
+        {
+          "statement": "Delegate to outstanding managers",
+          "category": "management"
+        }
       ],
       "temporal_references": {
         "primary_year": 2007,
@@ -2596,7 +3396,15 @@
       "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
-    }
+    },
+    "table_data": [],
+    "has_table": false,
+    "principles": [
+      {
+        "statement": "Delegate to outstanding managers",
+        "category": "management"
+      }
+    ]
   },
   {
     "chunk_id": "2007-S08-T1-004",
@@ -2649,7 +3457,10 @@
       "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
-    }
+    },
+    "table_data": [],
+    "has_table": false,
+    "principles": []
   },
   {
     "chunk_id": "2007-S09-T1-001",
@@ -2670,7 +3481,7 @@
       ],
       "content_type": "narrative",
       "contextual_summary": "Buffett reviews results in finance-related businesses, explaining how leverage, funding costs, and credit conditions shape earnings and risk.",
-      "has_table": true,
+      "has_table": false,
       "table_data": [],
       "has_financial_data": true,
       "entities": {
@@ -2717,7 +3528,10 @@
       "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
-    }
+    },
+    "table_data": [],
+    "has_table": false,
+    "principles": []
   },
   {
     "chunk_id": "2007-S09-T2-001",
@@ -2822,7 +3636,55 @@
       "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
-    }
+    },
+    "table_data": [
+      {
+        "table_name": "Pre-Tax Earnings",
+        "summary": "Table summarizing Pre-Tax Earnings performance measures.",
+        "columns": [
+          "Pre-Tax Earnings"
+        ],
+        "rows": [
+          [
+            "2007 2006"
+          ],
+          [
+            "Trading – ordinary income",
+            "$ 272 $ 274"
+          ],
+          [
+            "Life and annuity operation",
+            "(60) 29"
+          ],
+          [
+            "Leasing operations",
+            "111 182"
+          ],
+          [
+            "Manufactured-housing finance (Clayton)",
+            "526 513"
+          ],
+          [
+            "Other",
+            "157 159"
+          ],
+          [
+            "Income before capital gains",
+            "1,006 1,157"
+          ],
+          [
+            "Trading – capital gains",
+            "105 938"
+          ],
+          [
+            "$1,111 $2,095"
+          ]
+        ],
+        "row_count": 9
+      }
+    ],
+    "has_table": true,
+    "principles": []
   },
   {
     "chunk_id": "2007-S10-T1-001",
@@ -2843,7 +3705,7 @@
       ],
       "content_type": "narrative",
       "contextual_summary": "The investment section discusses Berkshire’s equity portfolio and business holdings, tying valuation, ownership concentration, and long-term fundamentals to expected returns.",
-      "has_table": true,
+      "has_table": false,
       "table_data": [],
       "has_financial_data": true,
       "entities": {
@@ -2893,7 +3755,10 @@
       "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
-    }
+    },
+    "table_data": [],
+    "has_table": false,
+    "principles": []
   },
   {
     "chunk_id": "2007-S10-T2-001",
@@ -3081,7 +3946,132 @@
       "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
-    }
+    },
+    "table_data": [
+      {
+        "table_name": "12/31/07",
+        "summary": "Table summarizing 12/31/07 performance measures.",
+        "columns": [
+          "12/31/07"
+        ],
+        "rows": [
+          [
+            "151,610,700 American Express Company",
+            "13.1 $ 1,287 $ 7,887"
+          ],
+          [
+            "35,563,200 Anheuser-Busch Companies, Inc",
+            "4.8",
+            "1,718",
+            "1,861"
+          ],
+          [
+            "60,828,818 Burlington Northern Santa Fe",
+            "17.5",
+            "4,731",
+            "5,063"
+          ],
+          [
+            "200,000,000 The Coca-Cola Company",
+            "8.6",
+            "1,299",
+            "12,274"
+          ],
+          [
+            "17,508,700 Conoco Phillips",
+            "1.1",
+            "1,039",
+            "1,546"
+          ],
+          [
+            "64,271,948 Johnson & Johnson",
+            "2.2",
+            "3,943",
+            "4,287"
+          ],
+          [
+            "124,393,800 Kraft Foods Inc",
+            "8.1",
+            "4,152",
+            "4,059"
+          ],
+          [
+            "48,000,000 Moody’s Corporation",
+            "19.1",
+            "499",
+            "1,714"
+          ],
+          [
+            "3,486,006 POSCO",
+            "4.5",
+            "572",
+            "2,136"
+          ],
+          [
+            "101,472,000 The Procter & Gamble Company",
+            "3.3",
+            "1,030",
+            "7,450"
+          ],
+          [
+            "17,170,953 Sanofi-Aventis",
+            "1.3",
+            "1,466",
+            "1,575"
+          ],
+          [
+            "227,307,000 Tesco plc",
+            "2.9",
+            "1,326",
+            "2,156"
+          ],
+          [
+            "75,176,026 U. S. Bancorp",
+            "4.4",
+            "2,417",
+            "2,386"
+          ],
+          [
+            "17,072,192 USG Corp",
+            "17.2",
+            "536",
+            "611"
+          ],
+          [
+            "19,944,300 Wal-Mart Stores, Inc.",
+            "0.5",
+            "942",
+            "948"
+          ],
+          [
+            "1,727,765 The Washington Post Company",
+            "18.2",
+            "11",
+            "1,367"
+          ],
+          [
+            "303,407,068 Wells Fargo & Company",
+            "9.2",
+            "6,677",
+            "9,160"
+          ],
+          [
+            "1,724,200 White Mountains Insurance Group Ltd. .. 16.3 369 886"
+          ],
+          [
+            "Others",
+            "5,238 7,633"
+          ],
+          [
+            "Total Common Stocks",
+            "$39,252 $74,999"
+          ]
+        ],
+        "row_count": 20
+      }
+    ],
+    "has_table": true,
+    "principles": []
   },
   {
     "chunk_id": "2007-S10-T1-002",
@@ -3120,7 +4110,10 @@
       ],
       "buffett_concepts": [],
       "principles": [
-        "Delegate to outstanding managers"
+        {
+          "statement": "Delegate to outstanding managers",
+          "category": "management"
+        }
       ],
       "temporal_references": {
         "primary_year": 2007,
@@ -3148,7 +4141,15 @@
       "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
-    }
+    },
+    "table_data": [],
+    "has_table": false,
+    "principles": [
+      {
+        "statement": "Delegate to outstanding managers",
+        "category": "management"
+      }
+    ]
   },
   {
     "chunk_id": "2007-S10-T1-003",
@@ -3216,7 +4217,10 @@
       "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
-    }
+    },
+    "table_data": [],
+    "has_table": false,
+    "principles": []
   },
   {
     "chunk_id": "2007-S10-T1-004",
@@ -3273,7 +4277,10 @@
       "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
-    }
+    },
+    "table_data": [],
+    "has_table": false,
+    "principles": []
   },
   {
     "chunk_id": "2007-S10-T1-005",
@@ -3337,7 +4344,10 @@
       "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
-    }
+    },
+    "table_data": [],
+    "has_table": false,
+    "principles": []
   },
   {
     "chunk_id": "2007-S10-T1-006",
@@ -3394,7 +4404,10 @@
       "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
-    }
+    },
+    "table_data": [],
+    "has_table": false,
+    "principles": []
   },
   {
     "chunk_id": "2007-S11-T1-001",
@@ -3433,7 +4446,10 @@
         "Equity portfolio"
       ],
       "principles": [
-        "Delegate to outstanding managers"
+        {
+          "statement": "Delegate to outstanding managers",
+          "category": "management"
+        }
       ],
       "temporal_references": {
         "primary_year": 2007,
@@ -3459,7 +4475,15 @@
       "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
-    }
+    },
+    "table_data": [],
+    "has_table": false,
+    "principles": [
+      {
+        "statement": "Delegate to outstanding managers",
+        "category": "management"
+      }
+    ]
   },
   {
     "chunk_id": "2007-S11-T1-002",
@@ -3519,7 +4543,10 @@
       "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
-    }
+    },
+    "table_data": [],
+    "has_table": false,
+    "principles": []
   },
   {
     "chunk_id": "2007-S11-T1-003",
@@ -3556,7 +4583,10 @@
         "Equity portfolio"
       ],
       "principles": [
-        "Delegate to outstanding managers"
+        {
+          "statement": "Delegate to outstanding managers",
+          "category": "management"
+        }
       ],
       "temporal_references": {
         "primary_year": 2007,
@@ -3579,7 +4609,15 @@
       "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
-    }
+    },
+    "table_data": [],
+    "has_table": false,
+    "principles": [
+      {
+        "statement": "Delegate to outstanding managers",
+        "category": "management"
+      }
+    ]
   },
   {
     "chunk_id": "2007-S11-T1-004",
@@ -3640,7 +4678,10 @@
       "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
-    }
+    },
+    "table_data": [],
+    "has_table": false,
+    "principles": []
   },
   {
     "chunk_id": "2007-S11-T1-005",
@@ -3695,7 +4736,10 @@
       "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
-    }
+    },
+    "table_data": [],
+    "has_table": false,
+    "principles": []
   },
   {
     "chunk_id": "2007-S12-T1-001",
@@ -3754,7 +4798,10 @@
       "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
-    }
+    },
+    "table_data": [],
+    "has_table": false,
+    "principles": []
   },
   {
     "chunk_id": "2007-S12-T1-002",
@@ -3814,7 +4861,10 @@
       "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
-    }
+    },
+    "table_data": [],
+    "has_table": false,
+    "principles": []
   },
   {
     "chunk_id": "2007-S12-T1-003",
@@ -3874,6 +4924,9 @@
       "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
-    }
+    },
+    "table_data": [],
+    "has_table": false,
+    "principles": []
   }
 ]

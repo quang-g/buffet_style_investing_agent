@@ -52,11 +52,12 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": "merged_backward_to_meet_min",
+      "boundary_note": null,
       "merged_from": [
         "S01-T1-002"
       ]
-    }
+    },
+    "boundary_note": null
   },
   {
     "chunk_id": "2004-S02-T1-001",
@@ -112,12 +113,13 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": "merged_forward_small_section",
+      "boundary_note": null,
       "merged_from": [
         "S03-T1-002",
         "SECTION_MERGE_S02"
       ]
-    }
+    },
+    "boundary_note": null
   },
   {
     "chunk_id": "2004-S02-T2-001",
@@ -232,7 +234,8 @@
       "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
-    }
+    },
+    "boundary_note": null
   },
   {
     "chunk_id": "2004-S03-T1-001",
@@ -291,7 +294,8 @@
       "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
-    }
+    },
+    "boundary_note": null
   },
   {
     "chunk_id": "2004-S03-T2-001",
@@ -496,7 +500,8 @@
       "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
-    }
+    },
+    "boundary_note": null
   },
   {
     "chunk_id": "2004-S03-T1-002",
@@ -572,7 +577,8 @@
       "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
-    }
+    },
+    "boundary_note": null
   },
   {
     "chunk_id": "2004-S03-T1-003",
@@ -630,7 +636,8 @@
       "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
-    }
+    },
+    "boundary_note": null
   },
   {
     "chunk_id": "2004-S03-T1-004",
@@ -690,7 +697,8 @@
       "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
-    }
+    },
+    "boundary_note": null
   },
   {
     "chunk_id": "2004-S03-T1-005",
@@ -746,7 +754,8 @@
       "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
-    }
+    },
+    "boundary_note": null
   },
   {
     "chunk_id": "2004-S03-T2-002",
@@ -941,7 +950,8 @@
       "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
-    }
+    },
+    "boundary_note": null
   },
   {
     "chunk_id": "2004-S04-T1-001",
@@ -994,7 +1004,8 @@
       "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
-    }
+    },
+    "boundary_note": null
   },
   {
     "chunk_id": "2004-S04-T2-001",
@@ -1191,7 +1202,8 @@
       "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
-    }
+    },
+    "boundary_note": null
   },
   {
     "chunk_id": "2004-S04-T1-002",
@@ -1247,7 +1259,8 @@
       "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
-    }
+    },
+    "boundary_note": null
   },
   {
     "chunk_id": "2004-S05-T1-001",
@@ -1304,7 +1317,8 @@
       "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
-    }
+    },
+    "boundary_note": null
   },
   {
     "chunk_id": "2004-S05-T2-001",
@@ -1396,7 +1410,8 @@
       "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
-    }
+    },
+    "boundary_note": null
   },
   {
     "chunk_id": "2004-S05-T2-002",
@@ -1506,7 +1521,8 @@
       "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
-    }
+    },
+    "boundary_note": null
   },
   {
     "chunk_id": "2004-S05-T2-003",
@@ -1613,7 +1629,8 @@
       "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
-    }
+    },
+    "boundary_note": null
   },
   {
     "chunk_id": "2004-S05-T1-002",
@@ -1667,7 +1684,8 @@
       "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
-    }
+    },
+    "boundary_note": null
   },
   {
     "chunk_id": "2004-S05-T1-003",
@@ -1724,7 +1742,8 @@
       "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
-    }
+    },
+    "boundary_note": null
   },
   {
     "chunk_id": "2004-S06-T2-001",
@@ -1923,7 +1942,8 @@
       "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
-    }
+    },
+    "boundary_note": null
   },
   {
     "chunk_id": "2004-S06-T1-001",
@@ -1982,7 +2002,8 @@
       "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
-    }
+    },
+    "boundary_note": null
   },
   {
     "chunk_id": "2004-S06-T2-002",
@@ -2179,7 +2200,8 @@
       "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
-    }
+    },
+    "boundary_note": null
   },
   {
     "chunk_id": "2004-S06-T1-002",
@@ -2254,11 +2276,12 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": "merged_backward_to_meet_min",
+      "boundary_note": null,
       "merged_from": [
         "S07-T1-003"
       ]
-    }
+    },
+    "boundary_note": null
   },
   {
     "chunk_id": "2004-S06-T2-003",
@@ -2424,7 +2447,8 @@
       "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
-    }
+    },
+    "boundary_note": null
   },
   {
     "chunk_id": "2004-S07-T1-001",
@@ -2480,7 +2504,8 @@
       "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
-    }
+    },
+    "boundary_note": null
   },
   {
     "chunk_id": "2004-S07-T1-002",
@@ -2531,7 +2556,8 @@
       "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
-    }
+    },
+    "boundary_note": null
   },
   {
     "chunk_id": "2004-S07-T1-003",
@@ -2582,7 +2608,8 @@
       "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
-    }
+    },
+    "boundary_note": null
   },
   {
     "chunk_id": "2004-S08-T1-001",
@@ -2631,11 +2658,12 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": "merged_forward_to_meet_min",
+      "boundary_note": null,
       "merged_from": [
         "S09-T1-002"
       ]
-    }
+    },
+    "boundary_note": null
   },
   {
     "chunk_id": "2004-S08-T1-002",
@@ -2686,7 +2714,8 @@
       "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
-    }
+    },
+    "boundary_note": null
   },
   {
     "chunk_id": "2004-S08-T1-003",
@@ -2739,7 +2768,8 @@
       "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
-    }
+    },
+    "boundary_note": null
   },
   {
     "chunk_id": "2004-S09-T1-001",
@@ -2793,7 +2823,8 @@
       "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
-    }
+    },
+    "boundary_note": null
   },
   {
     "chunk_id": "2004-S09-T1-002",
@@ -2847,6 +2878,7 @@
       "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
-    }
+    },
+    "boundary_note": null
   }
 ]

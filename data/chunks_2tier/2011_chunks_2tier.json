@@ -14,7 +14,7 @@
       "chunk_tier": 1,
       "parent_chunk_id": null,
       "child_chunk_ids": [],
-      "content_type": "acquisition",
+      "content_type": "narrative",
       "contextual_summary": "Berkshire reports modest 2011 book-value growth versus the S&P 500, while highlighting operating gains and major moves like the Lubrizol purchase. It frames how insurance, BNSF, and MidAmerican drive long-run compounding and capital deployment.",
       "has_table": false,
       "table_data": [],
@@ -71,7 +71,8 @@
       "standalone_exception": false,
       "exception_reason": null,
       "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "themes": []
     }
   },
   {
@@ -147,7 +148,8 @@
       "standalone_exception": false,
       "exception_reason": null,
       "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "themes": []
     }
   },
   {
@@ -165,7 +167,7 @@
       "chunk_tier": 1,
       "parent_chunk_id": null,
       "child_chunk_ids": [],
-      "content_type": "acquisition",
+      "content_type": "narrative",
       "contextual_summary": "Several large fixed-income positions were redeemed in 2011, forcing Berkshire to redeploy capital into new opportunities. The discussion connects these cash inflows to purchases like Lubrizol and to the challenge of finding attractive, scalable returns.",
       "has_table": false,
       "table_data": [],
@@ -221,7 +223,8 @@
       "standalone_exception": false,
       "exception_reason": null,
       "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "themes": []
     }
   },
   {
@@ -239,7 +242,7 @@
       "chunk_tier": 1,
       "parent_chunk_id": null,
       "child_chunk_ids": [],
-      "content_type": "acquisition",
+      "content_type": "narrative",
       "contextual_summary": "Performance is judged by growth in intrinsic value rather than book value, using a simple yardstick tied to per-share value creation. The letter explains why market price can swing around intrinsic value and why steady operating earnings and retained capital drive it upward.",
       "has_table": false,
       "table_data": [],
@@ -291,7 +294,8 @@
       "standalone_exception": false,
       "exception_reason": null,
       "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "themes": []
     }
   },
   {
@@ -362,7 +366,8 @@
       "standalone_exception": false,
       "exception_reason": null,
       "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "themes": []
     }
   },
   {
@@ -424,7 +429,8 @@
       "standalone_exception": false,
       "exception_reason": null,
       "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "themes": []
     }
   },
   {
@@ -444,9 +450,9 @@
       "child_chunk_ids": [
         "2011-S04-T2-001"
       ],
-      "content_type": "financial_table",
+      "content_type": "narrative",
       "contextual_summary": "Insurance is presented as Berkshire’s financial engine, converting underwriting operations into investable “float” that can be held for long periods. The discussion outlines why pricing discipline and avoiding catastrophe exposure are central to turning float into enduring value.",
-      "has_table": true,
+      "has_table": false,
       "table_data": [],
       "has_financial_data": true,
       "entities": {
@@ -479,7 +485,7 @@
         "related_years": []
       },
       "retrieval_priority": "high",
-      "abstraction_level": "mid",
+      "abstraction_level": "medium",
       "token_count": 693,
       "char_count": 4064,
       "source_span": {
@@ -489,7 +495,8 @@
       "standalone_exception": false,
       "exception_reason": null,
       "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "themes": []
     }
   },
   {
@@ -509,9 +516,9 @@
       "child_chunk_ids": [
         "2011-S04-T2-002"
       ],
-      "content_type": "financial_table",
+      "content_type": "narrative",
       "contextual_summary": "Results across GEICO, General Re, and Berkshire Hathaway Reinsurance are used to explain what makes “float” valuable and when it becomes costly. The narrative contrasts years of underwriting profit with the risks of mega-cat events and the need for conservative reserving.",
-      "has_table": true,
+      "has_table": false,
       "table_data": [],
       "has_financial_data": true,
       "entities": {
@@ -567,7 +574,8 @@
       "standalone_exception": false,
       "exception_reason": null,
       "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "themes": []
     }
   },
   {
@@ -677,8 +685,9 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": "TABLE_BLOCK extracted as Tier-2 child chunk; parent contains placeholder.",
-      "merged_from": []
+      "boundary_note": null,
+      "merged_from": [],
+      "themes": []
     }
   },
   {
@@ -874,8 +883,9 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": "TABLE_BLOCK extracted as Tier-2 child chunk; parent contains placeholder.",
-      "merged_from": []
+      "boundary_note": null,
+      "merged_from": [],
+      "themes": []
     }
   },
   {
@@ -933,7 +943,8 @@
       "standalone_exception": false,
       "exception_reason": null,
       "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "themes": []
     }
   },
   {
@@ -951,7 +962,7 @@
       "chunk_tier": 1,
       "parent_chunk_id": null,
       "child_chunk_ids": [],
-      "content_type": "acquisition",
+      "content_type": "narrative",
       "contextual_summary": "MidAmerican’s “social contract” and BNSF’s reinvestment model illustrate how large infrastructure businesses can grow while keeping regulators and customers aligned. The letter emphasizes capital discipline, service reliability, and patient ownership as the payoff for heavy spending.",
       "has_table": false,
       "table_data": [],
@@ -1001,7 +1012,8 @@
       "standalone_exception": false,
       "exception_reason": null,
       "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "themes": []
     }
   },
   {
@@ -1021,9 +1033,9 @@
       "child_chunk_ids": [
         "2011-S06-T2-001"
       ],
-      "content_type": "financial_table",
+      "content_type": "narrative",
       "contextual_summary": "BNSF’s reported book value includes large goodwill, but management argues intrinsic value is far higher because of durable earnings power. The setup points to the railroad’s scale and reinvestment needs as the basis for long-term value creation.",
-      "has_table": true,
+      "has_table": false,
       "table_data": [],
       "has_financial_data": true,
       "entities": {
@@ -1061,7 +1073,8 @@
       "standalone_exception": false,
       "exception_reason": null,
       "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "themes": []
     }
   },
   {
@@ -1480,8 +1493,9 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": "TABLE_BLOCK extracted as Tier-2 child chunk; parent contains placeholder.",
-      "merged_from": []
+      "boundary_note": null,
+      "merged_from": [],
+      "themes": []
     }
   },
   {
@@ -1501,9 +1515,9 @@
       "child_chunk_ids": [
         "2011-S07-T2-001"
       ],
-      "content_type": "financial_table",
+      "content_type": "narrative",
       "contextual_summary": "Berkshire’s manufacturing, service, and retailing group is introduced as a broad collection of businesses whose results are tracked with balance-sheet detail. The overview explains why these operations, including newer additions, are managed for long-term cash generation rather than short-term optics.",
-      "has_table": true,
+      "has_table": false,
       "table_data": [],
       "has_financial_data": false,
       "entities": {
@@ -1541,7 +1555,8 @@
       "standalone_exception": false,
       "exception_reason": null,
       "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "themes": []
     }
   },
   {
@@ -1559,7 +1574,7 @@
       "chunk_tier": 1,
       "parent_chunk_id": null,
       "child_chunk_ids": [],
-      "content_type": "acquisition",
+      "content_type": "narrative",
       "contextual_summary": "The letter reviews several non-insurance operating companies and the traits Berkshire looks for when acquiring or expanding them. It ties long-term competitive advantages, capable managers, and sensible reinvestment to the steady compounding that offsets weaker periods in any one business.",
       "has_table": false,
       "table_data": [],
@@ -1622,7 +1637,8 @@
       "standalone_exception": false,
       "exception_reason": null,
       "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "themes": []
     }
   },
   {
@@ -1640,7 +1656,7 @@
       "chunk_tier": 1,
       "parent_chunk_id": null,
       "child_chunk_ids": [],
-      "content_type": "acquisition",
+      "content_type": "narrative",
       "contextual_summary": "Updates on specific subsidiaries describe operational turnarounds, demand swings, and managerial changes that affected 2011 performance. The discussion highlights how Berkshire supports businesses through cyclical weakness while expecting clear accountability and improvement over time.",
       "has_table": false,
       "table_data": [],
@@ -1696,7 +1712,8 @@
       "standalone_exception": false,
       "exception_reason": null,
       "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "themes": []
     }
   },
   {
@@ -1761,7 +1778,8 @@
       "standalone_exception": false,
       "exception_reason": null,
       "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "themes": []
     }
   },
   {
@@ -2498,8 +2516,9 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": "TABLE_BLOCK extracted as Tier-2 child chunk; parent contains placeholder.",
-      "merged_from": []
+      "boundary_note": null,
+      "merged_from": [],
+      "themes": []
     }
   },
   {
@@ -2573,7 +2592,8 @@
       "standalone_exception": false,
       "exception_reason": null,
       "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "themes": []
     }
   },
   {
@@ -2593,9 +2613,9 @@
       "child_chunk_ids": [
         "2011-S09-T2-001"
       ],
-      "content_type": "financial_table",
+      "content_type": "narrative",
       "contextual_summary": "Berkshire’s major equity holdings are presented alongside the logic for concentrating in high-quality businesses bought at reasonable prices. The discussion links this equity portfolio to insurance float and contrasts long-term ownership with trading or macro forecasting.",
-      "has_table": true,
+      "has_table": false,
       "table_data": [],
       "has_financial_data": true,
       "entities": {
@@ -2656,7 +2676,8 @@
       "standalone_exception": false,
       "exception_reason": null,
       "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "themes": []
     }
   },
   {
@@ -3206,8 +3227,9 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": "TABLE_BLOCK extracted as Tier-2 child chunk; parent contains placeholder.",
-      "merged_from": []
+      "boundary_note": null,
+      "merged_from": [],
+      "themes": []
     }
   },
   {
@@ -3263,7 +3285,8 @@
       "standalone_exception": false,
       "exception_reason": null,
       "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "themes": []
     }
   },
   {
@@ -3281,7 +3304,7 @@
       "chunk_tier": 1,
       "parent_chunk_id": null,
       "child_chunk_ids": [],
-      "content_type": "acquisition",
+      "content_type": "narrative",
       "contextual_summary": "Low interest rates are used to show how bonds and cash-like instruments can fail to preserve purchasing power after inflation and taxes. The analysis argues that productive assets, especially good businesses, are more likely to protect real wealth over long periods than Treasuries.",
       "has_table": false,
       "table_data": [],
@@ -3323,7 +3346,8 @@
       "standalone_exception": false,
       "exception_reason": null,
       "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "themes": []
     }
   },
   {
@@ -3341,7 +3365,7 @@
       "chunk_tier": 1,
       "parent_chunk_id": null,
       "child_chunk_ids": [],
-      "content_type": "acquisition",
+      "content_type": "narrative",
       "contextual_summary": "Gold is evaluated as a non-productive asset whose long-run returns depend on future buyers paying more, not on cash generation. The letter contrasts that with businesses like IBM that can reinvest, earn profits, and return capital, making them better vehicles for lasting value.",
       "has_table": false,
       "table_data": [],
@@ -3387,7 +3411,8 @@
       "standalone_exception": false,
       "exception_reason": null,
       "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "themes": []
     }
   },
   {
@@ -3405,7 +3430,7 @@
       "chunk_tier": 1,
       "parent_chunk_id": null,
       "child_chunk_ids": [],
-      "content_type": "acquisition",
+      "content_type": "narrative",
       "contextual_summary": "Practical details for the annual meeting are paired with a celebration of Berkshire’s operating culture and the managers who run its businesses. It reinforces the idea that decentralized, owner-minded leadership is a key advantage that can’t be replicated by financial engineering.",
       "has_table": false,
       "table_data": [],
@@ -3457,7 +3482,8 @@
       "standalone_exception": false,
       "exception_reason": null,
       "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "themes": []
     }
   },
   {
@@ -3475,7 +3501,7 @@
       "chunk_tier": 1,
       "parent_chunk_id": null,
       "child_chunk_ids": [],
-      "content_type": "acquisition",
+      "content_type": "narrative",
       "contextual_summary": "The annual meeting weekend is described as a hands-on showcase for Berkshire subsidiaries, with special events and record sales at participating retailers. The narrative also connects the gathering to shareholder education, emphasizing transparency and long-term partnership.",
       "has_table": false,
       "table_data": [],
@@ -3524,7 +3550,8 @@
       "standalone_exception": false,
       "exception_reason": null,
       "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "themes": []
     }
   },
   {
@@ -3582,7 +3609,8 @@
       "standalone_exception": false,
       "exception_reason": null,
       "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "themes": []
     }
   }
 ]

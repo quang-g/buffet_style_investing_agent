@@ -62,8 +62,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -128,8 +128,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -195,8 +195,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -266,8 +266,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": "Table content (if any) is emitted as Tier-2 chunks; this Tier-1 narrative is non-contiguous, so source_span is set to 0.",
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -337,8 +337,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": "Table content (if any) is emitted as Tier-2 chunks; this Tier-1 narrative is non-contiguous, so source_span is set to 0.",
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -409,8 +409,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": "Table content (if any) is emitted as Tier-2 chunks; this Tier-1 narrative is non-contiguous, so source_span is set to 0.",
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -478,8 +478,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": "Table content (if any) is emitted as Tier-2 chunks; this Tier-1 narrative is non-contiguous, so source_span is set to 0.",
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -547,8 +547,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -609,8 +609,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -675,8 +675,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -742,8 +742,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -812,8 +812,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": "Table content (if any) is emitted as Tier-2 chunks; this Tier-1 narrative is non-contiguous, so source_span is set to 0.",
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -882,8 +882,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": "Table content (if any) is emitted as Tier-2 chunks; this Tier-1 narrative is non-contiguous, so source_span is set to 0.",
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -954,8 +954,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": "Table content (if any) is emitted as Tier-2 chunks; this Tier-1 narrative is non-contiguous, so source_span is set to 0.",
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -1019,8 +1019,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": "Table content (if any) is emitted as Tier-2 chunks; this Tier-1 narrative is non-contiguous, so source_span is set to 0.",
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -1089,8 +1089,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": "Table content (if any) is emitted as Tier-2 chunks; this Tier-1 narrative is non-contiguous, so source_span is set to 0.",
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -1163,8 +1163,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": "Table content (if any) is emitted as Tier-2 chunks; this Tier-1 narrative is non-contiguous, so source_span is set to 0.",
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -1237,8 +1237,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": "Table content (if any) is emitted as Tier-2 chunks; this Tier-1 narrative is non-contiguous, so source_span is set to 0.",
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -1303,8 +1303,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -1371,8 +1371,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -1441,8 +1441,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -1505,8 +1505,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -1572,8 +1572,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -1683,8 +1683,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -1795,8 +1795,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -1966,8 +1966,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -2115,8 +2115,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -2264,8 +2264,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": "Float table part 1",
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -2411,8 +2411,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": "Float table part 2",
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -2533,8 +2533,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   }
 ]

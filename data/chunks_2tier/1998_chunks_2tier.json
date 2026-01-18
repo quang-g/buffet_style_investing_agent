@@ -1143,7 +1143,7 @@
         "end_char_exclusive": 32711
       },
       "standalone_exception": true,
-      "exception_reason": "Short remainder preserved to avoid exceeding max chunk size while keeping a complete thought.",
+      "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
     }
@@ -1954,7 +1954,7 @@
         "end_char_exclusive": 42028
       },
       "standalone_exception": true,
-      "exception_reason": "Short remainder preserved to avoid exceeding max chunk size while keeping a complete thought.",
+      "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
     }
@@ -2293,7 +2293,7 @@
         "end_char_exclusive": 56608
       },
       "standalone_exception": true,
-      "exception_reason": "Short remainder preserved to avoid exceeding max chunk size while keeping a complete thought.",
+      "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
     }

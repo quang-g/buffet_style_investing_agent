@@ -190,7 +190,7 @@
         "end_char_exclusive": 5185
       },
       "standalone_exception": true,
-      "exception_reason": "short_span_unavoidable",
+      "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
     }
@@ -438,7 +438,7 @@
       "child_chunk_ids": [
         "1991-S04-T2-001"
       ],
-      "content_type": "financial_table",
+      "content_type": "narrative",
       "contextual_summary": "Buffett reviews Berkshire’s 1991 performance, noting that increasing size makes high compounding harder and that intrinsic value growth matters most.",
       "has_table": false,
       "table_data": [],
@@ -701,7 +701,7 @@
         "end_char_exclusive": 11350
       },
       "standalone_exception": true,
-      "exception_reason": "short_span_unavoidable",
+      "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
     }
@@ -722,7 +722,7 @@
       "chunk_tier": 1,
       "parent_chunk_id": null,
       "child_chunk_ids": [],
-      "content_type": "financial_table",
+      "content_type": "narrative",
       "contextual_summary": "Contrasts economic franchises with ordinary businesses and uses media economics to show how small assumption changes can sharply reduce valuation.",
       "has_table": false,
       "table_data": [],
@@ -996,7 +996,7 @@
         "end_char_exclusive": 22014
       },
       "standalone_exception": true,
-      "exception_reason": "short_span_unavoidable",
+      "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
     }
@@ -1061,7 +1061,7 @@
         "end_char_exclusive": 22793
       },
       "standalone_exception": true,
-      "exception_reason": "short_span_unavoidable",
+      "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
     }
@@ -1082,7 +1082,7 @@
       "chunk_tier": 1,
       "parent_chunk_id": null,
       "child_chunk_ids": [],
-      "content_type": "financial_table",
+      "content_type": "narrative",
       "contextual_summary": "Describes the acquisition of H. H. Brown and highlights Berkshire’s preference for strong managers, durable economics, and owner-oriented deals.",
       "has_table": false,
       "table_data": [],
@@ -1281,7 +1281,7 @@
         "end_char_exclusive": 29616
       },
       "standalone_exception": true,
-      "exception_reason": "short_span_unavoidable",
+      "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
     }
@@ -1921,7 +1921,7 @@
         "end_char_exclusive": 37786
       },
       "standalone_exception": true,
-      "exception_reason": "short_span_unavoidable",
+      "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
     }
@@ -2138,7 +2138,7 @@
       "chunk_tier": 1,
       "parent_chunk_id": null,
       "child_chunk_ids": [],
-      "content_type": "financial_table",
+      "content_type": "narrative",
       "contextual_summary": "Admits a costly omission in Fannie Mae and argues that not acting on clear opportunities can be more damaging than visible mistakes.",
       "has_table": false,
       "table_data": [],
@@ -2188,7 +2188,7 @@
   },
   {
     "chunk_id": "1991-S11-T1-001",
-    "content": "Fixed-Income Securities",
+    "content": "Fixed-Income Securities\n\nWe made several significant changes in our fixed-income\nportfolio during 1991. As I noted earlier, our Gillette preferred\nwas called for redemption, which forced us to convert to common\nstock; we eliminated our holdings of an RJR Nabisco issue that was\nsubject to an exchange offer and subsequent call; and we purchased\nfixed-income securities of American Express and First Empire State\nCorp., a Buffalo-based bank holding company. We also added to a\nsmall position in ACF Industries that we had established in late\n1990. Our largest holdings at yearend were:\n",
     "metadata": {
       "letter_year": 1991,
       "letter_date": "1992-02-28",
@@ -2205,7 +2205,7 @@
         "1991-S11-T2-001"
       ],
       "content_type": "narrative",
-      "contextual_summary": "Summarizes Berkshire’s fixed-income positions and related risks, including preferred holdings, bond exposures, and lessons from Salomon and airlines.",
+      "contextual_summary": "Introduces Berkshire’s fixed-income portfolio changes in 1991 and sets up the year-end holdings table that follows.",
       "has_table": false,
       "table_data": [],
       "has_financial_data": false,
@@ -2231,21 +2231,21 @@
       },
       "retrieval_priority": "medium",
       "abstraction_level": "medium",
-      "token_count": 2,
-      "char_count": 23,
+      "token_count": 92,
+      "char_count": 585,
       "source_span": {
         "start_char": 44730,
         "end_char_exclusive": 44753
       },
       "standalone_exception": true,
-      "exception_reason": "short_span_unavoidable",
+      "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
     }
   },
   {
     "chunk_id": "1991-S11-T2-001",
-    "content": "We made several significant changes in our fixed-income\nportfolio during 1991. As I noted earlier, our Gillette preferred\nwas called for redemption, which forced us to convert to common\nstock; we eliminated our holdings of an RJR Nabisco issue that was\nsubject to an exchange offer and subsequent call; and we purchased\nfixed-income securities of American Express and First Empire State\nCorp., a Buffalo-based bank holding company. We also added to a\nsmall position in ACF Industries that we had established in late\n1990. Our largest holdings at yearend were:\n\n(000 s omitted)\n---------------------------------------\nCost of Preferreds and\nIssuer Amortized Value of Bonds Market\n------ ------------------------ ------------\nACF Industries ................ $ 93,918(2) $118,683\nAmerican Express .............. 300,000 263,265(1)(2)\nChampion International ........ 300,000(2) 300,000(1)\nFirst Empire State 40,000 50,000(1)(2)\nRJR Nabisco 222,148(2) 285,683\nSalomon 700,000(2) 714,000(1)\nUSAir 358,000(2) 232,700(1)\nWashington Public Power Systems 158,553(2) 203,071\n\n(1) Fair value as determined by Charlie and me\n(2) Carrying value in our financial statements\n\nOur $40 million of First Empire State preferred carries a 9%\ncoupon, is non-callable until 1996 and is convertible at $78.91 per\nshare. Normally I would think a purchase of this size too small for\nBerkshire, but I have enormous respect for Bob Wilmers, CEO of\nFirst Empire, and like being his partner on any scale.",
+    "content": "(000 s omitted)\n---------------------------------------\nCost of Preferreds and\nIssuer Amortized Value of Bonds Market\n------ ------------------------ ------------\nACF Industries ................ $ 93,918(2) $118,683\nAmerican Express .............. 300,000 263,265(1)(2)\nChampion International ........ 300,000(2) 300,000(1)\nFirst Empire State 40,000 50,000(1)(2)\nRJR Nabisco 222,148(2) 285,683\nSalomon 700,000(2) 714,000(1)\nUSAir 358,000(2) 232,700(1)\nWashington Public Power Systems 158,553(2) 203,071\n\n(1) Fair value as determined by Charlie and me\n(2) Carrying value in our financial statements\n\nOur $40 million of First Empire State preferred carries a 9%\ncoupon, is non-callable until 1996 and is convertible at $78.91 per\nshare. Normally I would think a purchase of this size too small for\nBerkshire, but I have enormous respect for Bob Wilmers, CEO of\nFirst Empire, and like being his partner on any scale.",
     "metadata": {
       "letter_year": 1991,
       "letter_date": "1992-02-28",
@@ -2351,8 +2351,8 @@
       },
       "retrieval_priority": "high",
       "abstraction_level": "low",
-      "token_count": 216,
-      "char_count": 1474,
+      "token_count": 126,
+      "char_count": 913,
       "source_span": {
         "start_char": 44755,
         "end_char_exclusive": 46230
@@ -2447,7 +2447,7 @@
       "chunk_tier": 1,
       "parent_chunk_id": null,
       "child_chunk_ids": [],
-      "content_type": "financial_table",
+      "content_type": "narrative",
       "contextual_summary": "Covers shareholder contributions, director changes, and practical details for the 1992 annual meeting in Omaha.",
       "has_table": false,
       "table_data": [],
@@ -2515,7 +2515,7 @@
       "chunk_tier": 1,
       "parent_chunk_id": null,
       "child_chunk_ids": [],
-      "content_type": "financial_table",
+      "content_type": "narrative",
       "contextual_summary": "Captures the key claims, examples, and figures associated with 'Miscellaneous', written to stand alone for retrieval.",
       "has_table": false,
       "table_data": [],

@@ -140,7 +140,66 @@
       "content_type": "financial_table",
       "contextual_summary": "The letter explains how Berkshire’s large stock holdings create value through investee retained earnings that don’t show up in operating earnings, contrasting controlled subsidiaries with minority stakes.",
       "has_table": true,
-      "table_data": [],
+      "table_data": [
+        {
+          "table_name": "Berkshire’s Share (in millions)",
+          "summary": "Lists Berkshire’s share of dividends and estimated retained earnings from its largest equity investees.",
+          "columns": [
+            "raw_line"
+          ],
+          "rows": [
+            [
+              "Berkshire’s Share (in millions)"
+            ],
+            [
+              "Yearend"
+            ],
+            [
+              "Company Ownership Dividends(1) Retained Earnings(2)"
+            ],
+            [
+              "American Express 18.7% $ 261 $ 998"
+            ],
+            [
+              "Apple 5.7% 773 2,519"
+            ],
+            [
+              "Bank of America 10.7% 682 2,167"
+            ],
+            [
+              "Bank of New York Mellon 9.0% 101 288"
+            ],
+            [
+              "Coca-Cola 9.3% 640 194"
+            ],
+            [
+              "Delta Airlines 11.0% 114 416"
+            ],
+            [
+              "J. P. Morgan Chase 1.9% 216 476"
+            ],
+            [
+              "Moody’s 13.1% 55 137"
+            ],
+            [
+              "U. S. Bancorp 9.7% 251 407"
+            ],
+            [
+              "Wells Fargo 8.4% 705 730"
+            ],
+            [
+              "Total $3,798 $8,332"
+            ],
+            [
+              "(1) Based on current annual rate."
+            ],
+            [
+              "(2) Based on 2019 earnings minus common and preferred dividends paid."
+            ]
+          ],
+          "row_count": 16
+        }
+      ],
       "has_financial_data": false,
       "entities": {
         "companies": [],
@@ -439,7 +498,45 @@
       "content_type": "financial_table",
       "contextual_summary": "The letter describes insurance “float” as collect-now, pay-later funding, explains why low interest rates reduce float’s value for the industry, and stresses disciplined underwriting and Berkshire’s capacity to absorb mega-catastrophes.",
       "has_table": true,
-      "table_data": [],
+      "table_data": [
+        {
+          "table_name": "table shows:",
+          "summary": "Summarizes key quantitative figures presented in the letter.",
+          "columns": [
+            "raw_line"
+          ],
+          "rows": [
+            [
+              "table shows:"
+            ],
+            [
+              "Year Float (in millions)"
+            ],
+            [
+              "1970 $ 39"
+            ],
+            [
+              "1980 237"
+            ],
+            [
+              "1990 1,632"
+            ],
+            [
+              "2000 27,871"
+            ],
+            [
+              "2010 65,832"
+            ],
+            [
+              "2018 122,732"
+            ],
+            [
+              "2019 129,423"
+            ]
+          ],
+          "row_count": 9
+        }
+      ],
       "has_financial_data": true,
       "entities": {
         "companies": [
@@ -731,7 +828,90 @@
       "content_type": "financial_table",
       "contextual_summary": "The letter frames Berkshire’s major equity holdings as ownership in high-return businesses, argues equities should outperform long-term bonds if low rates persist, and warns that big market drawdowns are inevitable for investors who can’t control emotions.",
       "has_table": true,
-      "table_data": [],
+      "table_data": [
+        {
+          "table_name": "12/31/19",
+          "summary": "Lists Berkshire’s largest equity investments with ownership, cost basis, and market value at year-end 2019.",
+          "columns": [
+            "raw_line"
+          ],
+          "rows": [
+            [
+              "12/31/19"
+            ],
+            [
+              "Percentage of"
+            ],
+            [
+              "Company"
+            ],
+            [
+              "Shares* Company Owned Cost** Market"
+            ],
+            [
+              "(in millions)"
+            ],
+            [
+              "151,610,700 American Express Company . . . . . . . . . . . . . . . . . . 18.7 $ 1,287 $ 18,874"
+            ],
+            [
+              "250,866,566 Apple Inc. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5.7 35,287 73,667"
+            ],
+            [
+              "947,760,000 Bank of America Corp. . . . . . . . . . . . . . . . . . . . . . . 10.7 12,560 33,380"
+            ],
+            [
+              "81,488,751 The Bank of New York Mellon Corp. . . . . . . . . . . . 9.0 3,696 4,101"
+            ],
+            [
+              "5,426,609 Charter Communications, Inc. . . . . . . . . . . . . . . . . 2.6 944 2,632"
+            ],
+            [
+              "400,000,000 The Coca-Cola Company . . . . . . . . . . . . . . . . . . . . 9.3 1,299 22,140"
+            ],
+            [
+              "70,910,456 Delta Air Lines, Inc. . . . . . . . . . . . . . . . . . . . . . . . . 11.0 3,125 4,147"
+            ],
+            [
+              "12,435,814 The Goldman Sachs Group, Inc. . . . . . . . . . . . . . . . 3.5 890 2,859"
+            ],
+            [
+              "60,059,932 JPMorgan Chase & Co. . . . . . . . . . . . . . . . . . . . . . . 1.9 6,556 8,372"
+            ],
+            [
+              "24,669,778 Moody’s Corporation . . . . . . . . . . . . . . . . . . . . . . . 13.1 248 5,857"
+            ],
+            [
+              "46,692,713 Southwest Airlines Co. . . . . . . . . . . . . . . . . . . . . . . 9.0 1,940 2,520"
+            ],
+            [
+              "21,938,642 United Continental Holdings Inc. . . . . . . . . . . . . . . 8.7 1,195 1,933"
+            ],
+            [
+              "149,497,786 U. S. Bancorp . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9.7 5,709 8,864"
+            ],
+            [
+              "10,239,160 Visa Inc. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 0.6 349 1,924"
+            ],
+            [
+              "345,688,918 Wells Fargo & Company . . . . . . . . . . . . . . . . . . . . . 8.4 7,040 18,598"
+            ],
+            [
+              "Others*** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28,215 38,159"
+            ],
+            [
+              "Total Equity Investments Carried at Market . . . . . . $110,340 $248,027"
+            ],
+            [
+              "*** Includes $10 billion investment in Occidental Petroleum Corporation consisting of preferred stock and"
+            ],
+            [
+              "warrants to buy common stock."
+            ]
+          ],
+          "row_count": 24
+        }
+      ],
       "has_financial_data": true,
       "entities": {
         "companies": [

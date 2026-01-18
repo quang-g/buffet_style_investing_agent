@@ -1335,7 +1335,7 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": "Includes the lead-in line(s) introducing the table and the first paragraph after it that interprets the results.",
+      "boundary_note": null,
       "merged_from": []
     }
   }

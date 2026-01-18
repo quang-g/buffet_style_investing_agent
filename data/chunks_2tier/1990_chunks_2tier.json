@@ -69,10 +69,10 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": "Merged adjacent narrative blocks to satisfy the 250-token minimum without splitting mid-paragraph.",
       "merged_from": [
         "span_3833_4779"
-      ]
+      ],
+      "boundary_note": null
     }
   },
   {
@@ -143,10 +143,10 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": "Merged adjacent narrative blocks to satisfy the 250-token minimum without splitting mid-paragraph.",
       "merged_from": [
         "span_12402_13618"
-      ]
+      ],
+      "boundary_note": null
     }
   },
   {
@@ -367,8 +367,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": "Tier-2 table chunk includes lead-in, table content, and immediate interpretation context.",
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -439,8 +439,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -499,8 +499,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -560,8 +560,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -627,8 +627,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -697,8 +697,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -771,10 +771,10 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": "Merged adjacent narrative blocks to satisfy the 250-token minimum without splitting mid-paragraph.",
       "merged_from": [
         "span_54937_58705"
-      ]
+      ],
+      "boundary_note": null
     }
   },
   {
@@ -833,8 +833,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -1004,8 +1004,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": "Tier-2 table chunk includes lead-in, table content, and immediate interpretation context.",
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -1073,8 +1073,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -1150,10 +1150,10 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": "Merged adjacent narrative blocks to satisfy the 250-token minimum without splitting mid-paragraph.",
       "merged_from": [
         "span_77650_78447"
-      ]
+      ],
+      "boundary_note": null
     }
   },
   {
@@ -1449,8 +1449,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": "Tier-2 table chunk includes lead-in, table content, and immediate interpretation context.",
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -1520,10 +1520,10 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": "Merged adjacent narrative blocks to satisfy the 250-token minimum without splitting mid-paragraph.",
       "merged_from": [
         "span_88827_93005"
-      ]
+      ],
+      "boundary_note": null
     }
   },
   {
@@ -1587,8 +1587,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -1652,8 +1652,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -1712,8 +1712,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -1834,8 +1834,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": "Tier-2 table chunk includes lead-in, table content, and immediate interpretation context.",
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -1891,8 +1891,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -1968,8 +1968,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -2032,8 +2032,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -2094,8 +2094,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -2165,8 +2165,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -2225,8 +2225,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -2286,8 +2286,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -2344,10 +2344,10 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": "Merged adjacent narrative blocks to satisfy the 250-token minimum without splitting mid-paragraph.",
       "merged_from": [
         "span_157704_159024"
-      ]
+      ],
+      "boundary_note": null
     }
   },
   {
@@ -2469,8 +2469,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": "Tier-2 table chunk includes lead-in, table content, and immediate interpretation context.",
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -2583,8 +2583,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": "Tier-2 table chunk includes lead-in, table content, and immediate interpretation context.",
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -2640,8 +2640,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -2697,10 +2697,10 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": "Merged adjacent narrative blocks to satisfy the 250-token minimum without splitting mid-paragraph.",
       "merged_from": [
         "span_182060_182472"
-      ]
+      ],
+      "boundary_note": null
     }
   }
 ]

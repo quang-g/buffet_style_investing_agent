@@ -943,7 +943,7 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": "Split from prior chunk at paragraph boundary near 500 tokens per §2.3 because section exceeded 800 tokens.",
+      "boundary_note": null,
       "merged_from": []
     }
   },
@@ -1202,7 +1202,7 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": "Split from prior chunk at paragraph boundary near 500 tokens per §2.3 because section exceeded 800 tokens.",
+      "boundary_note": null,
       "merged_from": []
     }
   },
@@ -1535,7 +1535,7 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": "Merged Banking (<250 tokens) forward into Retailing per §2.4 to satisfy Tier-1 minimum token size.",
+      "boundary_note": null,
       "merged_from": [
         "Banking",
         "Retailing"

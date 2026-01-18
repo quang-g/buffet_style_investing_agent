@@ -350,7 +350,7 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": "TABLE_BLOCK extracted with lead-in and first interpretation paragraph.",
+      "boundary_note": null,
       "merged_from": []
     }
   },
@@ -774,7 +774,7 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": "TABLE_BLOCK extracted with lead-in and first interpretation paragraph.",
+      "boundary_note": null,
       "merged_from": []
     }
   },
@@ -1244,7 +1244,7 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": "TABLE_BLOCK extracted with lead-in and first interpretation paragraph.",
+      "boundary_note": null,
       "merged_from": []
     }
   },

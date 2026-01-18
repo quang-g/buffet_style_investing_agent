@@ -235,7 +235,10 @@
         "quality over price"
       ],
       "principles": [
-        "Prefer good businesses at fair prices over fair businesses at good prices."
+        {
+          "statement": "Prefer good businesses at fair prices over fair businesses at good prices.",
+          "category": "general"
+        }
       ],
       "temporal_references": {
         "primary_year": 1992,
@@ -319,7 +322,7 @@
         "end_char_exclusive": 13171
       },
       "standalone_exception": true,
-      "exception_reason": "Content block is short and could not be merged without exceeding tier token limits or crossing a required boundary.",
+      "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
     }
@@ -1032,7 +1035,10 @@
         "cost of float"
       ],
       "principles": [
-        "Evaluate insurance by the cost of float relative to alternatives."
+        {
+          "statement": "Evaluate insurance by the cost of float relative to alternatives.",
+          "category": "general"
+        }
       ],
       "temporal_references": {
         "primary_year": 1992,
@@ -1286,7 +1292,10 @@
         "cost of float"
       ],
       "principles": [
-        "Evaluate insurance by the cost of float relative to alternatives."
+        {
+          "statement": "Evaluate insurance by the cost of float relative to alternatives.",
+          "category": "general"
+        }
       ],
       "temporal_references": {
         "primary_year": 1992,
@@ -1355,7 +1364,10 @@
         "value investing definition"
       ],
       "principles": [
-        "Investing is seeking value; paying above value is speculation."
+        {
+          "statement": "Investing is seeking value; paying above value is speculation.",
+          "category": "general"
+        }
       ],
       "temporal_references": {
         "primary_year": 1992,
@@ -1592,7 +1604,10 @@
         "margin of safety"
       ],
       "principles": [
-        "Insist on a margin of safety in purchase price."
+        {
+          "statement": "Insist on a margin of safety in purchase price.",
+          "category": "general"
+        }
       ],
       "temporal_references": {
         "primary_year": 1992,
@@ -1612,7 +1627,7 @@
         "end_char_exclusive": 39814
       },
       "standalone_exception": true,
-      "exception_reason": "Content block is short and could not be merged without exceeding tier token limits or crossing a required boundary.",
+      "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
     }
@@ -1838,7 +1853,7 @@
         "end_char_exclusive": 45585
       },
       "standalone_exception": true,
-      "exception_reason": "Content block is short and could not be merged without exceeding tier token limits or crossing a required boundary.",
+      "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
     }
@@ -1943,7 +1958,10 @@
         "stock option expensing"
       ],
       "principles": [
-        "Treat stock options as compensation expense even if non-cash."
+        {
+          "statement": "Treat stock options as compensation expense even if non-cash.",
+          "category": "general"
+        }
       ],
       "temporal_references": {
         "primary_year": 1992,
@@ -2007,7 +2025,10 @@
         "stock option expensing"
       ],
       "principles": [
-        "Treat stock options as compensation expense even if non-cash."
+        {
+          "statement": "Treat stock options as compensation expense even if non-cash.",
+          "category": "general"
+        }
       ],
       "temporal_references": {
         "primary_year": 1992,

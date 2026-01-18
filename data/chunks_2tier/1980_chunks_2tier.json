@@ -73,7 +73,7 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": "Merged Opening material into first section chunk to satisfy minimum token requirement.",
+      "boundary_note": null,
       "merged_from": [
         "1980-S00-T1-001"
       ]
@@ -1188,7 +1188,7 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": "Includes disposition discussion immediately preceding the Financing header to satisfy minimum token requirement for that material.",
+      "boundary_note": null,
       "merged_from": [
         "1980-S09-T1-000"
       ]

@@ -151,7 +151,7 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": "Merged small chunks per deterministic merge rules.",
+      "boundary_note": null,
       "merged_from": [
         "2013-S02-T1-001",
         "2013-S02-T1-002"
@@ -898,7 +898,7 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": "Merged small chunks per deterministic merge rules.",
+      "boundary_note": null,
       "merged_from": [
         "2013-S05-T1-002",
         "2013-S05-T1-003"
@@ -1744,7 +1744,7 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": "Merged small chunks per deterministic merge rules.",
+      "boundary_note": null,
       "merged_from": [
         "2013-S10-T1-001",
         "2013-S10-T1-002"
@@ -1975,7 +1975,7 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": "Inserted missing table as Tier-2 child chunk; parent replaced table with placeholder.",
+      "boundary_note": null,
       "merged_from": []
     }
   },
@@ -2082,7 +2082,7 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": "Inserted missing table as Tier-2 child chunk; parent replaced table with placeholder.",
+      "boundary_note": null,
       "merged_from": []
     }
   },
@@ -2173,7 +2173,7 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": "Inserted missing table as Tier-2 child chunk; parent replaced table with placeholder.",
+      "boundary_note": null,
       "merged_from": []
     }
   },
@@ -2273,7 +2273,7 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": "Inserted missing table as Tier-2 child chunk; parent replaced table with placeholder.",
+      "boundary_note": null,
       "merged_from": []
     }
   },
@@ -2363,7 +2363,7 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": "Inserted missing table as Tier-2 child chunk; parent replaced table with placeholder.",
+      "boundary_note": null,
       "merged_from": []
     }
   },
@@ -2464,7 +2464,7 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": "Inserted missing table as Tier-2 child chunk; parent replaced table with placeholder.",
+      "boundary_note": null,
       "merged_from": []
     }
   },
@@ -2592,7 +2592,7 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": "Inserted missing table as Tier-2 child chunk; parent replaced table with placeholder.",
+      "boundary_note": null,
       "merged_from": []
     }
   }

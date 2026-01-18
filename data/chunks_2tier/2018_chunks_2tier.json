@@ -137,7 +137,7 @@
       "child_chunk_ids": [
         "2018-S02-T2-001"
       ],
-      "content_type": "financial_table",
+      "content_type": "narrative",
       "contextual_summary": "The letter challenges “adjusted EBITDA” presentations and contrasts amortization add-backs with the very real need for large maintenance and growth capital spending across Berkshire’s businesses.",
       "has_table": false,
       "table_data": [],
@@ -493,7 +493,7 @@
       "child_chunk_ids": [
         "2018-S05-T2-001"
       ],
-      "content_type": "financial_table",
+      "content_type": "narrative",
       "contextual_summary": "Insurance float is described as a powerful funding source when underwriting is disciplined, with warnings that catastrophes and mispriced risk can overwhelm the benefits.",
       "has_table": false,
       "table_data": [],
@@ -772,7 +772,7 @@
       "child_chunk_ids": [
         "2018-S07-T2-001"
       ],
-      "content_type": "financial_table",
+      "content_type": "narrative",
       "contextual_summary": "Berkshire’s equity holdings are treated as ownership in high-return businesses, emphasizing business performance over market chatter and noting how price paid can turn a great company into a poor investment.",
       "has_table": false,
       "table_data": [],

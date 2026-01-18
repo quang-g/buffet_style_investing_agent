@@ -77,8 +77,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -141,8 +141,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -227,8 +227,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -306,8 +306,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -385,8 +385,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -458,8 +458,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -519,8 +519,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -583,8 +583,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -700,8 +700,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -771,8 +771,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -847,16 +847,16 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": "Merged adjacent short narratives to meet minimum chunk size.",
       "merged_from": [
         "The net of all this is that a) I expect our cost of float to be very attractive in the future but b) rarely to return to a \"no-cost\" mode because of the annual charge that retroactive reinsurance will lay on us. Also ¾ obviously ¾ the ultimate benefits that we derive from float will depend not only on its cost but, fully as important, how effectively we deploy it.\n\nOur retroactive business is almost single-handedly the work of Ajit Jain, whose praises I sing annually. It is impossible to overstate how valuable Ajit is to Berkshire. Don’t worry about my health; worry about his.\n\nLast year, Ajit brought home a $2.4 billion reinsurance premium, perhaps the largest in history, from a policy that retroactively covers a major U. K. company. Subsequently, he wrote a large policy protecting the Texas Rangers from the possibility that Alex Rodriguez will become permanently disabled. As sports fans know, \"A-Rod\" was signed for $252 million, a record, and we think that our policy probably also set a record for disability insurance. We cover many other sports figures as well.\n\nIn another example of his versatility, Ajit last fall negotiated a very interesting deal with Grab. com, an Internet company whose goal was to attract millions of people to its site and there to extract information from them that would be useful to marketers. To lure these people, Grab. com held out the possibility of a $1 billion prize (having a $170 million present value) and we insured its payment. A message on the site explained that the chance of anyone winning the prize was low, and indeed no one won. But the possibility of a win was far from nil.\n\nWriting such a policy, we receive a modest premium, face the possibility of a huge loss, and get good odds. Very few insurers like that equation. And they’re unable to cure their unhappiness by reinsurance. Because each policy has unusual ¾ and sometimes unique ¾ characteristics, insurers can’t lay off the occasional shock loss through their standard reinsurance arrangements. Therefore, any insurance CEO doing a piece of business like this must run the small, but real, risk of a horrible quarterly earnings number, one that he would not enjoy explaining to his board or shareholders. Charlie and I, however, like any proposition that makes compelling mathematical sense, regardless of its effect on reported earnings.\n\nAt General Re, the news has turned considerably better: Ron Ferguson, along with Joe Brandon, Tad Montross, and a talented supporting cast took many actions during 2000 to bring that company’s profitability back to past standards. Though our pricing is not fully corrected, we have significantly repriced business that was severely unprofitable or dropped it altogether. If there’s no mega-catastrophe in 2001, General Re’s float cost should fall materially.\n\nThe last couple of years haven’t been any fun for Ron and his crew. But they have stepped up to tough decisions, and Charlie and I applaud them for these. General Re has several important and enduring business advantages. Better yet, it has managers who will make the most of them.",
         "In aggregate, our smaller insurance operations produced an excellent underwriting profit in 2000 while generating significant float ¾ just as they have done for more than a decade. If these companies were a single and separate operation, people would consider it an outstanding insurer. Because the companies instead reside in an enterprise as large as Berkshire, the world may not appreciate their accomplishments ¾ but I sure do. Last year I thanked Rod Eldred, John Kizer, Don Towle and Don Wurster, and I again do so. In addition, we now also owe thanks to Tom Nerney at U. S. Liability and Michael Stearns, the new head of Cypress.\n\nYou may notice that Brad Kinstler, who was CEO of Cypress and whose praises I’ve sung in the past, is no longer in the list above. That’s because we needed a new manager at Fechheimer Bros., our Cincinnati-based uniform company, and called on Brad. We seldom move Berkshire managers from one enterprise to another, but maybe we should try it more often: Brad is hitting home runs in his new job, just as he always did at Cypress."
-      ]
+      ],
+      "boundary_note": null
     }
   },
   {
     "chunk_id": "2000-S04-T1-001",
-    "content": "GEICO (1-800-847-7536 or GEICO. com)",
+    "content": "GEICO (1-800-847-7536 or GEICO. com)\n\nWe show below the usual table detailing GEICO’s growth. Last year I enthusiastically told you that we would step up our expenditures on advertising in 2000 and that the added dollars were the best investment that GEICO could make.",
     "metadata": {
       "letter_year": 2000,
       "letter_date": "2001-02-28",
@@ -911,8 +911,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -1024,8 +1024,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -1094,8 +1094,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -1170,13 +1170,13 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
     "chunk_id": "2000-S05-T1-001",
-    "content": "Investments",
+    "content": "Investments\n\nBelow we present our common stock investments. Those that had a market value of more than $1 billion at the end of 2000 are itemized. 12/31/00 Shares Company Cost Market (dollars in millions) 151,610,700 American Express Company $1,470 $ 8,329 200,000,000 The Coca-Cola Company 1,299 12,188 96,000,000 The Gillette Company 3,468 1,727,765 The Washington Post Company 1,066 55,071,380 Wells Fargo & Company 3,067 Others 6,703 9,501 Total Common Stocks $10,402 $37,619 ====== ====== In 2000, we sold nearly all of our Fred",
     "metadata": {
       "letter_year": 2000,
       "letter_date": "2001-02-28",
@@ -1225,8 +1225,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -1340,8 +1340,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -1413,8 +1413,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -1473,8 +1473,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -1540,8 +1540,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -1602,13 +1602,13 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
     "chunk_id": "2000-S06-T1-001",
-    "content": "Sources of Reported Earnings",
+    "content": "Sources of Reported Earnings\n\nThe table that follows shows the main sources of Berkshire's reported earnings. In this presentation, purchase-accounting adjustments are not assigned to the specific businesses to which they apply, but are instead aggregated and shown separately.",
     "metadata": {
       "letter_year": 2000,
       "letter_date": "2001-02-28",
@@ -1657,8 +1657,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -1741,8 +1741,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -1817,11 +1817,11 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": "Merged adjacent short narratives to meet minimum chunk size.",
       "merged_from": [
         "The exception was shoes, particularly at Dexter. In our shoe businesses generally, our attempt to keep the bulk of our production in domestic factories has cost us dearly. We face another very tough year in 2001 also, as we make significant changes in how we do business.\n\nI clearly made a mistake in paying what I did for Dexter in 1993. Furthermore, I compounded that mistake in a huge way by using Berkshire shares in payment. Last year, to recognize my error, we charged off all the remaining accounting goodwill that was attributable to the Dexter transaction. We may regain some economic goodwill at Dexter in the future, but we clearly have none at present.\n\nThe managers of our shoe businesses are first-class from both a business and human perspective. They are working very hard at a tough ¾ and often terribly painful ¾ job, even though their personal financial circumstances don’t require them to do so. They have my admiration and thanks.\n\nOn a more pleasant note, we continue to be the undisputed leader in two branches of Aircraft Services ¾ pilot training at Flight Safety (FSI) and fractional ownership of business jets at Executive Jet (EJA). Both companies are run by their remarkable founders.\n\nAl Ueltschi at FSI is now 83 and continues to operate at full throttle. Though I am not a fan of stock splits, I am planning to split Al’s age 2-for-1 when he hits 100. (If it works, guess who’s next.)\n\nWe spent $272 million on flight simulators in 2000, and we’ll spend a similar amount this year. Anyone who thinks that the annual charges for depreciation don’t reflect a real cost ¾ every bit as real as payroll or raw materials ¾ should get an internship at a simulator company. Every year we spend amounts equal to our depreciation charge simply to stay in the same economic place ¾ and then spend additional sums to grow. And growth is in prospect for FSI as far as the eye can see.\n\nEven faster growth awaits EJA (whose fractional-ownership program is called Net Jets®). Rich Santulli is the dynamo behind this business.\n\nLast year I told you that EJA’s recurring revenue from monthly management fees and hourly usage grew by 46% in 1999. In 2000 the growth was 49%. I also told you that this was a low-margin business, in which survivors will be few. Margins were indeed slim at EJA last year, in part because of the major costs we are incurring in developing our business in Europe.\n\nRegardless of the cost, you can be sure that EJA’s spending on safety will be whatever is needed. Obviously, we would follow this policy under any circumstances, but there’s some self-interest here as well: I, my wife, my children, my sisters, my 94-year-old aunt, all but one of our directors, and at least nine Berkshire managers regularly fly in the Net Jets program. Given that cargo, I applaud Rich’s insistence on unusually high amounts of pilot training (an average of 23 days a year). In addition, our pilots cement their skills by flying 800 or so hours a year. Finally, each flies only one model of aircraft, which means our crews do no switching around among planes with different cockpit and flight characteristics.",
         "EJA’s business continues to be constrained by the availability of new aircraft. Still, our customers will take delivery of more than 50 new jets in 2001,7% of world output. We are confident we will remain the world leader in fractional ownership, in respect to number of planes flying, quality of service, and standards of safety.\n\n* * * * * * * * * *\n\nAdditional information about our various businesses is given on pages 42-58, where you will also find our segment earnings reported on a GAAP basis. In addition, on pages 67-73, we have rearranged Berkshire’s financial data into four segments on a non-GAAP basis, a presentation that corresponds to the way Charlie and I think about the company."
-      ]
+      ],
+      "boundary_note": null
     }
   },
   {
@@ -1880,8 +1880,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -1973,8 +1973,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -2052,8 +2052,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -2114,8 +2114,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -2173,8 +2173,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -2250,8 +2250,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -2315,8 +2315,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -2388,8 +2388,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -2453,8 +2453,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -2516,8 +2516,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   }
 ]

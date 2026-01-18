@@ -201,7 +201,10 @@
         "Float"
       ],
       "principles": [
-        "Prefer fair value-for-value deals; avoid adrenaline-driven acquisitions."
+        {
+          "statement": "Prefer fair value-for-value deals; avoid adrenaline-driven acquisitions.",
+          "category": "capital_allocation"
+        }
       ],
       "temporal_references": {
         "primary_year": 1982,
@@ -357,7 +360,7 @@
         "end_char_exclusive": 13376
       },
       "standalone_exception": true,
-      "exception_reason": "Segment is shorter than 150 tokens but kept separate to respect a table boundary and maintain contiguous source spans.",
+      "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
     }
@@ -731,7 +734,7 @@
         "end_char_exclusive": 19737
       },
       "standalone_exception": true,
-      "exception_reason": "Segment is shorter than 150 tokens but kept separate to respect a table boundary and maintain contiguous source spans.",
+      "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
     }
@@ -1132,8 +1135,14 @@
         "Mr. Market"
       ],
       "principles": [
-        "Prefer fair value-for-value deals; avoid adrenaline-driven acquisitions.",
-        "Do not issue shares unless you receive at least as much intrinsic value as you give."
+        {
+          "statement": "Prefer fair value-for-value deals; avoid adrenaline-driven acquisitions.",
+          "category": "share_issuance"
+        },
+        {
+          "statement": "Do not issue shares unless you receive at least as much intrinsic value as you give.",
+          "category": "share_issuance"
+        }
       ],
       "temporal_references": {
         "primary_year": 1982,
@@ -1200,8 +1209,14 @@
       ],
       "buffett_concepts": [],
       "principles": [
-        "Prefer fair value-for-value deals; avoid adrenaline-driven acquisitions.",
-        "Do not issue shares unless you receive at least as much intrinsic value as you give."
+        {
+          "statement": "Prefer fair value-for-value deals; avoid adrenaline-driven acquisitions.",
+          "category": "share_issuance"
+        },
+        {
+          "statement": "Do not issue shares unless you receive at least as much intrinsic value as you give.",
+          "category": "share_issuance"
+        }
       ],
       "temporal_references": {
         "primary_year": 1982,
@@ -1260,8 +1275,14 @@
       ],
       "buffett_concepts": [],
       "principles": [
-        "Prefer fair value-for-value deals; avoid adrenaline-driven acquisitions.",
-        "Do not issue shares unless you receive at least as much intrinsic value as you give."
+        {
+          "statement": "Prefer fair value-for-value deals; avoid adrenaline-driven acquisitions.",
+          "category": "share_issuance"
+        },
+        {
+          "statement": "Do not issue shares unless you receive at least as much intrinsic value as you give.",
+          "category": "share_issuance"
+        }
       ],
       "temporal_references": {
         "primary_year": 1982,
@@ -1327,8 +1348,14 @@
         "Mr. Market"
       ],
       "principles": [
-        "Prefer fair value-for-value deals; avoid adrenaline-driven acquisitions.",
-        "Do not issue shares unless you receive at least as much intrinsic value as you give."
+        {
+          "statement": "Prefer fair value-for-value deals; avoid adrenaline-driven acquisitions.",
+          "category": "share_issuance"
+        },
+        {
+          "statement": "Do not issue shares unless you receive at least as much intrinsic value as you give.",
+          "category": "share_issuance"
+        }
       ],
       "temporal_references": {
         "primary_year": 1982,
@@ -1406,7 +1433,10 @@
       ],
       "buffett_concepts": [],
       "principles": [
-        "Prefer fair value-for-value deals; avoid adrenaline-driven acquisitions."
+        {
+          "statement": "Prefer fair value-for-value deals; avoid adrenaline-driven acquisitions.",
+          "category": "acquisitions"
+        }
       ],
       "temporal_references": {
         "primary_year": 1982,

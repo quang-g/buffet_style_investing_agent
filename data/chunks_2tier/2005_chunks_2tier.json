@@ -901,7 +901,10 @@
       "chunk_tier": 1,
       "parent_chunk_id": null,
       "child_chunk_ids": [
-        "2005-S01-T2-010"
+        "2005-S01-T2-010",
+        "2005-S01-T2-011",
+        "2005-S01-T2-012",
+        "2005-S01-T2-013"
       ],
       "content_type": "mistake_confession",
       "contextual_summary": "[[PAGE_BREAK]] Finance and Financial Products The star of our finance sector is Clayton Homes, masterfully run by Kevin Clayton.",
@@ -947,12 +950,12 @@
       "token_count": 735,
       "char_count": 4467,
       "source_span": {
-        "start_char": 24835,
-        "end_char_exclusive": 24835
+        "start_char": 0,
+        "end_char_exclusive": 0
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": "Merged due to minimum token enforcement",
+      "boundary_note": null,
       "merged_from": [
         "2005-S01-T1-011"
       ]
@@ -1173,7 +1176,7 @@
         "Letter Body"
       ],
       "chunk_tier": 2,
-      "parent_chunk_id": "2005-S01-T1-011",
+      "parent_chunk_id": "2005-S01-T1-009",
       "child_chunk_ids": [],
       "content_type": "financial_table",
       "contextual_summary": "Assets Liabilities and Equity Cash and equivalents $ 1,004 Notes payable.",
@@ -1279,7 +1282,7 @@
         "Letter Body"
       ],
       "chunk_tier": 2,
-      "parent_chunk_id": "2005-S01-T1-011",
+      "parent_chunk_id": "2005-S01-T1-009",
       "child_chunk_ids": [],
       "content_type": "financial_table",
       "contextual_summary": "Earnings Statement (in $ millions) 2005 2004 2003 Revenues $46,896 $44,142 $32,106 Operating expenses (including depreciation of $699 in 2005, $676 in 2004 and $605 in 2003)",
@@ -1400,7 +1403,7 @@
         "Letter Body"
       ],
       "chunk_tier": 2,
-      "parent_chunk_id": "2005-S01-T1-011",
+      "parent_chunk_id": "2005-S01-T1-009",
       "child_chunk_ids": [],
       "content_type": "financial_table",
       "contextual_summary": "Pre-Tax Earnings (in $ millions) 2005 2004 Building Products. $ 751 $ 643 Shaw Industries.",

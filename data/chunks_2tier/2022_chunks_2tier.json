@@ -245,7 +245,7 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": "Split to keep narrative within token limits.",
+      "boundary_note": null,
       "merged_from": []
     }
   },
@@ -329,7 +329,7 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": "Table extracted with immediate lead-in and interpretation context.",
+      "boundary_note": null,
       "merged_from": []
     }
   },
@@ -403,7 +403,7 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": "Split to keep narrative within token limits.",
+      "boundary_note": null,
       "merged_from": []
     }
   },

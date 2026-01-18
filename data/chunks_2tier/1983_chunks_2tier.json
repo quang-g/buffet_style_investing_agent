@@ -355,7 +355,7 @@
         "end_char_exclusive": 17899
       },
       "standalone_exception": true,
-      "exception_reason": "Chunk is below the 250-token minimum but kept standalone to preserve a complete thought with contiguous source span.",
+      "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
     }
@@ -479,7 +479,7 @@
         "end_char_exclusive": 24006
       },
       "standalone_exception": true,
-      "exception_reason": "Chunk is below the 250-token minimum but kept standalone to preserve a complete thought with contiguous source span.",
+      "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
     }
@@ -1096,7 +1096,7 @@
         "end_char_exclusive": 36220
       },
       "standalone_exception": true,
-      "exception_reason": "Chunk is below the 250-token minimum but kept standalone to preserve a complete thought with contiguous source span.",
+      "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
     }
@@ -1307,7 +1307,7 @@
         "end_char_exclusive": 42469
       },
       "standalone_exception": true,
-      "exception_reason": "Chunk is below the 250-token minimum but kept standalone to preserve a complete thought with contiguous source span.",
+      "exception_reason": null,
       "boundary_note": null,
       "merged_from": []
     }

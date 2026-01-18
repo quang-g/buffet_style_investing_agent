@@ -124,8 +124,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -186,8 +186,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -251,8 +251,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -334,8 +334,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -406,8 +406,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -713,8 +713,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -788,8 +788,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -872,8 +872,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -949,8 +949,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -1022,8 +1022,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -1185,10 +1185,10 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": "Merged forward from a short preceding section to satisfy minimum token length.",
       "merged_from": [
         "Taxes"
-      ]
+      ],
+      "boundary_note": null
     }
   },
   {
@@ -1324,8 +1324,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -1461,8 +1461,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -1527,8 +1527,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -1589,8 +1589,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -1678,8 +1678,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -1743,8 +1743,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -1819,8 +1819,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -1888,8 +1888,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -1962,8 +1962,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -2030,8 +2030,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -2138,8 +2138,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -2433,8 +2433,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -2578,8 +2578,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -2700,8 +2700,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   },
   {
@@ -2820,8 +2820,8 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": null,
-      "merged_from": []
+      "merged_from": [],
+      "boundary_note": null
     }
   }
 ]

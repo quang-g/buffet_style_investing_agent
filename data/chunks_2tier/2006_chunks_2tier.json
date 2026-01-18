@@ -19,7 +19,20 @@
       "has_table": false,
       "table_data": [],
       "has_financial_data": true,
-      "entities": [],
+      "entities": {
+        "companies": [
+          "Berkshire Hathaway",
+          "GEICO",
+          "XTRA"
+        ],
+        "people": [
+          "Tony Nicely"
+        ],
+        "metrics": [
+          "book value",
+          "dividends"
+        ]
+      },
       "themes": [],
       "buffett_concepts": [],
       "principles": [],
@@ -72,7 +85,24 @@
       "has_table": false,
       "table_data": [],
       "has_financial_data": true,
-      "entities": [],
+      "entities": {
+        "companies": [
+          "Wells Fargo",
+          "American Express",
+          "General Motors",
+          "Eastman Kodak",
+          "SEC",
+          "Berkshire Hathaway"
+        ],
+        "people": [
+          "Charlie Munger",
+          "Ken Chenault",
+          "Jeff Immelt",
+          "Dick Kovacevich",
+          "Ronald Reagan"
+        ],
+        "metrics": []
+      },
       "themes": [],
       "buffett_concepts": [],
       "principles": [],
@@ -121,10 +151,21 @@
       ],
       "content_type": "narrative",
       "contextual_summary": "In the Yardsticks section, Buffett discusses yardsticks charlie and i measure berkshire’s progress and evaluate its intrinsic value in a number of ways. no and explains what it implies for Berkshire’s owners.",
-      "has_table": true,
+      "has_table": false,
       "table_data": [],
       "has_financial_data": true,
-      "entities": [],
+      "entities": {
+        "companies": [
+          "SEC",
+          "Berkshire Hathaway"
+        ],
+        "people": [],
+        "metrics": [
+          "intrinsic value",
+          "pre-tax earnings",
+          "insurance float"
+        ]
+      },
       "themes": [],
       "buffett_concepts": [],
       "principles": [],
@@ -207,7 +248,16 @@
         }
       ],
       "has_financial_data": true,
-      "entities": [],
+      "entities": {
+        "companies": [
+          "SEC",
+          "Berkshire Hathaway"
+        ],
+        "people": [],
+        "metrics": [
+          "insurance float"
+        ]
+      },
       "themes": [],
       "buffett_concepts": [],
       "principles": [],
@@ -292,7 +342,13 @@
         }
       ],
       "has_financial_data": true,
-      "entities": [],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "metrics": [
+          "pre-tax earnings"
+        ]
+      },
       "themes": [],
       "buffett_concepts": [],
       "principles": [],
@@ -344,7 +400,22 @@
       "has_table": false,
       "table_data": [],
       "has_financial_data": true,
-      "entities": [],
+      "entities": {
+        "companies": [
+          "Berkshire Hathaway",
+          "Iscar",
+          "XTRA",
+          "Applied Underwriters",
+          "Business Wire",
+          "PacifiCorp"
+        ],
+        "people": [
+          "Eitan Wertheimer",
+          "Jacob Harpaz",
+          "Danny Goldman"
+        ],
+        "metrics": []
+      },
       "themes": [],
       "buffett_concepts": [],
       "principles": [],
@@ -393,7 +464,20 @@
       "has_table": false,
       "table_data": [],
       "has_financial_data": true,
-      "entities": [],
+      "entities": {
+        "companies": [
+          "Justin Industries",
+          "Berkshire Hathaway"
+        ],
+        "people": [
+          "John Roach",
+          "John Justin",
+          "Paul Andrews"
+        ],
+        "metrics": [
+          "equity"
+        ]
+      },
       "themes": [],
       "buffett_concepts": [],
       "principles": [],
@@ -442,7 +526,21 @@
       "has_table": false,
       "table_data": [],
       "has_financial_data": true,
-      "entities": [],
+      "entities": {
+        "companies": [
+          "Fruit of the Loom",
+          "Shaw",
+          "CTB",
+          "Berkshire Hathaway",
+          "Russell Corporation",
+          "VF Corporation"
+        ],
+        "people": [
+          "Gene Toombs",
+          "John Holland"
+        ],
+        "metrics": []
+      },
       "themes": [],
       "buffett_concepts": [],
       "principles": [],
@@ -467,7 +565,7 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": "merged_forward_short",
+      "boundary_note": null,
       "merged_from": [
         "orig:6.1",
         "orig:7.1"
@@ -493,10 +591,24 @@
       ],
       "content_type": "narrative",
       "contextual_summary": "In the Acquisitions section, Buffett discusses * * * * * * * * * * * * now, let’s examine the four major and explains what it implies for Berkshire’s owners.",
-      "has_table": true,
+      "has_table": false,
       "table_data": [],
       "has_financial_data": true,
-      "entities": [],
+      "entities": {
+        "companies": [
+          "GEICO",
+          "General Re",
+          "National Indemnity",
+          "Applied Underwriters",
+          "SEC",
+          "Berkshire Hathaway"
+        ],
+        "people": [
+          "Ajit Jain",
+          "Tony Nicely"
+        ],
+        "metrics": []
+      },
       "themes": [],
       "buffett_concepts": [],
       "principles": [],
@@ -523,7 +635,7 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": "merged_forward_short",
+      "boundary_note": null,
       "merged_from": [
         "orig:8.1",
         "orig:9.1"
@@ -583,7 +695,18 @@
         }
       ],
       "has_financial_data": true,
-      "entities": [],
+      "entities": {
+        "companies": [
+          "GEICO",
+          "General Re",
+          "Applied Underwriters",
+          "SEC"
+        ],
+        "people": [],
+        "metrics": [
+          "underwriting profit"
+        ]
+      },
       "themes": [],
       "buffett_concepts": [],
       "principles": [],
@@ -632,7 +755,16 @@
       "has_table": false,
       "table_data": [],
       "has_financial_data": true,
-      "entities": [],
+      "entities": {
+        "companies": [
+          "SEC",
+          "Berkshire Hathaway"
+        ],
+        "people": [
+          "Ajit Jain"
+        ],
+        "metrics": []
+      },
       "themes": [],
       "buffett_concepts": [],
       "principles": [],
@@ -682,7 +814,17 @@
       "has_table": false,
       "table_data": [],
       "has_financial_data": true,
-      "entities": [],
+      "entities": {
+        "companies": [
+          "XTRA",
+          "SEC",
+          "Berkshire Hathaway"
+        ],
+        "people": [],
+        "metrics": [
+          "liabilities"
+        ]
+      },
       "themes": [],
       "buffett_concepts": [],
       "principles": [],
@@ -733,10 +875,20 @@
       ],
       "content_type": "narrative",
       "contextual_summary": "In the Insurance section, Buffett discusses * * * * * * * * * * * warning: it’s time to eat your broccoli and explains what it implies for Berkshire’s owners.",
-      "has_table": true,
+      "has_table": false,
       "table_data": [],
       "has_financial_data": true,
-      "entities": [],
+      "entities": {
+        "companies": [
+          "SEC",
+          "Berkshire Hathaway"
+        ],
+        "people": [],
+        "metrics": [
+          "balance sheet",
+          "earnings statement"
+        ]
+      },
       "themes": [],
       "buffett_concepts": [],
       "principles": [],
@@ -822,7 +974,22 @@
         }
       ],
       "has_financial_data": true,
-      "entities": [],
+      "entities": {
+        "companies": [
+          "Berkshire Hathaway"
+        ],
+        "people": [],
+        "metrics": [
+          "balance sheet",
+          "earnings statement",
+          "assets",
+          "liabilities",
+          "equity",
+          "cash and equivalents",
+          "notes payable",
+          "inventory"
+        ]
+      },
       "themes": [],
       "buffett_concepts": [],
       "principles": [],
@@ -902,7 +1069,14 @@
         }
       ],
       "has_financial_data": true,
-      "entities": [],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "metrics": [
+          "pre-tax earnings",
+          "earnings statement"
+        ]
+      },
       "themes": [],
       "buffett_concepts": [],
       "principles": [],
@@ -952,7 +1126,18 @@
       "has_table": false,
       "table_data": [],
       "has_financial_data": true,
-      "entities": [],
+      "entities": {
+        "companies": [
+          "Shaw",
+          "SEC",
+          "Berkshire Hathaway"
+        ],
+        "people": [],
+        "metrics": [
+          "balance sheet",
+          "earnings statement"
+        ]
+      },
       "themes": [],
       "buffett_concepts": [],
       "principles": [],
@@ -1001,7 +1186,13 @@
       "has_table": false,
       "table_data": [],
       "has_financial_data": true,
-      "entities": [],
+      "entities": {
+        "companies": [
+          "Berkshire Hathaway"
+        ],
+        "people": [],
+        "metrics": []
+      },
       "themes": [],
       "buffett_concepts": [],
       "principles": [],
@@ -1050,7 +1241,15 @@
       "has_table": false,
       "table_data": [],
       "has_financial_data": true,
-      "entities": [],
+      "entities": {
+        "companies": [
+          "Berkshire Hathaway"
+        ],
+        "people": [],
+        "metrics": [
+          "pre-tax earnings"
+        ]
+      },
       "themes": [],
       "buffett_concepts": [],
       "principles": [],
@@ -1100,10 +1299,17 @@
       ],
       "content_type": "narrative",
       "contextual_summary": "In the Regulated Utility Business section, Buffett discusses regulated utility business berkshire has an 86.6% (fully diluted) interest in mid american energy holdings, which owns a and explains what it implies for Berkshire’s owners.",
-      "has_table": true,
+      "has_table": false,
       "table_data": [],
       "has_financial_data": true,
-      "entities": [],
+      "entities": {
+        "companies": [
+          "SEC",
+          "Berkshire Hathaway"
+        ],
+        "people": [],
+        "metrics": []
+      },
       "themes": [],
       "buffett_concepts": [],
       "principles": [],
@@ -1206,7 +1412,15 @@
         }
       ],
       "has_financial_data": true,
-      "entities": [],
+      "entities": {
+        "companies": [
+          "Berkshire Hathaway"
+        ],
+        "people": [],
+        "metrics": [
+          "net earnings"
+        ]
+      },
       "themes": [],
       "buffett_concepts": [],
       "principles": [],
@@ -1255,10 +1469,22 @@
       ],
       "content_type": "narrative",
       "contextual_summary": "In the Finance and Financial Products section, Buffett discusses finance and financial products you will be happy to hear – and i’m even happier – that this and explains what it implies for Berkshire’s owners.",
-      "has_table": true,
+      "has_table": false,
       "table_data": [],
       "has_financial_data": true,
-      "entities": [],
+      "entities": {
+        "companies": [
+          "XTRA",
+          "Wells Fargo",
+          "American Express",
+          "SEC",
+          "Berkshire Hathaway"
+        ],
+        "people": [],
+        "metrics": [
+          "balance sheet"
+        ]
+      },
       "themes": [],
       "buffett_concepts": [],
       "principles": [],
@@ -1365,7 +1591,16 @@
         }
       ],
       "has_financial_data": true,
-      "entities": [],
+      "entities": {
+        "companies": [
+          "SEC"
+        ],
+        "people": [],
+        "metrics": [
+          "pre-tax earnings",
+          "liabilities"
+        ]
+      },
       "themes": [],
       "buffett_concepts": [],
       "principles": [],
@@ -1492,7 +1727,16 @@
         }
       ],
       "has_financial_data": true,
-      "entities": [],
+      "entities": {
+        "companies": [
+          "Wells Fargo",
+          "American Express",
+          "SEC",
+          "The Washington Post"
+        ],
+        "people": [],
+        "metrics": []
+      },
       "themes": [],
       "buffett_concepts": [],
       "principles": [],
@@ -1539,7 +1783,15 @@
       "has_table": false,
       "table_data": [],
       "has_financial_data": true,
-      "entities": [],
+      "entities": {
+        "companies": [
+          "XTRA"
+        ],
+        "people": [],
+        "metrics": [
+          "assets"
+        ]
+      },
       "themes": [],
       "buffett_concepts": [],
       "principles": [],
@@ -1591,7 +1843,19 @@
       "has_table": false,
       "table_data": [],
       "has_financial_data": false,
-      "entities": [],
+      "entities": {
+        "companies": [
+          "GEICO",
+          "XTRA",
+          "Berkshire Hathaway"
+        ],
+        "people": [
+          "Lou Simpson"
+        ],
+        "metrics": [
+          "equity"
+        ]
+      },
       "themes": [],
       "buffett_concepts": [],
       "principles": [],
@@ -1616,7 +1880,7 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": "merged_forward_short",
+      "boundary_note": null,
       "merged_from": [
         "orig:15.1",
         "orig:16.1"
@@ -1643,7 +1907,15 @@
       "has_table": false,
       "table_data": [],
       "has_financial_data": true,
-      "entities": [],
+      "entities": {
+        "companies": [
+          "Berkshire Hathaway"
+        ],
+        "people": [],
+        "metrics": [
+          "fees"
+        ]
+      },
       "themes": [],
       "buffett_concepts": [],
       "principles": [],
@@ -1697,7 +1969,14 @@
       "has_table": false,
       "table_data": [],
       "has_financial_data": true,
-      "entities": [],
+      "entities": {
+        "companies": [
+          "SEC",
+          "Berkshire Hathaway"
+        ],
+        "people": [],
+        "metrics": []
+      },
       "themes": [],
       "buffett_concepts": [],
       "principles": [],
@@ -1722,7 +2001,7 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": "merged_forward_short",
+      "boundary_note": null,
       "merged_from": [
         "orig:18.1",
         "orig:19.1",
@@ -1751,7 +2030,14 @@
       "has_table": false,
       "table_data": [],
       "has_financial_data": true,
-      "entities": [],
+      "entities": {
+        "companies": [
+          "American Express",
+          "Berkshire Hathaway"
+        ],
+        "people": [],
+        "metrics": []
+      },
       "themes": [],
       "buffett_concepts": [],
       "principles": [],
@@ -1802,7 +2088,15 @@
       "has_table": false,
       "table_data": [],
       "has_financial_data": true,
-      "entities": [],
+      "entities": {
+        "companies": [
+          "Berkshire Hathaway"
+        ],
+        "people": [],
+        "metrics": [
+          "CEO pay"
+        ]
+      },
       "themes": [],
       "buffett_concepts": [],
       "principles": [],
@@ -1849,7 +2143,17 @@
       "has_table": false,
       "table_data": [],
       "has_financial_data": true,
-      "entities": [],
+      "entities": {
+        "companies": [
+          "Berkshire Hathaway"
+        ],
+        "people": [],
+        "metrics": [
+          "intrinsic value",
+          "dividends",
+          "shares outstanding"
+        ]
+      },
       "themes": [],
       "buffett_concepts": [],
       "principles": [],
@@ -1898,7 +2202,16 @@
       "has_table": false,
       "table_data": [],
       "has_financial_data": true,
-      "entities": [],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "metrics": [
+          "investment returns",
+          "commissions",
+          "fees",
+          "pension plans"
+        ]
+      },
       "themes": [],
       "buffett_concepts": [],
       "principles": [],
@@ -1945,7 +2258,14 @@
       "has_table": false,
       "table_data": [],
       "has_financial_data": true,
-      "entities": [],
+      "entities": {
+        "companies": [
+          "SEC",
+          "S&P"
+        ],
+        "people": [],
+        "metrics": []
+      },
       "themes": [],
       "buffett_concepts": [],
       "principles": [],
@@ -1997,7 +2317,16 @@
       "has_table": false,
       "table_data": [],
       "has_financial_data": true,
-      "entities": [],
+      "entities": {
+        "companies": [
+          "GEICO",
+          "Shaw",
+          "American Express",
+          "Berkshire Hathaway"
+        ],
+        "people": [],
+        "metrics": []
+      },
       "themes": [],
       "buffett_concepts": [],
       "principles": [],
@@ -2023,7 +2352,7 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": "merged_forward_short",
+      "boundary_note": null,
       "merged_from": [
         "orig:26.1",
         "orig:27.1"
@@ -2050,7 +2379,17 @@
       "has_table": false,
       "table_data": [],
       "has_financial_data": true,
-      "entities": [],
+      "entities": {
+        "companies": [
+          "XTRA",
+          "SEC",
+          "Berkshire Hathaway"
+        ],
+        "people": [
+          "Warren E. Buffett"
+        ],
+        "metrics": []
+      },
       "themes": [],
       "buffett_concepts": [],
       "principles": [],
@@ -2075,7 +2414,7 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": "merged_backward_section_final",
+      "boundary_note": null,
       "merged_from": [
         "orig:27.2",
         "orig:28.1"

@@ -492,7 +492,7 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": "Tier-2 table chunk includes lead-in paragraph, the table, and the first post-table discussion paragraph.",
+      "boundary_note": null,
       "merged_from": []
     }
   },
@@ -1140,7 +1140,7 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": "Tier-2 table chunk includes lead-in paragraph, the table, and the first post-table discussion paragraph.",
+      "boundary_note": null,
       "merged_from": []
     }
   },
@@ -1469,7 +1469,7 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": "Tier-2 table chunk includes lead-in paragraph, the table, and the first post-table discussion paragraph.",
+      "boundary_note": null,
       "merged_from": []
     }
   },

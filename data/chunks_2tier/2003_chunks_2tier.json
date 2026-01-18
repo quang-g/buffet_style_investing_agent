@@ -466,7 +466,7 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": "Merged small chunk 2003-S06-T1-001 into previous chunk.",
+      "boundary_note": null,
       "merged_from": [
         "2003-S06-T1-001"
       ]
@@ -734,7 +734,7 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": "Merged small chunk with next chunk 2003-S11-T1-001.",
+      "boundary_note": null,
       "merged_from": [
         "2003-S11-T1-001"
       ]
@@ -997,7 +997,7 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": "Merged small chunk with next chunk 2003-S13-T1-001.",
+      "boundary_note": null,
       "merged_from": [
         "2003-S13-T1-001"
       ]
@@ -1186,7 +1186,7 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": "Merged small chunk with next chunk 2003-S15-T1-001.",
+      "boundary_note": null,
       "merged_from": [
         "2003-S15-T1-001"
       ]
@@ -2452,7 +2452,7 @@
       },
       "standalone_exception": false,
       "exception_reason": null,
-      "boundary_note": "Merged small chunk 2003-S19-T1-001 into previous chunk.",
+      "boundary_note": null,
       "merged_from": [
         "2003-S19-T1-001"
       ]

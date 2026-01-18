@@ -670,7 +670,7 @@
       ],
       "content_type": "narrative",
       "contextual_summary": "Berkshire’s insurance approach is framed around refusing to write underpriced risks even when competitors chase volume. The emphasis is on patience, pricing discipline, and willingness to shrink when conditions are unfavorable.",
-      "has_table": true,
+      "has_table": false,
       "table_data": [],
       "has_financial_data": true,
       "entities": {
@@ -742,7 +742,7 @@
       "chunk_tier": 2,
       "parent_chunk_id": "2015-S04-T1-003",
       "child_chunk_ids": [],
-      "content_type": "table",
+      "content_type": "financial_table",
       "contextual_summary": "Underwriting profit and year-end float are compared across Berkshire’s insurance divisions for 2015 versus 2014. The table shows which units drove underwriting results and how much investable float each produced.",
       "has_table": true,
       "table_data": [
@@ -821,7 +821,7 @@
       ],
       "content_type": "narrative",
       "contextual_summary": "BNSF and Berkshire Hathaway Energy are introduced as capital-heavy businesses whose economics are shaped by regulation, networks, and reinvestment. The letter argues that GAAP results can understate their long-run earning power because large, durable capital spending is central to value creation.",
-      "has_table": true,
+      "has_table": false,
       "table_data": [],
       "has_financial_data": true,
       "entities": {
@@ -888,7 +888,7 @@
       "chunk_tier": 2,
       "parent_chunk_id": "2015-S05-T1-001",
       "child_chunk_ids": [],
-      "content_type": "table",
+      "content_type": "financial_table",
       "contextual_summary": "Key operating statistics for BNSF are presented to support claims about improved service and competitiveness. The data highlights how volume, pricing measures, and reinvestment relate to the railroad’s earnings capacity.",
       "has_table": true,
       "table_data": [
@@ -957,7 +957,7 @@
       "chunk_tier": 2,
       "parent_chunk_id": "2015-S05-T1-001",
       "child_chunk_ids": [],
-      "content_type": "table",
+      "content_type": "financial_table",
       "contextual_summary": "Environmental and efficiency metrics for BHE and BNSF quantify renewable generation and fuel-efficiency progress. The figures connect large capital projects to lower emissions while meeting growing electricity demand and freight traffic.",
       "has_table": true,
       "table_data": [
@@ -1030,7 +1030,7 @@
       "chunk_tier": 2,
       "parent_chunk_id": "2015-S05-T1-001",
       "child_chunk_ids": [],
-      "content_type": "table",
+      "content_type": "financial_table",
       "contextual_summary": "A condensed income statement for BNSF summarizes revenues, major expenses, and earnings over 2013–2015. The numbers provide context for how sustained capital investment shows up in operating performance.",
       "has_table": true,
       "table_data": [
@@ -1105,7 +1105,7 @@
       ],
       "content_type": "narrative",
       "contextual_summary": "Berkshire’s manufacturing, service, and retail businesses are summarized with segment-wide financial snapshots. The narrative explains how to interpret earnings by treating depreciation and amortization as real economic costs while separating recurring performance from one-time items.",
-      "has_table": true,
+      "has_table": false,
       "table_data": [],
       "has_financial_data": true,
       "entities": {
@@ -1174,7 +1174,7 @@
       "chunk_tier": 2,
       "parent_chunk_id": "2015-S06-T1-001",
       "child_chunk_ids": [],
-      "content_type": "table",
+      "content_type": "financial_table",
       "contextual_summary": "A balance-sheet and earnings snapshot for Berkshire’s manufacturing, service, and retail group provides a high-level view of capital employed and results. The table anchors the segment discussion with consolidated figures at year-end 2015.",
       "has_table": true,
       "table_data": [
@@ -1233,7 +1233,7 @@
       "chunk_tier": 2,
       "parent_chunk_id": "2015-S06-T1-001",
       "child_chunk_ids": [],
-      "content_type": "table",
+      "content_type": "financial_table",
       "contextual_summary": "Detailed balance-sheet lines for the manufacturing, service, and retail group list major asset and liability categories at 12/31/2015. The breakdown highlights working capital, goodwill and intangibles, and the amount of debt and other obligations supporting the segment.",
       "has_table": true,
       "table_data": [
@@ -1436,7 +1436,7 @@
       ],
       "content_type": "narrative",
       "contextual_summary": "Berkshire explains why its mortgage business can tolerate interest-rate mismatch: large short-term cash balances tend to benefit when rates rise. It also highlights Marmon’s tank-car fleet as a recognizable, long-lived asset with steady leasing economics.",
-      "has_table": true,
+      "has_table": false,
       "table_data": [],
       "has_financial_data": true,
       "entities": {
@@ -1495,7 +1495,7 @@
       "chunk_tier": 2,
       "parent_chunk_id": "2015-S07-T1-003",
       "child_chunk_ids": [],
-      "content_type": "table",
+      "content_type": "financial_table",
       "contextual_summary": "Leasing utilization and renewal statistics are provided for Marmon’s railcar fleet, illustrating demand and contract rollovers. The table supports the discussion of how equipment quality and customer relationships drive returns in railcar leasing.",
       "has_table": true,
       "table_data": [
@@ -1561,7 +1561,7 @@
       "chunk_tier": 2,
       "parent_chunk_id": "2015-S07-T1-003",
       "child_chunk_ids": [],
-      "content_type": "table",
+      "content_type": "financial_table",
       "contextual_summary": "Selected operating figures for Berkshire’s railcar and tank-car leasing activities summarize recent performance across multiple years. The data reinforces the narrative about high utilization and the economics of long-lived transportation assets.",
       "has_table": true,
       "table_data": [
@@ -1623,7 +1623,7 @@
       "chunk_tier": 2,
       "parent_chunk_id": "2015-S07-T1-003",
       "child_chunk_ids": [],
-      "content_type": "table",
+      "content_type": "financial_table",
       "contextual_summary": "Earnings for Berkshire’s finance and financial products businesses are listed across 2013–2015, including Clayton, CORT, Marmon units, XTRA, and Berkadia. The table shows how these businesses collectively contribute sizable and growing pre-tax income.",
       "has_table": true,
       "table_data": [
@@ -1687,7 +1687,7 @@
       ],
       "content_type": "narrative",
       "contextual_summary": "The role of publicly traded equities in Berkshire’s intrinsic value is framed through its largest stock positions and their accounting treatment. The discussion distinguishes stakes carried at market value from those reported using the equity method.",
-      "has_table": true,
+      "has_table": false,
       "table_data": [],
       "has_financial_data": true,
       "entities": {
@@ -1744,7 +1744,7 @@
       "chunk_tier": 2,
       "parent_chunk_id": "2015-S08-T1-001",
       "child_chunk_ids": [],
-      "content_type": "table",
+      "content_type": "financial_table",
       "contextual_summary": "Berkshire’s fifteen largest common-stock holdings at year-end 2015 are listed with cost and market value, noting which are accounted for under the equity method. The table provides a snapshot of portfolio concentration and unrealized gains.",
       "has_table": true,
       "table_data": [
@@ -1803,7 +1803,7 @@
       "chunk_tier": 2,
       "parent_chunk_id": "2015-S08-T1-001",
       "child_chunk_ids": [],
-      "content_type": "table",
+      "content_type": "financial_table",
       "contextual_summary": "Ownership percentages and share counts are tabulated for Berkshire’s major equity positions, alongside each stake’s cost and market value. The data clarifies the scale of Berkshire’s influence in key investee companies.",
       "has_table": true,
       "table_data": [

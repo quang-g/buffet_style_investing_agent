@@ -756,7 +756,7 @@
   },
   {
     "chunk_id": "1987-S03-T1-011",
-    "content": "Insurance Operations\n",
+    "content": "Insurance Operations\n\nThe math of the insurance business, encapsulated by the\ntable, is not very complicated. In years when the industry's\nannual gain in revenues (premiums) pokes along at 4% or 5%,\nunderwriting losses are sure to mount. That is not because auto\naccidents, fires, windstorms and the like are occurring more\nfrequently, nor has it lately been the fault of general\ninflation. Today, social and judicial inflation are the major\nculprits; the cost of entering a courtroom has simply ballooned.\nPart of the jump in cost arises from skyrocketing verdicts, and\npart from the tendency of judges and juries to expand the\ncoverage of insurance policies beyond that contemplated by the\ninsurer when the policies were written. Seeing no let-up in\neither trend, we continue to believe that the industry's revenues\nmust grow at about 10% annually for it to just hold its own in\nterms of profitability, even though general inflation may be\nrunning at a considerably lower rate.\n\nThe strong revenue gains of 1985-87 almost guaranteed the\nindustry an excellent underwriting performance in 1987 and,\nindeed, it was a banner year. But the news soured as the\nquarters rolled by: Best's estimates that year-over-year volume\nincreases were 12.9%, 11.1%, 5.7%, and 5.6%. In 1988, the\nrevenue gain is certain to be far below our 10% \"equilibrium\"\nfigure. Clearly, the party is over.\n",
     "metadata": {
       "letter_year": 1987,
       "letter_date": "1988-02-29",
@@ -797,8 +797,8 @@
       },
       "retrieval_priority": "medium",
       "abstraction_level": "medium",
-      "token_count": 6,
-      "char_count": 21,
+      "token_count": 225,
+      "char_count": 1376,
       "source_span": {
         "start_char": 22603,
         "end_char_exclusive": 22625
@@ -806,7 +806,9 @@
       "standalone_exception": false,
       "exception_reason": null,
       "boundary_note": null,
-      "merged_from": []
+      "merged_from": [
+        "1987-S03-T1-013#paras1-2"
+      ]
     }
   },
   {
@@ -931,7 +933,7 @@
   },
   {
     "chunk_id": "1987-S03-T1-013",
-    "content": "The math of the insurance business, encapsulated by the\ntable, is not very complicated. In years when the industry's\nannual gain in revenues (premiums) pokes along at 4% or 5%,\nunderwriting losses are sure to mount. That is not because auto\naccidents, fires, windstorms and the like are occurring more\nfrequently, nor has it lately been the fault of general\ninflation. Today, social and judicial inflation are the major\nculprits; the cost of entering a courtroom has simply ballooned.\nPart of the jump in cost arises from skyrocketing verdicts, and\npart from the tendency of judges and juries to expand the\ncoverage of insurance policies beyond that contemplated by the\ninsurer when the policies were written. Seeing no let-up in\neither trend, we continue to believe that the industry's revenues\nmust grow at about 10% annually for it to just hold its own in\nterms of profitability, even though general inflation may be\nrunning at a considerably lower rate.\n\nThe strong revenue gains of 1985-87 almost guaranteed the\nindustry an excellent underwriting performance in 1987 and,\nindeed, it was a banner year. But the news soured as the\nquarters rolled by: Best's estimates that year-over-year volume\nincreases were 12.9%, 11.1%, 5.7%, and 5.6%. In 1988, the\nrevenue gain is certain to be far below our 10% \"equilibrium\"\nfigure. Clearly, the party is over.\n\nHowever, earnings will not immediately sink. A lag factor\nexists in this industry: Because most policies are written for a\none-year term, higher or lower insurance prices do not have their\nfull impact on earnings until many months after they go into\neffect. Thus, to resume our metaphor, when the party ends and\nthe bar is closed, you are allowed to finish your drink. If\nresults are not hurt by a major natural catastrophe, we predict a\nsmall climb for the industry's combined ratio in 1988, followed\nby several years of larger increases.\n\nThe insurance industry is cursed with a set of dismal\neconomic characteristics that make for a poor long-term outlook:\nhundreds of competitors, ease of entry, and a product that cannot\nbe differentiated in any meaningful way. In such a commoditylike business, only a very low-cost operator or someone operating\nin a protected, and usually small, niche can sustain high\nprofitability levels.\n\nWhen shortages exist, however, even commodity businesses\nflourish. The insurance industry enjoyed that kind of climate\nfor a while but it is now gone. One of the ironies of capitalism\nis that most managers in commodity industries abhor shortage\nconditions - even though those are the only circumstances\npermitting them good returns. Whenever shortages appear, the\ntypical manager simply can't wait to expand capacity and thereby\nplug the hole through which money is showering upon him. This is\nprecisely what insurance managers did in 1985-87, confirming\nagain Disraeli's observation: \"What we learn from history is that\nwe do not learn from history.\"\n",
+    "content": "However, earnings will not immediately sink. A lag factor\nexists in this industry: Because most policies are written for a\none-year term, higher or lower insurance prices do not have their\nfull impact on earnings until many months after they go into\neffect. Thus, to resume our metaphor, when the party ends and\nthe bar is closed, you are allowed to finish your drink. If\nresults are not hurt by a major natural catastrophe, we predict a\nsmall climb for the industry's combined ratio in 1988, followed\nby several years of larger increases.\n\nThe insurance industry is cursed with a set of dismal\neconomic characteristics that make for a poor long-term outlook:\nhundreds of competitors, ease of entry, and a product that cannot\nbe differentiated in any meaningful way. In such a commoditylike business, only a very low-cost operator or someone operating\nin a protected, and usually small, niche can sustain high\nprofitability levels.\n\nWhen shortages exist, however, even commodity businesses\nflourish. The insurance industry enjoyed that kind of climate\nfor a while but it is now gone. One of the ironies of capitalism\nis that most managers in commodity industries abhor shortage\nconditions - even though those are the only circumstances\npermitting them good returns. Whenever shortages appear, the\ntypical manager simply can't wait to expand capacity and thereby\nplug the hole through which money is showering upon him. This is\nprecisely what insurance managers did in 1985-87, confirming\nagain Disraeli's observation: \"What we learn from history is that\nwe do not learn from history.\"\n",
     "metadata": {
       "letter_year": 1987,
       "letter_date": "1988-02-29",
@@ -979,8 +981,8 @@
       },
       "retrieval_priority": "medium",
       "abstraction_level": "low",
-      "token_count": 735,
-      "char_count": 2940,
+      "token_count": 256,
+      "char_count": 1585,
       "source_span": {
         "start_char": 23706,
         "end_char_exclusive": 26647
@@ -2157,7 +2159,10 @@
       ],
       "buffett_concepts": [],
       "principles": [
-        "Set explicit constraints and stick to them."
+        {
+          "statement": "Set explicit constraints and stick to them.",
+          "category": "acquisitions"
+        }
       ],
       "temporal_references": {
         "primary_year": 1987,
