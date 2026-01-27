@@ -1,0 +1,1507 @@
+[
+  {
+    "chunk_id": "1982-S01-T1-001",
+    "content": "March 3,1983\n\nTo the Stockholders of Berkshire Hathaway Inc.:\n\nOperating earnings of $31.5 million in 1982 amounted to only\n9.8% of beginning equity capital (valuing securities at cost),\ndown from 15.2% in 1981 and far below our recent high of 19.4% in\n1978. This decline largely resulted from:\n\n(1) a significant deterioration in insurance underwriting\nresults;\n\n(2) a considerable expansion of equity capital without a\ncorresponding growth in the businesses we operate\ndirectly; and\n\n(3) a continually-enlarging commitment of our resources to\ninvestment in partially-owned, nonoperated businesses;\naccounting rules dictate that a major part of our\npro-rata share of earnings from such businesses must be\nexcluded from Berkshires reported earnings.\n\nIt was only a few years ago that we told you that the\noperating earnings/equity capital percentage, with proper\nallowance for a few other variables, was the most important\nyardstick of single-year managerial performance. While we still\nbelieve this to be the case with the vast majority of companies,\nwe believe its utility in our own case has greatly diminished.\nYou should be suspicious of such an assertion. Yardsticks seldom\nare discarded while yielding favorable readings. But when\nresults deteriorate, most managers favor disposition of the\nyardstick rather than disposition of the manager.\n\nTo managers faced with such deterioration, a more flexible\nmeasurement system often suggests itself: just shoot the arrow of\nbusiness performance into a blank canvas and then carefully draw\nthe bullseye around the implanted arrow. We generally believe in\npre-set, long-lived and small bullseyes. However, because of the\nimportance of item (3) above, further explained in the following\nsection, we believe our abandonment of the operating\nearnings/equity capital bullseye to be warranted.\n\nNon-Reported Ownership Earnings\n\nThe appended financial statements reflect accounting\nearnings that generally include our proportionate share of\nearnings from any underlying business in which our ownership is\nat least 20%. Below the 20% ownership figure, however, only our\nshare of dividends paid by the underlying business units is\nincluded in our accounting numbers; undistributed earnings of\nsuch less-than-20%-owned businesses are totally ignored.\n\nThere are a few exceptions to this rule; e. g., we own about\n35% of GEICO Corporation but, because we have assigned our voting\nrights, the company is treated for accounting purposes as a lessthan-20% holding. Thus, dividends received from GEICO in 1982 of\n$3.5 million after tax are the only item included in our\naccountingearnings. An additional $23 million that represents\nour share of GEICOs undistributed operating earnings for 1982 is\ntotally excluded from our reported operating earnings. If GEICO\nhad earned less money in 1982 but had paid an additional $1\nmillion in dividends, our reported earnings would have been\nlarger despite the poorer business results. Conversely, if GEICO\nhad earned an additional $100 million - and retained it all - our\nreported earnings would have been unchanged. Clearly\naccounting earnings can seriously misrepresent economic\nreality.\n\nWe prefer a concept of economic earnings that includes all\nundistributed earnings, regardless of ownership percentage. In\nour view, the value to all owners of the retained earnings of a\nbusiness enterprise is determined by the effectiveness with which\nthose earnings are used - and not by the size of ones ownership\npercentage. If you have owned . 01 of 1% of Berkshire during the\npast decade, you have benefited economically in full measure from\nyour share of our retained earnings, no matter what your\naccounting system. Proportionately, you have done just as well\nas if you had owned the magic 20%. But if you have owned 100% of\na great many capital-intensive businesses during the decade,\nretained earnings that were credited fully and with painstaking\nprecision to you under standard accounting methods have resulted\nin minor or zero economic value. This is not a criticism of\naccounting procedures. We would not like to have the job of\ndesigning a better system. Its simply to say that managers and\ninvestors alike must understand that accounting numbers are the\nbeginning, not the end, of business valuation.",
+    "metadata": {
+      "letter_year": 1982,
+      "letter_date": "1983-03-03",
+      "source_file": "1982_cleaned.txt",
+      "section_title": "Non-Reported Ownership Earnings",
+      "section_hierarchy": [
+        "Letter Body",
+        "Performance",
+        "Owner Earnings"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "narrative",
+      "contextual_summary": "Buffett contrasts reported accounting earnings with economic ‘owner earnings,’ emphasizing that retained profits at minority-owned companies matter even when GAAP does not recognize them.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "Berkshire Hathaway",
+          "Berkshire",
+          "GEICO"
+        ],
+        "people": [],
+        "metrics": [
+          "$31.5million",
+          "$3.5million",
+          "$23million",
+          "$1\nmillion",
+          "$100million",
+          "9.8%",
+          "15.2%",
+          "19.4%",
+          "20%",
+          "35%",
+          "1%",
+          "100%"
+        ]
+      },
+      "themes": [
+        "Owner earnings vs accounting earnings",
+        "Insurance underwriting cycle"
+      ],
+      "buffett_concepts": [
+        "Owner earnings",
+        "Look-through earnings",
+        "Underwriting discipline",
+        "Float"
+      ],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1982,
+        "comparison_years": [
+          1978,
+          1981,
+          1983
+        ],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "high",
+      "token_count": 660,
+      "char_count": 4280,
+      "source_span": {
+        "start_char": 0,
+        "end_char_exclusive": 4280
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": [],
+      "previous_summary": null,
+      "next_summary": "Buffett contrasts reported accounting earnings with economic ‘owner earnings,’ emphasizing that retained profits at minority-owned companies matter even when GAAP does not recognize them."
+    }
+  },
+  {
+    "chunk_id": "1982-S01-T1-002",
+    "content": "In most corporations, less-than-20% ownership positions are\nunimportant (perhaps, in part, because they prevent maximization\nof cherished reported earnings) and the distinction between\naccounting and economic results we have just discussed matters\nlittle. But in our own case, such positions are of very large\nand growing importance. Their magnitude, we believe, is what\nmakes our reported operating earnings figure of limited\nsignificance.\n\nIn our 1981 annual report we predicted that our share of\nundistributed earnings from four of our major non-controlled\nholdings would aggregate over $35 million in 1982. With no\nchange in our holdings of three of these companies - GEICO,\nGeneral Foods and The Washington Post - and a considerable\nincrease in our ownership of the fourth, R. J. Reynolds\nIndustries, our share of undistributed 1982 operating earnings of\nthis group came to well over $40 million. This number - not\nreflected at all in our earnings - is greater than our total\nreported earnings, which include only the $14 million in\ndividends received from these companies. And, of course, we have\na number of smaller ownership interests that, in aggregate, had\nsubstantial additional undistributed earnings.\n\nWe attach real significance to the general magnitude of\nthese numbers, but we dont believe they should be carried to ten\ndecimal places. Realization by Berkshire of such retained\nearnings through improved market valuations is subject to very\nsubstantial, but indeterminate, taxation. And while retained\nearnings over the years, and in the aggregate, have translated\ninto at least equal market value for shareholders, the\ntranslation has been both extraordinarily uneven among companies\nand irregular and unpredictable in timing.\n\nHowever, this very unevenness and irregularity offers\nadvantages to the value-oriented purchaser of fractional portions\nof businesses. This investor may select from almost the entire\narray of major American corporations, including many far superior\nto virtually any of the businesses that could be bought in their\nentirety in a negotiated deal. And fractional-interest purchases\ncan be made in an auction market where prices are set by\nparticipants with behavior patterns that sometimes resemble those\nof an army of manic-depressive lemmings.\n\nWithin this gigantic auction arena, it is our job to select\nbusinesses with economic characteristics allowing each dollar of\nretained earnings to be translated eventually into at least a\ndollar of market value. Despite a lot of mistakes, we have so\nfar achieved this goal. In doing so, we have been greatly\nassisted by Arthur Okuns patron saint for economists - St.\nOffset. In some cases, that is, retained earnings attributable\nto our ownership position have had insignificant or even negative\nimpact on market value, while in other major positions a dollar\nretained by an investee corporation has been translated into two\nor more dollars of market value. To date, our corporate overachievers have more than offset the laggards. If we can continue\nthis record, it will validate our efforts to maximize economic\nearnings, regardless of the impact upon accounting earnings.\n\nSatisfactory as our partial-ownership approach has been,\nwhat really makes us dance is the purchase of 100% of good\nbusinesses at reasonable prices. Weve accomplished this feat a\nfew times (and expect to do so again), but it is an\nextraordinarily difficult job - far more difficult than the\npurchase at attractive prices of fractional interests.",
+    "metadata": {
+      "letter_year": 1982,
+      "letter_date": "1983-03-03",
+      "source_file": "1982_cleaned.txt",
+      "section_title": "Non-Reported Ownership Earnings",
+      "section_hierarchy": [
+        "Letter Body",
+        "Performance",
+        "Owner Earnings"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "narrative",
+      "contextual_summary": "Buffett contrasts reported accounting earnings with economic ‘owner earnings,’ emphasizing that retained profits at minority-owned companies matter even when GAAP does not recognize them.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "Berkshire",
+          "GEICO",
+          "General Foods",
+          "The Washington Post",
+          "R. J. Reynolds"
+        ],
+        "people": [
+          "Arthur Okun"
+        ],
+        "metrics": [
+          "$35million",
+          "$40million",
+          "$14million",
+          "20%",
+          "100%"
+        ]
+      },
+      "themes": [
+        "Owner earnings vs accounting earnings",
+        "Market psychology and valuation"
+      ],
+      "buffett_concepts": [
+        "Owner earnings",
+        "Look-through earnings",
+        "Mr. Market"
+      ],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1982,
+        "comparison_years": [
+          1981
+        ],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "medium",
+      "abstraction_level": "high",
+      "token_count": 543,
+      "char_count": 3508,
+      "source_span": {
+        "start_char": 4282,
+        "end_char_exclusive": 7790
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": [],
+      "previous_summary": "Buffett contrasts reported accounting earnings with economic ‘owner earnings,’ emphasizing that retained profits at minority-owned companies matter even when GAAP does not recognize them.",
+      "next_summary": "Berkshire’s 1982 operating performance is reviewed, including the main drivers of the decline and why management focuses on economic results rather than a single accounting yardstick."
+    }
+  },
+  {
+    "chunk_id": "1982-S01-T1-003",
+    "content": "As we look at the major acquisitions that others made during\n1982, our reaction is not envy, but relief that we were nonparticipants. For in many of these acquisitions, managerial\nintellect wilted in competition with managerial adrenaline The\nthrill of the chase blinded the pursuers to the consequences of\nthe catch. Pascals observation seems apt: It has struck me\nthat all mens misfortunes spring from the single cause that they\nare unable to stay quietly in one room.\n\n(Your Chairman left the room once too often last year and\nalmost starred in the Acquisition Follies of 1982. In\nretrospect, our major accomplishment of the year was that a very\nlarge purchase to which we had firmly committed was unable to be\ncompleted for reasons totally beyond our control. Had it come\noff, this transaction would have consumed extraordinary amounts\nof time and energy, all for a most uncertain payoff. If we were\nto introduce graphics to this report, illustrating favorable\nbusiness developments of the past year, two blank pages depicting\nthis blown deal would be the appropriate centerfold.)\n\nOur partial-ownership approach can be continued soundly only\nas long as portions of attractive businesses can be acquired at\nattractive prices. We need a moderately-priced stock market to\nassist us in this endeavor. The market, like the Lord, helps\nthose who help themselves. But, unlike the Lord, the market does\nnot forgive those who know not what they do. For the investor, a\ntoo-high purchase price for the stock of an excellent company can\nundo the effects of a subsequent decade of favorable business\ndevelopments.\n\nShould the stock market advance to considerably higher\nlevels, our ability to utilize capital effectively in partialownership positions will be reduced or eliminated. This will\nhappen periodically: just ten years ago, at the height of the\ntwo-tier market mania (with high-return-on-equity businesses bid\nto the sky by institutional investors), Berkshires insurance\nsubsidiaries owned only $18 million in market value of equities,\nexcluding their interest in Blue Chip Stamps. At that time, such\nequity holdings amounted to about 15% of our insurance company\ninvestments versus the present 80%. There were as many good\nbusinesses around in 1972 as in 1982, but the prices the stock\nmarket placed upon those businesses in 1972 looked absurd. While\nhigh stock prices in the future would make our performance look\ngood temporarily, they would hurt our long-term business\nprospects rather than help them. We currently are seeing early\ntraces of this problem.",
+    "metadata": {
+      "letter_year": 1982,
+      "letter_date": "1983-03-03",
+      "source_file": "1982_cleaned.txt",
+      "section_title": "Non-Reported Ownership Earnings",
+      "section_hierarchy": [
+        "Letter Body",
+        "Performance",
+        "Owner Earnings"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "narrative",
+      "contextual_summary": "Berkshire’s 1982 operating performance is reviewed, including the main drivers of the decline and why management focuses on economic results rather than a single accounting yardstick.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "Berkshire",
+          "Blue Chip Stamps"
+        ],
+        "people": [
+          "Pascal"
+        ],
+        "metrics": [
+          "$18million",
+          "15%",
+          "80%"
+        ]
+      },
+      "themes": [
+        "Market psychology and valuation",
+        "Capital allocation and acquisitions",
+        "Insurance underwriting cycle"
+      ],
+      "buffett_concepts": [
+        "Mr. Market",
+        "Underwriting discipline",
+        "Float"
+      ],
+      "principles": [
+        {
+          "statement": "Prefer fair value-for-value deals; avoid adrenaline-driven acquisitions.",
+          "category": "capital_allocation"
+        }
+      ],
+      "temporal_references": {
+        "primary_year": 1982,
+        "comparison_years": [
+          1972
+        ],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "medium",
+      "abstraction_level": "medium",
+      "token_count": 410,
+      "char_count": 2561,
+      "source_span": {
+        "start_char": 7792,
+        "end_char_exclusive": 10353
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": [],
+      "previous_summary": "Buffett contrasts reported accounting earnings with economic ‘owner earnings,’ emphasizing that retained profits at minority-owned companies matter even when GAAP does not recognize them.",
+      "next_summary": "Buffett summarizes Berkshire’s 1982 gain in net worth and reiterates the long-run goal of compounding book value above the average large U.S. corporation."
+    }
+  },
+  {
+    "chunk_id": "1982-S02-T1-001",
+    "content": "Long-Term Corporate Performance\n\nOur gain in net worth during 1982, valuing equities held by\nour insurance subsidiaries at market value (less capital gain\ntaxes payable if unrealized gains were actually realized)\namounted to $208 million. On a beginning net worth base of $519\nmillion, the percentage gain was 40%.\n\nDuring the 18-year tenure of present management, book value\nhas grown from $19.46 per share to $737.43 per share, or 22.0%\ncompounded annually. You can be certain that this percentage\nwill diminish in the future. Geometric progressions eventually\nforge their own anchors.\n\nBerkshires economic goal remains to produce a long-term\nrate of return well above the return achieved by the average\nlarge American corporation. Our willingness to purchase either\npartial or total ownership positions in favorably-situated\nbusinesses, coupled with reasonable discipline about the prices\nwe are willing to pay, should give us a good chance of achieving\nour goal.\n\nAgain this year the gain in market valuation of partiallyowned businesses outpaced the gain in underlying economic value\nof those businesses. For example, $79 million of our $208\nmillion gain is attributable to an increased market price for\nGEICO. This company continues to do exceptionally well, and we\nare more impressed than ever by the strength of GEICOs basic\nbusiness idea and by the management skills of Jack Byrne.\n(Although not found in the catechism of the better business\nschools, Let Jack Do It works fine as a corporate creed for\nus.)\n\nHowever, GEICOs increase in market value during the past\ntwo years has been considerably greater than the gain in its\nintrinsic business value, impressive as the latter has been. We\nexpected such a favorable variation at some point, as the\nperception of investors converged with business reality. And we\nlook forward to substantial future gains in underlying business\nvalue accompanied by irregular, but eventually full, market\nrecognition of such gains.\n\nYear-to-year variances, however, cannot consistently be in\nour favor. Even if our partially-owned businesses continue to\nperform well in an economic sense, there will be years when they\nperform poorly in the market. At such times our net worth could\nshrink significantly. We will not be distressed by such a\nshrinkage; if the businesses continue to look attractive and we\nhave cash available, we simply will add to our holdings at even\nmore favorable prices.",
+    "metadata": {
+      "letter_year": 1982,
+      "letter_date": "1983-03-03",
+      "source_file": "1982_cleaned.txt",
+      "section_title": "Long-Term Corporate Performance",
+      "section_hierarchy": [
+        "Letter Body",
+        "Performance",
+        "Long-Term Results"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "narrative",
+      "contextual_summary": "Buffett summarizes Berkshire’s 1982 gain in net worth and reiterates the long-run goal of compounding book value above the average large U.S. corporation.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "Berkshire",
+          "GEICO"
+        ],
+        "people": [
+          "Jack Byrne"
+        ],
+        "metrics": [
+          "$208million",
+          "$519\nmillion",
+          "$19.46",
+          "$737.43",
+          "$79million",
+          "$208\nmillion",
+          "40%",
+          "22.0%",
+          "22.0"
+        ]
+      },
+      "themes": [
+        "Insurance underwriting cycle"
+      ],
+      "buffett_concepts": [
+        "Underwriting discipline",
+        "Float"
+      ],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1982,
+        "comparison_years": [],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "medium",
+      "abstraction_level": "medium",
+      "token_count": 385,
+      "char_count": 2431,
+      "source_span": {
+        "start_char": 10355,
+        "end_char_exclusive": 12786
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": [],
+      "previous_summary": "Berkshire’s 1982 operating performance is reviewed, including the main drivers of the decline and why management focuses on economic results rather than a single accounting yardstick.",
+      "next_summary": "The letter bridges from operating results to reported earnings detail, explaining how dividends, subsidiaries, and securities gains flow into Berkshire’s accounting totals."
+    }
+  },
+  {
+    "chunk_id": "1982-S03-T1-001",
+    "content": "Sources of Reported Earnings\n\nThe table below shows the sources of Berkshires reported\nearnings. In 1981 and 1982 Berkshire owned about 60% of Blue\nChip Stamps which, in turn, owned 80% of Wesco Financial\nCorporation. The table displays aggregate operating earnings of\nthe various business entities, as well as Berkshires share of\nthose earnings. All of the significant gains and losses\nattributable to unusual sales of assets by any of the business\nentities are aggregated with securities transactions in the line\nnear the bottom of the table, and are not included in operating\nearnings.",
+    "metadata": {
+      "letter_year": 1982,
+      "letter_date": "1983-03-03",
+      "source_file": "1982_cleaned.txt",
+      "section_title": "Sources of Reported Earnings",
+      "section_hierarchy": [
+        "Letter Body",
+        "Financial Statements",
+        "Earnings Breakdown"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [
+        "1982-S03-T2-001"
+      ],
+      "content_type": "narrative",
+      "contextual_summary": "The letter bridges from operating results to reported earnings detail, explaining how dividends, subsidiaries, and securities gains flow into Berkshire’s accounting totals.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "Berkshire",
+          "Wesco Financial"
+        ],
+        "people": [],
+        "metrics": [
+          "60%",
+          "80%"
+        ]
+      },
+      "themes": [],
+      "buffett_concepts": [],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1982,
+        "comparison_years": [
+          1981
+        ],
+        "future_outlook": false
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "medium",
+      "abstraction_level": "medium",
+      "token_count": 94,
+      "char_count": 588,
+      "source_span": {
+        "start_char": 12788,
+        "end_char_exclusive": 13376
+      },
+      "standalone_exception": true,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": [],
+      "previous_summary": "Buffett summarizes Berkshire’s 1982 gain in net worth and reiterates the long-run goal of compounding book value above the average large U.S. corporation.",
+      "next_summary": "The letter bridges from operating results to reported earnings detail, explaining how dividends, subsidiaries, and securities gains flow into Berkshire’s accounting totals."
+    }
+  },
+  {
+    "chunk_id": "1982-S03-T1-002",
+    "content": "* Amortization of intangibles arising in accounting for purchases\nof businesses (i. e. Sees, Mutual and Buffalo Evening News) is\nreflected in the category designated as Other.\n\nOn pages 45-61 of this report we have reproduced the\nnarrative reports of the principal executives of Blue Chip and\nWesco, in which they describe 1982 operations. A copy of the\nfull annual report of either company will be mailed to any\nBerkshire shareholder upon request to Mr. Robert H. Bird for\nBlue Chip Stamps, 5801 South Eastern Avenue, Los Angeles,\nCalifornia 90040, or to Mrs. Jeanne Leach for Wesco Financial\nCorporation, 315 East Colorado Boulevard, Pasadena, California\n91109.\n\nI believe you will find the Blue Chip chronicle of\ndevelopments in the Buffalo newspaper situation particularly\ninteresting. There are now only 14 cities in the United States\nwith a daily newspaper whose weekday circulation exceeds that of\nthe Buffalo News. But the real story has been the growth in\nSunday circulation. Six years ago, prior to introduction of a\nSunday edition of the News, the long-established Courier-Express,\nas the only Sunday newspaper published in Buffalo, had\ncirculation of 272,000. The News now has Sunday circulation of\n367,000, a 35% gain - even though the number of households within\nthe primary circulation area has shown little change during the\nsix years. We know of no city in the United States with a long\nhistory of seven-day newspaper publication in which the\npercentage of households purchasing the Sunday newspaper has\ngrown at anything like this rate. To the contrary, in most\ncities household penetration figures have grown negligibly, or\nnot at all. Our key managers in Buffalo - Henry Urban, Stan\nLipsey, Murray Light, Clyde Pinson, Dave Perona and Dick Feather\n- deserve great credit for this unmatched expansion in Sunday\nreadership.\n\nAs we indicated earlier, undistributed earnings in companies\nwe do not control are now fully as important as the reported\noperating earnings detailed in the preceding table. The\ndistributed portion of non-controlled earnings, of course, finds\nits way into that table primarily through the net investment\nincome segment of Insurance Group earnings.\n\nWe show below Berkshires proportional holdings in those\nnon-controlled businesses for which only distributed earnings\n(dividends) are included in our earnings.",
+    "metadata": {
+      "letter_year": 1982,
+      "letter_date": "1983-03-03",
+      "source_file": "1982_cleaned.txt",
+      "section_title": "Sources of Reported Earnings",
+      "section_hierarchy": [
+        "Letter Body",
+        "Financial Statements",
+        "Earnings Breakdown"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [
+        "1982-S03-T2-002"
+      ],
+      "content_type": "narrative",
+      "contextual_summary": "The letter bridges from operating results to reported earnings detail, explaining how dividends, subsidiaries, and securities gains flow into Berkshire’s accounting totals.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "Berkshire",
+          "Blue Chip Stamps",
+          "Wesco Financial",
+          "Buffalo Evening News"
+        ],
+        "people": [
+          "Henry Urban",
+          "Murray Light",
+          "Clyde Pinson",
+          "Dave Perona",
+          "Dick Feather",
+          "Robert H. Bird",
+          "Jeanne Leach"
+        ],
+        "metrics": [
+          "35%"
+        ]
+      },
+      "themes": [
+        "Insurance underwriting cycle"
+      ],
+      "buffett_concepts": [
+        "Underwriting discipline",
+        "Float"
+      ],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1982,
+        "comparison_years": [],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "medium",
+      "abstraction_level": "medium",
+      "token_count": 370,
+      "char_count": 2351,
+      "source_span": {
+        "start_char": 14929,
+        "end_char_exclusive": 17280
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": [],
+      "previous_summary": "The letter bridges from operating results to reported earnings detail, explaining how dividends, subsidiaries, and securities gains flow into Berkshire’s accounting totals.",
+      "next_summary": "After reviewing reported earnings sources, Buffett uses Berkshire’s stock holdings to underline how investor behavior and long holding periods can create outsized gains in a few exceptional businesses."
+    }
+  },
+  {
+    "chunk_id": "1982-S03-T1-003",
+    "content": "(a) All owned by Berkshire or its insurance subsidiaries.\n\n(b) Blue Chip and/or Wesco own shares of these companies. All\nnumbers represent Berkshires net interest in the larger\ngross holdings of the group.\n\n(c) Temporary holding as cash substitute.\n\nIn case you havent noticed, there is an important\ninvestment lesson to be derived from this table: nostalgia should\nbe weighted heavily in stock selection. Our two largest\nunrealized gains are in Washington Post and GEICO, companies with\nwhich your Chairman formed his first commercial connections at\nthe ages of 13 and 20, respectively After straying for roughly 25\nyears, we returned as investors in the mid-1970 s. The table\nquantifies the rewards for even long-delayed corporate fidelity.\n\nOur controlled and non-controlled businesses operate over\nsuch a wide spectrum that detailed commentary here would prove\ntoo lengthy. Much financial and operational information\nregarding the controlled businesses is included in Managements\nDiscussion on pages 34-39, and in the narrative reports on pages\n45-61. However, our largest area of business activity has been,\nand almost certainly will continue to be, the property-casualty\ninsurance area. So commentary on developments in that industry\nis appropriate.",
+    "metadata": {
+      "letter_year": 1982,
+      "letter_date": "1983-03-03",
+      "source_file": "1982_cleaned.txt",
+      "section_title": "Sources of Reported Earnings",
+      "section_hierarchy": [
+        "Letter Body",
+        "Financial Statements",
+        "Earnings Breakdown"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "narrative",
+      "contextual_summary": "After reviewing reported earnings sources, Buffett uses Berkshire’s stock holdings to underline how investor behavior and long holding periods can create outsized gains in a few exceptional businesses.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": false,
+      "entities": {
+        "companies": [
+          "Berkshire",
+          "GEICO"
+        ],
+        "people": [],
+        "metrics": []
+      },
+      "themes": [
+        "Insurance underwriting cycle"
+      ],
+      "buffett_concepts": [
+        "Underwriting discipline",
+        "Float"
+      ],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1982,
+        "comparison_years": [
+          1970
+        ],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "medium",
+      "abstraction_level": "medium",
+      "token_count": 190,
+      "char_count": 1255,
+      "source_span": {
+        "start_char": 18261,
+        "end_char_exclusive": 19516
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": [],
+      "previous_summary": "The letter bridges from operating results to reported earnings detail, explaining how dividends, subsidiaries, and securities gains flow into Berkshire’s accounting totals.",
+      "next_summary": "Berkshire’s earnings are broken out by business line, showing how insurance, operating subsidiaries, interest, and realized gains contributed to 1982 results versus 1981."
+    }
+  },
+  {
+    "chunk_id": "1982-S03-T2-001",
+    "content": "The table below shows the sources of Berkshires reported\nearnings. In 1981 and 1982 Berkshire owned about 60% of Blue\nChip Stamps which, in turn, owned 80% of Wesco Financial\nCorporation. The table displays aggregate operating earnings of\nthe various business entities, as well as Berkshires share of\nthose earnings. All of the significant gains and losses\nattributable to unusual sales of assets by any of the business\nentities are aggregated with securities transactions in the line\nnear the bottom of the table, and are not included in operating\nearnings.\n\nNet Earnings\nEarnings Before Income Taxes After Tax\n-------------------------------------- ------------------\nTotal Berkshire Share Berkshire Share\n------------------ ------------------ ------------------\n1982 1981 1982 1981 1982 1981\n-------- -------- -------- -------- -------- --------\n(000 s omitted)\n\nOperating Earnings:\nInsurance Group:\nUnderwriting ............ $(21,558) $ 1,478 $(21,558) $ 1,478 $(11,345) $ 798\nNet Investment Income ... 41,620 38,823 41,620 38,823 35,270 32,401\nBerkshire-Waumbec Textiles (1,545) (2,669) (1,545) (2,669) (862) (1,493)\nAssociated Retail Stores .. 914 1,763 914 1,763 446 759\nSees Candies ............. 23,884 20,961 14,235 12,493 6,914 5,910\nBuffalo Evening News ...... (1,215) (1,217) (724) (725) (226) (320)\nBlue Chip Stamps - Parent 4,182 3,642 2,492 2,171 2,472 2,134\nWesco Financial - Parent .. 6,156 4,495 2,937 2,145 2,210 1,590\nMutual Savings and Loan ... (6) 1,605 (2) 766 1,524 1,536\nPrecision Steel ........... 1,035 3,453 493 1,648 265 841\nInterest on Debt .......... (14,996) (14,656) (12,977) (12,649) (6,951) (6,671)\nOther* .................... 2,631 2,985 1,857 1,992 1,780 1,936\n-------- -------- -------- -------- -------- --------\nOperating Earnings .......... 41,102 60,663 27,742 47,236 31,497 39,421\nSales of securities and\nunusual sales of assets .. 36,651 37,801 21,875 33,150 14,877 23,183\n-------- -------- -------- -------- -------- --------\nTotal Earnings - all entities $ 77,753 $ 98,464 $ 49,617 $ 80,386 $ 46,374 $ 62,604\n======== ======== ======== ======== ======== ========",
+    "metadata": {
+      "letter_year": 1982,
+      "letter_date": "1983-03-03",
+      "source_file": "1982_cleaned.txt",
+      "section_title": "Sources of Reported Earnings",
+      "section_hierarchy": [
+        "Letter Body",
+        "Financial Statements",
+        "Earnings Breakdown"
+      ],
+      "chunk_tier": 2,
+      "parent_chunk_id": "1982-S03-T1-001",
+      "child_chunk_ids": [],
+      "content_type": "financial_table",
+      "contextual_summary": "Berkshire’s earnings are broken out by business line, showing how insurance, operating subsidiaries, interest, and realized gains contributed to 1982 results versus 1981.",
+      "has_table": true,
+      "table_data": [
+        {
+          "table_name": "Sources of reported earnings by business (1982 vs 1981)",
+          "summary": "Berkshire’s earnings are broken out by business line, showing how insurance, operating subsidiaries, interest, and realized gains contributed to 1982 results versus 1981.",
+          "columns": [],
+          "rows": [
+            []
+          ],
+          "row_count": 0
+        }
+      ],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "Berkshire",
+          "Blue Chip Stamps",
+          "Wesco Financial",
+          "Sees Candies",
+          "Buffalo Evening News",
+          "Associated Retail Stores",
+          "Precision Steel",
+          "Mutual Savings and Loan"
+        ],
+        "people": [],
+        "metrics": [
+          "$1,478",
+          "$798\n",
+          "$77,753",
+          "$98,464",
+          "$49,617",
+          "$80,386",
+          "$46,374",
+          "$62,604\n",
+          "60%",
+          "80%"
+        ]
+      },
+      "themes": [
+        "Insurance underwriting cycle"
+      ],
+      "buffett_concepts": [
+        "Underwriting discipline",
+        "Float"
+      ],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1982,
+        "comparison_years": [
+          1981
+        ],
+        "future_outlook": false
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "low",
+      "token_count": 304,
+      "char_count": 2109,
+      "source_span": {
+        "start_char": 12818,
+        "end_char_exclusive": 14927
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": [],
+      "previous_summary": "After reviewing reported earnings sources, Buffett uses Berkshire’s stock holdings to underline how investor behavior and long holding periods can create outsized gains in a few exceptional businesses.",
+      "next_summary": "A portfolio snapshot lists Berkshire’s major minority stock holdings with cost and market value, highlighting how a few long-held positions drove large unrealized gains."
+    }
+  },
+  {
+    "chunk_id": "1982-S03-T2-002",
+    "content": "We show below Berkshires proportional holdings in those\nnon-controlled businesses for which only distributed earnings\n(dividends) are included in our earnings.\n\nNo. of Shares\nor Share Equiv. Cost Market\n--------------- ---------- ----------\n(000 s omitted)\n\n460,650 (a) Affiliated Publications, Inc. ...... $ 3,516 $ 16,929\n908,800 (c) Crum & Forster ..................... 47,144 48,962\n2,101,244 (b) General Foods, Inc. ................ 66,277 83,680\n7,200,000 (a) GEICO Corporation .................. 47,138 309,600\n2,379,200 (a) Handy & Harman ..................... 27,318 46,692\n711,180 (a) Interpublic Group of Companies, Inc. 4,531 34,314\n282,500 (a) Media General ...................... 4,545 12,289\n391,400 (a) Ogilvy & Mather Intl. Inc. ........ 3,709 17,319\n3,107,675 (b) R. J. Reynolds Industries .......... 142,343 158,715\n1,531,391 (a) Time, Inc. ......................... 45,273 79,824\n1,868,600 (a) The Washington Post Company ........ 10,628 103,240\n---------- ----------\n$402,422 $911,564\nAll Other Common Stockholdings ..... 21,611 34,058\n---------- ----------\nTotal Common Stocks $424,033 $945,622\n========== ==========\n\n(a) All owned by Berkshire or its insurance subsidiaries.\n\n(b) Blue Chip and/or Wesco own shares of these companies. All\nnumbers represent Berkshires net interest in the larger\ngross holdings of the group.\n\n(c) Temporary holding as cash substitute.",
+    "metadata": {
+      "letter_year": 1982,
+      "letter_date": "1983-03-03",
+      "source_file": "1982_cleaned.txt",
+      "section_title": "Sources of Reported Earnings",
+      "section_hierarchy": [
+        "Letter Body",
+        "Financial Statements",
+        "Earnings Breakdown"
+      ],
+      "chunk_tier": 2,
+      "parent_chunk_id": "1982-S03-T1-002",
+      "child_chunk_ids": [],
+      "content_type": "financial_table",
+      "contextual_summary": "A portfolio snapshot lists Berkshire’s major minority stock holdings with cost and market value, highlighting how a few long-held positions drove large unrealized gains.",
+      "has_table": true,
+      "table_data": [
+        {
+          "table_name": "Non-controlled equity holdings: cost vs market (1982)",
+          "summary": "A portfolio snapshot lists Berkshire’s major minority stock holdings with cost and market value, highlighting how a few long-held positions drove large unrealized gains.",
+          "columns": [],
+          "rows": [
+            []
+          ],
+          "row_count": 0
+        }
+      ],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "Berkshire",
+          "GEICO",
+          "General Foods",
+          "The Washington Post",
+          "The Washington Post Company",
+          "R. J. Reynolds",
+          "Crum & Forster",
+          "Affiliated Publications",
+          "Time, Inc.",
+          "Interpublic Group of Companies",
+          "Ogilvy & Mather",
+          "Media General",
+          "Handy & Harman"
+        ],
+        "people": [],
+        "metrics": [
+          "$3,516",
+          "$16,929\n",
+          "$402,422",
+          "$911,564\n",
+          "$424,033",
+          "$945,622\n"
+        ]
+      },
+      "themes": [
+        "Insurance underwriting cycle"
+      ],
+      "buffett_concepts": [
+        "Underwriting discipline",
+        "Float"
+      ],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1982,
+        "comparison_years": [],
+        "future_outlook": false
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "low",
+      "token_count": 186,
+      "char_count": 1388,
+      "source_span": {
+        "start_char": 17121,
+        "end_char_exclusive": 18509
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": [],
+      "previous_summary": "Berkshire’s earnings are broken out by business line, showing how insurance, operating subsidiaries, interest, and realized gains contributed to 1982 results versus 1981.",
+      "next_summary": "Berkshire’s underwriting results and industry conditions are discussed, with a warning that the cycle is deteriorating and competitive dynamics have changed."
+    }
+  },
+  {
+    "chunk_id": "1982-S04-T1-001",
+    "content": "Insurance Industry Conditions\n\nWe show below an updated table of the industry statistics we\nutilized in last years annual report. Its message is clear:\nunderwriting results in 1983 will not be a sight for the\nsqueamish.",
+    "metadata": {
+      "letter_year": 1982,
+      "letter_date": "1983-03-03",
+      "source_file": "1982_cleaned.txt",
+      "section_title": "Insurance Industry Conditions",
+      "section_hierarchy": [
+        "Letter Body",
+        "Business Segments",
+        "Insurance"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [
+        "1982-S04-T2-001"
+      ],
+      "content_type": "narrative",
+      "contextual_summary": "Berkshire’s underwriting results and industry conditions are discussed, with a warning that the cycle is deteriorating and competitive dynamics have changed.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": false,
+      "entities": {
+        "companies": [],
+        "people": [],
+        "metrics": []
+      },
+      "themes": [
+        "Insurance underwriting cycle"
+      ],
+      "buffett_concepts": [
+        "Underwriting discipline",
+        "Float"
+      ],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1982,
+        "comparison_years": [
+          1983
+        ],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "medium",
+      "abstraction_level": "high",
+      "token_count": 36,
+      "char_count": 219,
+      "source_span": {
+        "start_char": 19518,
+        "end_char_exclusive": 19737
+      },
+      "standalone_exception": true,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": [],
+      "previous_summary": "A portfolio snapshot lists Berkshire’s major minority stock holdings with cost and market value, highlighting how a few long-held positions drove large unrealized gains.",
+      "next_summary": "Buffett argues that insurance behaves like a commodity business with chronic excess capacity, so durable underwriting profits require a true contraction in industry ‘mental’ supply."
+    }
+  },
+  {
+    "chunk_id": "1982-S04-T1-002",
+    "content": "Source: Bests Aggregates and Averages.\n\nThe Bests data reflect the experience of practically the\nentire industry, including stock, mutual and reciprocal\ncompanies. The combined ratio represents total operating and\nloss costs as compared to revenue from premiums; a ratio below\n100 indicates an underwriting profit, and one above 100 indicates\na loss.\n\nFor reasons outlined in last years report, as long as the\nannual gain in industry premiums written falls well below 10%,\nyou can expect the underwriting picture in the next year to\ndeteriorate. This will be true even at todays lower general\nrate of inflation. With the number of policies increasing\nannually, medical inflation far exceeding general inflation, and\nconcepts of insured liability broadening, it is highly unlikely\nthat yearly increases in insured losses will fall much below 10%.\n\nYou should be further aware that the 1982 combined ratio of\n109.5 represents a best case estimate. In a given year, it is\npossible for an insurer to show almost any profit number it\nwishes, particularly if it (1) writes long-tail business\n(coverage where current costs can be only estimated, because\nclaim payments are long delayed), (2) has been adequately\nreserved in the past, or (3) is growing very rapidly. There are\nindications that several large insurers opted in 1982 for obscure\naccounting and reserving maneuvers that masked significant\ndeterioration in their underlying businesses. In insurance, as\nelsewhere, the reaction of weak managements to weak operations is\noften weak accounting. (Its difficult for an empty sack to\nstand upright.)\n\nThe great majority of managements, however, try to play it\nstraight. But even managements of integrity may subconsciously\nbe less willing in poor profit years to fully recognize adverse\nloss trends. Industry statistics indicate some deterioration in\nloss reserving practices during 1982 and the true combined ratio\nis likely to be modestly worse than indicated by our table.\n\nThe conventional wisdom is that 1983 or 1984 will see the\nworst of underwriting experience and then, as in the past, the\ncycle will move, significantly and steadily, toward better\nresults. We disagree because of a pronounced change in the\ncompetitive environment, hard to see for many years but now quite\nvisible.\n\nTo understand the change, we need to look at some major\nfactors that affect levels of corporate profitability generally.\nBusinesses in industries with both substantial over-capacity and\na commodity product (undifferentiated in any customer-important\nway by factors such as performance, appearance, service support,\netc.) are prime candidates for profit troubles. These may be\nescaped, true, if prices or costs are administered in some manner\nand thereby insulated at least partially from normal market\nforces. This administration can be carried out (a) legally\nthrough government intervention (until recently, this category\nincluded pricing for truckers and deposit costs for financial\ninstitutions), (b) illegally through collusion, or (c) extralegally through OPEC-style foreign cartelization (with tag-along\nbenefits for domestic non-cartel operators).\n\nIf, however, costs and prices are determined by full-bore\ncompetition, there is more than ample capacity, and the buyer\ncares little about whose product or distribution services he\nuses, industry economics are almost certain to be unexciting.\nThey may well be disastrous.\n\nHence the constant struggle of every vendor to establish and\nemphasize special qualities of product or service. This works\nwith candy bars (customers buy by brand name, not by asking for a\ntwo-ounce candy bar) but doesnt work with sugar (how often do\nyou hear, Ill have a cup of coffee with cream and C & H sugar,\nplease).",
+    "metadata": {
+      "letter_year": 1982,
+      "letter_date": "1983-03-03",
+      "source_file": "1982_cleaned.txt",
+      "section_title": "Insurance Industry Conditions",
+      "section_hierarchy": [
+        "Letter Body",
+        "Business Segments",
+        "Insurance"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "narrative",
+      "contextual_summary": "Buffett argues that insurance behaves like a commodity business with chronic excess capacity, so durable underwriting profits require a true contraction in industry ‘mental’ supply.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [],
+        "people": [],
+        "metrics": [
+          "10%",
+          "109.5"
+        ]
+      },
+      "themes": [
+        "Insurance underwriting cycle"
+      ],
+      "buffett_concepts": [
+        "Underwriting discipline",
+        "Float",
+        "Combined ratio"
+      ],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1982,
+        "comparison_years": [
+          1983,
+          1984
+        ],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "medium",
+      "abstraction_level": "medium",
+      "token_count": 578,
+      "char_count": 3742,
+      "source_span": {
+        "start_char": 20309,
+        "end_char_exclusive": 24051
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": [],
+      "previous_summary": "Berkshire’s underwriting results and industry conditions are discussed, with a warning that the cycle is deteriorating and competitive dynamics have changed.",
+      "next_summary": "Buffett argues that insurance behaves like a commodity business with chronic excess capacity, so durable underwriting profits require a true contraction in industry ‘mental’ supply."
+    }
+  },
+  {
+    "chunk_id": "1982-S04-T1-003",
+    "content": "In many industries, differentiation simply cant be made\nmeaningful. A few producers in such industries may consistently\ndo well if they have a cost advantage that is both wide and\nsustainable. By definition such exceptions are few, and, in many\nindustries, are non-existent. For the great majority of\ncompanies selling commodityproducts, a depressing equation of\nbusiness economics prevails: persistent over-capacity without\nadministered prices (or costs) equals poor profitability.\n\nOf course, over-capacity may eventually self-correct, either\nas capacity shrinks or demand expands. Unfortunately for the\nparticipants, such corrections often are long delayed. When they\nfinally occur, the rebound to prosperity frequently produces a\npervasive enthusiasm for expansion that, within a few years,\nagain creates over-capacity and a new profitless environment. In\nother words, nothing fails like success.\n\nWhat finally determines levels of long-term profitability in\nsuch industries is the ratio of supply-tight to supply-ample\nyears. Frequently that ratio is dismal. (It seems as if the most\nrecent supply-tight period in our textile business - it occurred\nsome years back - lasted the better part of a morning.)\n\nIn some industries, however, capacity-tight conditions can\nlast a long time. Sometimes actual growth in demand will outrun\nforecasted growth for an extended period. In other cases, adding\ncapacity requires very long lead times because complicated\nmanufacturing facilities must be planned and built.\n\nBut in the insurance business, to return to that subject,\ncapacity can be instantly created by capital plus an\nunderwriters willingness to sign his name. (Even capital is less\nimportant in a world in which state-sponsored guaranty funds\nprotect many policyholders against insurer insolvency.) Under\nalmost all conditions except that of fear for survival -\nproduced, perhaps, by a stock market debacle or a truly major\nnatural disaster - the insurance industry operates under the\ncompetitive sword of substantial overcapacity. Generally, also,\ndespite heroic attempts to do otherwise, the industry sells a\nrelatively undifferentiated commodity-type product. (Many\ninsureds, including the managers of large businesses, do not even\nknow the names of their insurers.) Insurance, therefore, would\nseem to be a textbook case of an industry usually faced with the\ndeadly combination of excess capacity and a commodity product.\n\nWhy, then, was underwriting, despite the existence of\ncycles, generally profitable over many decades? (From 1950\nthrough 1970, the industry combined ratio averaged 99.0.\nallowing all investment income plus 1% of premiums to flow\nthrough to profits.) The answer lies primarily in the historic\nmethods of regulation and distribution. For much of this\ncentury, a large portion of the industry worked, in effect,\nwithin a legal quasi-administered pricing system fostered by\ninsurance regulators. While price competition existed, it was\nnot pervasive among the larger companies. The main competition\nwas for agents, who were courted via various non-price-related\nstrategies.\n\nFor the giants of the industry, most rates were set through\nnegotiations between industry bureaus (or through companies\nacting in accord with their recommendations) and state\nregulators. Dignified haggling occurred, but it was between\ncompany and regulator rather than between company and customer.\nWhen the dust settled, Giant A charged the same price as Giant B\n- and both companies and agents were prohibited by law from\ncutting such filed rates.",
+    "metadata": {
+      "letter_year": 1982,
+      "letter_date": "1983-03-03",
+      "source_file": "1982_cleaned.txt",
+      "section_title": "Insurance Industry Conditions",
+      "section_hierarchy": [
+        "Letter Body",
+        "Business Segments",
+        "Insurance"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "narrative",
+      "contextual_summary": "Buffett argues that insurance behaves like a commodity business with chronic excess capacity, so durable underwriting profits require a true contraction in industry ‘mental’ supply.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [],
+        "people": [],
+        "metrics": [
+          "1%",
+          "99.0"
+        ]
+      },
+      "themes": [
+        "Market psychology and valuation",
+        "Insurance underwriting cycle"
+      ],
+      "buffett_concepts": [
+        "Mr. Market",
+        "Underwriting discipline",
+        "Float",
+        "Combined ratio"
+      ],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1982,
+        "comparison_years": [
+          1950,
+          1970
+        ],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "high",
+      "token_count": 526,
+      "char_count": 3552,
+      "source_span": {
+        "start_char": 24053,
+        "end_char_exclusive": 27605
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": [],
+      "previous_summary": "Buffett argues that insurance behaves like a commodity business with chronic excess capacity, so durable underwriting profits require a true contraction in industry ‘mental’ supply.",
+      "next_summary": "Berkshire’s underwriting results and industry conditions are discussed, with a warning that the cycle is deteriorating and competitive dynamics have changed."
+    }
+  },
+  {
+    "chunk_id": "1982-S04-T1-004",
+    "content": "The company-state negotiated prices included specific profit\nallowances and, when loss data indicated that current prices were\nunprofitable, both company managements and state regulators\nexpected that they would act together to correct the situation.\nThus, most of the pricing actions of the giants of the industry\nwere gentlemanly, predictable, and profit-producing. Of prime\nimportance - and in contrast to the way most of the business\nworld operated - insurance companies could legally price their\nway to profitability even in the face of substantial overcapacity.\n\nThat day is gone. Although parts of the old structure\nremain, far more than enough new capacity exists outside of that\nstructure to force all parties, old and new, to respond. The new\ncapacity uses various methods of distribution and is not\nreluctant to use price as a prime competitive weapon. Indeed, it\nrelishes that use. In the process, customers have learned that\ninsurance is no longer a one-price business. They wont forget.\n\nFuture profitability of the industry will be determined by\ncurrent competitive characteristics, not past ones. Many\nmanagers have been slow to recognize this. Its not only\ngenerals that prefer to fight the last war. Most business and\ninvestment analysis also comes from the rear-view mirror. It\nseems clear to us, however, that only one condition will allow\nthe insurance industry to achieve significantly improved\nunderwriting results. That is the same condition that will allow\nbetter results for the aluminum, copper, or corn producer - a\nmajor narrowing of the gap between demand and supply.\n\nUnfortunately, there can be no surge in demand for insurance\npolicies comparable to one that might produce a market tightness\nin copper or aluminum. Rather, the supply of available insurance\ncoverage must be curtailed. Supply, in this context, is mental\nrather than physical: plants or companies need not be shut; only\nthe willingness of underwriters to sign their names need be\ncurtailed.\n\nThis contraction will not happen because of generally poor\nprofit levels. Bad profits produce much hand-wringing and\nfinger-pointing. But they do not lead major sources of insurance\ncapacity to turn their backs on very large chunks of business,\nthereby sacrificing market share and industry significance.\n\nInstead, major capacity withdrawals require a shock factor\nsuch as a natural or financial megadisaster. One might occur\ntomorrow - or many years from now. The insurance business - even\ntaking investment income into account - will not be particularly\nprofitable in the meantime.\n\nWhen supply ultimately contracts, large amounts of business\nwill be available for the few with large capital capacity, a\nwillingness to commit it, and an in-place distribution system.\nWe would expect great opportunities for our insurance\nsubsidiaries at such a time.\n\nDuring 1982, our insurance underwriting deteriorated far\nmore than did the industrys. From a profit position well above\naverage, we, slipped to a performance modestly below average.\nThe biggest swing was in National Indemnitys traditional\ncoverages. Lines that have been highly profitable for us in the\npast are now priced at levels that guarantee underwriting losses.\nIn 1983 we expect our insurance group to record an average\nperformance in an industry in which average is very poor.",
+    "metadata": {
+      "letter_year": 1982,
+      "letter_date": "1983-03-03",
+      "source_file": "1982_cleaned.txt",
+      "section_title": "Insurance Industry Conditions",
+      "section_hierarchy": [
+        "Letter Body",
+        "Business Segments",
+        "Insurance"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "narrative",
+      "contextual_summary": "Berkshire’s underwriting results and industry conditions are discussed, with a warning that the cycle is deteriorating and competitive dynamics have changed.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": false,
+      "entities": {
+        "companies": [
+          "National Indemnity"
+        ],
+        "people": [],
+        "metrics": []
+      },
+      "themes": [
+        "Insurance underwriting cycle"
+      ],
+      "buffett_concepts": [
+        "Underwriting discipline",
+        "Float"
+      ],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1982,
+        "comparison_years": [
+          1983
+        ],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "high",
+      "token_count": 520,
+      "char_count": 3328,
+      "source_span": {
+        "start_char": 27607,
+        "end_char_exclusive": 30935
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": [],
+      "previous_summary": "Buffett argues that insurance behaves like a commodity business with chronic excess capacity, so durable underwriting profits require a true contraction in industry ‘mental’ supply.",
+      "next_summary": "Buffett argues that insurance behaves like a commodity business with chronic excess capacity, so durable underwriting profits require a true contraction in industry ‘mental’ supply."
+    }
+  },
+  {
+    "chunk_id": "1982-S04-T1-005",
+    "content": "Two of our stars, Milt Thornton at Cypress and Floyd Taylor\nat Kansas Fire and Casualty, continued their outstanding records\nof producing an underwriting profit every year since joining us.\nBoth Milt and Floyd simply are incapable of being average. They\nmaintain a passionately proprietary attitude toward their\noperations and have developed a business culture centered upon\nunusual cost-consciousness and customer service. It shows on\ntheir scorecards.\n\nDuring 1982, parent company responsibility for most of our\ninsurance operations was given to Mike Goldberg. Planning,\nrecruitment, and monitoring all have shown significant\nimprovement since Mike replaced me in this role.\n\nGEICO continues to be managed with a zeal for efficiency and\nvalue to the customer that virtually guarantees unusual success.\nJack Byrne and Bill Snyder are achieving the most elusive of\nhuman goals - keeping things simple and remembering what you set\nout to do. In Lou Simpson, additionally, GEICO has the best\ninvestment manager in the property-casualty business. We are\nhappy with every aspect of this operation. GEICO is a\nmagnificent illustration of the high-profit exception we\ndescribed earlier in discussing commodity industries with overcapacity - a company with a wide and sustainable cost advantage.\nOur 35% interest in GEICO represents about $250 million of\npremium volume, an amount considerably greater than all of the\ndirect volume we produce.",
+    "metadata": {
+      "letter_year": 1982,
+      "letter_date": "1983-03-03",
+      "source_file": "1982_cleaned.txt",
+      "section_title": "Insurance Industry Conditions",
+      "section_hierarchy": [
+        "Letter Body",
+        "Business Segments",
+        "Insurance"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "narrative",
+      "contextual_summary": "Buffett argues that insurance behaves like a commodity business with chronic excess capacity, so durable underwriting profits require a true contraction in industry ‘mental’ supply.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "GEICO",
+          "Kansas Fire and Casualty",
+          "Cypress"
+        ],
+        "people": [
+          "Jack Byrne",
+          "Bill Snyder",
+          "Lou Simpson",
+          "Mike Goldberg",
+          "Milt Thornton",
+          "Floyd Taylor"
+        ],
+        "metrics": [
+          "$250million",
+          "35%"
+        ]
+      },
+      "themes": [
+        "Insurance underwriting cycle"
+      ],
+      "buffett_concepts": [
+        "Underwriting discipline",
+        "Float"
+      ],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1982,
+        "comparison_years": [],
+        "future_outlook": false
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "medium",
+      "abstraction_level": "medium",
+      "token_count": 219,
+      "char_count": 1436,
+      "source_span": {
+        "start_char": 30937,
+        "end_char_exclusive": 32373
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": [],
+      "previous_summary": "Berkshire’s underwriting results and industry conditions are discussed, with a warning that the cycle is deteriorating and competitive dynamics have changed.",
+      "next_summary": "Industry-wide premium growth and combined ratios are summarized across the 1970s and early 1980s to illustrate a worsening underwriting cycle going into 1983."
+    }
+  },
+  {
+    "chunk_id": "1982-S04-T2-001",
+    "content": "We show below an updated table of the industry statistics we\nutilized in last years annual report. Its message is clear:\nunderwriting results in 1983 will not be a sight for the\nsqueamish.\n\nYearly Change Yearly Change Combined Ratio\nin Premiums in Premiums after Policy Written (%) Earned (%) holder Dividends\n\n------------- ------------- ----------------\n1972 ................ 10.2 10.9 96.2\n1973 ................ 8.0 8.8 99.2\n1974 ................ 6.2 6.9 105.4\n1975 ................ 11.0 9.6 107.9\n1976 ................ 21.9 19.4 102.4\n1977 ................ 19.8 20.5 97.2\n1978 ................ 12.8 14.3 97.5\n1979 ................ 10.3 10.4 100.6\n1980 ................ 6.0 7.8 103.1\n1981 (Rev.) ......... 3.9 4.1 106.0\n1982 (Est.) ......... 5.1 4.6 109.5\n\nSource: Bests Aggregates and Averages.",
+    "metadata": {
+      "letter_year": 1982,
+      "letter_date": "1983-03-03",
+      "source_file": "1982_cleaned.txt",
+      "section_title": "Insurance Industry Conditions",
+      "section_hierarchy": [
+        "Letter Body",
+        "Business Segments",
+        "Insurance"
+      ],
+      "chunk_tier": 2,
+      "parent_chunk_id": "1982-S04-T1-001",
+      "child_chunk_ids": [],
+      "content_type": "financial_table",
+      "contextual_summary": "Industry-wide premium growth and combined ratios are summarized across the 1970s and early 1980s to illustrate a worsening underwriting cycle going into 1983.",
+      "has_table": true,
+      "table_data": [
+        {
+          "table_name": "Property-casualty industry cycle statistics (1972-1982)",
+          "summary": "Industry-wide premium growth and combined ratios are summarized across the 1970s and early 1980s to illustrate a worsening underwriting cycle going into 1983.",
+          "columns": [],
+          "rows": [
+            []
+          ],
+          "row_count": 0
+        }
+      ],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [],
+        "people": [],
+        "metrics": [
+          "10.2",
+          "10.9",
+          "96.2",
+          "99.2",
+          "105.4",
+          "11.0",
+          "107.9",
+          "21.9",
+          "19.4",
+          "102.4",
+          "19.8",
+          "20.5"
+        ]
+      },
+      "themes": [
+        "Insurance underwriting cycle"
+      ],
+      "buffett_concepts": [
+        "Underwriting discipline",
+        "Float",
+        "Combined ratio"
+      ],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1982,
+        "comparison_years": [
+          1972,
+          1973,
+          1974,
+          1975,
+          1976,
+          1977,
+          1978,
+          1979,
+          1980,
+          1981,
+          1983
+        ],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "low",
+      "token_count": 116,
+      "char_count": 798,
+      "source_span": {
+        "start_char": 19549,
+        "end_char_exclusive": 20347
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": [],
+      "previous_summary": "Buffett argues that insurance behaves like a commodity business with chronic excess capacity, so durable underwriting profits require a true contraction in industry ‘mental’ supply.",
+      "next_summary": "Buffett lays out why issuing undervalued stock for acquisitions destroys owner value, and he proposes rules and mental models for judging whether share issuance is fair to existing shareholders."
+    }
+  },
+  {
+    "chunk_id": "1982-S05-T1-001",
+    "content": "Issuance of Equity\n\nBerkshire and Blue Chip are considering merger in 1983. If\nit takes place, it will involve an exchange of stock based upon\nan identical valuation method applied to both companies. The one\nother significant issuance of shares by Berkshire or its\naffiliated companies that occurred during present managements\ntenure was in the 1978 merger of Berkshire with Diversified\nRetailing Company.\n\nOur share issuances follow a simple basic rule: we will not\nissue shares unless we receive as much intrinsic business value\nas we give. Such a policy might seem axiomatic. Why, you might\nask, would anyone issue dollar bills in exchange for fifty-cent\npieces? Unfortunately, many corporate managers have been willing\nto do just that.\n\nThe first choice of these managers in making acquisitions\nmay be to use cash or debt. But frequently the CEOs cravings\noutpace cash and credit resources (certainly mine always have).\nFrequently, also, these cravings occur when his own stock is\nselling far below intrinsic business value. This state of\naffairs produces a moment of truth. At that point, as Yogi Berra\nhas said, You can observe a lot just by watching. For\nshareholders then will find which objective the management truly\nprefers - expansion of domain or maintenance of owners wealth.\n\nThe need to choose between these objectives occurs for some\nsimple reasons. Companies often sell in the stock market below\ntheir intrinsic business value. But when a company wishes to\nsell out completely, in a negotiated transaction, it inevitably\nwants to - and usually can - receive full business value in\nwhatever kind of currency the value is to be delivered. If cash\nis to be used in payment, the sellers calculation of value\nreceived couldnt be easier. If stock of the buyer is to be the\ncurrency, the sellers calculation is still relatively easy: just\nfigure the market value in cash of what is to be received in\nstock.\n\nMeanwhile, the buyer wishing to use his own stock as\ncurrency for the purchase has no problems if the stock is selling\nin the market at full intrinsic value.\n\nBut suppose it is selling at only half intrinsic value. In\nthat case, the buyer is faced with the unhappy prospect of using\na substantially undervalued currency to make its purchase.\n\nIronically, were the buyer to instead be a seller of its\nentire business, it too could negotiate for, and probably get,\nfull intrinsic business value. But when the buyer makes a\npartial sale of itself -\nand that is what the issuance of shares\nto make an acquisition amounts to\n- it can customarily get no\nhigher value set on its shares than the market chooses to grant\nit.\n\nThe acquirer who nevertheless barges ahead ends up using an\nundervalued (market value) currency to pay for a fully valued\n(negotiated value) property. In effect, the acquirer must give\nup $2 of value to receive $1 of value. Under such circumstances,\na marvelous business purchased at a fair sales price becomes a\nterrible buy. For gold valued as gold cannot be purchased\nintelligently through the utilization of gold - or even silver -\nvalued as lead.",
+    "metadata": {
+      "letter_year": 1982,
+      "letter_date": "1983-03-03",
+      "source_file": "1982_cleaned.txt",
+      "section_title": "Issuance of Equity",
+      "section_hierarchy": [
+        "Letter Body",
+        "Capital Allocation",
+        "Share Issuance"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "narrative",
+      "contextual_summary": "Buffett lays out why issuing undervalued stock for acquisitions destroys owner value, and he proposes rules and mental models for judging whether share issuance is fair to existing shareholders.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "Berkshire"
+        ],
+        "people": [
+          "Yogi Berra"
+        ],
+        "metrics": [
+          "$2",
+          "$1"
+        ]
+      },
+      "themes": [
+        "Market psychology and valuation",
+        "Capital allocation and acquisitions"
+      ],
+      "buffett_concepts": [
+        "Mr. Market"
+      ],
+      "principles": [
+        {
+          "statement": "Prefer fair value-for-value deals; avoid adrenaline-driven acquisitions.",
+          "category": "share_issuance"
+        },
+        {
+          "statement": "Do not issue shares unless you receive at least as much intrinsic value as you give.",
+          "category": "share_issuance"
+        }
+      ],
+      "temporal_references": {
+        "primary_year": 1982,
+        "comparison_years": [
+          1978,
+          1983
+        ],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "high",
+      "token_count": 524,
+      "char_count": 3087,
+      "source_span": {
+        "start_char": 32375,
+        "end_char_exclusive": 35462
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": [],
+      "previous_summary": "Industry-wide premium growth and combined ratios are summarized across the 1970s and early 1980s to illustrate a worsening underwriting cycle going into 1983.",
+      "next_summary": "Buffett lays out why issuing undervalued stock for acquisitions destroys owner value, and he proposes rules and mental models for judging whether share issuance is fair to existing shareholders."
+    }
+  },
+  {
+    "chunk_id": "1982-S05-T1-002",
+    "content": "If, however, the thirst for size and action is strong\nenough, the acquirers manager will find ample rationalizations\nfor such a value-destroying issuance of stock. Friendly\ninvestment bankers will reassure him as to the soundness of his\nactions. (Dont ask the barber whether you need a haircut.)\n\nA few favorite rationalizations employed by stock-issuing\nmanagements follow:\n\n(a) The company were buying is going to be worth a lot\nmore in the future. (Presumably so is the interest in\nthe old business that is being traded away; future\nprospects are implicit in the business valuation\nprocess. If 2 X is issued for X, the imbalance still\nexists when both parts double in business value.)\n\n(b) We have to grow. (Who, it might be asked, is the we?\nFor present shareholders, the reality is that all\nexisting businesses shrink when shares are issued. Were\nBerkshire to issue shares tomorrow for an acquisition,\nBerkshire would own everything that it now owns plus the\nnew business, but\nyour\ninterest in such hard-to-match\nbusinesses as Sees Candy Shops, National Indemnity,\netc. would automatically be reduced. If (1) your family\nowns a 120-acre farm and (2) you invite a neighbor with\n60 acres of comparable land to merge his farm into an\nequal partnership - with you to be managing partner,\nthen (3) your managerial domain will have grown to 180\nacres but you will have permanently shrunk by 25% your\nfamilys ownership interest in both acreage and crops.\nManagers who want to expand their domain at the expense\nof owners might better consider a career in government.)\n\n(c) Our stock is undervalued and weve minimized its use in\nthis deal - but we need to give the selling shareholders\n51% in stock and 49% in cash so that certain of those\nshareholders can get the tax-free exchange they want.\n(This argument acknowledges that it is beneficial to the\nacquirer to hold down the issuance of shares, and we like\nthat. But if it hurts the old owners to utilize shares\non a 100% basis, it very likely hurts on a 51% basis.\nAfter all, a man is not charmed if a spaniel defaces his\nlawn, just because its a spaniel and not a St. Bernard.\nAnd the wishes of sellers cant be the determinant of the\nbest interests of the buyer - what would happen if,\nheaven forbid, the seller insisted that as a condition of\nmerger the CEO of the acquirer be replaced?)\n\nThere are three ways to avoid destruction of value for old\nowners when shares are issued for acquisitions. One is to have a\ntrue business-value-for-business-value merger, such as the\nBerkshire-Blue Chip combination is intended to be. Such a merger\nattempts to be fair to shareholders of\nboth\nparties, with each\nreceiving just as much as it gives in terms of intrinsic business\nvalue. The Dart Industries-Kraft and Nabisco Standard Brands\nmergers appeared to be of this type, but they are the exceptions.\nIts not that acquirers wish to avoid such deals; its just that\nthey are very hard to do.\n\nThe second route presents itself when the acquirers stock\nsells at or above its intrinsic business value. In that\nsituation, the use of stock as currency actually may enhance the\nwealth of the acquiring companys owners. Many mergers were\naccomplished on this basis in the 1965-69 period. The results\nwere the converse of most of the activity since 1970: the\nshareholders of the\nacquired\ncompany received very inflated\ncurrency (frequently pumped up by dubious accounting and\npromotional techniques) and were the losers of wealth through\nsuch transactions.",
+    "metadata": {
+      "letter_year": 1982,
+      "letter_date": "1983-03-03",
+      "source_file": "1982_cleaned.txt",
+      "section_title": "Issuance of Equity",
+      "section_hierarchy": [
+        "Letter Body",
+        "Capital Allocation",
+        "Share Issuance"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "narrative",
+      "contextual_summary": "Buffett lays out why issuing undervalued stock for acquisitions destroys owner value, and he proposes rules and mental models for judging whether share issuance is fair to existing shareholders.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "Berkshire",
+          "National Indemnity"
+        ],
+        "people": [],
+        "metrics": [
+          "25%",
+          "51%",
+          "49%",
+          "100%"
+        ]
+      },
+      "themes": [
+        "Capital allocation and acquisitions"
+      ],
+      "buffett_concepts": [],
+      "principles": [
+        {
+          "statement": "Prefer fair value-for-value deals; avoid adrenaline-driven acquisitions.",
+          "category": "share_issuance"
+        },
+        {
+          "statement": "Do not issue shares unless you receive at least as much intrinsic value as you give.",
+          "category": "share_issuance"
+        }
+      ],
+      "temporal_references": {
+        "primary_year": 1982,
+        "comparison_years": [
+          1965,
+          1970
+        ],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "medium",
+      "token_count": 596,
+      "char_count": 3490,
+      "source_span": {
+        "start_char": 35464,
+        "end_char_exclusive": 38954
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": [],
+      "previous_summary": "Buffett lays out why issuing undervalued stock for acquisitions destroys owner value, and he proposes rules and mental models for judging whether share issuance is fair to existing shareholders.",
+      "next_summary": "Buffett lays out why issuing undervalued stock for acquisitions destroys owner value, and he proposes rules and mental models for judging whether share issuance is fair to existing shareholders."
+    }
+  },
+  {
+    "chunk_id": "1982-S05-T1-003",
+    "content": "During recent years the second solution has been available\nto very few large companies. The exceptions have primarily been\nthose companies in glamorous or promotional businesses to which\nthe market temporarily attaches valuations at or above intrinsic\nbusiness valuation.\n\nThe third solution is for the acquirer to go ahead with the\nacquisition, but then subsequently repurchase a quantity of\nshares equal to the number issued in the merger. In this manner,\nwhat originally was a stock-for-stock merger can be converted,\neffectively, into a cash-for-stock acquisition. Repurchases of\nthis kind are damage-repair moves. Regular readers will\ncorrectly guess that we much prefer repurchases that directly\nenhance the wealth of owners instead of repurchases that merely\nrepair previous damage. Scoring touchdowns is more exhilarating\nthan recovering ones fumbles. But, when a fumble has occurred,\nrecovery is important and we heartily recommend damage-repair\nrepurchases that turn a bad stock deal into a fair cash deal.\n\nThe language utilized in mergers tends to confuse the issues\nand encourage irrational actions by managers. For example,\ndilution is usually carefully calculated on a pro forma basis\nfor both book value and current earnings per share. Particular\nemphasis is given to the latter item. When that calculation is\nnegative (dilutive) from the acquiring companys standpoint, a\njustifying explanation will be made (internally, if not\nelsewhere) that the lines will cross favorably at some point in\nthe future. (While deals often fail in practice, they never fail\nin projections - if the CEO is visibly panting over a prospective\nacquisition, subordinates and consultants will supply the\nrequisite projections to rationalize any price.) Should the\ncalculation produce numbers that are immediately positive - that\nis, anti-dilutive - for the acquirer, no comment is thought to be\nnecessary.\n\nThe attention given this form of dilution is overdone:\ncurrent earnings per share (or even earnings per share of the\nnext few years) are an important variable in most business\nvaluations, but far from all powerful.\n\nThere have been plenty of mergers, non-dilutive in this\nlimited sense, that were instantly value destroying for the\nacquirer. And some mergers that have diluted current and nearterm earnings per share have in fact been value-enhancing. What\nreally counts is whether a merger is dilutive or anti-dilutive in\nterms of intrinsic business value (a judgment involving\nconsideration of many variables). We believe calculation of\ndilution from this viewpoint to be all-important (and too seldom\nmade).\n\nA second language problem relates to the equation of\nexchange. If Company A announces that it will issue shares to\nmerge with Company B, the process is customarily described as\nCompany A to Acquire Company B, or B Sells to A. Clearer\nthinking about the matter would result if a more awkward but more\naccurate description were used: Part of A sold to acquire B, or\nOwners of B to receive part of A in exchange for their\nproperties. In a trade, what you are giving is just as\nimportant as what you are getting. This remains true even when\nthe final tally on what is being given is delayed. Subsequent\nsales of common stock or convertible issues, either to complete\nthe financing for a deal or to restore balance sheet strength,\nmust be fully counted in evaluating the fundamental mathematics\nof the original acquisition. (If corporate pregnancy is going to\nbe the consequence of corporate mating, the time to face that\nfact is before the moment of ecstasy.)",
+    "metadata": {
+      "letter_year": 1982,
+      "letter_date": "1983-03-03",
+      "source_file": "1982_cleaned.txt",
+      "section_title": "Issuance of Equity",
+      "section_hierarchy": [
+        "Letter Body",
+        "Capital Allocation",
+        "Share Issuance"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "narrative",
+      "contextual_summary": "Buffett lays out why issuing undervalued stock for acquisitions destroys owner value, and he proposes rules and mental models for judging whether share issuance is fair to existing shareholders.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": false,
+      "entities": {
+        "companies": [],
+        "people": [],
+        "metrics": []
+      },
+      "themes": [
+        "Capital allocation and acquisitions"
+      ],
+      "buffett_concepts": [],
+      "principles": [
+        {
+          "statement": "Prefer fair value-for-value deals; avoid adrenaline-driven acquisitions.",
+          "category": "share_issuance"
+        },
+        {
+          "statement": "Do not issue shares unless you receive at least as much intrinsic value as you give.",
+          "category": "share_issuance"
+        }
+      ],
+      "temporal_references": {
+        "primary_year": 1982,
+        "comparison_years": [],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "high",
+      "token_count": 568,
+      "char_count": 3567,
+      "source_span": {
+        "start_char": 38956,
+        "end_char_exclusive": 42523
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": [],
+      "previous_summary": "Buffett lays out why issuing undervalued stock for acquisitions destroys owner value, and he proposes rules and mental models for judging whether share issuance is fair to existing shareholders.",
+      "next_summary": "Buffett lays out why issuing undervalued stock for acquisitions destroys owner value, and he proposes rules and mental models for judging whether share issuance is fair to existing shareholders."
+    }
+  },
+  {
+    "chunk_id": "1982-S05-T1-004",
+    "content": "Managers and directors might sharpen their thinking by\nasking themselves if they would sell 100% of their business on\nthe same basis they are being asked to sell part of it. And if\nit isnt smart to sell all on such a basis, they should ask\nthemselves why it is smart to sell a portion. A cumulation of\nsmall managerial stupidities will produce a major stupidity - not\na major triumph. (Las Vegas has been built upon the wealth\ntransfers that occur when people engage in seemingly-small\ndisadvantageous capital transactions.)\n\nThe giving versus getting factor can most easily be\ncalculated in the case of registered investment companies.\nAssume Investment Company X, selling at 50% of asset value,\nwishes to merge with Investment Company Y. Assume, also, that\nCompany X therefore decides to issue shares equal in market value\nto 100% of Ys asset value.\n\nSuch a share exchange would leave X trading $2 of its\nprevious intrinsic value for $1 of Ys intrinsic value. Protests\nwould promptly come forth from both Xs shareholders and the SEC,\nwhich rules on the fairness of registered investment company\nmergers. Such a transaction simply would not be allowed.\n\nIn the case of manufacturing, service, financial companies,\netc., values are not normally as precisely calculable as in the\ncase of investment companies. But we have seen mergers in these\nindustries that just as dramatically destroyed value for the\nowners of the acquiring company as was the case in the\nhypothetical illustration above. This destruction could not\nhappen if management and directors would assess the fairness of\nany transaction by using the same yardstick in the measurement of\nboth businesses.\n\nFinally, a word should be said about the double whammy\neffect upon owners of the acquiring company when value-diluting\nstock issuances occur. Under such circumstances, the first blow\nis the loss of intrinsic business value that occurs through the\nmerger itself. The second is the downward revision in market\nvaluation that, quite rationally, is given to that now-diluted\nbusiness value. For current and prospective owners\nunderstandably will not pay as much for assets lodged in the\nhands of a management that has a record of wealth-destruction\nthrough unintelligent share issuances as they will pay for assets\nentrusted to a management with precisely equal operating talents,\nbut a known distaste for anti-owner actions. Once management\nshows itself insensitive to the interests of owners, shareholders\nwill suffer a long time from the price/value ratio afforded their\nstock (relative to other stocks), no matter what assurances\nmanagement gives that the value-diluting action taken was a oneof-a-kind event.\n\nThose assurances are treated by the market much as one-bugin-the-salad explanations are treated at restaurants. Such\nexplanations, even when accompanied by a new waiter, do not\neliminate a drop in the demand (and hence market value) for\nsalads, both on the part of the offended customer and his\nneighbors pondering what to order. Other things being equal, the\nhighest stock market prices relative to intrinsic business value\nare given to companies whose managers have demonstrated their\nunwillingness to issue shares at any time on terms unfavorable to\nthe owners of the business.\n\nAt Berkshire, or any company whose policies we determine\n(including Blue Chip and Wesco), we will issue shares only if our\nowners receive in business value as much as we give. We will not\nequate activity with progress or corporate size with ownerwealth.",
+    "metadata": {
+      "letter_year": 1982,
+      "letter_date": "1983-03-03",
+      "source_file": "1982_cleaned.txt",
+      "section_title": "Issuance of Equity",
+      "section_hierarchy": [
+        "Letter Body",
+        "Capital Allocation",
+        "Share Issuance"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "narrative",
+      "contextual_summary": "Buffett lays out why issuing undervalued stock for acquisitions destroys owner value, and he proposes rules and mental models for judging whether share issuance is fair to existing shareholders.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "Berkshire"
+        ],
+        "people": [],
+        "metrics": [
+          "$2",
+          "$1",
+          "100%",
+          "50%"
+        ]
+      },
+      "themes": [
+        "Market psychology and valuation",
+        "Capital allocation and acquisitions"
+      ],
+      "buffett_concepts": [
+        "Mr. Market"
+      ],
+      "principles": [
+        {
+          "statement": "Prefer fair value-for-value deals; avoid adrenaline-driven acquisitions.",
+          "category": "share_issuance"
+        },
+        {
+          "statement": "Do not issue shares unless you receive at least as much intrinsic value as you give.",
+          "category": "share_issuance"
+        }
+      ],
+      "temporal_references": {
+        "primary_year": 1982,
+        "comparison_years": [],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "high",
+      "token_count": 563,
+      "char_count": 3513,
+      "source_span": {
+        "start_char": 42525,
+        "end_char_exclusive": 46038
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": [],
+      "previous_summary": "Buffett lays out why issuing undervalued stock for acquisitions destroys owner value, and he proposes rules and mental models for judging whether share issuance is fair to existing shareholders.",
+      "next_summary": "The closing section describes Berkshire’s acquisition preferences, shareholder donation program details, headquarters notes, and tributes to retiring managers."
+    }
+  },
+  {
+    "chunk_id": "1982-S06-T1-001",
+    "content": "Miscellaneous\n\nThis annual report is read by a varied audience, and it is\npossible that some members of that audience may be helpful to us\nin our acquisition program.\n\nWe prefer:\n\n(1) large purchases (at least $5 million of after-tax\nearnings),\n\n(2) demonstrated consistent earning power (future\nprojections are of little interest to us, nor are\nturn-around situations),\n\n(3) businesses earning good returns on equity while\nemploying little or no debt,\n\n(4) management in place (we cant supply it),\n\n(5) simple businesses (if theres lots of technology, we\nwont understand it),\n\n(6) an offering price (we dont want to waste our time or\nthat of the seller by talking, even preliminarily,\nabout a transaction when price is unknown).\n\nWe will not engage in unfriendly transactions. We can\npromise complete confidentiality and a very fast answer as to\npossible interest - customarily within five minutes. Cash\npurchases are preferred, but we will consider the use of stock\nwhen it can be done on the basis described in the previous\nsection.\n\n* * * * *\n\nOur shareholder-designated contributions program met with\nenthusiasm again this year; 95.8% of eligible shares\nparticipated. This response was particularly encouraging since\nonly $1 per share was made available for designation, down from\n$2 in 1981. If the merger with Blue Chip takes place, a probable\nby-product will be the attainment of a consolidated tax position\nthat will significantly enlarge our contribution base and give us\na potential for designating bigger per-share amounts in the\nfuture.\n\nIf you wish to participate in future programs, we strongly\nurge that you immediately make sure that your shares are\nregistered in the actual owners name, not a street or nominee\nname.\nFor new shareholders, a more complete description of the\nprogram is on pages 62-63.\n\n* * * * *\n\nIn a characteristically rash move, we have expanded World\nHeadquarters by 252 square feet (17%), coincidental with the\nsigning of a new five-year lease at 1440 Kiewit Plaza. The five\npeople who work here with me - Joan Atherton, Mike Goldberg,\nGladys Kaiser, Verne Mc Kenzie and Bill Scott - outproduce\ncorporate groups many times their number. A compact organization\nlets all of us spend our time managing the business rather than\nmanaging each other.\n\nCharlie Munger, my partner in management, will continue to\noperate from Los Angeles whether or not the Blue Chip merger\noccurs. Charlie and I are interchangeable in business decisions.\nDistance impedes us not at all: weve always found a telephone\ncall to be more productive than a half-day committee meeting.\n\n* * * * *\n\nTwo of our managerial stars retired this year: Phil Liesche\nat 65 from National Indemnity Company, and Ben Rosner at 79 from\nAssociated Retail Stores. Both of these men made you, as\nshareholders of Berkshire, a good bit wealthier than you\notherwise would have been. National Indemnity has been the most\nimportant operation in Berkshires growth. Phil and Jack\nRingwalt, his predecessor, were the two prime movers in National\nIndemnitys success. Ben Rosner sold Associated Retail Stores to\nDiversified Retailing Company for cash in 1967, promised to stay\non only until the end of the year, and then hit business home\nruns for us for the next fifteen years.\n\nBoth Ben and Phil ran their businesses for Berkshire with\nevery bit of the care and drive that they would have exhibited\nhad they personally owned 100% of these businesses. No rules\nwere necessary to enforce or even encourage this attitude; it was\nembedded in the character of these men long before we came on the\nscene. Their good character became our good fortune. If we can\ncontinue to attract managers with the qualities of Ben and Phil,\nyou need not worry about Berkshires future.\n\nWarren E. Buffett\nChairman of the Board",
+    "metadata": {
+      "letter_year": 1982,
+      "letter_date": "1983-03-03",
+      "source_file": "1982_cleaned.txt",
+      "section_title": "Miscellaneous",
+      "section_hierarchy": [
+        "Letter Body",
+        "Governance",
+        "Miscellaneous"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "narrative",
+      "contextual_summary": "The closing section describes Berkshire’s acquisition preferences, shareholder donation program details, headquarters notes, and tributes to retiring managers.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "Berkshire",
+          "National Indemnity",
+          "Associated Retail Stores"
+        ],
+        "people": [
+          "Warren E. Buffett",
+          "Charlie Munger",
+          "Mike Goldberg",
+          "Joan Atherton",
+          "Gladys Kaiser",
+          "Verne Mc Kenzie",
+          "Bill Scott",
+          "Phil Liesche",
+          "Ben Rosner"
+        ],
+        "metrics": [
+          "$5million",
+          "$1",
+          "$2",
+          "95.8%",
+          "17%",
+          "100%",
+          "95.8"
+        ]
+      },
+      "themes": [
+        "Capital allocation and acquisitions"
+      ],
+      "buffett_concepts": [],
+      "principles": [
+        {
+          "statement": "Prefer fair value-for-value deals; avoid adrenaline-driven acquisitions.",
+          "category": "acquisitions"
+        }
+      ],
+      "temporal_references": {
+        "primary_year": 1982,
+        "comparison_years": [
+          1967,
+          1981
+        ],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "medium",
+      "abstraction_level": "medium",
+      "token_count": 631,
+      "char_count": 3788,
+      "source_span": {
+        "start_char": 46040,
+        "end_char_exclusive": 49828
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": [],
+      "previous_summary": "Buffett lays out why issuing undervalued stock for acquisitions destroys owner value, and he proposes rules and mental models for judging whether share issuance is fair to existing shareholders.",
+      "next_summary": null
+    }
+  }
+]

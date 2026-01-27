@@ -1,0 +1,1792 @@
+[
+  {
+    "chunk_id": "1989-S01-T1-001",
+    "content": "To the Shareholders of Berkshire Hathaway Inc.:\n\nOur gain in net worth during 1989 was $1.515 billion, or\n44.4%. Over the last 25 years (that is, since present management\ntook over) our per-share book value has grown from $19.46 to\n$4,296.01, or at a rate of 23.8% compounded annually.\n\nWhat counts, however, is intrinsic value - the figure\nindicating what all of our constituent businesses are rationally\nworth. With perfect foresight, this number can be calculated by\ntaking all future cash flows of a business - in and out - and\ndiscounting them at prevailing interest rates. So valued, all\nbusinesses, from manufacturers of buggy whips to operators of\ncellular phones, become economic equals.\n\nBack when Berkshire's book value was $19.46, intrinsic\nvalue was somewhat less because the book value was entirely tied\nup in a textile business not worth the figure at which it was\ncarried. Now most of our businesses are worth far more than their\ncarrying values. This agreeable evolution from a discount to a\npremium means that Berkshire's intrinsic business value has\ncompounded at a rate that somewhat exceeds our 23.8% annual\ngrowth in book value.\n\nThe rear-view mirror is one thing; the windshield is\nanother. A large portion of our book value is represented by\nequity securities that, with minor exceptions, are carried on our\nbalance sheet at current market values. At yearend these\nsecurities were valued at higher prices, relative to their own\nintrinsic business values, than has been the case in the past.\nOne reason is the buoyant 1989 stock market. More important, the\nvirtues of these businesses have been widely recognized. Whereas\nonce their stock prices were inappropriately low, they are not\nnow.\n\nWe will keep most of our major holdings, regardless of how\nthey are priced relative to intrinsic business value. This 'tildeath-do-us-part attitude, combined with the full prices these\nholdings command, means that they cannot be expected to push up\nBerkshire's value in the future as sharply as in the past. In\nother words, our performance to date has benefited from a doubledip: (1) the exceptional gains in intrinsic value that our\nportfolio companies have achieved; (2) the additional bonus we\nrealized as the market appropriately \"corrected\" the prices of\nthese companies, raising their valuations in relation to those of\nthe average business. We will continue to benefit from good gains\nin business value that we feel confident our portfolio companies\nwill make. But our \"catch-up\" rewards have been realized, which\nmeans we'll have to settle for a single-dip in the future.\n\nWe face another obstacle: In a finite world, high growth\nrates must self-destruct. If the base from which the growth is\ntaking place is tiny, this law may not operate for a time. But\nwhen the base balloons, the party ends: A high growth rate\neventually forges its own anchor.\n\nCarl Sagan has entertainingly described this phenomenon,\nmusing about the destiny of bacteria that reproduce by dividing\ninto two every 15 minutes. Says Sagan: \"That means four doublings\nan hour, and 96 doublings a day. Although a bacterium weighs only\nabout a trillionth of a gram, its descendants, after a day of\nwild asexual abandon, will collectively weigh as much as a\nmountain... in two days, more than the sun - and before very long,\neverything in the universe will be made of bacteria.\" Not to\nworry, says Sagan: Some obstacle always impedes this kind of\nexponential growth. \"The bugs run out of food, or they poison\neach other, or they are shy about reproducing in public.\"\n\nEven on bad days, Charlie Munger (Berkshire's Vice Chairman\nand my partner) and I do not think of Berkshire as a bacterium.\nNor, to our unending sorrow, have we found a way to double its\nnet worth every 15 minutes. Furthermore, we are not the least bit\nshy about reproducing - financially - in public. Nevertheless,\nSagan's observations apply. From Berkshire's present base of $4.9\nbillion in net worth, we will find it much more difficult to\naverage 15% annual growth in book value than we did to average\n23.8% from the $22 million we began with.",
+    "metadata": {
+      "letter_year": 1989,
+      "letter_date": "1990-03-02",
+      "source_file": "1989_cleaned.txt",
+      "section_title": "Introduction",
+      "section_hierarchy": [
+        "Letter Body",
+        "Introduction"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "narrative",
+      "contextual_summary": "Berkshire’s 1989 performance is interpreted through intrinsic value rather than book value, explaining how portfolio and subsidiary valuations can diverge from accounting figures. Buffett argues that earlier returns benefited from both business progress and valuation re-rating, while future gains may rely mainly on business fundamentals. A compounding analogy highlights how a much larger capital base makes high historical growth rates increasingly difficult to sustain.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "Berkshire Hathaway"
+        ],
+        "people": [
+          "Charlie Munger",
+          "Carl Sagan"
+        ],
+        "metrics": [
+          "intrinsic value",
+          "book value",
+          "net worth",
+          "premium",
+          "interest"
+        ]
+      },
+      "themes": [
+        "performance",
+        "intrinsic_value",
+        "compounding",
+        "capital_allocation"
+      ],
+      "buffett_concepts": [
+        "intrinsic_value_over_book",
+        "size_as_headwind",
+        "long_term_orientation"
+      ],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1989,
+        "comparison_years": [
+          1989,
+          1989
+        ],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "medium",
+      "token_count": 1025,
+      "char_count": 4103,
+      "source_span": {
+        "start_char": 0,
+        "end_char_exclusive": 4103
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": [],
+      "previous_summary": null,
+      "next_summary": "Deferred taxes are framed as an interest-free loan that becomes a ‘transfer tax’ when Berkshire chooses to sell appreciated holdings. A two-scenario example shows how tax deferral can massively increase long-run after-tax outcomes compared with frequent realization of gains."
+    }
+  },
+  {
+    "chunk_id": "1989-S02-T1-001",
+    "content": "Our 1989 gain of $1.5 billion was achieved after we took a\ncharge of about $712 million for income taxes. In addition,\nBerkshire's share of the income taxes paid by its five major\ninvestees totaled about $175 million.\n\nOf this year's tax charge, about $172 million will be paid\ncurrently; the remainder, $540 million, is deferred. Almost all\nof the deferred portion relates to the 1989 increase in\nunrealized profits in our common stock holdings. Against this\nincrease, we have reserved a 34% tax.\n\nWe also carry reserves at that rate against all unrealized\nprofits generated in 1987 and 1988. But, as we explained last\nyear, the unrealized gains we amassed before 1987 - about $1.2\nbillion - carry reserves booked at the 28% tax rate that then\nprevailed.\n\nA new accounting rule is likely to be adopted that will\nrequire companies to reserve against all gains at the current tax\nrate, whatever it may be. With the rate at 34%, such a rule would\nincrease our deferred tax liability, and decrease our net worth,\nby about $71 million - the result of raising the reserve on our\npre-1987 gain by six percentage points. Because the proposed rule\nhas sparked widespread controversy and its final form is unclear,\nwe have not yet made this change.\n\nAs you can see from our balance sheet on page 27, we would\nowe taxes of more than $1.1 billion were we to sell all of our\nsecurities at year-end market values. Is this $1.1 billion\nliability equal, or even similar, to a $1.1 billion liability\npayable to a trade creditor 15 days after the end of the year?\nObviously not - despite the fact that both items have exactly the\nsame effect on audited net worth, reducing it by $1.1 billion.\n\nOn the other hand, is this liability for deferred taxes a\nmeaningless accounting fiction because its payment can be\ntriggered only by the sale of stocks that, in very large part, we\nhave no intention of selling? Again, the answer is no.\n\nIn economic terms, the liability resembles an interest-free\nloan from the U. S. Treasury that comes due only at our election\n(unless, of course, Congress moves to tax gains before they are\nrealized). This \"loan\" is peculiar in other respects as well: It\ncan be used only to finance the ownership of the particular,\nappreciated stocks and it fluctuates in size - daily as market\nprices change and periodically if tax rates change. In effect,\nthis deferred tax liability is equivalent to a very large\ntransfer tax that is payable only if we elect to move from one\nasset to another. Indeed, we sold some relatively small holdings\nin 1989, incurring about $76 million of \"transfer\" tax on $224\nmillion of gains.\n\nBecause of the way the tax law works, the Rip Van Winkle\nstyle of investing that we favor - if successful - has an\nimportant mathematical edge over a more frenzied approach. Let's\nlook at an extreme comparison.\n\nImagine that Berkshire had only $1, which we put in a\nsecurity that doubled by yearend and was then sold. Imagine\nfurther that we used the after-tax proceeds to repeat this\nprocess in each of the next 19 years, scoring a double each time.\nAt the end of the 20 years, the 34% capital gains tax that we\nwould have paid on the profits from each sale would have\ndelivered about $13,000 to the government and we would be left\nwith about $25,250. Not bad. If, however, we made a single\nfantastic investment that\nitself\ndoubled 20 times during the 20\nyears, our dollar would grow to $1,048,576. Were we then to cash\nout, we would pay a 34% tax of roughly $356,500 and be left with\nabout $692,000.\n\nThe sole reason for this staggering difference in results\nwould be the timing of tax payments. Interestingly, the\ngovernment would gain from Scenario 2 in exactly the same 27: 1\nratio as we - taking in taxes of $356,500 vs. $13,000 - though,\nadmittedly, it would have to wait for its money.\n\nWe have not, we should stress, adopted our strategy\nfavoring long-term investment commitments because of these\nmathematics. Indeed, it is possible we could earn greater aftertax returns by moving rather frequently from one investment to\nanother. Many years ago, that's exactly what Charlie and I did.\n\nNow we would rather stay put, even if that means slightly\nlower returns. Our reason is simple: We have found splendid\nbusiness relationships to be so rare and so enjoyable that we\nwant to retain all we develop. This decision is particularly\neasy for us because we feel that these relationships will produce\ngood - though perhaps not optimal - financial results.\nConsidering that, we think it makes little sense for us to give\nup time with people we know to be interesting and admirable for\ntime with others we do not know and who are likely to have human\nqualities far closer to average. That would be akin to marrying\nfor money - a mistake under most circumstances, insanity if one\nis already rich.",
+    "metadata": {
+      "letter_year": 1989,
+      "letter_date": "1990-03-02",
+      "source_file": "1989_cleaned.txt",
+      "section_title": "Taxes",
+      "section_hierarchy": [
+        "Letter Body",
+        "Taxes"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "narrative",
+      "contextual_summary": "Deferred taxes are framed as an interest-free loan that becomes a ‘transfer tax’ when Berkshire chooses to sell appreciated holdings. A two-scenario example shows how tax deferral can massively increase long-run after-tax outcomes compared with frequent realization of gains.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [],
+        "people": [],
+        "metrics": [
+          "net worth",
+          "deferred tax",
+          "capital gains",
+          "interest"
+        ]
+      },
+      "themes": [
+        "taxes",
+        "deferred_tax",
+        "capital_gains",
+        "after_tax_returns"
+      ],
+      "buffett_concepts": [
+        "tax_deferral_edge",
+        "turnover_costs",
+        "after_tax_compounding"
+      ],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1989,
+        "comparison_years": [
+          1989,
+          1989,
+          1987,
+          1988,
+          1987,
+          1987,
+          1989
+        ],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "medium",
+      "token_count": 1205,
+      "char_count": 4820,
+      "source_span": {
+        "start_char": 4112,
+        "end_char_exclusive": 8932
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": [],
+      "previous_summary": "Berkshire’s 1989 performance is interpreted through intrinsic value rather than book value, explaining how portfolio and subsidiary valuations can diverge from accounting figures. Buffett argues that earlier returns benefited from both business progress and valuation re-rating, while future gains may rely mainly on business fundamentals. A compounding analogy highlights how a much larger capital base makes high historical growth rates increasingly difficult to sustain.",
+      "next_summary": "Earnings are presented to isolate operating results from goodwill and purchase-accounting charges, making underlying performance easier to assess."
+    }
+  },
+  {
+    "chunk_id": "1989-S03-T1-001",
+    "content": "The table below shows the major sources of Berkshire's\nreported earnings. In this presentation, amortization of Goodwill\nand other major purchase-price accounting adjustments are not\ncharged against the specific businesses to which they apply, but\nare instead aggregated and shown separately. This procedure lets\nyou view the earnings of our businesses as they would have been\nreported had we not purchased them. I've explained in past\nreports why this form of presentation seems to us to be more\nuseful to investors and managers than one utilizing generally\naccepted accounting principles (GAAP), which require purchaseprice adjustments to be made on a business-by-business basis. The\ntotal net earnings we show in the table are, of course, identical\nto the GAAP total in our audited financial statements.\n\nFurther information about these businesses is given in the\nBusiness Segment section on pages 37-39, and in the Management's\nDiscussion section on pages 40-44. In these sections you also\nwill find our segment earnings reported on a GAAP basis. For\ninformation on Wesco's businesses, I urge you to read Charlie\nMunger's letter, which starts on page 54. In addition, we have\nreprinted on page 71 Charlie's May 30,1989 letter to the U. S.\nLeague of Savings Institutions, which conveyed our disgust with\nits policies and our consequent decision to resign.\n\n(000 s omitted)",
+    "metadata": {
+      "letter_year": 1989,
+      "letter_date": "1990-03-02",
+      "source_file": "1989_cleaned.txt",
+      "section_title": "Sources of Reported Earnings",
+      "section_hierarchy": [
+        "Letter Body",
+        "Sources of Reported Earnings"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [
+        "1989-S03-T2-001"
+      ],
+      "content_type": "narrative",
+      "contextual_summary": "Earnings are presented to isolate operating results from goodwill and purchase-accounting charges, making underlying performance easier to assess.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": false,
+      "entities": {
+        "companies": [
+          "Wesco"
+        ],
+        "people": [],
+        "metrics": []
+      },
+      "themes": [
+        "segment_reporting",
+        "operating_earnings",
+        "look_through_earnings"
+      ],
+      "buffett_concepts": [
+        "look_through_earnings",
+        "owner_oriented_reporting"
+      ],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1989,
+        "comparison_years": [
+          1989
+        ],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "medium",
+      "abstraction_level": "medium",
+      "token_count": 343,
+      "char_count": 1375,
+      "source_span": {
+        "start_char": 8964,
+        "end_char_exclusive": 10339
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": [],
+      "previous_summary": "Deferred taxes are framed as an interest-free loan that becomes a ‘transfer tax’ when Berkshire chooses to sell appreciated holdings. A two-scenario example shows how tax deferral can massively increase long-run after-tax outcomes compared with frequent realization of gains.",
+      "next_summary": "This chunk captures a distinct set of arguments and examples from the shareholder letter for targeted retrieval."
+    }
+  },
+  {
+    "chunk_id": "1989-S03-T2-001",
+    "content": "----------------------------------------------\nBerkshire's Share\nof Net Earnings\n(after taxes and\nPre-Tax Earnings minority interests)\n---------------------- ----------------------\n1989 1988 1989 1988",
+    "metadata": {
+      "letter_year": 1989,
+      "letter_date": "1990-03-02",
+      "source_file": "1989_cleaned.txt",
+      "section_title": "Sources of Reported Earnings",
+      "section_hierarchy": [
+        "Letter Body",
+        "Sources of Reported Earnings"
+      ],
+      "chunk_tier": 2,
+      "parent_chunk_id": "1989-S03-T1-001",
+      "child_chunk_ids": [],
+      "content_type": "financial_table",
+      "contextual_summary": "This chunk captures a distinct set of arguments and examples from the shareholder letter for targeted retrieval.",
+      "has_table": true,
+      "table_data": [
+        {
+          "table_name": "Earnings by Source (1989 vs 1988)",
+          "summary": "Breakdown of Berkshire’s earnings sources in 1989 versus 1988, separating operating items and realized securities gains.",
+          "columns": [
+            "item",
+            "pre_tax_1989",
+            "pre_tax_1988",
+            "after_tax_1989",
+            "after_tax_1988"
+          ],
+          "rows": [],
+          "row_count": 0
+        }
+      ],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [],
+        "people": [],
+        "metrics": []
+      },
+      "themes": [
+        "segment_reporting",
+        "operating_earnings",
+        "look_through_earnings"
+      ],
+      "buffett_concepts": [
+        "look_through_earnings",
+        "owner_oriented_reporting"
+      ],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1989,
+        "comparison_years": [
+          1989,
+          1988,
+          1989,
+          1988
+        ],
+        "future_outlook": false
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "low",
+      "token_count": 50,
+      "char_count": 200,
+      "source_span": {
+        "start_char": 10340,
+        "end_char_exclusive": 10540
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": [],
+      "previous_summary": "Earnings are presented to isolate operating results from goodwill and purchase-accounting charges, making underlying performance easier to assess.",
+      "next_summary": "Earnings are presented to isolate operating results from goodwill and purchase-accounting charges, making underlying performance easier to assess. ‘Look-through’ earnings add Berkshire’s share of investees’ retained operating profits to reported results to better track intrinsic value growth."
+    }
+  },
+  {
+    "chunk_id": "1989-S03-T1-002",
+    "content": "---------- ---------- ---------- ----------\nOperating Earnings:\nInsurance Group:\nUnderwriting ............ $(24,400) $(11,081) $(12,259) $ (1,045)\nNet Investment Income ... 243,599 231,250 213,642 197,779\nBuffalo News .............. 46,047 42,429 27,771 25,462\nFechheimer ................ 12,621 14,152 6,789 7,720\nKirby ..................... 26,114 26,891 16,803 17,842\nNebraska Furniture Mart ... 17,070 18,439 8,441 9,099\nScott Fetzer\nManufacturing Group .... 33,165 28,542 19,996 17,640\nSee's Candies ............. 34,235 32,473 20,626 19,671\nWesco - other than Insurance 13,008 16,133 9,810 10,650\nWorld Book ................ 25,583 27,890 16,372 18,021\nAmortization of Goodwill .. (3,387) (2,806) (3,372) (2,806)\nOther Purchase-Price\nAccounting Charges ........ (5,740) (6,342) (6,668) (7,340)\nInterest Expense* ......... (42,389) (35,613) (27,098) (23,212)\nShareholder-Designated\nContributions .......... (5,867) (4,966) (3,814) (3,217)\nOther ..................... 23,755 41,059 12,863 27,177\n---------- ---------- ---------- ----------\nOperating Earnings .......... 393,414 418,450 299,902 313,441\nSales of Securities ......... 223,810 131,671 147,575 85,829\n---------- ---------- ---------- ----------\nTotal Earnings - All Entities $617,224 $550,121 $447,477 $399,270\n\n*Excludes interest expense of Scott Fetzer Financial Group and\nMutual Savings & Loan.\n\nWe refer you also to pages 45-51, where we have rearranged\nBerkshire's financial data into four segments. These correspond\nto the way Charlie and I think about the business and should help\nyou calculate Berkshire's intrinsic value. Shown on these pages\nare balance sheets and earnings statements for: (1) our\ninsurance operations, with their major investment positions\nitemized; (2) our manufacturing, publishing and retailing\nbusinesses, leaving aside certain non-operating assets and\npurchase-price accounting adjustments; (3) our subsidiaries\nengaged in finance-type operations, which are Mutual Savings and\nScott Fetzer Financial; and (4) an all-other category that\nincludes the non-operating assets (primarily marketable\nsecurities) held by the companies in segment (2), all purchase\nprice accounting adjustments, and various assets and debts of the\nWesco and Berkshire parent companies.\n\nIf you combine the earnings and net worths of these four\nsegments, you will derive totals matching those shown on our GAAP\nstatements. However, I want to emphasize that this four-category\npresentation does not fall within the purview of our auditors,\nwho in no way bless it.\n\nIn addition to our reported earnings, we also benefit from\nsignificant earnings of investees that standard accounting rules\ndo not permit us to report. On page 15, we list five major\ninvestees from which we received dividends in 1989 of about $45\nmillion, after taxes. However, our share of the\nretained\nearnings\nof these investees totaled about $212 million last year, not\ncounting large capital gains realized by GEICO and Coca-Cola. If\nthis $212 million had been distributed to us, our own operating\nearnings, after the payment of additional taxes, would have been\nclose to $500 million rather than the $300 million shown in the\ntable.\n\nThe question you must decide is whether these undistributed\nearnings are as valuable to us as those we report. We believe\nthey are - and even think they may be more valuable. The reason\nfor this a-bird-in-the-bush-may-be-worth-two-in-the-hand\nconclusion is that earnings retained by these investees will\nbe deployed by talented, owner-oriented managers who\nsometimes have better uses for these funds in their own\nbusinesses than we would have in ours. I would not make such a\ngenerous assessment of most managements, but it is appropriate in\nthese cases.\n\nIn our view, Berkshire's fundamental earning power is best\nmeasured by a \"look-through\" approach, in which we append our\nshare of the operating earnings retained by our investees to our\nown reported operating earnings, excluding capital gains in both\ninstances. For our intrinsic business value to grow at an average\nof 15% per year, our \"look-through\" earnings must grow at about\nthe same pace. We'll need plenty of help from our present\ninvestees, and also need to add a new one from time to time, in\norder to reach this 15% goal.",
+    "metadata": {
+      "letter_year": 1989,
+      "letter_date": "1990-03-02",
+      "source_file": "1989_cleaned.txt",
+      "section_title": "Sources of Reported Earnings",
+      "section_hierarchy": [
+        "Letter Body",
+        "Sources of Reported Earnings"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "narrative",
+      "contextual_summary": "Earnings are presented to isolate operating results from goodwill and purchase-accounting charges, making underlying performance easier to assess. ‘Look-through’ earnings add Berkshire’s share of investees’ retained operating profits to reported results to better track intrinsic value growth.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "GEICO",
+          "World Book",
+          "Kirby",
+          "Scott Fetzer",
+          "Nebraska Furniture Mart",
+          "See's Candies",
+          "Fechheimer",
+          "Wesco"
+        ],
+        "people": [],
+        "metrics": [
+          "intrinsic value",
+          "capital gains",
+          "underwriting",
+          "look-through",
+          "interest",
+          "dividends"
+        ]
+      },
+      "themes": [
+        "segment_reporting",
+        "operating_earnings",
+        "look_through_earnings"
+      ],
+      "buffett_concepts": [
+        "look_through_earnings",
+        "owner_oriented_reporting"
+      ],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1989,
+        "comparison_years": [
+          1989
+        ],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "medium",
+      "abstraction_level": "medium",
+      "token_count": 1065,
+      "char_count": 4263,
+      "source_span": {
+        "start_char": 10542,
+        "end_char_exclusive": 14805
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": [],
+      "previous_summary": "This chunk captures a distinct set of arguments and examples from the shareholder letter for targeted retrieval.",
+      "next_summary": "Berkshire’s non-insurance group is highlighted for unusually high equity returns achieved with minimal leverage and manager-driven execution. Borsheims is described as a high-volume, low-cost retailer where selection and buying power reinforce a self-strengthening advantage. See’s and NFM are used to argue that well-targeted newspaper advertising can compound results when the product and value proposition are already strong."
+    }
+  },
+  {
+    "chunk_id": "1989-S04-T1-001",
+    "content": "In the past, we have labeled our major manufacturing,\npublishing and retail operations \"The Sainted Seven.\" With our\nacquisition of Borsheim's early in 1989, the challenge was to\nfind a new title both alliterative and appropriate. We failed:\nLet's call the group \"The Sainted Seven Plus One.\"\n\nThis divine assemblage - Borsheim's, The Buffalo News,\nFechheimer Bros., Kirby, Nebraska Furniture Mart, Scott Fetzer\nManufacturing Group, See's Candies, World Book - is a collection\nof businesses with economic characteristics that range from good\nto superb. Its managers range from superb to superb.\n\nMost of these managers have no need to work for a living;\nthey show up at the ballpark because they like to hit home runs.\nAnd that's exactly what they do. Their combined financial\nstatements (including those of some smaller operations), shown on\npage 49, illustrate just how outstanding their performance is. On\nan historical accounting basis, after-tax earnings of these\noperations were 57% on average equity capital. Moreover, this\nreturn was achieved with no net leverage: Cash equivalents have\nmatched funded debt. When I call off the names of our managers -\nthe Blumkin, Friedman and Heldman families, Chuck Huggins, Stan\nLipsey, and Ralph Schey - I feel the same glow that Miller\nHuggins must have experienced when he announced the lineup of his\n1927 New York Yankees.\n\nLet's take a look, business by business:\n\no\nIn its first year with Berkshire, Borsheim's met all\nexpectations. Sales rose significantly and are now considerably\nbetter than twice what they were four years ago when the company\nmoved to its present location. In the six years prior to the\nmove, sales had also doubled. Ike Friedman, Borsheim's managing\ngenius - and I mean that - has only one speed: fast-forward.\n\nIf you haven't been there, you've never seen a jewelry store\nlike Borsheim's. Because of the huge volume it does at one\nlocation, the store can maintain an enormous selection across all\nprice ranges. For the same reason, it can hold its expense ratio\nto about one-third that prevailing at jewelry stores offering\ncomparable merchandise. The store's tight control of expenses,\naccompanied by its unusual buying power, enable it to offer\nprices far lower than those of other jewelers. These prices, in\nturn, generate even more volume, and so the circle goes 'round\nand 'round. The end result is store traffic as high as 4,000\npeople on seasonally-busy days.\n\nIke Friedman is not only a superb businessman and a great\nshowman but also a man of integrity. We bought the business\nwithout an audit, and all of our surprises have been on the plus\nside. \"If you don't know jewelry, know your jeweler\" makes sense\nwhether you are buying the whole business or a tiny diamond.\n\nA story will illustrate why I enjoy Ike so much: Every two\nyears I'm part of an informal group that gathers to have fun and\nexplore a few subjects. Last September, meeting at Bishop's Lodge\nin Santa Fe, we asked Ike, his wife Roz, and his son Alan to come\nby and educate us on jewels and the jewelry business.\n\nIke decided to dazzle the group, so he brought from Omaha\nabout $20 million of particularly fancy merchandise. I was\nsomewhat apprehensive - Bishop's Lodge is no Fort Knox - and I\nmentioned my concern to Ike at our opening party the evening\nbefore his presentation. Ike took me aside. \"See that safe?\" he\nsaid. \"This afternoon we changed the combination and now even the\nhotel management doesn't know what it is.\" I breathed easier. Ike\nwent on: \"See those two big fellows with guns on their hips?\nThey'll be guarding the safe all night.\" I now was ready to\nrejoin the party. But Ike leaned closer: \"And besides, Warren,\"\nhe confided, \"the jewels aren't in the safe.\"\n\nHow can we miss with a fellow like that - particularly when\nhe comes equipped with a talented and energetic family, Alan,\nMarvin Cohn, and Don Yale.\n\no\nAt See's Candies we had an 8% increase in pounds sold, even\nthough 1988 was itself a record year. Included in the 1989\nperformance were excellent same-store poundage gains, our first\nin many years.\n\nAdvertising played an important role in this outstanding\nperformance. We increased total advertising expenditures from $4\nmillion to $5 million and also got copy from our agency, Hal\nRiney & Partners, Inc., that was 100% on the money in conveying\nthe qualities that make See's special.\n\nIn our media businesses, such as the Buffalo News, we sell\nadvertising. In other businesses, such as See's, we are buyers.\nWhen we buy, we practice exactly what we preach when we sell. At\nSee's, we more than tripled our expenditures on newspaper\nadvertising last year, to the highest percentage of sales that I\ncan remember. The payoff was terrific, and we thank both Hal\nRiney and the power of well-directed newspaper advertising for\nthis result.\n\nSee's splendid performances have become routine. But there\nis nothing routine about the management of Chuck Huggins: His\ndaily involvement with all aspects of production and sales\nimparts a quality-and-service message to the thousands of\nemployees we need to produce and distribute over 27 million\npounds of candy annually. In a company with 225 shops and a\nmassive mail order and phone business, it is no small trick to\nrun things so that virtually every customer leaves happy. Chuck\nmakes it look easy.\n\no\nThe Nebraska Furniture Mart had record sales and excellent\nearnings in 1989, but there was one sad note. Mrs. B - Rose\nBlumkin, who started the company 52 years ago with $500 - quit in\nMay, after disagreeing with other members of the Blumkin\nfamily/management about the remodeling and operation of the\ncarpet department.",
+    "metadata": {
+      "letter_year": 1989,
+      "letter_date": "1990-03-02",
+      "source_file": "1989_cleaned.txt",
+      "section_title": "Non-Insurance Operations",
+      "section_hierarchy": [
+        "Letter Body",
+        "Non-Insurance Operations"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "narrative",
+      "contextual_summary": "Berkshire’s non-insurance group is highlighted for unusually high equity returns achieved with minimal leverage and manager-driven execution. Borsheims is described as a high-volume, low-cost retailer where selection and buying power reinforce a self-strengthening advantage. See’s and NFM are used to argue that well-targeted newspaper advertising can compound results when the product and value proposition are already strong.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "World Book",
+          "Kirby",
+          "Scott Fetzer",
+          "Nebraska Furniture Mart",
+          "See's Candies",
+          "The Buffalo News",
+          "Fechheimer"
+        ],
+        "people": [
+          "Ike Friedman"
+        ],
+        "metrics": [
+          "leverage"
+        ]
+      },
+      "themes": [
+        "operating_businesses",
+        "manager_quality",
+        "competitive_advantage",
+        "advertising"
+      ],
+      "buffett_concepts": [
+        "great_managers",
+        "low_cost_operator",
+        "brand_strength"
+      ],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1989,
+        "comparison_years": [
+          1989,
+          1927,
+          1988,
+          1989,
+          1989
+        ],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "medium",
+      "abstraction_level": "medium",
+      "token_count": 1412,
+      "char_count": 5648,
+      "source_span": {
+        "start_char": 14833,
+        "end_char_exclusive": 20481
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": [],
+      "previous_summary": "Earnings are presented to isolate operating results from goodwill and purchase-accounting charges, making underlying performance easier to assess. ‘Look-through’ earnings add Berkshire’s share of investees’ retained operating profits to reported results to better track intrinsic value growth.",
+      "next_summary": "Borsheims is described as a high-volume, low-cost retailer where selection and buying power reinforce a self-strengthening advantage. See’s and NFM are used to argue that well-targeted newspaper advertising can compound results when the product and value proposition are already strong. The Buffalo News example links penetration and editorial investment to advertiser value and profitability, emphasizing granular management discipline."
+    }
+  },
+  {
+    "chunk_id": "1989-S04-T1-002",
+    "content": "Mrs. B probably has made more smart business decisions than\nany living American, but in this particular case I believe the\nother members of the family were entirely correct: Over the past\nthree years, while the store's other departments increased sales\nby 24%, carpet sales declined by 17% (but not because of any lack\nof sales ability by Mrs. B, who has always personally sold far\nmore merchandise than any other salesperson in the store).\n\nYou will be pleased to know that Mrs. B continues to make\nHoratio Alger's heroes look like victims of tired blood. At age\n96 she has started a new business selling - what else? - carpet\nand furniture. And as always, she works seven days a week.\n\nAt the Mart Louie, Ron, and Irv Blumkin continue to propel\nwhat is by far the largest and most successful home furnishings\nstore in the country. They are outstanding merchants, outstanding\nmanagers, and a joy to be associated with. One reading on their\nacumen: In the fourth quarter of 1989, the carpet department\nregistered a 75.3% consumer share in the Omaha market, up from\n67.7% a year earlier and over six times that of its nearest\ncompetitor.\n\nNFM and Borsheim's follow precisely the same formula for\nsuccess: (1) unparalleled depth and breadth of merchandise at one\nlocation; (2) the lowest operating costs in the business; (3) the\nshrewdest of buying, made possible in part by the huge volumes\npurchased; (4) gross margins, and therefore prices, far below\ncompetitors'; and (5) friendly personalized service with family\nmembers on hand at all times.\n\nAnother plug for newspapers: NFM increased its linage in the\nlocal paper by over 20% in 1989 - off a record 1988 - and remains\nthe paper's largest ROP advertiser by far. (ROP advertising is\nthe kind printed in the paper, as opposed to that in preprinted\ninserts.) To my knowledge, Omaha is the only city in which a home\nfurnishings store is the advertising leader. Many retailers cut\nspace purchases in 1989; our experience at See's and NFM would\nindicate they made a major mistake.\n\no\nThe Buffalo News continued to star in 1989 in three\nimportant ways: First, among major metropolitan papers, both\ndaily and Sunday, the News is number one in household penetration\n- the percentage of local households that purchase it each day.\nSecond, in \"news hole\" - the portion of the paper devoted to news\n- the paper stood at 50.1% in 1989 vs. 49.5% in 1988, a level\nagain making it more news-rich than any comparable American\npaper. Third, in a year that saw profits slip at many major\npapers, the News set its seventh consecutive profit record.\n\nTo some extent, these three factors are related, though\nobviously a high-percentage news hole, by itself, reduces profits\nsignificantly. A large and intelligently-utilized news hole,\nhowever, attracts a wide spectrum of readers and thereby boosts\npenetration. High penetration, in turn, makes a newspaper\nparticularly valuable to retailers since it allows them to talk\nto the entire community through a single \"megaphone.\" A lowpenetration paper is a far less compelling purchase for many\nadvertisers and will eventually suffer in both ad rates and\nprofits.\n\nIt should be emphasized that our excellent penetration is\nneither an accident nor automatic. The population of Erie County,\nhome territory of the News, has been falling - from 1,113,000 in\n1970 to 1,015,000 in 1980 to an estimated 966,000 in 1988.\nCirculation figures tell a different story. In 1975, shortly\nbefore we started our Sunday edition, the Courier-Express, a\nlong-established Buffalo paper, was selling 207,500 Sunday copies\nin Erie County. Last year - with population at least 5% lower -\nthe News sold an average of 292,700 copies. I believe that in no\nother major Sunday market has there been anything close to that\nincrease in penetration.\n\nWhen this kind of gain is made - and when a paper attains an\nunequaled degree of acceptance in its home town - someone is\ndoing something right. In this case major credit clearly belongs\nto Murray Light, our long-time editor who daily creates an\ninformative, useful, and interesting product. Credit should go\nalso to the Circulation and Production Departments: A paper that\nis frequently late, because of production problems or\ndistribution weaknesses, will lose customers, no matter how\nstrong its editorial content.\n\nStan Lipsey, publisher of the News, has produced profits\nfully up to the strength of our product. I believe Stan's\nmanagerial skills deliver at least five extra percentage points\nin profit margin compared to the earnings that would be achieved\nby an average manager given the same circumstances. That is an\namazing performance, and one that could only be produced by a\ntalented manager who knows - and cares - about every nut and bolt\nof the business.\n\nStan's knowledge and talents, it should be emphasized,\nextend to the editorial product. His early years in the business\nwere spent on the news side and he played a key role in\ndeveloping and editing a series of stories that in 1972 won a\nPulitzer Prize for the Sun Newspaper of Omaha. Stan and I have\nworked together for over 20 years, through some bad times as well\nas good, and I could not ask for a better partner.\n\no\nAt Fechheimer, the Heldman clan - Bob, George, Gary,\nRoger and Fred - continue their extraordinary performance. Profits\nin 1989 were down somewhat because of problems the business\nexperienced in integrating a major 1988 acquisition. These\nproblems will be ironed out in time. Meanwhile, return on invested\ncapital at Fechheimer remains splendid.\n\nLike all of our managers, the Heldmans have an exceptional\ncommand of the details of their business. At last year's annual\nmeeting I mentioned that when a prisoner enters San Quentin, Bob\nand George probably know his shirt size. That's only a slight\nexaggeration: No matter what area of the country is being\ndiscussed, they know exactly what is going on with major\ncustomers and with the competition.",
+    "metadata": {
+      "letter_year": 1989,
+      "letter_date": "1990-03-02",
+      "source_file": "1989_cleaned.txt",
+      "section_title": "Non-Insurance Operations",
+      "section_hierarchy": [
+        "Letter Body",
+        "Non-Insurance Operations"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "narrative",
+      "contextual_summary": "Borsheims is described as a high-volume, low-cost retailer where selection and buying power reinforce a self-strengthening advantage. See’s and NFM are used to argue that well-targeted newspaper advertising can compound results when the product and value proposition are already strong. The Buffalo News example links penetration and editorial investment to advertiser value and profitability, emphasizing granular management discipline.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "The Buffalo News",
+          "Fechheimer"
+        ],
+        "people": [
+          "Murray Light",
+          "Stan Lipsey"
+        ],
+        "metrics": []
+      },
+      "themes": [
+        "operating_businesses",
+        "manager_quality",
+        "competitive_advantage",
+        "advertising"
+      ],
+      "buffett_concepts": [
+        "great_managers",
+        "low_cost_operator",
+        "brand_strength"
+      ],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1989,
+        "comparison_years": [
+          1989,
+          1989,
+          1988,
+          1989,
+          1989,
+          1989,
+          1988,
+          1970,
+          1980,
+          1988,
+          1975,
+          1972,
+          1989,
+          1988
+        ],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "medium",
+      "abstraction_level": "medium",
+      "token_count": 1484,
+      "char_count": 5939,
+      "source_span": {
+        "start_char": 20483,
+        "end_char_exclusive": 26422
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": [],
+      "previous_summary": "Berkshire’s non-insurance group is highlighted for unusually high equity returns achieved with minimal leverage and manager-driven execution. Borsheims is described as a high-volume, low-cost retailer where selection and buying power reinforce a self-strengthening advantage. See’s and NFM are used to argue that well-targeted newspaper advertising can compound results when the product and value proposition are already strong.",
+      "next_summary": "This chunk captures a distinct set of arguments and examples from the shareholder letter for targeted retrieval."
+    }
+  },
+  {
+    "chunk_id": "1989-S04-T1-003",
+    "content": "Though we purchased Fechheimer four years ago, Charlie and I\nhave never visited any of its plants or the home office in\nCincinnati. We're much like the lonesome Maytag repairman: The\nHeldman managerial product is so good that a service call is\nnever needed.\n\no\nRalph Schey continues to do a superb job in managing\nour largest group - World Book, Kirby, and the Scott Fetzer\nManufacturing Companies. Aggregate earnings of these businesses\nhave increased every year since our purchase and returns on\ninvested capital continue to be exceptional. Ralph is running an\nenterprise large enough, were it standing alone, to be on the\nFortune 500. And he's running it in a fashion that would put him\nhigh in the top decile, measured by return on equity.\n\nFor some years, World Book has operated out of a single\nlocation in Chicago's Merchandise Mart. Anticipating the imminent\nexpiration of its lease, the business is now decentralizing into\nfour locations. The expenses of this transition are significant;\nnevertheless profits in 1989 held up well. It will be another\nyear before costs of the move are fully behind us.\n\nKirby's business was particularly strong last year,\nfeaturing large gains in export sales. International business has\nmore than doubled in the last two years and quintupled in the\npast four; its share of unit sales has risen from 5% to 20%. Our\nlargest capital expenditures in 1989 were at Kirby, in\npreparation for a major model change in 1990.\n\nRalph's operations contribute about 40% of the total\nearnings of the non-insurance group whose results are shown on\npage 49. When we bought Scott Fetzer at the start of 1986, our\nacquisition of Ralph as a manager was fully as important as our\nacquisition of the businesses. In addition to generating\nextraordinary earnings, Ralph also manages capital extremely\nwell. These abilities have produced funds for Berkshire that, in\nturn, have allowed us to make many other profitable commitments.\n\nAnd that completes our answer to the 1927 Yankees.",
+    "metadata": {
+      "letter_year": 1989,
+      "letter_date": "1990-03-02",
+      "source_file": "1989_cleaned.txt",
+      "section_title": "Non-Insurance Operations",
+      "section_hierarchy": [
+        "Letter Body",
+        "Non-Insurance Operations"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "narrative",
+      "contextual_summary": "This chunk captures a distinct set of arguments and examples from the shareholder letter for targeted retrieval.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": false,
+      "entities": {
+        "companies": [
+          "World Book",
+          "Kirby",
+          "Scott Fetzer",
+          "Fechheimer"
+        ],
+        "people": [],
+        "metrics": [
+          "return on equity"
+        ]
+      },
+      "themes": [
+        "operating_businesses",
+        "manager_quality",
+        "competitive_advantage",
+        "advertising"
+      ],
+      "buffett_concepts": [
+        "great_managers",
+        "low_cost_operator",
+        "brand_strength"
+      ],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1989,
+        "comparison_years": [
+          1989,
+          1989,
+          1990,
+          1986,
+          1927
+        ],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "medium",
+      "abstraction_level": "medium",
+      "token_count": 500,
+      "char_count": 2000,
+      "source_span": {
+        "start_char": 26424,
+        "end_char_exclusive": 28424
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": [],
+      "previous_summary": "Borsheims is described as a high-volume, low-cost retailer where selection and buying power reinforce a self-strengthening advantage. See’s and NFM are used to argue that well-targeted newspaper advertising can compound results when the product and value proposition are already strong. The Buffalo News example links penetration and editorial investment to advertiser value and profitability, emphasizing granular management discipline.",
+      "next_summary": "This chunk captures a distinct set of arguments and examples from the shareholder letter for targeted retrieval."
+    }
+  },
+  {
+    "chunk_id": "1989-S05-T1-001",
+    "content": "Shown below is an updated version of our usual table\npresenting key figures for the property-casualty insurance\nindustry:",
+    "metadata": {
+      "letter_year": 1989,
+      "letter_date": "1990-03-02",
+      "source_file": "1989_cleaned.txt",
+      "section_title": "Insurance Operations",
+      "section_hierarchy": [
+        "Letter Body",
+        "Insurance Operations"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [
+        "1989-S05-T2-001"
+      ],
+      "content_type": "narrative",
+      "contextual_summary": "This chunk captures a distinct set of arguments and examples from the shareholder letter for targeted retrieval.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": false,
+      "entities": {
+        "companies": [],
+        "people": [],
+        "metrics": []
+      },
+      "themes": [
+        "insurance",
+        "underwriting_discipline",
+        "float",
+        "catastrophe_risk",
+        "capacity_cycle"
+      ],
+      "buffett_concepts": [
+        "float_as_asset",
+        "discipline_over_volume",
+        "write_big_when_priced_right"
+      ],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1989,
+        "comparison_years": [],
+        "future_outlook": false
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "medium",
+      "token_count": 30,
+      "char_count": 121,
+      "source_span": {
+        "start_char": 28448,
+        "end_char_exclusive": 28569
+      },
+      "standalone_exception": true,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": [],
+      "previous_summary": "This chunk captures a distinct set of arguments and examples from the shareholder letter for targeted retrieval.",
+      "next_summary": "Industry metrics are used to argue premiums are rising too slowly versus loss costs, implying continued underwriting strain."
+    }
+  },
+  {
+    "chunk_id": "1989-S05-T2-001",
+    "content": "Statutory\nYearly Change Combined Ratio Yearly Change Inflation Rate\nin Premiums After Policyholder in Incurred Measured by\nWritten (%) Dividends Losses (%) GNP Deflator (%)\n------------- ------------------ ------------- ----------------",
+    "metadata": {
+      "letter_year": 1989,
+      "letter_date": "1990-03-02",
+      "source_file": "1989_cleaned.txt",
+      "section_title": "Insurance Operations",
+      "section_hierarchy": [
+        "Letter Body",
+        "Insurance Operations"
+      ],
+      "chunk_tier": 2,
+      "parent_chunk_id": "1989-S05-T1-001",
+      "child_chunk_ids": [],
+      "content_type": "financial_table",
+      "contextual_summary": "Industry metrics are used to argue premiums are rising too slowly versus loss costs, implying continued underwriting strain.",
+      "has_table": true,
+      "table_data": [
+        {
+          "table_name": "Insurance Industry Key Metrics (1981–1989)",
+          "summary": "Industry table showing premium growth, combined ratio, loss growth, and inflation across 1981–1989.",
+          "columns": [
+            "year",
+            "premium_change_pct",
+            "combined_ratio",
+            "incurred_losses_change_pct",
+            "gnp_deflator_inflation_pct"
+          ],
+          "rows": [],
+          "row_count": 0
+        }
+      ],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [],
+        "people": [],
+        "metrics": [
+          "combined ratio",
+          "dividends"
+        ]
+      },
+      "themes": [
+        "insurance",
+        "underwriting_discipline",
+        "float",
+        "catastrophe_risk",
+        "capacity_cycle"
+      ],
+      "buffett_concepts": [
+        "float_as_asset",
+        "discipline_over_volume",
+        "write_big_when_priced_right"
+      ],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1989,
+        "comparison_years": [],
+        "future_outlook": false
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "low",
+      "token_count": 59,
+      "char_count": 236,
+      "source_span": {
+        "start_char": 28571,
+        "end_char_exclusive": 28807
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": [],
+      "previous_summary": "This chunk captures a distinct set of arguments and examples from the shareholder letter for targeted retrieval.",
+      "next_summary": "Industry metrics are used to argue premiums are rising too slowly versus loss costs, implying continued underwriting strain. Buffett challenges the idea of a predictable underwriting cycle, stressing that capacity and manager psychology drive outcomes in a commodity business. A catastrophe reinsurance episode shows Berkshire adding large capacity only when pricing becomes attractive, tolerating lumpy results for expected long-run gain."
+    }
+  },
+  {
+    "chunk_id": "1989-S05-T1-002",
+    "content": "1981 3.8 106.0 6.5 9.6\n1982 3.7 109.6 8.4 6.5\n1983 5.0 112.0 6.8 3.8\n1984 8.5 118.0 16.9 3.8\n1985 22.1 116.3 16.1 3.0\n1986 22.2 108.0 13.5 2.6\n1987 9.4 104.6 7.8 3.1\n1988 4.4 105.4 5.5 3.3\n1989 (Est.) 2.1 110.4 8.7 4.2\n\nSource: A. M. Best Co.\n\nThe combined ratio represents total insurance costs (losses\nincurred plus expenses) compared to revenue from premiums: A\nratio below 100 indicates an underwriting profit, and one above\n100 indicates a loss. When the investment income that an insurer\nearns from holding policyholders' funds (\"the float\") is taken\ninto account, a combined ratio in the 107-111 range typically\nproduces an overall breakeven result, exclusive of earnings on\nthe funds provided by shareholders.\n\nFor the reasons laid out in previous reports, we expect the\nindustry's incurred losses to grow by about 10% annually, even in\nyears when general inflation runs considerably lower. (Actually,\nover the last 25 years, incurred losses have grown at a still\nfaster rate, 11%.) If premium growth meanwhile materially lags\nthat 10% rate, underwriting losses will mount, though the\nindustry's tendency to underreserve when business turns bad may\nobscure their size for a time.\n\nLast year we said the climb in the combined ratio was\n\"almost certain to continue - and probably will accelerate - for\nat least two more years.\" This year we will not predict\nacceleration, but otherwise must repeat last year's forecast.\nPremium growth is running far below the 10% required annually.\nRemember also that a 10% rate would only stabilize the combined\nratio, not bring it down.\n\nThe increase in the combined ratio in 1989 was a little more\nthan we had expected because catastrophes (led by Hurricane Hugo)\nwere unusually severe. These abnormalities probably accounted for\nabout two points of the increase. If 1990 is more of a \"normal\"\nyear, the combined ratio should rise only minimally from the\ncatastrophe-swollen base of 1989. In 1991, though, the ratio is\napt to climb by a greater degree.\n\nCommentators frequently discuss the \"underwriting cycle\" and\nspeculate about its next turn. If that term is used to connote\nrhythmic qualities, it is in our view a misnomer that leads to\nfaulty thinking about the industry's fundamental economics.\n\nThe term was appropriate some decades ago when the industry\nand regulators cooperated to conduct the business in cartel\nfashion. At that time, the combined ratio fluctuated\nrhythmically for two reasons, both related to lags. First, data\nfrom the past were analyzed and then used to set new \"corrected\"\nrates, which were subsequently put into effect by virtually all\ninsurers. Second, the fact that almost all policies were then\nissued for a one-to three-year term - which meant that it took a\nconsiderable time for mispriced policies to expire - delayed the\nimpact of new rates on revenues. These two lagged responses made\ncombined ratios behave much like alternating current. Meanwhile,\nthe absence of significant price competition guaranteed that\nindustry profits, averaged out over the cycle, would be\nsatisfactory.\n\nThe cartel period is long gone. Now the industry has\nhundreds of participants selling a commodity-like product at\nindependently-established prices. Such a configuration - whether\nthe product being sold is steel or insurance policies - is\ncertain to cause subnormal profitability in all circumstances but\none: a shortage of usable capacity. Just how often these periods\noccur and how long they last determines the average profitability\nof the industry in question.\n\nIn most industries, capacity is described in physical terms.\nIn the insurance world, however, capacity is customarily\ndescribed in financial terms; that is, it's considered\nappropriate for a company to write no more than X dollars of\nbusiness if it has Y dollars of net worth. In practice, however,\nconstraints of this sort have proven ineffective. Regulators,\ninsurance brokers, and customers are all slow to discipline\ncompanies that strain their resources. They also acquiesce when\ncompanies grossly overstate their true capital. Hence, a company\ncan write a great deal of business with very little capital if it\nis so inclined. At bottom, therefore, the amount of industry\ncapacity at any particular moment primarily depends on the mental\nstate of insurance managers.\n\nAll this understood, it is not very difficult to\nprognosticate the industry's profits. Good profits will be\nrealized only when there is a shortage of capacity. Shortages\nwill occur only when insurers are frightened. That happens rarely\n- and most assuredly is not happening now.\n\nSome analysts have argued that the more onerous taxes\nrecently imposed on the insurance industry and 1989's\ncatastrophes - Hurricane Hugo and the California earthquake -\nwill cause prices to strengthen significantly. We disagree. These\nadversities have not destroyed the eagerness of insurers to write\nbusiness at present prices. Therefore, premium volume won't grow\nby 10% in 1990, which means the negative underwriting trend will\nnot reverse.\n\nThe industry will meantime say it needs higher prices to\nachieve profitability matching that of the average American\nbusiness. Of course it does. So does the steel business. But\nneeds and desires have nothing to do with the long-term\nprofitability of industries. Instead, economic fundamentals\ndetermine the outcome. Insurance profitability will improve only\nwhen virtually all insurers are turning away business\ndespite\n\nhigher prices. And we're a long way from that point.",
+    "metadata": {
+      "letter_year": 1989,
+      "letter_date": "1990-03-02",
+      "source_file": "1989_cleaned.txt",
+      "section_title": "Insurance Operations",
+      "section_hierarchy": [
+        "Letter Body",
+        "Insurance Operations"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "narrative",
+      "contextual_summary": "Industry metrics are used to argue premiums are rising too slowly versus loss costs, implying continued underwriting strain. Buffett challenges the idea of a predictable underwriting cycle, stressing that capacity and manager psychology drive outcomes in a commodity business. A catastrophe reinsurance episode shows Berkshire adding large capacity only when pricing becomes attractive, tolerating lumpy results for expected long-run gain.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": false,
+      "entities": {
+        "companies": [
+          "A. M. Best Co."
+        ],
+        "people": [],
+        "metrics": [
+          "net worth",
+          "combined ratio",
+          "float",
+          "underwriting",
+          "premium"
+        ]
+      },
+      "themes": [
+        "insurance",
+        "underwriting_discipline",
+        "float",
+        "catastrophe_risk",
+        "capacity_cycle"
+      ],
+      "buffett_concepts": [
+        "float_as_asset",
+        "discipline_over_volume",
+        "write_big_when_priced_right"
+      ],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1989,
+        "comparison_years": [
+          1981,
+          1982,
+          1983,
+          1984,
+          1985,
+          1986,
+          1987,
+          1988,
+          1989,
+          1989,
+          1990,
+          1989,
+          1991,
+          1989,
+          1990
+        ],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "medium",
+      "token_count": 1375,
+      "char_count": 5503,
+      "source_span": {
+        "start_char": 28809,
+        "end_char_exclusive": 34312
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": [],
+      "previous_summary": "Industry metrics are used to argue premiums are rising too slowly versus loss costs, implying continued underwriting strain.",
+      "next_summary": "A catastrophe reinsurance episode shows Berkshire adding large capacity only when pricing becomes attractive, tolerating lumpy results for expected long-run gain."
+    }
+  },
+  {
+    "chunk_id": "1989-S05-T1-003",
+    "content": "Berkshire's premium volume may drop to $150 million or so in\n1990 (from a high of $1 billion in 1986), partly because our\ntraditional business continues to shrink and partly because the\ncontract under which we received 7% of the business of Fireman's\nFund expired last August. Whatever the size of the drop, it will\nnot disturb us. We have no interest in writing insurance that\ncarries a mathematical expectation of loss; we experience enough\ndisappointments doing transactions we believe to carry an\nexpectation of profit.\n\nHowever, our appetite for appropriately-priced business is\nample, as one tale from 1989 will tell. It concerns \"CAT covers,\"\nwhich are reinsurance contracts that primary insurance companies\n(and also reinsurers themselves) buy to protect themselves\nagainst a single catastrophe, such as a tornado or hurricane,\nthat produces losses from a large number of policies. In these\ncontracts, the primary insurer might retain the loss from a\nsingle event up to a maximum of, say, $10 million, buying various\nlayers of reinsurance above that level. When losses exceed the\nretained amount, the reinsurer typically pays 95% of the excess\nup to its contractual limit, with the primary insurer paying the\nremainder. (By requiring the primary insurer to keep 5% of each\nlayer, the reinsurer leaves him with a financial stake in each\nloss settlement and guards against his throwing away the\nreinsurer's money.)\n\nCAT covers are usually one-year policies that also provide\nfor one automatic reinstatement, which requires a primary insurer\nwhose coverage has been exhausted by a catastrophe to buy a\nsecond cover for the balance of the year in question by paying\nanother premium. This provision protects the primary company from\nbeing \"bare\" for even a brief period after a first catastrophic\nevent. The duration of \"an event\" is usually limited by contract\nto any span of 72 hours designated by the primary company. Under\nthis definition, a wide-spread storm, causing damage for three\ndays, will be classified as a single event if it arises from a\nsingle climatic cause. If the storm lasts four days, however, the\nprimary company will file a claim carving out the 72 consecutive\nhours during which it suffered the greatest damage. Losses that\noccurred outside that period will be treated as arising from a\nseparate event.\n\nIn 1989, two unusual things happened. First, Hurricane Hugo\ngenerated $4 billion or more of insured loss, at a pace, however,\nthat caused the vast damage in the Carolinas to occur slightly\nmore than 72 hours after the equally severe damage in the\nCaribbean. Second, the California earthquake hit within weeks,\ncausing insured damage that was difficult to estimate, even well\nafter the event. Slammed by these two - or possibly three - major\ncatastrophes, some primary insurers, and also many reinsurers\nthat had themselves bought CAT protection, either used up their\nautomatic second cover or became uncertain as to whether they had\ndone so.\n\nAt that point sellers of CAT policies had lost a huge amount\nof money - perhaps twice because of the reinstatements - and not\ntaken in much in premiums. Depending upon many variables, a CAT\npremium might generally have run 3% to 15% of the amount of\nprotection purchased. For some years, we've thought premiums of\nthat kind inadequate and have stayed away from the business.\n\nBut because the 1989 disasters left many insurers either\nactually or possibly bare, and also left most CAT writers licking\ntheir wounds, there was an immediate shortage after the\nearthquake of much-needed catastrophe coverage. Prices instantly\nbecame attractive, particularly for the reinsurance that CAT\nwriters themselves buy. Just as instantly, Berkshire Hathaway\noffered to write up to $250 million of catastrophe coverage,\nadvertising that proposition in trade publications. Though we did\nnot write all the business we sought, we did in a busy ten days\nbook a substantial amount.\n\nOur willingness to put such a huge sum on the line for a\nloss that could occur tomorrow sets us apart from any reinsurer\nin the world. There are, of course, companies that sometimes\nwrite $250 million or even far more of catastrophe coverage. But\nthey do so only when they can, in turn, reinsure a large\npercentage of the business with other companies. When they can't\n\"lay off\" in size, they disappear from the market.\n\nBerkshire's policy, conversely, is to retain the business we\nwrite rather than lay it off. When rates carry an expectation of\nprofit, we want to assume as much risk as is prudent. And in our\ncase, that's a lot.\n\nWe will accept more reinsurance risk for our own account\nthan any other company because of two factors: (1) by the\nstandards of regulatory accounting, we have a net worth in our\ninsurance companies of about $6 billion - the second highest\namount in the United States; and (2) we simply don't care what\nearnings we report quarterly, or even annually, just as long as\nthe decisions leading to those earnings (or losses) were reached\nintelligently.\n\nObviously, if we write $250 million of catastrophe coverage\nand retain it all ourselves, there is some probability that we\nwill lose the full $250 million in a single quarter. That\nprobability is low, but it is not zero. If we had a loss of that\nmagnitude, our after-tax cost would be about $165 million. Though\nthat is far more than Berkshire normally earns in a quarter, the\ndamage would be a blow only to our pride, not to our well-being.",
+    "metadata": {
+      "letter_year": 1989,
+      "letter_date": "1990-03-02",
+      "source_file": "1989_cleaned.txt",
+      "section_title": "Insurance Operations",
+      "section_hierarchy": [
+        "Letter Body",
+        "Insurance Operations"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "narrative",
+      "contextual_summary": "A catastrophe reinsurance episode shows Berkshire adding large capacity only when pricing becomes attractive, tolerating lumpy results for expected long-run gain.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "Berkshire Hathaway"
+        ],
+        "people": [],
+        "metrics": [
+          "net worth",
+          "premium",
+          "interest"
+        ]
+      },
+      "themes": [
+        "insurance",
+        "underwriting_discipline",
+        "float",
+        "catastrophe_risk",
+        "capacity_cycle"
+      ],
+      "buffett_concepts": [
+        "float_as_asset",
+        "discipline_over_volume",
+        "write_big_when_priced_right"
+      ],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1989,
+        "comparison_years": [
+          1990,
+          1986,
+          1989,
+          1989,
+          1989
+        ],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "medium",
+      "token_count": 1364,
+      "char_count": 5457,
+      "source_span": {
+        "start_char": 34314,
+        "end_char_exclusive": 39771
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": [],
+      "previous_summary": "Industry metrics are used to argue premiums are rising too slowly versus loss costs, implying continued underwriting strain. Buffett challenges the idea of a predictable underwriting cycle, stressing that capacity and manager psychology drive outcomes in a commodity business. A catastrophe reinsurance episode shows Berkshire adding large capacity only when pricing becomes attractive, tolerating lumpy results for expected long-run gain.",
+      "next_summary": "This chunk captures a distinct set of arguments and examples from the shareholder letter for targeted retrieval."
+    }
+  },
+  {
+    "chunk_id": "1989-S05-T1-004",
+    "content": "This posture is one few insurance managements will assume.\nTypically, they are willing to write scads of business on terms\nthat almost guarantee them mediocre returns on equity. But they\ndo not want to expose themselves to an embarrassing singlequarter loss, even if the managerial strategy that causes the\nloss promises, over time, to produce superior results. I can\nunderstand their thinking: What is best for their owners is not\nnecessarily best for the managers. Fortunately Charlie and I have\nboth total job security and financial interests that are\nidentical with those of our shareholders. We are willing to\nlook\n\nfoolish as long as we don't feel we have\nacted\nfoolishly.\n\nOur method of operation, incidentally, makes us a\nstabilizing force in the industry. We add huge capacity when\ncapacity is short and we become less competitive only when\ncapacity is abundant. Of course, we don't follow this policy in\nthe interest of stabilization - we follow it because we believe\nit to be the most sensible and profitable course of action.\nNevertheless, our behavior steadies the market. In this case,\nAdam Smith's invisible hand works as advertised.\n\nCurrently, we hold an exceptional amount of float compared\nto premium volume. This circumstance should produce quite\nfavorable insurance results for us during the next few years as\nit did in 1989. Our underwriting losses should be tolerable and\nour investment income from policyholder funds large. This\npleasant situation, however, will gradually deteriorate as our\nfloat runs off.\n\nAt some point, however, there will be an opportunity for us\nto write large amounts of profitable business. Mike Goldberg and\nhis management team of Rod Eldred, Dinos Iordanou, Ajit Jain,\nPhil Urban, and Don Wurster continue to position us well for this\neventuality.",
+    "metadata": {
+      "letter_year": 1989,
+      "letter_date": "1990-03-02",
+      "source_file": "1989_cleaned.txt",
+      "section_title": "Insurance Operations",
+      "section_hierarchy": [
+        "Letter Body",
+        "Insurance Operations"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "narrative",
+      "contextual_summary": "This chunk captures a distinct set of arguments and examples from the shareholder letter for targeted retrieval.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": false,
+      "entities": {
+        "companies": [],
+        "people": [
+          "Adam Smith"
+        ],
+        "metrics": [
+          "float",
+          "underwriting",
+          "premium",
+          "interest"
+        ]
+      },
+      "themes": [
+        "insurance",
+        "underwriting_discipline",
+        "float",
+        "catastrophe_risk",
+        "capacity_cycle"
+      ],
+      "buffett_concepts": [
+        "float_as_asset",
+        "discipline_over_volume",
+        "write_big_when_priced_right"
+      ],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1989,
+        "comparison_years": [
+          1989
+        ],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "medium",
+      "token_count": 449,
+      "char_count": 1798,
+      "source_span": {
+        "start_char": 39773,
+        "end_char_exclusive": 41571
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": [],
+      "previous_summary": "A catastrophe reinsurance episode shows Berkshire adding large capacity only when pricing becomes attractive, tolerating lumpy results for expected long-run gain.",
+      "next_summary": "Capital allocation across equities, bonds, cash, and arbitrage is guided by expected after-tax outcomes within a strict circle of competence."
+    }
+  },
+  {
+    "chunk_id": "1989-S06-T1-001",
+    "content": "In selecting marketable securities for our insurance\ncompanies, we generally choose among five major categories: (1)\nlong-term common stock investments, (2) medium-term fixed income\nsecurities, (3) long-term fixed income securities, (4) short-term\ncash equivalents, and (5) short-term arbitrage commitments.\n\nWe have no particular bias when it comes to choosing from\nthese categories; we just continuously search among them for the\nhighest after-tax returns as measured by \"mathematical\nexpectation,\" limiting ourselves always to investment\nalternatives we think we understand. Our criteria have nothing to\ndo with maximizing immediately reportable earnings; our goal,\nrather, is to maximize eventual net worth.\n\no\nBelow we list our common stock holdings having a value\nof over $100 million. A small portion of these investments belongs\nto subsidiaries of which Berkshire owns less than 100%.\n\n12/31/89",
+    "metadata": {
+      "letter_year": 1989,
+      "letter_date": "1990-03-02",
+      "source_file": "1989_cleaned.txt",
+      "section_title": "Marketable Securities",
+      "section_hierarchy": [
+        "Letter Body",
+        "Marketable Securities"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [
+        "1989-S06-T2-001"
+      ],
+      "content_type": "narrative",
+      "contextual_summary": "Capital allocation across equities, bonds, cash, and arbitrage is guided by expected after-tax outcomes within a strict circle of competence.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [],
+        "people": [],
+        "metrics": [
+          "net worth"
+        ]
+      },
+      "themes": [
+        "investing",
+        "allocation",
+        "concentration",
+        "equities",
+        "fixed_income",
+        "arbitrage"
+      ],
+      "buffett_concepts": [
+        "circle_of_competence",
+        "concentration",
+        "avoid_greater_fool_arbitrage"
+      ],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1989,
+        "comparison_years": [],
+        "future_outlook": false
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "medium",
+      "token_count": 225,
+      "char_count": 902,
+      "source_span": {
+        "start_char": 41596,
+        "end_char_exclusive": 42498
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": [],
+      "previous_summary": "This chunk captures a distinct set of arguments and examples from the shareholder letter for targeted retrieval.",
+      "next_summary": "Header + key rows of Berkshire’s major common-stock holdings (> $100M) listing shares, cost basis, and market value at 12/31/89."
+    }
+  },
+  {
+    "chunk_id": "1989-S06-T2-001",
+    "content": "Shares Company Cost Market\n------ ------- ---------- ----------\n(000 s omitted)\n3,000,000 Capital Cities/ABC, Inc. ................ $ 517,500 $1,692,375\n23,350,000 The Coca-Cola Co. ....................... 1,023,920 1,803,787\n2,400,000 Federal Home Loan Mortgage Corp. ........ 71,729 161,100\n6,850,000 GEICO Corp. ............................. 45,713 1,044,625\n1,727,765 The Washington Post Company ............. 9,731 486,366\n",
+    "metadata": {
+      "letter_year": 1989,
+      "letter_date": "1990-03-02",
+      "source_file": "1989_cleaned.txt",
+      "section_title": "Marketable Securities",
+      "section_hierarchy": [
+        "Letter Body",
+        "Marketable Securities"
+      ],
+      "chunk_tier": 2,
+      "parent_chunk_id": "1989-S06-T1-001",
+      "child_chunk_ids": [],
+      "content_type": "financial_table",
+      "contextual_summary": "Header + key rows of Berkshire’s major common-stock holdings (> $100M) listing shares, cost basis, and market value at 12/31/89.",
+      "has_table": true,
+      "table_data": [
+        {
+          "table_name": "Major Common Stock Holdings (>$100M)",
+          "summary": "Year-end list of common-stock holdings above $100 million with share count, cost basis, and market value.",
+          "columns": [
+            "shares",
+            "company",
+            "cost",
+            "market"
+          ],
+          "rows": [],
+          "row_count": 0
+        }
+      ],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [],
+        "people": [],
+        "metrics": []
+      },
+      "themes": [
+        "investing",
+        "allocation",
+        "concentration",
+        "equities",
+        "fixed_income",
+        "arbitrage"
+      ],
+      "buffett_concepts": [
+        "circle_of_competence",
+        "concentration",
+        "avoid_greater_fool_arbitrage"
+      ],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1989,
+        "comparison_years": [],
+        "future_outlook": false
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "low",
+      "token_count": 49,
+      "char_count": 428,
+      "source_span": {
+        "start_char": 42499,
+        "end_char_exclusive": 42578
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": [
+        "1989-S06-T1-002#leading_rows"
+      ],
+      "previous_summary": "Capital allocation across equities, bonds, cash, and arbitrage is guided by expected after-tax outcomes within a strict circle of competence.",
+      "next_summary": "The Coca‑Cola purchase is explained as a high-conviction investment in a globally scalable brand strengthened by exceptional leadership and capital discipline. Arbitrage is treated as a cash substitute only when the odds are attractive, avoiding deals that depend on ‘greater‑fool’ behavior. Convertible preferred investments are structured to protect downside if industries disappoint while keeping meaningful upside only if the common stocks compound over time."
+    }
+  },
+  {
+    "chunk_id": "1989-S06-T1-002",
+    "content": "This list of companies is the same as last year's and in\nonly one case has the number of shares changed: Our holdings of\nCoca-Cola increased from 14,172,500 shares at the end of 1988 to\n23,350,000.\n\nThis Coca-Cola investment provides yet another example of\nthe incredible speed with which your Chairman responds to\ninvestment opportunities, no matter how obscure or well-disguised\nthey may be. I believe I had my first Coca-Cola in either 1935 or\n1936. Of a certainty, it was in 1936 that I started buying Cokes\nat the rate of six for 25 cents from Buffett & Son, the family\ngrocery store, to sell around the neighborhood for 5 cents each.\nIn this excursion into high-margin retailing, I duly observed\nthe extraordinary consumer attractiveness and commercial\npossibilities of the product.\n\nI continued to note these qualities for the next 52 years as\nCoke blanketed the world. During this period, however, I\ncarefully avoided buying even a single share, instead allocating\nmajor portions of my net worth to street railway companies,\nwindmill manufacturers, anthracite producers, textile businesses,\ntrading-stamp issuers, and the like. (If you think I'm making\nthis up, I can supply the names.) Only in the summer of 1988 did\nmy brain finally establish contact with my eyes.\n\nWhat I then perceived was both clear and fascinating. After\ndrifting somewhat in the 1970's, Coca-Cola had in 1981 become a\nnew company with the move of Roberto Goizueta to CEO. Roberto,\nalong with Don Keough, once my across-the-street neighbor in\nOmaha, first rethought and focused the company's policies and\nthen energetically carried them out. What was already the world's\nmost ubiquitous product gained new momentum, with sales overseas\nvirtually exploding.\n\nThrough a truly rare blend of marketing and financial\nskills, Roberto has maximized both the growth of his product and\nthe rewards that this growth brings to shareholders. Normally,\nthe CEO of a consumer products company, drawing on his natural\ninclinations or experience, will cause either marketing or\nfinance to dominate the business at the expense of the other\ndiscipline. With Roberto, the mesh of marketing and finance is\nperfect and the result is a shareholder's dream.\n\nOf course, we should have started buying Coke much earlier,\nsoon after Roberto and Don began running things. In fact, if I\nhad been thinking straight I would have persuaded my grandfather\nto sell the grocery store back in 1936 and put all of the\nproceeds into Coca-Cola stock. I've learned my lesson: My\nresponse time to the next glaringly attractive idea will be\nslashed to well under 50 years.\n\nAs I mentioned earlier, the yearend prices of our major\ninvestees were much higher relative to their intrinsic values\nthan theretofore. While those prices may not yet cause\nnosebleeds, they are clearly vulnerable to a general market\ndecline. A drop in their prices would not disturb us at all - it\nmight in fact work to our eventual benefit - but it\nwould\ncause\nat least a one-year reduction in Berkshire's net worth. We think\nsuch a reduction is almost certain in at least one of the next\nthree years. Indeed, it would take only about a 10% year-to-year\ndecline in the aggregate value of our portfolio investments to\nsend Berkshire's net worth down.\n\nWe continue to be blessed with extraordinary managers at our\nportfolio companies. They are high-grade, talented, and\nshareholder-oriented. The exceptional results we have achieved\nwhile investing with them accurately reflect their exceptional\npersonal qualities.\n\no\nWe told you last year that we expected to do little in\narbitrage during 1989, and that's the way it turned out.\nArbitrage positions are a substitute for short-term cash\nequivalents, and during part of the year we held relatively low\nlevels of cash. In the rest of the year we had a fairly goodsized cash position and even so chose not to engage in arbitrage.\nThe main reason was corporate transactions that made no economic\nsense to us; arbitraging such deals comes too close to playing\nthe greater-fool game. (As Wall Streeter Ray De Voe says: \"Fools\nrush in where angels fear to trade.\") We will engage in arbitrage\nfrom time to time - sometimes on a large scale - but only when we\nlike the odds.\n\no\nLeaving aside the three convertible preferreds discussed in\nthe next section, we substantially reduced our holdings in both\nmedium- and long-term fixed-income securities. In the long-terms,\njust about our only holdings have been Washington Public Power\nSupply Systems (WPPSS) bonds carrying coupons ranging from low to\nhigh. During the year we sold a number of the low-coupon issues,\nwhich we originally bought at very large discounts. Many of these\nissues had approximately doubled in price since we purchased them\nand in addition had paid us 15%-17% annually, tax-free. Our\nprices upon sale were only slightly cheaper than typical highgrade tax-exempts then commanded. We have kept all of our highcoupon WPPSS issues. Some have been called for redemption in 1991\nand 1992, and we expect the rest to be called in the early to\nmid-1990 s.\n\nWe also sold many of our medium-term tax-exempt bonds during\nthe year. When we bought these bonds we said we would be happy to\nsell them - regardless of whether they were higher or lower than\nat our time of purchase - if something we liked better came\nalong. Something did - and concurrently we unloaded most of these\nissues at modest gains. Overall, our 1989 profit from the sale of\ntax-exempt bonds was about $51 million pre-tax.",
+    "metadata": {
+      "letter_year": 1989,
+      "letter_date": "1990-03-02",
+      "source_file": "1989_cleaned.txt",
+      "section_title": "Marketable Securities",
+      "section_hierarchy": [
+        "Letter Body",
+        "Marketable Securities"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "narrative",
+      "contextual_summary": "The Coca‑Cola purchase is explained as a high-conviction investment in a globally scalable brand strengthened by exceptional leadership and capital discipline. Arbitrage is treated as a cash substitute only when the odds are attractive, avoiding deals that depend on ‘greater‑fool’ behavior. Convertible preferred investments are structured to protect downside if industries disappoint while keeping meaningful upside only if the common stocks compound over time.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "Capital Cities/ABC",
+          "The Coca-Cola Co.",
+          "GEICO",
+          "The Washington Post Company"
+        ],
+        "people": [
+          "Roberto Goizueta",
+          "Don Keough",
+          "Ray De Voe"
+        ],
+        "metrics": [
+          "net worth"
+        ]
+      },
+      "themes": [
+        "investing",
+        "allocation",
+        "concentration",
+        "equities",
+        "fixed_income",
+        "arbitrage"
+      ],
+      "buffett_concepts": [
+        "circle_of_competence",
+        "concentration",
+        "avoid_greater_fool_arbitrage"
+      ],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1989,
+        "comparison_years": [
+          1988,
+          1935,
+          1936,
+          1936,
+          1988,
+          1970,
+          1981,
+          1936,
+          1989,
+          1991,
+          1992,
+          1990,
+          1989
+        ],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "medium",
+      "token_count": 919,
+      "char_count": 5505,
+      "source_span": {
+        "start_char": 42580,
+        "end_char_exclusive": 48434
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": [],
+      "previous_summary": "Header + key rows of Berkshire’s major common-stock holdings (> $100M) listing shares, cost basis, and market value at 12/31/89.",
+      "next_summary": "Convertible preferred investments are structured to protect downside if industries disappoint while keeping meaningful upside only if the common stocks compound over time."
+    }
+  },
+  {
+    "chunk_id": "1989-S06-T1-003",
+    "content": "o\nThe proceeds from our bond sales, along with our excess cash\nat the beginning of the year and that generated later through\nearnings, went into the purchase of three convertible preferred\nstocks. In the first transaction, which took place in July, we\npurchased $600 million of The Gillette Co. preferred with an 8\n3/4% dividend, a mandatory redemption in ten years, and the right\nto convert into common at $50 per share. We next purchased $358\nmillion of USAir Group, Inc. preferred stock with mandatory\nredemption in ten years, a dividend of 9 1/4%, and the right to\nconvert into common at $60 per share. Finally, late in the year\nwe purchased $300 million of Champion International Corp.\npreferred with mandatory redemption in ten years, a 9 1/4%\ndividend, and the right to convert into common at $38 per share.\n\nUnlike standard convertible preferred stocks, the issues we\nown are either non-salable or non-convertible for considerable\nperiods of time and there is consequently no way we can gain from\nshort-term price blips in the common stock. I have gone on the\nboard of Gillette, but I am not on the board of USAir or\nChampion. (I thoroughly enjoy the boards I am on, but can't\nhandle any more.)\n\nGillette's business is very much the kind we like. Charlie\nand I think we understand the company's economics and therefore\nbelieve we can make a reasonably intelligent guess about its\nfuture. (If you haven't tried Gillette's new Sensor razor, go\nright out and get one.) However, we have no ability to forecast\nthe economics of the investment banking business (in which we\nhave a position through our 1987 purchase of Salomon convertible\npreferred), the airline industry, or the paper industry. This\ndoes not mean that we predict a negative future for these\nindustries: we're agnostics, not atheists. Our lack of strong\nconvictions about these businesses, however, means that we must\nstructure our investments in them differently from what we do\nwhen we invest in a business appearing to have splendid economic\ncharacteristics.\n\nIn one major respect, however, these purchases are not\ndifferent: We only want to link up with people whom we like,\nadmire, and trust. John Gutfreund at Salomon, Colman Mockler, Jr.\nat Gillette, Ed Colodny at USAir, and Andy Sigler at Champion\nmeet this test in spades.\n\nThey in turn have demonstrated some confidence in us,\ninsisting in each case that our preferreds have unrestricted\nvoting rights on a fully-converted basis, an arrangement that is\nfar from standard in corporate finance. In effect they are\ntrusting us to be intelligent owners, thinking about tomorrow\n\ninstead\nof today, just as we are trusting them to be intelligent\nmanagers, thinking about tomorrow\nas well\nas today.\n\nThe preferred-stock structures we have negotiated will\nprovide a mediocre return for us if industry economics hinder the\nperformance of our investees, but will produce reasonably\nattractive results for us if they can earn a return comparable to\nthat of American industry in general. We believe that Gillette,\nunder Colman's management, will far exceed that return and\nbelieve that John, Ed, and Andy will reach it unless industry\nconditions are harsh.\n\nUnder almost any conditions, we expect these preferreds to\nreturn us our money plus dividends. If that is all we get,\nthough, the result will be disappointing, because we will have\ngiven up flexibility and consequently will have missed some\nsignificant opportunities that are bound to present themselves\nduring the decade. Under that scenario, we will have obtained\nonly a preferred-stock yield during a period when the typical\npreferred stock will have held no appeal for us whatsoever. The\nonly way Berkshire can achieve satisfactory results from its four\npreferred issues is to have the common stocks of the investee\ncompanies do well.\n\nGood management and at least tolerable industry conditions\nwill be needed if that is to happen. But we believe Berkshire's\ninvestment will also help and that the other shareholders of each\ninvestee will profit over the years ahead from our preferredstock purchase. The help will come from the fact that each\ncompany now has a major, stable, and interested shareholder whose\nChairman and Vice Chairman have, through Berkshire's investments,\nindirectly committed a very large amount of their own money to\nthese undertakings. In dealing with our investees, Charlie and I\nwill be supportive, analytical, and objective. We recognize that\nwe are working with experienced CEOs who are very much in command\nof their own businesses but who nevertheless, at certain moments,\nappreciate the chance to test their thinking on someone without\nties to their industry or to decisions of the past.\n\nAs a group, these convertible preferreds will not produce\nthe returns we can achieve when we find a business with wonderful\neconomic prospects that is unappreciated by the market. Nor will\nthe returns be as attractive as those produced when we make our\nfavorite form of capital deployment, the acquisition of 80% or\nmore of a fine business with a fine management. But both\nopportunities are rare, particularly in a size befitting our\npresent and anticipated resources.\n\nIn summation, Charlie and I feel that our preferred stock\ninvestments should produce returns moderately above those\nachieved by most fixed-income portfolios and that we can play a\nminor but enjoyable and constructive role in the investee\ncompanies.",
+    "metadata": {
+      "letter_year": 1989,
+      "letter_date": "1990-03-02",
+      "source_file": "1989_cleaned.txt",
+      "section_title": "Marketable Securities",
+      "section_hierarchy": [
+        "Letter Body",
+        "Marketable Securities"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "narrative",
+      "contextual_summary": "Convertible preferred investments are structured to protect downside if industries disappoint while keeping meaningful upside only if the common stocks compound over time.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "The Gillette Co.",
+          "USAir Group",
+          "Champion International"
+        ],
+        "people": [
+          "John Gutfreund",
+          "Colman Mockler",
+          "Ed Colodny",
+          "Andy Sigler"
+        ],
+        "metrics": [
+          "dividends"
+        ]
+      },
+      "themes": [
+        "investing",
+        "allocation",
+        "concentration",
+        "equities",
+        "fixed_income",
+        "arbitrage"
+      ],
+      "buffett_concepts": [
+        "circle_of_competence",
+        "concentration",
+        "avoid_greater_fool_arbitrage"
+      ],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1989,
+        "comparison_years": [
+          1987
+        ],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "medium",
+      "token_count": 1354,
+      "char_count": 5416,
+      "source_span": {
+        "start_char": 48436,
+        "end_char_exclusive": 53852
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": [],
+      "previous_summary": "The Coca‑Cola purchase is explained as a high-conviction investment in a globally scalable brand strengthened by exceptional leadership and capital discipline. Arbitrage is treated as a cash substitute only when the odds are attractive, avoiding deals that depend on ‘greater‑fool’ behavior. Convertible preferred investments are structured to protect downside if industries disappoint while keeping meaningful upside only if the common stocks compound over time.",
+      "next_summary": "Berkshire’s zero‑coupon convertible debentures are explained as low effective-cost financing with tax advantages and clear call/put and conversion terms. The letter contrasts useful Treasury ‘strips’ that remove reinvestment risk with later junk zeros that postpone cash interest requirements."
+    }
+  },
+  {
+    "chunk_id": "1989-S07-T1-001",
+    "content": "In September, Berkshire issued $902.6 million principal\namount of Zero-Coupon Convertible Subordinated Debentures, which\nare now listed on the New York Stock Exchange. Salomon Brothers\nhandled the underwriting in superb fashion, providing us helpful\nadvice and a flawless execution.\n\nMost bonds, of course, require regular payments of interest,\nusually semi-annually. A zero-coupon bond, conversely, requires\nno current interest payments; instead, the investor receives his\nyield by purchasing the security at a significant discount from\nmaturity value. The effective interest rate is determined by the\noriginal issue price, the maturity value, and the amount of time\nbetween issuance and maturity.\n\nIn our case, the bonds were issued at 44.314% of maturity\nvalue and are due in 15 years. For investors purchasing the\nbonds, that is the mathematical equivalent of a 5.5% current\npayment compounded semi-annually. Because we received only\n44.31 cents on the dollar, our proceeds from this offering were\n$400 million (less about $9.5 million of offering expenses).\n\nThe bonds were issued in denominations of $10,000 and each\nbond is convertible into . 4515 shares of Berkshire Hathaway.\nBecause a $10,000 bond cost $4,431, this means that the\nconversion price was $9,815 per Berkshire share, a 15% premium to\nthe market price then existing. Berkshire can call the bonds at\nany time after September 28,1992 at their accreted value (the\noriginal issue price plus 5.5% compounded semi-annually) and on\ntwo specified days, September 28 of 1994 and 1999, the\nbondholders can require Berkshire to buy the securities at their\naccreted value.\n\nFor tax purposes, Berkshire is entitled to deduct the 5.5%\ninterest accrual each year, even though we make no payments to\nthe bondholders. Thus the net effect to us, resulting from the\nreduced taxes, is positive cash flow. That is a very significant\nbenefit. Some unknowable variables prevent us from calculating\nour exact effective rate of interest, but under all circumstances\nit will be well below 5.5%. There is meanwhile a symmetry to the\ntax law: Any taxable holder of the bonds must pay tax each year\non the 5.5% interest, even though he receives no cash.\n\nNeither our bonds nor those of certain other companies that\nissued similar bonds last year (notably Loews and Motorola)\nresemble the great bulk of zero-coupon bonds that have been\nissued in recent years. Of these, Charlie and I have been, and\nwill continue to be, outspoken critics. As I will later explain,\nsuch bonds have often been used in the most deceptive of ways and\nwith deadly consequences to investors. But before we tackle that\nsubject, let's travel back to Eden, to a time when the apple had\nnot yet been bitten.\n\nIf you're my age you bought your first zero-coupon bonds\nduring World War II, by purchasing the famous Series E U. S.\nSavings Bond, the most widely-sold bond issue in history. (After\nthe war, these bonds were held by one out of two U. S.\nhouseholds.) Nobody, of course, called the Series E a zero-coupon\nbond, a term in fact that I doubt had been invented. But that's\nprecisely what the Series E was.\n\nThese bonds came in denominations as small as $18.75. That\namount purchased a $25 obligation of the United States government\ndue in 10 years, terms that gave the buyer a compounded annual\nreturn of 2.9%. At the time, this was an attractive offer: the\n2.9% rate was higher than that generally available on Government\nbonds and the holder faced no market-fluctuation risk, since he\ncould at any time cash in his bonds with only a minor reduction\nin interest.\n\nA second form of zero-coupon U. S. Treasury issue, also\nbenign and useful, surfaced in the last decade. One problem with\na normal bond is that even though it pays a given interest rate -\nsay 10% - the holder cannot be assured that a compounded 10%\nreturn will be realized. For that rate to materialize, each semiannual coupon must be reinvested at 10% as it is received. If\ncurrent interest rates are, say, only 6% or 7% when these coupons\ncome due, the holder will be unable to compound his money over\nthe life of the bond at the advertised rate. For pension funds or\nother investors with long-term liabilities, \"reinvestment risk\"\nof this type can be a serious problem. Savings Bonds might have\nsolved it, except that they are issued only to individuals and\nare unavailable in large denominations. What big buyers needed\nwas huge quantities of \"Savings Bond Equivalents.\"\n\nEnter some ingenious and, in this case, highly useful\ninvestment bankers (led, I'm happy to say, by Salomon Brothers).\nThey created the instrument desired by \"stripping\" the semiannual coupons from standard Government issues. Each coupon, once\ndetached, takes on the essential character of a Savings Bond\nsince it represents a single sum due sometime in the future. For\nexample, if you strip the 40 semi-annual coupons from a U. S.\nGovernment Bond due in the year 2010, you will have 40 zerocoupon bonds, with maturities from six months to 20 years, each\nof which can then be bundled with other coupons of like maturity\nand marketed. If current interest rates are, say, 10% for all\nmaturities, the six-month issue will sell for 95.24% of maturity\nvalue and the 20-year issue will sell for 14.20%. The purchaser\nof any given maturity is thus guaranteed a compounded rate of 10%\nfor his entire holding period. Stripping of government bonds has\noccurred on a large scale in recent years, as long-term\ninvestors, ranging from pension funds to individual IRA accounts,\nrecognized these high-grade, zero-coupon issues to be well suited\nto their needs.",
+    "metadata": {
+      "letter_year": 1989,
+      "letter_date": "1990-03-02",
+      "source_file": "1989_cleaned.txt",
+      "section_title": "Zero-Coupon Securities",
+      "section_hierarchy": [
+        "Letter Body",
+        "Zero-Coupon Securities"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "narrative",
+      "contextual_summary": "Berkshire’s zero‑coupon convertible debentures are explained as low effective-cost financing with tax advantages and clear call/put and conversion terms. The letter contrasts useful Treasury ‘strips’ that remove reinvestment risk with later junk zeros that postpone cash interest requirements.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "Berkshire Hathaway",
+          "Salomon Brothers"
+        ],
+        "people": [],
+        "metrics": [
+          "underwriting",
+          "premium",
+          "cash flow",
+          "zero-coupon",
+          "interest"
+        ]
+      },
+      "themes": [
+        "credit_risk",
+        "financial_engineering",
+        "debt_structure",
+        "incentives"
+      ],
+      "buffett_concepts": [
+        "avoid_accounting_illusions",
+        "require_cash_interest_coverage"
+      ],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1989,
+        "comparison_years": [
+          1992,
+          1994,
+          1999
+        ],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "medium",
+      "token_count": 1401,
+      "char_count": 5604,
+      "source_span": {
+        "start_char": 53878,
+        "end_char_exclusive": 59482
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": [],
+      "previous_summary": "Convertible preferred investments are structured to protect downside if industries disappoint while keeping meaningful upside only if the common stocks compound over time.",
+      "next_summary": "Buffett warns against deal structures that ignore depreciation or accrued interest, insisting true cash coverage after maintenance capex is the real test. A ‘psychic wealth’ analogy illustrates how financial engineering can create reported income without immediate economic sacrifice—until losses surface."
+    }
+  },
+  {
+    "chunk_id": "1989-S07-T1-002",
+    "content": "But as happens in Wall Street all too often, what the wise\ndo in the beginning, fools do in the end. In the last few years\nzero-coupon bonds (and their functional equivalent, pay-in-kind\nbonds, which distribute additional PIK bonds semi-annually as\ninterest instead of paying cash) have been issued in enormous\nquantities by ever-junkier credits. To these issuers, zero (or\nPIK) bonds offer one overwhelming advantage: It is impossible to\ndefault on a promise to pay nothing. Indeed, if LDC governments\nhad issued no debt in the 1970's other than long-term zero-coupon\nobligations, they would now have a spotless record as debtors.\n\nThis principle at work - that you need not default for a\nlong time if you solemnly promise to pay nothing for a long time\n- has not been lost on promoters and investment bankers seeking\nto finance ever-shakier deals. But its acceptance by lenders took\na while: When the leveraged buy-out craze began some years back,\npurchasers could borrow only on a reasonably sound basis, in\nwhich conservatively-estimated\nfree\ncash flow - that is,\noperating earnings plus depreciation and amortization less\nnormalized capital expenditures - was adequate to cover both\ninterest and modest reductions in debt.\n\nLater, as the adrenalin of deal-makers surged, businesses\nbegan to be purchased at prices so high that all free cash flow\nnecessarily had to be allocated to the payment of interest. That\nleft nothing for the paydown of debt. In effect, a Scarlett\nO'Hara \"I'll think about it tomorrow\" position in respect to\nprincipal payments was taken by borrowers and accepted by a new\nbreed of lender, the buyer of original-issue junk bonds. Debt now\nbecame something to be refinanced rather than repaid. The change\nbrings to mind a\nNew Yorker\ncartoon in which the grateful\nborrower rises to shake the hand of the bank's lending officer\nand gushes: \"I don't know how I'll ever repay you.\"\n\nSoon borrowers found even the new, lax standards intolerably\nbinding. To induce lenders to finance even sillier transactions,\nthey introduced an abomination, EBDIT - Earnings Before\nDepreciation, Interest and Taxes - as the test of a company's\nability to pay interest. Using this sawed-off yardstick, the\nborrower ignored depreciation as an expense on the theory that it\ndid not require a current cash outlay.\n\nSuch an attitude is clearly delusional. At 95% of American\nbusinesses, capital expenditures that over time roughly\napproximate depreciation are a necessity and are every bit as\nreal an expense as labor or utility costs. Even a high school\ndropout knows that to finance a car he must have income that\ncovers not only interest and operating expenses, but also\nrealistically-calculated depreciation. He would be laughed out of\nthe bank if he started talking about EBDIT.\n\nCapital outlays at a business can be skipped, of course, in\nany given month, just as a human can skip a day or even a week of\neating. But if the skipping becomes routine and is not made up,\nthe body weakens and eventually dies. Furthermore, a start-andstop feeding policy will over time produce a less healthy\norganism, human or corporate, than that produced by a steady\ndiet. As businessmen, Charlie and I relish having competitors who\nare unable to fund capital expenditures.\n\nYou might think that waving away a major expense such as\ndepreciation in an attempt to make a terrible deal look like a\ngood one hits the limits of Wall Street's ingenuity. If so, you\nhaven't been paying attention during the past few years.\nPromoters needed to find a way to justify even pricier\nacquisitions. Otherwise, they risked - heaven forbid! - losing\ndeals to other promoters with more \"imagination.\"\n\nSo, stepping through the Looking Glass, promoters and their\ninvestment bankers proclaimed that EBDIT should now be measured\nagainst cash interest only, which meant that interest accruing on\nzero-coupon or PIK bonds could be ignored when the financial\nfeasibility of a transaction was being assessed. This approach\nnot only relegated depreciation expense to the let's-ignore-it\ncorner, but gave similar treatment to what was usually a\nsignificant portion of interest expense. To their shame, many\nprofessional investment managers went along with this nonsense,\nthough they usually were careful to do so only with clients'\nmoney, not their own. (Calling these managers \"professionals\" is\nactually too kind; they should be designated \"promotees.\")\n\nUnder this new standard, a business earning, say, $100\nmillion pre-tax and having debt on which $90 million of interest\nmust be paid currently, might use a zero-coupon or PIK issue to\nincur another $60 million of annual interest that would accrue\nand compound but not come due for some years. The rate on these\nissues would typically be very high, which means that the\nsituation in year 2 might be $90 million cash interest plus $69\nmillion accrued interest, and so on as the compounding proceeds.\nSuch high-rate reborrowing schemes, which a few years ago were\nappropriately confined to the waterfront, soon became models of\nmodern finance at virtually all major investment banking houses.\n\nWhen they make these offerings, investment bankers display\ntheir humorous side: They dispense income and balance sheet\nprojections extending five or more years into the future for\ncompanies they barely had heard of a few months earlier. If you\nare shown such schedules, I suggest that you join in the fun:\nAsk the investment banker for the\none-year\nbudgets that his own\nfirm prepared as the last few years began and then compare these\nwith what actually happened.\n\nSome time ago Ken Galbraith, in his witty and insightful\n\nThe Great Crash\n, coined a new economic term: \"the bezzle,\"\ndefined as the current amount of undiscovered embezzlement. This\nfinancial creature has a magical quality: The embezzlers are richer\nby the amount of the bezzle, while the embezzlees do not yet feel\npoorer.",
+    "metadata": {
+      "letter_year": 1989,
+      "letter_date": "1990-03-02",
+      "source_file": "1989_cleaned.txt",
+      "section_title": "Zero-Coupon Securities",
+      "section_hierarchy": [
+        "Letter Body",
+        "Zero-Coupon Securities"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "narrative",
+      "contextual_summary": "Buffett warns against deal structures that ignore depreciation or accrued interest, insisting true cash coverage after maintenance capex is the real test. A ‘psychic wealth’ analogy illustrates how financial engineering can create reported income without immediate economic sacrifice—until losses surface.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [],
+        "people": [
+          "Ken Galbraith"
+        ],
+        "metrics": [
+          "cash flow",
+          "depreciation",
+          "EBDIT",
+          "zero-coupon",
+          "PIK",
+          "interest"
+        ]
+      },
+      "themes": [
+        "credit_risk",
+        "financial_engineering",
+        "debt_structure",
+        "incentives"
+      ],
+      "buffett_concepts": [
+        "avoid_accounting_illusions",
+        "require_cash_interest_coverage"
+      ],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1989,
+        "comparison_years": [
+          1970
+        ],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "medium",
+      "token_count": 1475,
+      "char_count": 5901,
+      "source_span": {
+        "start_char": 59484,
+        "end_char_exclusive": 65385
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": [],
+      "previous_summary": "Berkshire’s zero‑coupon convertible debentures are explained as low effective-cost financing with tax advantages and clear call/put and conversion terms. The letter contrasts useful Treasury ‘strips’ that remove reinvestment risk with later junk zeros that postpone cash interest requirements.",
+      "next_summary": "Buffett warns against deal structures that ignore depreciation or accrued interest, insisting true cash coverage after maintenance capex is the real test. A ‘psychic wealth’ analogy illustrates how financial engineering can create reported income without immediate economic sacrifice—until losses surface."
+    }
+  },
+  {
+    "chunk_id": "1989-S07-T1-003",
+    "content": "Professor Galbraith astutely pointed out that this sum\nshould be added to the National Wealth so that we might know the\nPsychic National Wealth. Logically, a society that wanted to\nfeel\n\nenormously prosperous would both encourage its citizens to\nembezzle and try not to detect the crime. By this means, \"wealth\"\nwould balloon though not an erg of productive work had been done.\n\nThe satirical nonsense of the bezzle is dwarfed by the realworld nonsense of the zero-coupon bond. With zeros, one party to\na contract can experience \"income\" without his opposite\nexperiencing the pain of expenditure. In our illustration, a\ncompany capable of earning only $100 million dollars annually -\nand therefore capable of paying only that much in interest -\nmagically creates \"earnings\" for bondholders of $150 million. As\nlong as major investors willingly don their Peter Pan wings and\nrepeatedly say \"I believe,\" there is no limit to how much\n\"income\" can be created by the zero-coupon bond.\n\nWall Street welcomed this invention with the enthusiasm\nless-enlightened folk might reserve for the wheel or the plow.\nHere, finally, was an instrument that would let the Street make\ndeals at prices no longer limited by actual earning power. The\nresult, obviously, would be more transactions: Silly prices will\nalways attract sellers. And, as Jesse Unruh might have put it,\ntransactions are the mother's milk of finance.\n\nThe zero-coupon or PIK bond possesses one additional\nattraction for the promoter and investment banker, which is that\nthe time elapsing between folly and failure can be stretched out.\nThis is no small benefit. If the period before all costs must be\nfaced is long, promoters can create a string of foolish deals -\nand take in lots of fees - before any chickens come home to roost\nfrom their earlier ventures.\n\nBut in the end, alchemy, whether it is metallurgical or\nfinancial, fails. A base business can not be transformed into a\ngolden business by tricks of accounting or capital structure. The\nman claiming to be a financial alchemist may become rich. But\ngullible investors rather than business achievements will usually\nbe the source of his wealth.\n\nWhatever their weaknesses, we should add, many zero-coupon\nand PIK bonds will not default. We have in fact owned some and\nmay buy more if their market becomes sufficiently distressed.\n(We've not, however, even considered buying a new issue from a\nweak credit.) No financial instrument is evil per se; it's just\nthat some variations have far more potential for mischief than\nothers.\n\nThe blue ribbon for mischief-making should go to the zerocoupon issuer unable to make its interest payments on a current\nbasis. Our advice: Whenever an investment banker starts talking\nabout EBDIT - or whenever someone creates a capital structure\nthat does not allow all interest, both payable and accrued, to be\ncomfortably met out of current cash flow\nnet of ample capital\nexpenditures\n- zip up your wallet. Turn the tables by suggesting\nthat the promoter and his high-priced entourage accept zerocoupon fees, deferring their take until the zero-coupon bonds\nhave been paid in full. See then how much enthusiasm for the deal\nendures.\n\nOur comments about investment bankers may seem harsh. But\nCharlie and I - in our hopelessly old-fashioned way - believe\nthat they should perform a gatekeeping role, guarding investors\nagainst the promoter's propensity to indulge in excess.\nPromoters, after all, have throughout time exercised the same\njudgment and restraint in accepting money that alcoholics have\nexercised in accepting liquor. At a minimum, therefore, the\nbanker's conduct should rise to that of a responsible bartender\nwho, when necessary, refuses the profit from the next drink to\navoid sending a drunk out on the highway. In recent years,\nunfortunately, many leading investment firms have found bartender\nmorality to be an intolerably restrictive standard. Lately, those\nwho have traveled the high road in Wall Street have not\nencountered heavy traffic.\n\nOne distressing footnote: The cost of the zero-coupon folly\nwill not be borne solely by the direct participants. Certain\nsavings and loan associations were heavy buyers of such bonds,\nusing cash that came from FSLIC-insured deposits. Straining to\nshow splendid earnings, these buyers recorded - but did not\nreceive - ultra-high interest income on these issues. Many of\nthese associations are now in major trouble. Had their loans to\nshaky credits worked, the owners of the associations would have\npocketed the profits. In the many cases in which the loans will\nfail, the taxpayer will pick up the bill. To paraphrase Jackie\nMason, at these associations it was the managers who should have\nbeen wearing the ski masks.",
+    "metadata": {
+      "letter_year": 1989,
+      "letter_date": "1990-03-02",
+      "source_file": "1989_cleaned.txt",
+      "section_title": "Zero-Coupon Securities",
+      "section_hierarchy": [
+        "Letter Body",
+        "Zero-Coupon Securities"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "narrative",
+      "contextual_summary": "Buffett warns against deal structures that ignore depreciation or accrued interest, insisting true cash coverage after maintenance capex is the real test. A ‘psychic wealth’ analogy illustrates how financial engineering can create reported income without immediate economic sacrifice—until losses surface.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [],
+        "people": [
+          "Jesse Unruh"
+        ],
+        "metrics": [
+          "cash flow",
+          "EBDIT",
+          "zero-coupon",
+          "PIK",
+          "interest"
+        ]
+      },
+      "themes": [
+        "credit_risk",
+        "financial_engineering",
+        "debt_structure",
+        "incentives"
+      ],
+      "buffett_concepts": [
+        "avoid_accounting_illusions",
+        "require_cash_interest_coverage"
+      ],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1989,
+        "comparison_years": [],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "medium",
+      "token_count": 1180,
+      "char_count": 4720,
+      "source_span": {
+        "start_char": 65387,
+        "end_char_exclusive": 70107
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": [],
+      "previous_summary": "Buffett warns against deal structures that ignore depreciation or accrued interest, insisting true cash coverage after maintenance capex is the real test. A ‘psychic wealth’ analogy illustrates how financial engineering can create reported income without immediate economic sacrifice—until losses surface.",
+      "next_summary": "Buffett reviews early bargain-hunting mistakes, concluding that wonderful businesses at fair prices beat mediocre businesses at bargain prices over time. The lesson emphasized is to prefer solvable ‘one‑foot hurdles’ over turnarounds and complicated problems, except in rare special cases."
+    }
+  },
+  {
+    "chunk_id": "1989-S08-T1-001",
+    "content": "To quote Robert Benchley, \"Having a dog teaches a boy\nfidelity, perseverance, and to turn around three times before\nlying down.\" Such are the shortcomings of experience.\nNevertheless, it's a good idea to review past mistakes before\ncommitting new ones. So let's take a quick look at the last 25\nyears.\n\no\nMy first mistake, of course, was in buying control of\nBerkshire. Though I knew its business - textile manufacturing -\nto be unpromising, I was enticed to buy because the price looked\ncheap. Stock purchases of that kind had proved reasonably\nrewarding in my early years, though by the time Berkshire came\nalong in 1965 I was becoming aware that the strategy was not\nideal.\n\nIf you buy a stock at a sufficiently low price, there will\nusually be some hiccup in the fortunes of the business that gives\nyou a chance to unload at a decent profit, even though the longterm performance of the business may be terrible. I call this the\n\"cigar butt\" approach to investing. A cigar butt found on the\nstreet that has only one puff left in it may not offer much of a\nsmoke, but the \"bargain purchase\" will make that puff all profit.\n\nUnless you are a liquidator, that kind of approach to buying\nbusinesses is foolish. First, the original \"bargain\" price\nprobably will not turn out to be such a steal after all. In a\ndifficult business, no sooner is one problem solved than another\nsurfaces - never is there just one cockroach in the kitchen.\nSecond, any initial advantage you secure will be quickly eroded\nby the low return that the business earns. For example, if you\nbuy a business for $8 million that can be sold or liquidated for\n$10 million and promptly take either course, you can realize a\nhigh return. But the investment will disappoint if the business\nis sold for $10 million in ten years and in the interim has\nannually earned and distributed only a few percent on cost. Time\nis the friend of the wonderful business, the enemy of the\nmediocre.\n\nYou might think this principle is obvious, but I had to\nlearn it the hard way - in fact, I had to learn it several times\nover. Shortly after purchasing Berkshire, I acquired a Baltimore\ndepartment store, Hochschild Kohn, buying through a company\ncalled Diversified Retailing that later merged with Berkshire. I\nbought at a substantial discount from book value, the people were\nfirst-class, and the deal included some extras - unrecorded real\nestate values and a significant LIFO inventory cushion. How could\nI miss? So-o-o - three years later I was lucky to sell the\nbusiness for about what I had paid. After ending our corporate\nmarriage to Hochschild Kohn, I had memories like those of the\nhusband in the country song, \"My Wife Ran Away With My Best\nFriend and I Still Miss Him a Lot.\"\n\nI could give you other personal examples of \"bargainpurchase\" folly but I'm sure you get the picture: It's far\nbetter to buy a wonderful company at a fair price than a fair\ncompany at a wonderful price. Charlie understood this early; I\nwas a slow learner. But now, when buying companies or common\nstocks, we look for first-class businesses accompanied by firstclass managements.\n\no\nThat leads right into a related lesson: Good jockeys will\ndo well on good horses, but not on broken-down nags. Both\nBerkshire's textile business and Hochschild, Kohn had able and\nhonest people running them. The same managers employed in a\nbusiness with good economic characteristics would have achieved\nfine records. But they were never going to make any progress\nwhile running in quicksand.\n\nI've said many times that when a management with a\nreputation for brilliance tackles a business with a reputation\nfor bad economics, it is the reputation of the business that\nremains intact. I just wish I hadn't been so energetic in\ncreating examples. My behavior has matched that admitted by Mae\nWest: \"I was Snow White, but I drifted.\"\n\no\nA further related lesson: Easy does it. After 25 years of\nbuying and supervising a great variety of businesses, Charlie and\nI have\nnot\nlearned how to solve difficult business problems. What\nwe have learned is to avoid them. To the extent we have been\nsuccessful, it is because we concentrated on identifying one-foot\nhurdles that we could step over rather than because we acquired\nany ability to clear seven-footers.\n\nThe finding may seem unfair, but in both business and\ninvestments it is usually far more profitable to simply stick\nwith the easy and obvious than it is to resolve the difficult. On\noccasion, tough problems\nmust\nbe tackled as was the case when we\nstarted our Sunday paper in Buffalo. In other instances, a great\ninvestment opportunity occurs when a marvelous business\nencounters a one-time huge, but solvable, problem as was the case\nmany years back at both American Express and GEICO. Overall,\nhowever, we've done better by avoiding dragons than by slaying\nthem.\n\no\nMy most surprising discovery: the overwhelming importance in\nbusiness of an unseen force that we might call \"the institutional\nimperative.\" In business school, I was given no hint of the\nimperative's existence and I did not intuitively understand it\nwhen I entered the business world. I thought then that decent,\nintelligent, and experienced managers would automatically make\nrational business decisions. But I learned over time that isn't\nso. Instead, rationality frequently wilts when the institutional\nimperative comes into play.\n\nFor example: (1) As if governed by Newton's First Law of\nMotion, an institution will resist any change in its current\ndirection; (2) Just as work expands to fill available time,\ncorporate projects or acquisitions will materialize to soak up\navailable funds; (3) Any business craving of the leader, however\nfoolish, will be quickly supported by detailed rate-of-return and\nstrategic studies prepared by his troops; and (4) The behavior of\npeer companies, whether they are expanding, acquiring, setting\nexecutive compensation or whatever, will be mindlessly imitated.",
+    "metadata": {
+      "letter_year": 1989,
+      "letter_date": "1990-03-02",
+      "source_file": "1989_cleaned.txt",
+      "section_title": "Mistakes of the First Twenty-five Years (A Condensed Version)",
+      "section_hierarchy": [
+        "Letter Body",
+        "Mistakes of the First Twenty-five Years (A Condensed Version)"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "mistake_confession",
+      "contextual_summary": "Buffett reviews early bargain-hunting mistakes, concluding that wonderful businesses at fair prices beat mediocre businesses at bargain prices over time. The lesson emphasized is to prefer solvable ‘one‑foot hurdles’ over turnarounds and complicated problems, except in rare special cases.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "GEICO"
+        ],
+        "people": [
+          "Robert Benchley"
+        ],
+        "metrics": [
+          "book value"
+        ]
+      },
+      "themes": [
+        "mistakes",
+        "learning",
+        "institutional_behavior",
+        "acquisitions"
+      ],
+      "buffett_concepts": [
+        "cigar_butt_investing",
+        "one_foot_hurdles",
+        "institutional_imperative"
+      ],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1989,
+        "comparison_years": [
+          1965
+        ],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "medium",
+      "abstraction_level": "medium",
+      "token_count": 1484,
+      "char_count": 5936,
+      "source_span": {
+        "start_char": 70172,
+        "end_char_exclusive": 76108
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": [],
+      "previous_summary": "Buffett warns against deal structures that ignore depreciation or accrued interest, insisting true cash coverage after maintenance capex is the real test. A ‘psychic wealth’ analogy illustrates how financial engineering can create reported income without immediate economic sacrifice—until losses surface.",
+      "next_summary": "Conservative leverage is defended as sensible risk control: small probabilities of distress are not worth marginally higher expected returns."
+    }
+  },
+  {
+    "chunk_id": "1989-S08-T1-002",
+    "content": "Institutional dynamics, not venality or stupidity, set\nbusinesses on these courses, which are too often misguided. After\nmaking some expensive mistakes because I ignored the power of the\nimperative, I have tried to organize and manage Berkshire in ways\nthat minimize its influence. Furthermore, Charlie and I have\nattempted to concentrate our investments in companies that appear\nalert to the problem.\n\no\nAfter some other mistakes, I learned to go into business\nonly with people whom I like, trust, and admire. As I noted\nbefore, this policy of itself will not ensure success: A secondclass textile or department-store company won't prosper simply\nbecause its managers are men that you would be pleased to see\nyour daughter marry. However, an owner - or investor - can\naccomplish wonders if he manages to associate himself with such\npeople in businesses that possess decent economic\ncharacteristics. Conversely, we do not wish to join with managers\nwho lack admirable qualities, no matter how attractive the\nprospects of their business. We've never succeeded in making a\ngood deal with a bad person.\n\no\nSome of my worst mistakes were not publicly visible. These\nwere stock and business purchases whose virtues I understood and\nyet didn't make. It's no sin to miss a great opportunity outside\none's area of competence. But I have passed on a couple of really\nbig purchases that were served up to me on a platter and that I\nwas fully capable of understanding. For Berkshire's shareholders,\nmyself included, the cost of this thumb-sucking has been huge.\n\no\nOur consistently-conservative financial policies may appear\nto have been a mistake, but in my view were not. In retrospect,\nit is clear that significantly higher, though still conventional,\nleverage ratios at Berkshire would have produced considerably\nbetter returns on equity than the 23.8% we have actually\naveraged. Even in 1965, perhaps we could have judged there to be\na 99% probability that higher leverage would lead to nothing but\ngood. Correspondingly, we might have seen only a 1% chance that\nsome shock factor, external or internal, would cause a\nconventional debt ratio to produce a result falling somewhere\nbetween temporary anguish and default.\n\nWe wouldn't have liked those 99: 1 odds - and never will. A\nsmall chance of distress or disgrace cannot, in our view, be\noffset by a large chance of extra returns. If your actions are\nsensible, you are certain to get good results; in most such\ncases, leverage just moves things along faster. Charlie and I\nhave never been in a big hurry: We enjoy the process far more\nthan the proceeds - though we have learned to live with those\nalso.\n\n* * * * * * * * * * * *\n\nWe hope in another 25 years to report on the mistakes of the\nfirst 50. If we are around in 2015 to do that, you can count on\nthis section occupying many more pages than it does here.",
+    "metadata": {
+      "letter_year": 1989,
+      "letter_date": "1990-03-02",
+      "source_file": "1989_cleaned.txt",
+      "section_title": "Mistakes of the First Twenty-five Years (A Condensed Version)",
+      "section_hierarchy": [
+        "Letter Body",
+        "Mistakes of the First Twenty-five Years (A Condensed Version)"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "mistake_confession",
+      "contextual_summary": "Conservative leverage is defended as sensible risk control: small probabilities of distress are not worth marginally higher expected returns.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": false,
+      "entities": {
+        "companies": [],
+        "people": [],
+        "metrics": [
+          "leverage"
+        ]
+      },
+      "themes": [
+        "mistakes",
+        "learning",
+        "institutional_behavior",
+        "acquisitions"
+      ],
+      "buffett_concepts": [
+        "cigar_butt_investing",
+        "one_foot_hurdles",
+        "institutional_imperative"
+      ],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1989,
+        "comparison_years": [
+          1965
+        ],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "medium",
+      "abstraction_level": "medium",
+      "token_count": 714,
+      "char_count": 2858,
+      "source_span": {
+        "start_char": 76110,
+        "end_char_exclusive": 78968
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": [],
+      "previous_summary": "Buffett reviews early bargain-hunting mistakes, concluding that wonderful businesses at fair prices beat mediocre businesses at bargain prices over time. The lesson emphasized is to prefer solvable ‘one‑foot hurdles’ over turnarounds and complicated problems, except in rare special cases.",
+      "next_summary": "Buffett lays out acquisition criteria focused on durable earnings, strong returns on equity with little debt, and a clear seller price. The section summarizes shareholder-directed giving and stresses proper registration for eligibility in future programs. A candid, humorous aside about aircraft ownership underscores Buffett’s preference for transparency about costs and incentives."
+    }
+  },
+  {
+    "chunk_id": "1989-S09-T1-001",
+    "content": "We hope to buy more businesses that are similar to the ones\nwe have, and we can use some help. If you have a business that\nfits the following criteria, call me or, preferably, write.\n\nHere's what we're looking for:\n\n(1) Large purchases (at least $10 million of after-tax\nearnings),\n\n(2) demonstrated consistent earning power (future\nprojections are of little interest to us, nor are\n\"turnaround\" situations),\n\n(3) businesses earning good returns on equity while\nemploying little or no debt,\n\n(4) management in place (we can't supply it),\n\n(5) simple businesses (if there's lots of technology, we\nwon't understand it),\n\n(6) an offering price (we don't want to waste our time or\nthat of the seller by talking, even preliminarily,\nabout a transaction when price is unknown).\n\nWe will not engage in unfriendly takeovers. We can promise\ncomplete confidentiality and a very fast answer - customarily\nwithin five minutes - as to whether we're interested. We prefer\nto buy for cash, but will consider issuing stock when we receive\nas much in intrinsic business value as we give.\n\nOur favorite form of purchase is one fitting the Blumkin Friedman-Heldman mold. In cases like these, the company's ownermanagers wish to generate significant amounts of cash, sometimes\nfor themselves, but often for their families or inactive\nshareholders. At the same time, these managers wish to remain\nsignificant owners who continue to run their companies just as\nthey have in the past. We think we offer a particularly good fit\nfor owners with such objectives. We invite potential sellers to\ncheck us out by contacting people with whom we have done business\nin the past.\n\nCharlie and I frequently get approached about acquisitions\nthat don't come close to meeting our tests: We've found that if\nyou advertise an interest in buying collies, a lot of people will\ncall hoping to sell you their cocker spaniels. Our interest in\nnew ventures, turnarounds, or auction-like sales can best be\nexpressed by a Goldwynism: \"Please include me out.\"\n\nBesides being interested in the purchase of businesses as\ndescribed above, we are also interested in the negotiated\npurchase of large, but not controlling, blocks of stock\ncomparable to those we hold in Capital Cities, Salomon, Gillette,\nUSAir and Champion. Last year we said we had a special interest\nin large purchases of convertible preferreds. We still have an\nappetite of that kind, but it is limited since we now are close\nto the maximum position we feel appropriate for this category of\ninvestment.\n\n* * * * * * * * * * * *\n\nTwo years ago, I told you about Harry Bottle, who in 1962\nquickly cured a major business mess at the first industrial\ncompany I controlled, Dempster Mill Manufacturing (one of my\n\"bargain\" purchases) and who 24 years later had reappeared to\nagain rescue me, this time from problems at K&W Products, a small\nBerkshire subsidiary that produces automotive compounds. As I\nreported, in short order Harry reduced capital employed at K&W,\nrationalized production, cut costs, and quadrupled profits. You\nmight think he would then have paused for breath. But last year\nHarry, now 70, attended a bankruptcy auction and, for a pittance,\nacquired a product line that is a natural for K&W. That company's\nprofitability may well be increased 50% by this coup. Watch this\nspace for future bulletins on Harry's triumphs.\n\n* * * * * * * * * * * *\n\nWith more than a year behind him of trading Berkshire's\nstock on the New York Stock Exchange, our specialist, Jim Maguire\nof Henderson Brothers, Inc. (\"HBI\"), continues his outstanding\nperformance. Before we listed, dealer spreads often were 3% or\nmore of market price. Jim has maintained the spread at 50 points\nor less, which at current prices is well under 1%. Shareholders\nwho buy or sell benefit significantly from this reduction in\ntransaction costs.\n\nBecause we are delighted by our experience with Jim, HBI and\nthe NYSE, I said as much in ads that have been run in a series\nplaced by the NYSE. Normally I shun testimonials, but I was\npleased in this instance to publicly compliment the Exchange.\n\n* * * * * * * * * * * *\n\nLast summer we sold the corporate jet that we purchased for\n$850,000 three years ago and bought another used jet for $6.7\nmillion. Those of you who recall the mathematics of the\nmultiplying bacteria on page 5 will understandably panic: If our\nnet worth continues to increase at current rates, and the cost of\nreplacing planes also continues to rise at the now-established\nrate of 100% compounded annually, it will not be long before\nBerkshire's entire net worth is consumed by its jet.\n\nCharlie doesn't like it when I equate the jet with bacteria;\nhe feels it's degrading to the bacteria. His idea of traveling in\nstyle is an air-conditioned bus, a luxury he steps up to only\nwhen bargain fares are in effect. My own attitude toward the jet\ncan be summarized by the prayer attributed, apocryphally I'm\nsure, to St. Augustine as he contemplated leaving a life of\nsecular pleasures to become a priest. Battling the conflict\nbetween intellect and glands, he pled: \"Help me, Oh Lord, to\nbecome chaste - but not yet.\"\n\nNaming the plane has not been easy. I initially suggested\n\"The Charles T. Munger.\" Charlie countered with \"The Aberration.\"\nWe finally settled on \"The Indefensible.\"\n\n* * * * * * * * * * * *\n\nAbout 96.9% of all eligible shares participated in\nBerkshire's 1989 shareholder-designated contributions program.\nContributions made through the program were $5.9 million, and\n2,550 charities were recipients.\n\nWe urge new shareholders to read the description of our\nshareholder-designated contributions program that appears on\npages 52-53. If you wish to participate in future programs, we\nstrongly urge that you immediately make sure your shares are\nregistered in the name of the actual owner, not in the nominee\nname of a broker, bank or depository. Shares not so registered on\nAugust 31,1990 will be ineligible for the 1990 program.\n\n* * * * * * * * * * * *",
+    "metadata": {
+      "letter_year": 1989,
+      "letter_date": "1990-03-02",
+      "source_file": "1989_cleaned.txt",
+      "section_title": "Miscellaneous",
+      "section_hierarchy": [
+        "Letter Body",
+        "Miscellaneous"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "narrative",
+      "contextual_summary": "Buffett lays out acquisition criteria focused on durable earnings, strong returns on equity with little debt, and a clear seller price. The section summarizes shareholder-directed giving and stresses proper registration for eligibility in future programs. A candid, humorous aside about aircraft ownership underscores Buffett’s preference for transparency about costs and incentives.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [],
+        "people": [],
+        "metrics": [
+          "net worth",
+          "interest"
+        ]
+      },
+      "themes": [
+        "acquisitions",
+        "shareholder_communication",
+        "philanthropy",
+        "annual_meeting"
+      ],
+      "buffett_concepts": [
+        "acquisition_criteria",
+        "permanent_home_for_businesses"
+      ],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1989,
+        "comparison_years": [
+          1962,
+          1989,
+          1990,
+          1990
+        ],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "medium",
+      "abstraction_level": "medium",
+      "token_count": 1493,
+      "char_count": 5974,
+      "source_span": {
+        "start_char": 78985,
+        "end_char_exclusive": 84959
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": [],
+      "previous_summary": "Conservative leverage is defended as sensible risk control: small probabilities of distress are not worth marginally higher expected returns.",
+      "next_summary": "Logistics for the annual meeting and Omaha visits are provided, reinforcing Berkshire’s owner-focused approach to shareholder communication."
+    }
+  },
+  {
+    "chunk_id": "1989-S09-T1-002",
+    "content": "The annual meeting this year will take place at 9: 30 a. m. on\nMonday, April 30,1990. Attendance grew last year to about 1,000,\nvery close to the seating capacity of the Witherspoon Hall at\nJoslyn Museum. So this year's meeting will be moved to the\nOrpheum Theatre, which is in downtown Omaha, about one-quarter of\na mile from the Red Lion Hotel. The Radisson-Redick Tower, a much\nsmaller but nice hotel, is located across the street from the\nOrpheum. Or you may wish to stay at the Marriott, which is in\nwest Omaha, about 100 yards from Borsheim's. We will have buses\nat the Marriott that will leave at 8: 30 and 8: 45 for the meeting\nand return after it ends.\n\nCharlie and I always enjoy the meeting, and we hope you can\nmake it. The quality of our shareholders is reflected in the\nquality of the questions we get: We have never attended an annual\nmeeting anywhere that features such a consistently high level of\nintelligent, owner-related questions.\n\nAn attachment to our proxy material explains how you can\nobtain the card you will need for admission to the meeting.\nBecause weekday parking can be tight around the Orpheum, we have\nlined up a number of nearby lots for our shareholders to use. The\nattachment also contains information about them.\n\nAs usual, we will have buses to take you to Nebraska\nFurniture Mart and Borsheim's after the meeting and to take you\nto downtown hotels or to the airport later. I hope that you will\nallow plenty of time to fully explore the attractions of both\nstores. Those of you arriving early can visit the Furniture Mart\nany day of the week; it is open from 10 a. m. to 5: 30 p. m. on\nSaturdays, and from noon to 5: 30 p. m. on Sundays.\n\nBorsheim's normally is closed on Sunday, but we will open\nfor shareholders and their guests from noon to 6 p. m. on Sunday,\nApril 29 th. Ike likes to put on a show, and you can rely on him\nto produce something very special for our shareholders.\n\nIn this letter we've had a lot to say about rates of\ncompounding. If you can bear having your own rate turn negative\nfor a day - not a pretty thought, I admit - visit Ike on the\n29 th.\n\nWarren E. Buffett\nMarch 2,1990 Chairman of the Board",
+    "metadata": {
+      "letter_year": 1989,
+      "letter_date": "1990-03-02",
+      "source_file": "1989_cleaned.txt",
+      "section_title": "Miscellaneous",
+      "section_hierarchy": [
+        "Letter Body",
+        "Miscellaneous"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "narrative",
+      "contextual_summary": "Logistics for the annual meeting and Omaha visits are provided, reinforcing Berkshire’s owner-focused approach to shareholder communication.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [],
+        "people": [
+          "Warren E. Buffett"
+        ],
+        "metrics": []
+      },
+      "themes": [
+        "acquisitions",
+        "shareholder_communication",
+        "philanthropy",
+        "annual_meeting"
+      ],
+      "buffett_concepts": [
+        "acquisition_criteria",
+        "permanent_home_for_businesses"
+      ],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1989,
+        "comparison_years": [
+          1990,
+          1990
+        ],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "medium",
+      "abstraction_level": "medium",
+      "token_count": 540,
+      "char_count": 2162,
+      "source_span": {
+        "start_char": 84961,
+        "end_char_exclusive": 87123
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "boundary_note": null,
+      "merged_from": [],
+      "previous_summary": "Buffett lays out acquisition criteria focused on durable earnings, strong returns on equity with little debt, and a clear seller price. The section summarizes shareholder-directed giving and stresses proper registration for eligibility in future programs. A candid, humorous aside about aircraft ownership underscores Buffett’s preference for transparency about costs and incentives.",
+      "next_summary": null
+    }
+  }
+]

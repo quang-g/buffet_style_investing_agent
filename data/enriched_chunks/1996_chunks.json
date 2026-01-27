@@ -1,0 +1,2879 @@
+[
+  {
+    "chunk_id": "1996-S01-T1-001",
+    "content": "To the Shareholders of Berkshire Hathaway Inc.:\n\nOur gain in net worth during 1996 was $6.2 billion, or 36.1%. Pershare book value, however, grew by less, 31.8%, because the number of\nBerkshire shares increased: We issued stock in acquiring Flight Safety\nInternational and also sold new Class B shares.* Over the last 32 years\n(that is, since present management took over) per-share book value has\ngrown from $19 to $19,011, or at a rate of 23.8% compounded annually.\n\n* Each Class B share has an economic interest equal to 1/30 th of\nthat possessed by a Class A share, which is the new designation for\nthe only stock that Berkshire had outstanding before May 1996.\nThroughout this report, we state all per-share figures in terms of\n\"Class A equivalents,\" which are the sum of the Class A shares\noutstanding and 1/30 th of the Class B shares outstanding.\n\nFor technical reasons, we have restated our 1995 financial\nstatements, a matter that requires me to present one of my less-thanthrilling explanations of accounting arcana. I'll make it brief.\n\nThe restatement was required because GEICO became a wholly-owned\nsubsidiary of Berkshire on January 2,1996, whereas it was previously\nclassified as an investment. From an economic viewpoint - taking into\naccount major tax efficiencies and other benefits we gained - the value\nof the 51% of GEICO we owned at year-end 1995\nincreased\nsignificantly\nwhen we acquired the remaining 49% of the company two days later.\nAccounting rules applicable to this type of \"step acquisition,\" however,\nrequired us to\nwrite down\nthe value of our 51% at the time we moved to\n100%. That writedown - which also, of course, reduced book value -\namounted to $478.4 million. As a result, we now carry our original 51%\nof GEICO at a value that is both lower than its market value at the time\nwe purchased the remaining 49% of the company and lower than the value at\nwhich we carry that 49% itself.\n\nThere is an offset, however, to the reduction in book value I have\njust described: Twice during 1996 we issued Berkshire shares at a\npremium to book value, first in May when we sold the B shares for cash\nand again in December when we used both A and B shares as part-payment\nfor Flight Safety. In total, the three non-operational items affecting\nbook value contributed less than one percentage point to our 31.8% pershare gain last year.\n\nI dwell on this rise in per-share book value because it roughly\nindicates our economic progress during the year. But, as Charlie Munger,\nBerkshire's Vice Chairman, and I have repeatedly told you, what counts at\nBerkshire is intrinsic value, not book value. The last time you got that\nmessage from us was in the Owner's Manual, sent to you in June after we\nissued the Class B shares. In that manual, we not only defined certain\nkey terms - such as intrinsic value - but also set forth our economic\nprinciples.\n\nFor many years, we have listed these principles in the front of our\nannual report, but in this report, on pages 58 to 67, we reproduce the\nentire Owner's Manual. In this letter, we will occasionally refer to the\nmanual so that we can avoid repeating certain definitions and\nexplanations. For example, if you wish to brush up on \"intrinsic value,\"\nsee pages 64 and 65.\n\nLast year, for the first time, we supplied you with a table that\nCharlie and I believe will help anyone trying to estimate Berkshire's\nintrinsic value. In the updated version of that table, which follows, we\ntrace two key indices of value. The first column lists our per-share\nownership of investments (including cash and equivalents) and the second\ncolumn shows our per-share earnings from Berkshire's operating businesses\nbefore taxes and purchase-accounting adjustments but after all interest\nand corporate overhead expenses. The operating-earnings column excludes\nall dividends, interest and capital gains that we realized from the\ninvestments presented in the first column. In effect, the two columns\nshow what Berkshire would have reported had it been broken into two parts.\n\nPre-tax Earnings Per Share\nInvestments Excluding All Income from\nYear Per Share Investments\n---- ----------- -------------------------\n1965................................$ 4 $ 4.08\n1975................................ 159 (6.48)\n1985................................ 2,443 18.86\n1995................................ 22,088 258.20\n1996................................ 28,500 421.39\n\nAnnual Growth Rate, 1965-95......... 33.4% 14.7%\nOne-Year Growth Rate, 1995-96 ...... 29.0% 63.2%\n\nAs the table tells you, our investments per share increased in 1996\nby 29.0% and our non-investment earnings grew by 63.2%. Our goal is to\nkeep the numbers in both columns moving ahead at a reasonable (or, better\nyet, unreasonable) pace.",
+    "metadata": {
+      "letter_year": 1996,
+      "letter_date": "1997-02-28",
+      "source_file": "1996_cleaned.txt",
+      "section_title": "Opening",
+      "section_hierarchy": [
+        "Letter Body",
+        "Introduction",
+        "Overview"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [
+        "1996-S01-T2-001"
+      ],
+      "content_type": "financial_table",
+      "contextual_summary": "Berkshire reports a strong 1996 increase in per-share book value and explains accounting restatements tied to GEICO and new share issuance. Buffett introduces an intrinsic-value framework and a two-column table separating investment holdings from operating earnings.",
+      "has_table": true,
+      "table_data": [
+        {
+          "table_name": "1996-S01-T1-001 Table 1",
+          "summary": "Key figures presented in the letter for this discussion.",
+          "columns": [
+            "col_1",
+            "col_2"
+          ],
+          "rows": [
+            [
+              "1965",
+              "$ 4 $ 4.08"
+            ],
+            [
+              "1975",
+              "159 (6.48)"
+            ],
+            [
+              "1985",
+              "2,443 18.86"
+            ],
+            [
+              "1995",
+              "22,088 258.20"
+            ],
+            [
+              "1996",
+              "28,500 421.39"
+            ]
+          ],
+          "row_count": 5
+        }
+      ],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "Berkshire Hathaway Inc.",
+          "GEICO"
+        ],
+        "people": [
+          "Charlie Munger"
+        ],
+        "metrics": [
+          "$19",
+          "$19,011,",
+          "$4",
+          "$4.08\n",
+          "$478.4million",
+          "$6.2billion",
+          "100%",
+          "14.7%",
+          "1965",
+          "1975",
+          "1985",
+          "1995",
+          "1996",
+          "23.8%",
+          "29.0%",
+          "31.8%",
+          "33.4%",
+          "36.1%",
+          "49%",
+          "51%",
+          "63.2%",
+          "book value",
+          "intrinsic value"
+        ]
+      },
+      "themes": [
+        "book value growth",
+        "intrinsic value vs book value",
+        "accounting restatement",
+        "two-column value table"
+      ],
+      "buffett_concepts": [
+        "intrinsic value",
+        "look-through approach",
+        "capital allocation"
+      ],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1996,
+        "comparison_years": [
+          1965,
+          1975,
+          1985,
+          1995
+        ],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "low",
+      "token_count": 782,
+      "char_count": 4741,
+      "source_span": {
+        "start_char": 0,
+        "end_char_exclusive": 4741
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "merged_from": [],
+      "boundary_note": null,
+      "previous_summary": null,
+      "next_summary": "The letter highlights Berkshire’s unusually low overhead and contrasts it with the drag of mutual-fund fees on long-term returns. Buffett argues that shareholders should benefit from Berkshire’s gains rather than subsidize managers through high expenses."
+    }
+  },
+  {
+    "chunk_id": "1996-S01-T1-002",
+    "content": "Our expectations, however, are tempered by two realities. First,\nour past rates of growth cannot be matched nor even approached:\nBerkshire's equity capital is now large - in fact, fewer than ten\nbusinesses in America have capital larger - and an abundance of funds\ntends to dampen returns. Second, whatever our rate of progress, it will\nnot be smooth: Year-to-year moves in the first column of the table above\nwill be influenced in a major way by fluctuations in securities markets;\nthe figures in the second column will be affected by wide swings in the\nprofitability of our catastrophe-reinsurance business.\n\nIn the table, the donations made pursuant to our shareholderdesignated contributions program are charged against the second column,\nthough we view them as a shareholder benefit rather than as an expense.\nAll other corporate expenses are also charged against the second column.\nThese costs may be lower than those of any other large American\ncorporation: Our after-tax headquarters expense amounts to less than two\nbasis points (1/50 th of 1%) measured against net worth. Even so, Charlie\nused to think this expense percentage outrageously high, blaming it on my\nuse of Berkshire's corporate jet,\nThe Indefensible\n. But Charlie has\nrecently experienced a \"counter-revelation\": With our purchase of\nFlight Safety, whose major activity is the training of corporate pilots,\nhe now rhapsodizes at the mere mention of jets.\n\nSeriously, costs matter. For example, equity mutual funds incur\ncorporate expenses - largely payments to the funds' managers - that\naverage about 100 basis points, a levy likely to cut the returns their\ninvestors earn by 10% or more over time. Charlie and I make no promises\nabout Berkshire's results. We do promise you, however, that virtually\nall of the gains Berkshire makes will end up with shareholders. We are\nhere to make money with you, not off you.",
+    "metadata": {
+      "letter_year": 1996,
+      "letter_date": "1997-02-28",
+      "source_file": "1996_cleaned.txt",
+      "section_title": "Opening",
+      "section_hierarchy": [
+        "Letter Body",
+        "Introduction",
+        "Overview"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "narrative",
+      "contextual_summary": "The letter highlights Berkshire’s unusually low overhead and contrasts it with the drag of mutual-fund fees on long-term returns. Buffett argues that shareholders should benefit from Berkshire’s gains rather than subsidize managers through high expenses.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [],
+        "people": [],
+        "metrics": [
+          "1%",
+          "10%"
+        ]
+      },
+      "themes": [
+        "cost control",
+        "shareholder alignment",
+        "mutual fund fees"
+      ],
+      "buffett_concepts": [
+        "owner-oriented management",
+        "cost discipline"
+      ],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1996,
+        "comparison_years": [],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "medium",
+      "abstraction_level": "medium",
+      "token_count": 304,
+      "char_count": 1887,
+      "source_span": {
+        "start_char": 4743,
+        "end_char_exclusive": 6630
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "merged_from": [],
+      "boundary_note": null,
+      "previous_summary": "Berkshire reports a strong 1996 increase in per-share book value and explains accounting restatements tied to GEICO and new share issuance. Buffett introduces an intrinsic-value framework and a two-column table separating investment holdings from operating earnings.",
+      "next_summary": "Buffett explains why market price and intrinsic value can diverge and how that creates winners and losers among buyers and sellers. He emphasizes fairness, long holding periods, and communications that discourage speculative trading in Berkshire shares."
+    }
+  },
+  {
+    "chunk_id": "1996-S02-T1-001",
+    "content": "In last year's letter, with Berkshire shares selling at $36,000, I\ntold you: (1) Berkshire's gain in market value in recent years had\noutstripped its gain in intrinsic value, even though the latter gain had\nbeen highly satisfactory; (2) that kind of overperformance could not\ncontinue indefinitely; (3) Charlie and I did not at that moment consider\nBerkshire to be undervalued.\n\nSince I set down those cautions, Berkshire's intrinsic value has\nincreased very significantly - aided in a major way by a stunning\nperformance at GEICO that I will tell you more about later - while the\nmarket price of our shares has changed little. This, of course, means\nthat in 1996 Berkshire's stock underperformed the business.\nConsequently, today's price/value relationship is both much different\nfrom what it was a year ago and, as Charlie and I see it, more\nappropriate.\n\nOver time, the aggregate gains made by Berkshire shareholders must\nof necessity match the business gains of the company. When the stock\ntemporarily overperforms or underperforms the business, a limited number\nof shareholders - either sellers or buyers - receive outsized benefits at\nthe expense of those they trade with. Generally, the sophisticated have\nan edge over the innocents in this game.\n\nThough our primary goal is to maximize the amount that our\nshareholders, in total, reap from their ownership of Berkshire, we wish\nalso to minimize the benefits going to some shareholders at the expense\nof others. These are goals we would have were we managing a family\npartnership, and we believe they make equal sense for the manager of a\npublic company. In a partnership, fairness requires that partnership\ninterests be valued equitably when partners enter or exit; in a public\ncompany, fairness prevails when market price and intrinsic value are in\nsync. Obviously, they won't always meet that ideal, but a manager - by\nhis policies and communications - can do much to foster equity.\n\nOf course, the longer a shareholder holds his shares, the more\nbearing Berkshire's business results will have on his financial\nexperience - and the less it will matter what premium or discount to\nintrinsic value prevails when he buys and sells his stock. That's one\nreason we hope to attract owners with long-term horizons. Overall, I\nthink we have succeeded in that pursuit. Berkshire probably ranks number\none among large American corporations in the percentage of its shares\nheld by owners with a long-term view.",
+    "metadata": {
+      "letter_year": 1996,
+      "letter_date": "1997-02-28",
+      "source_file": "1996_cleaned.txt",
+      "section_title": "The Relationship of Intrinsic Value to Market Price",
+      "section_hierarchy": [
+        "Letter Body",
+        "Valuation",
+        "Intrinsic Value vs Market Price"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "narrative",
+      "contextual_summary": "Buffett explains why market price and intrinsic value can diverge and how that creates winners and losers among buyers and sellers. He emphasizes fairness, long holding periods, and communications that discourage speculative trading in Berkshire shares.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "GEICO"
+        ],
+        "people": [],
+        "metrics": [
+          "$36,000,",
+          "1996",
+          "intrinsic value"
+        ]
+      },
+      "themes": [
+        "market price vs intrinsic value",
+        "shareholder fairness",
+        "long-term ownership"
+      ],
+      "buffett_concepts": [
+        "intrinsic value",
+        "owner partnership"
+      ],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1996,
+        "comparison_years": [],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "high",
+      "token_count": 399,
+      "char_count": 2459,
+      "source_span": {
+        "start_char": 6685,
+        "end_char_exclusive": 9144
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "merged_from": [],
+      "boundary_note": null,
+      "previous_summary": "The letter highlights Berkshire’s unusually low overhead and contrasts it with the drag of mutual-fund fees on long-term returns. Buffett argues that shareholders should benefit from Berkshire’s gains rather than subsidize managers through high expenses.",
+      "next_summary": "Berkshire acquires Kansas Bankers Surety after a chance introduction, illustrating its preference for exceptional managers and durable underwriting economics. Buffett recounts the simple negotiation and places the business within Wesco to expand its insurance operations."
+    }
+  },
+  {
+    "chunk_id": "1996-S03-T1-001",
+    "content": "We made two acquisitions in 1996, both possessing exactly the\nqualities we seek - excellent business economics and an outstanding\nmanager.\n\nThe first acquisition was Kansas Bankers Surety (KBS), an insurance\ncompany whose name describes its specialty. The company, which does\nbusiness in 22 states, has an extraordinary underwriting record, achieved\nthrough the efforts of Don Towle, an extraordinary manager. Don has\ndeveloped first-hand relationships with hundreds of bankers and knows\nevery detail of his operation. He thinks of himself as running a company\nthat is \"his,\" an attitude we treasure at Berkshire. Because of its\nrelatively small size, we placed KBS with Wesco, our 80%-owned\nsubsidiary, which has wanted to expand its insurance operations.\n\nYou might be interested in the carefully-crafted and sophisticated\nacquisition strategy that allowed Berkshire to nab this deal. Early in\n1996 I was invited to the 40 th birthday party of my nephew's wife, Jane\nRogers. My taste for social events being low, I immediately, and in my\nstandard, gracious way, began to invent reasons for skipping the event.\nThe party planners then countered brilliantly by offering me a seat next\nto a man I always enjoy, Jane's dad, Roy Dinsdale - so I went.\n\nThe party took place on January 26. Though the music was loud - Why\nmust bands play as if they will be paid by the decibel? - I just managed\nto hear Roy say he'd come from a directors meeting at Kansas Bankers\nSurety, a company I'd always admired. I shouted back that he should let\nme know if it ever became available for purchase.\n\nOn February 12, I got the following letter from Roy: \"Dear Warren:\nEnclosed is the annual financial information on Kansas Bankers Surety.\nThis is the company that we talked about at Janie's party. If I can be\nof any further help, please let me know.\" On February 13, I told Roy we\nwould pay $75 million for the company - and before long we had a deal.\nI'm now scheming to get invited to Jane's next party.\n\nOur other acquisition in 1996 - Flight Safety International, the\nworld's leader in the training of pilots - was far larger, at about $1.5\nbillion, but had an equally serendipitous origin. The heroes of this\nstory are first, Richard Sercer, a Tucson aviation consultant, and\nsecond, his wife, Alma Murphy, an ophthalmology graduate of Harvard\nMedical School, who in 1990 wore down her husband's reluctance and got\nhim to buy Berkshire stock. Since then, the two have attended all our\nAnnual Meetings, but I didn't get to know them personally.\n\nFortunately, Richard had also been a long-time shareholder of\nFlight Safety, and it occurred to him last year that the two companies\nwould make a good fit. He knew our acquisition criteria, and he thought\nthat Al Ueltschi, Flight Safety's 79-year-old CEO, might want to make a\ndeal that would both give him a home for his company and a security in\npayment that he would feel comfortable owning throughout his lifetime.\nSo in July, Richard wrote Bob Denham, CEO of Salomon Inc, suggesting that\nhe explore the possibility of a merger.\n\nBob took it from there, and on September 18, Al and I met in New\nYork. I had long been familiar with Flight Safety's business, and in\nabout 60 seconds I knew that Al was exactly our kind of manager. A month\nlater, we had a contract. Because Charlie and I wished to minimize the\nissuance of Berkshire shares, the transaction we structured gave\nFlight Safety shareholders a choice of cash or stock but carried terms\nthat encouraged those who were tax-indifferent to take cash. This nudge\nled to about 51% of Flight Safety's shares being exchanged for cash, 41%\nfor Berkshire A and 8% for Berkshire B.",
+    "metadata": {
+      "letter_year": 1996,
+      "letter_date": "1997-02-28",
+      "source_file": "1996_cleaned.txt",
+      "section_title": "Acquisitions of 1996",
+      "section_hierarchy": [
+        "Letter Body",
+        "Capital Allocation",
+        "Acquisitions"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "narrative",
+      "contextual_summary": "Berkshire acquires Kansas Bankers Surety after a chance introduction, illustrating its preference for exceptional managers and durable underwriting economics. Buffett recounts the simple negotiation and places the business within Wesco to expand its insurance operations.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "Flight Safety International",
+          "Kansas Bankers Surety",
+          "Kansas Bankers Surety (KBS)",
+          "Salomon Inc",
+          "Wesco"
+        ],
+        "people": [
+          "Al Ueltschi",
+          "Alma Murphy",
+          "Bob Denham",
+          "Don Towle",
+          "Richard Sercer",
+          "Roy Dinsdale"
+        ],
+        "metrics": [
+          "$1.5\nbillion",
+          "$75million",
+          "1990",
+          "1996",
+          "41%",
+          "51%",
+          "8%",
+          "80%"
+        ]
+      },
+      "themes": [
+        "acquisitions",
+        "insurance underwriting",
+        "manager quality"
+      ],
+      "buffett_concepts": [
+        "acquisition criteria",
+        "decentralized management"
+      ],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1996,
+        "comparison_years": [
+          1990
+        ],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "medium",
+      "token_count": 628,
+      "char_count": 3664,
+      "source_span": {
+        "start_char": 9168,
+        "end_char_exclusive": 12832
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "merged_from": [],
+      "boundary_note": null,
+      "previous_summary": "Buffett explains why market price and intrinsic value can diverge and how that creates winners and losers among buyers and sellers. He emphasizes fairness, long holding periods, and communications that discourage speculative trading in Berkshire shares.",
+      "next_summary": "Flight Safety International is acquired with a mix of cash and Berkshire shares designed to limit dilution and accommodate shareholder tax preferences. Buffett profiles CEO Al Ueltschi and explains why Berkshire favors proven, long-tenured managers who keep winning."
+    }
+  },
+  {
+    "chunk_id": "1996-S03-T1-002",
+    "content": "Al has had a lifelong love affair with aviation and actually piloted\nCharles Lindbergh. After a barnstorming career in the 1930 s, he began\nworking for Juan Trippe, Pan Am's legendary chief. In 1951, while still\nat Pan Am, Al founded Flight Safety, subsequently building it into a\nsimulator manufacturer and a worldwide trainer of pilots (single-engine,\nhelicopter, jet and marine). The company operates in 41 locations,\noutfitted with 175 simulators of planes ranging from the very small, such\nas Cessna 210 s, to Boeing 747 s. Simulators are not cheap - they can cost\nas much as $19 million - so this business, unlike many of our\noperations, is capital intensive. About half of the company's revenues\nare derived from the training of corporate pilots, with most of the\nbalance coming from airlines and the military.\n\nAl may be 79, but he looks and acts about 55. He will run\noperations just as he has in the past: We never fool with success. I\nhave told him that though we don't believe in splitting Berkshire stock,\nwe will split his age 2-for-1 when he hits 100.\n\nAn observer might conclude from our hiring practices that Charlie\nand I were traumatized early in life by an EEOC bulletin on age\ndiscrimination. The real explanation, however, is self-interest: It's\ndifficult to teach a new dog old tricks. The many Berkshire managers who\nare past 70 hit home runs today at the same pace that long ago gave them\nreputations as young slugging sensations. Therefore, to get a job with\nus, just employ the tactic of the 76-year-old who persuaded a dazzling\nbeauty of 25 to marry him. \"How did you ever get her to accept?\" asked\nhis envious contemporaries. The comeback: \"I told her I was 86.\"\n\n* * * * * * * * * * * *\n\nAnd now we pause for our usual commercial: If you own a large\nbusiness with good economic characteristics and wish to become associated\nwith an exceptional collection of businesses having similar\ncharacteristics, Berkshire may well be the home you seek. Our\nrequirements are set forth on page 21. If your company meets them - and\nif I fail to make the next birthday party you attend - give me a call.",
+    "metadata": {
+      "letter_year": 1996,
+      "letter_date": "1997-02-28",
+      "source_file": "1996_cleaned.txt",
+      "section_title": "Acquisitions of 1996",
+      "section_hierarchy": [
+        "Letter Body",
+        "Capital Allocation",
+        "Acquisitions"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "narrative",
+      "contextual_summary": "Flight Safety International is acquired with a mix of cash and Berkshire shares designed to limit dilution and accommodate shareholder tax preferences. Buffett profiles CEO Al Ueltschi and explains why Berkshire favors proven, long-tenured managers who keep winning.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "Pan Am"
+        ],
+        "people": [
+          "Charles Lindbergh",
+          "Juan Trippe"
+        ],
+        "metrics": [
+          "$19million",
+          "1930",
+          "1951"
+        ]
+      },
+      "themes": [
+        "acquisitions",
+        "share issuance",
+        "manager selection"
+      ],
+      "buffett_concepts": [
+        "capital allocation",
+        "incentives",
+        "decentralized management"
+      ],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1996,
+        "comparison_years": [
+          1930,
+          1951
+        ],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "medium",
+      "token_count": 365,
+      "char_count": 2118,
+      "source_span": {
+        "start_char": 12834,
+        "end_char_exclusive": 14952
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "merged_from": [],
+      "boundary_note": null,
+      "previous_summary": "Berkshire acquires Kansas Bankers Surety after a chance introduction, illustrating its preference for exceptional managers and durable underwriting economics. Buffett recounts the simple negotiation and places the business within Wesco to expand its insurance operations.",
+      "next_summary": "Buffett defines insurance float, explains how underwriting results determine its cost, and shows Berkshire’s long record of generating low- or negative-cost float. He argues that GEICO’s full acquisition increases the odds Berkshire can grow this valuable funding source."
+    }
+  },
+  {
+    "chunk_id": "1996-S04-T1-001",
+    "content": "Our insurance business was terrific in 1996. In both primary\ninsurance, where GEICO is our main unit, and in our \"super-cat\"\nreinsurance business, results were outstanding.\n\nAs we've explained in past reports, what counts in our insurance\nbusiness is, first, the amount of \"float\" we generate and, second, its\ncost to us. These are matters that are important for you to understand\nbecause float is a major component of Berkshire's intrinsic value that is\nnot reflected in book value.\n\nTo begin with, float is money we hold but don't own. In an\ninsurance operation, float arises because premiums are received before\nlosses are paid. Secondly, the premiums that an insurer takes in\ntypically do not cover the losses and expenses it eventually must pay.\nThat leaves it running an \"underwriting loss,\" which is the cost of\nfloat. An insurance business has value if its cost of float over time is\nless than the cost the company would otherwise incur to obtain funds.\nBut the business is an albatross if the cost of its float is higher than\nmarket rates for money.\n\nAs the numbers in the following table show, Berkshire's insurance\nbusiness has been a huge winner. For the table, we have calculated our\nfloat - which we generate in large amounts relative to our premium\nvolume - by adding loss reserves, loss adjustment reserves, funds held\nunder reinsurance assumed and unearned premium reserves, and then\nsubtracting agents' balances, prepaid acquisition costs, prepaid taxes\nand deferred charges applicable to assumed reinsurance. Our cost of\nfloat is determined by our underwriting loss or profit. In those years\nwhen we have had an underwriting profit, such as the last four, our cost\nof float has been negative. In effect, we have been paid for holding\nmoney.\n\n(1) (2) Yearend Yield\nUnderwriting Approximat on Long-Term\nLoss Average Float Cost of Funds Govt. Bonds\n------------ ------------- ---------------- -------------\n(In $ Millions) (Ratio of 1 to 2)\n\n1967.......... profit 17.3 less than zero 5.50%\n1968.......... profit 19.9 less than zero 5.90%\n1969.......... profit 23.4 less than zero 6.79%\n1970.......... 0.37 32.4 1.14% 6.25%\n1971.......... profit 52.5 less than zero 5.81%\n1972.......... profit 69.5 less than zero 5.82%\n1973.......... profit 73.3 less than zero 7.27%\n1974.......... 7.36 79.1 9.30% 8.13%\n1975.......... 11.35 87.6 12.96% 8.03%\n1976.......... profit 102.6 less than zero 7.30%\n1977.......... profit 139.0 less than zero 7.97%\n1978.......... profit 190.4 less than zero 8.93%\n1979.......... profit 227.3 less than zero 10.08%\n1980.......... profit 237.0 less than zero 11.94%\n1981.......... profit 228.4 less than zero 13.61%\n1982.......... 21.56 220.6 9.77% 10.64%\n1983.......... 33.87 231.3 14.64% 11.84%\n1984.......... 48.06 253.2 18.98% 11.58%\n1985.......... 44.23 390.2 11.34% 9.34%\n1986.......... 55.84 797.5 7.00% 7.60%\n1987.......... 55.43 1,266.7 4.38% 8.95%\n1988.......... 11.08 1,497.7 0.74% 9.00%\n1989.......... 24.40 1,541.3 1.58% 7.97%\n1990.......... 26.65 1,637.3 1.63% 8.24%\n1991.......... 119.59 1,895.0 6.31% 7.40%\n1992.......... 108.96 2,290.4 4.76% 7.39%\n1993.......... profit 2,624.7 less than zero 6.35%\n1994.......... profit 3,056.6 less than zero 7.88%\n1995.......... profit 3,607.2 less than zero 5.95%\n1996.......... profit 6,702.0 less than zero 6.64%\n\nSince 1967, when we entered the insurance business, our float has\ngrown at an annual compounded rate of 22.3%. In more years than not, our\ncost of funds has been less than nothing. This access to \"free\" money has\nboosted Berkshire's performance in a major way. Moreover, our acquisition\nof GEICO materially increases the probability that we can continue to\nobtain \"free\" funds in increasing amounts.",
+    "metadata": {
+      "letter_year": 1996,
+      "letter_date": "1997-02-28",
+      "source_file": "1996_cleaned.txt",
+      "section_title": "Insurance Operations - Overview",
+      "section_hierarchy": [
+        "Letter Body",
+        "Business Segments",
+        "Insurance"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [
+        "1996-S04-T2-001"
+      ],
+      "content_type": "financial_table",
+      "contextual_summary": "Buffett defines insurance float, explains how underwriting results determine its cost, and shows Berkshire’s long record of generating low- or negative-cost float. He argues that GEICO’s full acquisition increases the odds Berkshire can grow this valuable funding source.",
+      "has_table": true,
+      "table_data": [
+        {
+          "table_name": "1996-S04-T1-001 Table 1",
+          "summary": "Key figures presented in the letter for this discussion.",
+          "columns": [
+            "col_1",
+            "col_2"
+          ],
+          "rows": [
+            [
+              "1967",
+              "profit 17.3 less than zero 5.50%"
+            ],
+            [
+              "1968",
+              "profit 19.9 less than zero 5.90%"
+            ],
+            [
+              "1969",
+              "profit 23.4 less than zero 6.79%"
+            ],
+            [
+              "1970",
+              "0.37 32.4 1.14% 6.25%"
+            ],
+            [
+              "1971",
+              "profit 52.5 less than zero 5.81%"
+            ],
+            [
+              "1972",
+              "profit 69.5 less than zero 5.82%"
+            ],
+            [
+              "1973",
+              "profit 73.3 less than zero 7.27%"
+            ],
+            [
+              "1974",
+              "7.36 79.1 9.30% 8.13%"
+            ],
+            [
+              "1975",
+              "11.35 87.6 12.96% 8.03%"
+            ],
+            [
+              "1976",
+              "profit 102.6 less than zero 7.30%"
+            ],
+            [
+              "1977",
+              "profit 139.0 less than zero 7.97%"
+            ],
+            [
+              "1978",
+              "profit 190.4 less than zero 8.93%"
+            ],
+            [
+              "1979",
+              "profit 227.3 less than zero 10.08%"
+            ],
+            [
+              "1980",
+              "profit 237.0 less than zero 11.94%"
+            ],
+            [
+              "1981",
+              "profit 228.4 less than zero 13.61%"
+            ],
+            [
+              "1982",
+              "21.56 220.6 9.77% 10.64%"
+            ],
+            [
+              "1983",
+              "33.87 231.3 14.64% 11.84%"
+            ],
+            [
+              "1984",
+              "48.06 253.2 18.98% 11.58%"
+            ],
+            [
+              "1985",
+              "44.23 390.2 11.34% 9.34%"
+            ],
+            [
+              "1986",
+              "55.84 797.5 7.00% 7.60%"
+            ],
+            [
+              "1987",
+              "55.43 1,266.7 4.38% 8.95%"
+            ],
+            [
+              "1988",
+              "11.08 1,497.7 0.74% 9.00%"
+            ],
+            [
+              "1989",
+              "24.40 1,541.3 1.58% 7.97%"
+            ],
+            [
+              "1990",
+              "26.65 1,637.3 1.63% 8.24%"
+            ],
+            [
+              "1991",
+              "119.59 1,895.0 6.31% 7.40%"
+            ],
+            [
+              "1992",
+              "108.96 2,290.4 4.76% 7.39%"
+            ],
+            [
+              "1993",
+              "profit 2,624.7 less than zero 6.35%"
+            ],
+            [
+              "1994",
+              "profit 3,056.6 less than zero 7.88%"
+            ],
+            [
+              "1995",
+              "profit 3,607.2 less than zero 5.95%"
+            ],
+            [
+              "1996",
+              "profit 6,702.0 less than zero 6.64%"
+            ]
+          ],
+          "row_count": 30
+        }
+      ],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "GEICO"
+        ],
+        "people": [],
+        "metrics": [
+          "0.74%",
+          "1.14%",
+          "1.58%",
+          "1.63%",
+          "10.08%",
+          "10.64%",
+          "11.34%",
+          "11.58%",
+          "11.84%",
+          "11.94%",
+          "12.96%",
+          "13.61%",
+          "14.64%",
+          "18.98%",
+          "1967",
+          "1968",
+          "1969",
+          "1970",
+          "1971",
+          "1972",
+          "1973",
+          "1974",
+          "1975",
+          "1976",
+          "1977",
+          "1978",
+          "1979",
+          "1980",
+          "1981",
+          "1982",
+          "1983",
+          "1984",
+          "1985",
+          "1986",
+          "1987",
+          "1988",
+          "1989",
+          "1990",
+          "1991",
+          "1992",
+          "1993",
+          "1994",
+          "1995",
+          "1996",
+          "22.3%",
+          "4.38%",
+          "4.76%",
+          "5.50%",
+          "5.81%",
+          "5.82%",
+          "5.90%",
+          "5.95%",
+          "6.25%",
+          "6.31%",
+          "6.35%",
+          "6.64%",
+          "6.79%",
+          "7.00%",
+          "7.27%",
+          "7.30%",
+          "7.39%",
+          "7.40%",
+          "7.60%",
+          "7.88%",
+          "7.97%",
+          "8.03%",
+          "8.13%",
+          "8.24%",
+          "8.93%",
+          "8.95%",
+          "9.00%",
+          "9.30%",
+          "9.34%",
+          "9.77%",
+          "Float",
+          "book value",
+          "float",
+          "intrinsic value",
+          "underwriting loss",
+          "underwriting profit"
+        ]
+      },
+      "themes": [
+        "insurance float",
+        "underwriting profitability",
+        "GEICO acquisition"
+      ],
+      "buffett_concepts": [
+        "float",
+        "insurance economics",
+        "intrinsic value drivers"
+      ],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1996,
+        "comparison_years": [
+          1967,
+          1968,
+          1969,
+          1970,
+          1971,
+          1972,
+          1973,
+          1974,
+          1975,
+          1976,
+          1977,
+          1978,
+          1979,
+          1980,
+          1981,
+          1982,
+          1983,
+          1984,
+          1985,
+          1986,
+          1987,
+          1988,
+          1989,
+          1990,
+          1991,
+          1992,
+          1993,
+          1994,
+          1995
+        ],
+        "future_outlook": false
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "low",
+      "token_count": 662,
+      "char_count": 3709,
+      "source_span": {
+        "start_char": 14987,
+        "end_char_exclusive": 18696
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "merged_from": [],
+      "boundary_note": null,
+      "previous_summary": "Flight Safety International is acquired with a mix of cash and Berkshire shares designed to limit dilution and accommodate shareholder tax preferences. Buffett profiles CEO Al Ueltschi and explains why Berkshire favors proven, long-tenured managers who keep winning.",
+      "next_summary": "The letter warns that catastrophe reinsurance will inevitably produce occasional huge losses even after many profitable years. Buffett urges shareholders to tolerate volatility and describes Berkshire’s preference for lumpy superior returns over smoother but lower ones."
+    }
+  },
+  {
+    "chunk_id": "1996-S05-T1-001",
+    "content": "As in the past three years, we once again stress that the good results\nwe are reporting for Berkshire stem in part from our super-cat business\nhaving a lucky year. In this operation, we sell policies that insurance\nand reinsurance companies buy to protect themselves from the effects of\nmega-catastrophes. Since truly major catastrophes are rare occurrences,\nour super-cat business can be expected to show large profits in most years\n- and to record a huge loss occasionally. In other words, the\nattractiveness of our super-cat business will take a great many years to\nmeasure.\nWhat you must understand, however, is that a truly terrible year\nin the super-cat business is not a possibility - it's a certainty. The\nonly question is when it will come.\n\nI emphasize this lugubrious point because I would not want you to\npanic and sell your Berkshire stock upon hearing that some large\ncatastrophe had cost us a significant amount. If you would tend to react\nthat way, you should not own Berkshire shares now, just as you should\nentirely avoid owning stocks if a crashing market would lead you to panic\nand sell. Selling fine businesses on \"scary\" news is usually a bad\ndecision. (Robert Woodruff, the business genius who built Coca-Cola over\nmany decades and who owned a huge position in the company, was once asked\nwhen it might be a good time to sell Coke stock. Woodruff had a simple\nanswer: \"I don't know. I've never sold any.\")\n\nIn our super-cat operation, our customers are insurers that are\nexposed to major earnings volatility and that wish to reduce it. The\nproduct we sell - for what we hope is an appropriate price - is our\nwillingness to shift that volatility to our own books. Gyrations in\nBerkshire's earnings don't bother us in the least: Charlie and I would\nmuch rather earn a lumpy 15% over time than a smooth 12%. (After all, our\nearnings swing wildly on a daily and weekly basis - why should we demand\nthat smoothness accompany each orbit that the earth makes of the sun?) We\nare most comfortable with that thinking, however, when we have\nshareholder/partners who can also accept volatility, and that's why we\nregularly repeat our cautions.\n\nWe took on some major super-cat exposures during 1996. At mid-year we\nwrote a contract with Allstate that covers Florida hurricanes, and though\nthere are no definitive records that would allow us to prove this point, we\nbelieve that to have\nthen\nbeen the largest single catastrophe risk ever\nassumed by one company for its own account. Later in the year, however, we\nwrote a policy for the California Earthquake Authority that goes into\neffect on April 1,1997, and that exposes us to a loss more than twice that\npossible under the Florida contract. Again we retained all the risk for\nour own account. Large as these coverages are, Berkshire's after-tax\n\"worst-case\" loss from a true mega-catastrophe is probably no more than\n$600 million, which is less than 3% of our book value and 1.5% of our market\nvalue. To gain some perspective on this exposure, look at the table on\npage 2 and note the much greater volatility that security markets have\ndelivered us.\n\nIn the super-cat business, we have three major competitive advantages.\nFirst, the parties buying reinsurance from us know that we both can and\nwill pay under the most adverse of circumstances. Were a truly cataclysmic\ndisaster to occur, it is not impossible that a financial panic would\nquickly follow. If that happened, there could well be respected reinsurers\nthat would have difficulty paying at just the moment that their clients\nfaced extraordinary needs. Indeed, one reason we never \"lay off\" part of\nthe risks we insure is that we have reservations about our ability to\ncollect from others when disaster strikes. When it's Berkshire promising,\ninsureds know with certainty that they can collect promptly.\n\nOur second advantage - somewhat related - is subtle but important.\nAfter a mega-catastrophe, insurers might well find it difficult to obtain\nreinsurance even though their need for coverage would then be particularly\ngreat. At such a time, Berkshire would without question have very\nsubstantial capacity available - but it will naturally be our long-standing\nclients that have first call on it. That business reality has made major\ninsurers and reinsurers throughout the world realize the desirability of\ndoing business with us. Indeed, we are currently getting sizable \"standby\" fees from reinsurers that are simply nailing down their ability to get\ncoverage from us should the market tighten.\n\nOur final competitive advantage is that we can provide dollar\ncoverages of a size neither matched nor approached elsewhere in the\nindustry. Insurers looking for huge covers know that a single call to\nBerkshire will produce a firm and immediate offering.",
+    "metadata": {
+      "letter_year": 1996,
+      "letter_date": "1997-02-28",
+      "source_file": "1996_cleaned.txt",
+      "section_title": "Super-Cat Insurance",
+      "section_hierarchy": [
+        "Letter Body",
+        "Other",
+        "Super-Cat Insurance"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "principle_statement",
+      "contextual_summary": "The letter warns that catastrophe reinsurance will inevitably produce occasional huge losses even after many profitable years. Buffett urges shareholders to tolerate volatility and describes Berkshire’s preference for lumpy superior returns over smoother but lower ones.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "Allstate",
+          "California Earthquake Authority"
+        ],
+        "people": [
+          "Robert Woodruff"
+        ],
+        "metrics": [
+          "$600million",
+          "1.5%",
+          "12%",
+          "15%",
+          "1996",
+          "1997",
+          "3%",
+          "book value"
+        ]
+      },
+      "themes": [
+        "catastrophe reinsurance",
+        "volatility",
+        "risk tolerance"
+      ],
+      "buffett_concepts": [
+        "risk management",
+        "underwriting discipline"
+      ],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1996,
+        "comparison_years": [
+          1997
+        ],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "high",
+      "token_count": 796,
+      "char_count": 4778,
+      "source_span": {
+        "start_char": 18719,
+        "end_char_exclusive": 23497
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "merged_from": [],
+      "boundary_note": null,
+      "previous_summary": "Buffett defines insurance float, explains how underwriting results determine its cost, and shows Berkshire’s long record of generating low- or negative-cost float. He argues that GEICO’s full acquisition increases the odds Berkshire can grow this valuable funding source.",
+      "next_summary": "Berkshire writes extremely large hurricane and earthquake covers and explains why it retains the full risk rather than lay it off to other reinsurers. Buffett outlines competitive advantages—certainty of payment, capacity after disasters, and unmatched policy size—while criticizing overconfident catastrophe models."
+    }
+  },
+  {
+    "chunk_id": "1996-S05-T1-002",
+    "content": "A few facts about our exposure to California earthquakes - our largest\nrisk - seem in order. The Northridge quake of 1994 laid homeowners' losses\non insurers that greatly exceeded what computer models had told them to\nexpect. Yet the intensity of that quake was mild compared to the \"worstcase\" possibility for California. Understandably, insurers became - ahem -\nshaken and started contemplating a retreat from writing earthquake coverage\ninto their homeowners' policies.\n\nIn a thoughtful response, Chuck Quackenbush, California's insurance\ncommissioner, designed a new residential earthquake policy to be written by\na state-sponsored insurer, The California Earthquake Authority. This\nentity, which went into operation on December 1,1996, needed large layers\nof reinsurance - and that's where we came in. Berkshire's layer of\napproximately $1 billion will be called upon if the Authority's aggregate\nlosses in the period ending March 31,2001 exceed about $5 billion. (The\npress originally reported larger figures, but these would have applied only\nif all California insurers had entered into the arrangement; instead only\n72% signed up.)\n\nSo what are the true odds of our having to make a payout during the\npolicy's term? We don't know - nor do we think computer models will help\nus, since we believe the precision they project is a chimera. In fact,\nsuch models can lull decision-makers into a false sense of security and\nthereby increase their chances of making a really huge mistake. We've\nalready seen such debacles in both insurance and investments. Witness\n\"portfolio insurance,\" whose destructive effects in the 1987 market crash\nled one wag to observe that it was the computers that should have been\njumping out of windows.\n\nEven if perfection in assessing risks is unattainable, insurers can\nunderwrite sensibly. After all, you need not know a man's precise age to\nknow that he is old enough to vote nor know his exact weight to recognize\nhis need to diet. In insurance, it is essential to remember that virtually\nall surprises are unpleasant, and with that in mind we try to price our\nsuper-cat exposures so that about 90% of total premiums end up being\neventually paid out in losses and expenses. Over time, we will find out\nhow smart our pricing has been, but that will not be quickly. The supercat business is just like the investment business in that it often takes a\nlong time to find out whether you knew what you were doing.\n\nWhat I can state with certainty, however, is that we have the best\nperson in the world to run our super-cat business: Ajit Jain, whose value\nto Berkshire is simply enormous. In the reinsurance field, disastrous\npropositions abound. I know that because I personally embraced all too\nmany of these in the 1970 s and also because GEICO has a large runoff\nportfolio made up of foolish contracts written in the early-1980 s, able\nthough its then-management was. Ajit, I can assure you, won't make\nmistakes of this type.\n\nI have mentioned that a mega-catastrophe might cause a catastrophe in\nthe financial markets, a possibility that is unlikely but not far-fetched.\nWere the catastrophe a quake in California of sufficient magnitude to tap\nour coverage, we would almost certainly be damaged in other ways as well.\nFor example, See's, Wells Fargo and Freddie Mac could be hit hard. All in\nall, though, we can handle this aggregation of exposures.\n\nIn this respect, as in others, we try to \"reverse engineer\" our future\nat Berkshire, bearing in mind Charlie's dictum: \"All I want to know is\nwhere I'm going to die so I'll never go there.\" (Inverting really works:\nTry singing country western songs backwards and you will quickly regain\nyour house, your car and your wife.) If we can't tolerate a possible\nconsequence, remote though it may be, we steer clear of planting its seeds.\nThat is why we don't borrow big amounts and why we make sure that our\nsuper-cat business losses, large though the maximums may sound, will not\nput a major dent in Berkshire's intrinsic value.",
+    "metadata": {
+      "letter_year": 1996,
+      "letter_date": "1997-02-28",
+      "source_file": "1996_cleaned.txt",
+      "section_title": "Super-Cat Insurance",
+      "section_hierarchy": [
+        "Letter Body",
+        "Other",
+        "Super-Cat Insurance"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "mistake_confession",
+      "contextual_summary": "Berkshire writes extremely large hurricane and earthquake covers and explains why it retains the full risk rather than lay it off to other reinsurers. Buffett outlines competitive advantages—certainty of payment, capacity after disasters, and unmatched policy size—while criticizing overconfident catastrophe models.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "California Earthquake Authority",
+          "GEICO",
+          "Wells Fargo"
+        ],
+        "people": [
+          "Ajit Jain",
+          "Chuck Quackenbush"
+        ],
+        "metrics": [
+          "$1billion",
+          "$5billion",
+          "1970",
+          "1980",
+          "1987",
+          "1994",
+          "1996",
+          "2001",
+          "72%",
+          "90%",
+          "intrinsic value"
+        ]
+      },
+      "themes": [
+        "super-cat contracts",
+        "competitive advantage",
+        "model risk"
+      ],
+      "buffett_concepts": [
+        "risk aggregation",
+        "margin of safety"
+      ],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1996,
+        "comparison_years": [
+          1970,
+          1980,
+          1987,
+          1994,
+          2001
+        ],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "medium",
+      "token_count": 668,
+      "char_count": 4010,
+      "source_span": {
+        "start_char": 23499,
+        "end_char_exclusive": 27509
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "merged_from": [],
+      "boundary_note": null,
+      "previous_summary": "The letter warns that catastrophe reinsurance will inevitably produce occasional huge losses even after many profitable years. Buffett urges shareholders to tolerate volatility and describes Berkshire’s preference for lumpy superior returns over smoother but lower ones.",
+      "next_summary": "GEICO grows voluntary auto policies while meeting underwriting targets by maintaining a structural cost advantage that supports low prices and high referrals. Buffett describes a simple incentive system tied to policy growth and seasoned underwriting profitability to keep management focused."
+    }
+  },
+  {
+    "chunk_id": "1996-S06-T1-001",
+    "content": "When we moved to total ownership of GEICO early last year, our\nexpectations were high - and they are all being exceeded. That is true\nfrom both a business and personal perspective: GEICO's operating chief,\nTony Nicely, is a superb business manager and a delight to work with.\nUnder almost any conditions, GEICO would be an exceptionally valuable\nasset. With Tony at the helm, it is reaching levels of performance that\nthe organization would only a few years ago have thought impossible.\n\nThere's nothing esoteric about GEICO's success: The company's\ncompetitive strength flows directly from its position as a low-cost\noperator. Low costs permit low prices, and low prices attract and retain\ngood policyholders. The final segment of a virtuous circle is drawn when\npolicyholders recommend us to their friends. GEICO gets more than one\nmillion referrals annually and these produce more than half of our new\nbusiness, an advantage that gives us enormous savings in acquisition\nexpenses - and that makes our costs still lower.\n\nThis formula worked in spades for GEICO in 1996: Its voluntary auto\npolicy count grew 10%. During the previous 20 years, the company's bestever growth for a year had been 8%, a rate achieved only once. Better yet,\nthe growth in voluntary policies accelerated during the year, led by major\ngains in the nonstandard market, which has been an underdeveloped area at\nGEICO. I focus here on voluntary policies because the involuntary business\nwe get from assigned risk pools and the like is unprofitable. Growth in\nthat sector is most unwelcome.\n\nGEICO's growth would mean nothing if it did not produce reasonable\nunderwriting profits. Here, too, the news is good: Last year we hit our\nunderwriting targets and then some. Our goal, however, is not to widen our\nprofit margin but rather to enlarge the price advantage we offer customers.\nGiven that strategy, we believe that 1997's growth will easily top that of\nlast year.\n\nWe expect new competitors to enter the direct-response market, and\nsome of our existing competitors are likely to expand geographically.\nNonetheless, the economies of scale we enjoy should allow us to maintain or\neven widen the protective moat surrounding our economic castle. We do best\non costs in geographical areas in which we enjoy high market penetration.\nAs our policy count grows, concurrently delivering gains in penetration, we\nexpect to drive costs materially lower. GEICO's sustainable cost advantage\nis what attracted me to the company way back in 1951, when the entire\nbusiness was valued at $7 million. It is also why I felt Berkshire should\npay $2.3 billion last year for the 49% of the company that we didn't then\nown.\n\nMaximizing the results of a wonderful business requires management and\nfocus. Lucky for us, we have in Tony a superb manager whose business focus\nnever wavers. Wanting also to get the entire GEICO organization\nconcentrating as he does, we needed a compensation plan that was itself\nsharply focused - and immediately after our purchase, we put one in.\n\nToday, the bonuses received by dozens of top executives, starting with\nTony, are based upon only two key variables: (1) growth in voluntary auto\npolicies and (2) underwriting profitability on \"seasoned\" auto business\n(meaning policies that have been on the books for more than one year). In\naddition, we use the same yardsticks to calculate the annual contribution\nto the company's profit-sharing plan.\nEveryone\nat GEICO knows what counts.\n\nThe GEICO plan exemplifies Berkshire's incentive compensation\nprinciples: Goals should be (1) tailored to the economics of the specific\noperating business; (2) simple in character so that the degree to which\nthey are being realized can be easily measured; and (3) directly related to\nthe daily activities of plan participants. As a corollary, we shun\n\"lottery ticket\" arrangements, such as options on Berkshire shares, whose\nultimate value - which could range from zero to huge - is totally out of\nthe control of the person whose behavior we would like to affect. In our\nview, a system that produces quixotic payoffs will not only be wasteful for\nowners but may actually discourage the focused behavior we value in\nmanagers.\n\nEvery quarter, all 9,000 GEICO associates can see the results that\ndetermine our profit-sharing plan contribution. In 1996, they enjoyed the\nexperience because the plan literally went off the chart that had been\nconstructed at the start of the year. Even I knew the answer to that\nproblem: Enlarge the chart. Ultimately, the results called for a record\ncontribution of 16.9% ($40 million), compared to a five-year average of\nless than 10% for the comparable plans previously in effect. Furthermore,\nat Berkshire, we never greet good work by raising the bar. If GEICO's\nperformance continues to improve, we will happily keep on making larger\ncharts.",
+    "metadata": {
+      "letter_year": 1996,
+      "letter_date": "1997-02-28",
+      "source_file": "1996_cleaned.txt",
+      "section_title": "Insurance - GEICO and Other Primary Operations",
+      "section_hierarchy": [
+        "Letter Body",
+        "Business Segments",
+        "Insurance"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "principle_statement",
+      "contextual_summary": "GEICO grows voluntary auto policies while meeting underwriting targets by maintaining a structural cost advantage that supports low prices and high referrals. Buffett describes a simple incentive system tied to policy growth and seasoned underwriting profitability to keep management focused.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "GEICO"
+        ],
+        "people": [
+          "Tony Nicely"
+        ],
+        "metrics": [
+          "$2.3billion",
+          "$40million",
+          "$7million",
+          "10%",
+          "16.9%",
+          "1951",
+          "1996",
+          "1997",
+          "49%",
+          "8%"
+        ]
+      },
+      "themes": [
+        "GEICO growth",
+        "cost advantage",
+        "incentives"
+      ],
+      "buffett_concepts": [
+        "competitive moat",
+        "incentive alignment"
+      ],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1996,
+        "comparison_years": [
+          1951,
+          1997
+        ],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "medium",
+      "token_count": 792,
+      "char_count": 4847,
+      "source_span": {
+        "start_char": 27559,
+        "end_char_exclusive": 32406
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "merged_from": [],
+      "boundary_note": null,
+      "previous_summary": "Berkshire writes extremely large hurricane and earthquake covers and explains why it retains the full risk rather than lay it off to other reinsurers. Buffett outlines competitive advantages—certainty of payment, capacity after disasters, and unmatched policy size—while criticizing overconfident catastrophe models.",
+      "next_summary": "Buffett contrasts underwriting and investment performance metrics and explains why Berkshire rewards each discipline independently. He notes strong results across Berkshire’s smaller insurance units and credits their managers for generating industry-leading combined ratios and float."
+    }
+  },
+  {
+    "chunk_id": "1996-S06-T1-002",
+    "content": "Lou Simpson continues to manage GEICO's money in an outstanding\nmanner: Last year, the equities in his portfolio outdid the S&P 500 by 6.2\npercentage points. In Lou's part of GEICO's operation, we again tie\ncompensation to performance - but to investment performance over a fouryear period, not to underwriting results nor to the performance of GEICO as\na whole. We think it foolish for an insurance company to pay bonuses that\nare tied to overall corporate results when great work on one side of the\nbusiness - underwriting or investment - could conceivably be completely\nneutralized by bad work on the other. If you bat . 350 at Berkshire, you\ncan be sure you will get paid commensurately even if the rest of the team\nbats . 200. In Lou and Tony, however, we are lucky to have Hall-of-Famers\nin both key positions.\n\n* * * * * * * * * * * *\n\nThough they are, of course, smaller than GEICO, our other primary\ninsurance operations turned in equally stunning results last year.\nNational Indemnity's traditional business had a combined ratio of 74.2 and,\nas usual, developed a large amount of float compared to premium volume.\nOver the last three years, this segment of our business, run by Don\nWurster, has had an average combined ratio of 83.0. Our homestate\noperation, managed by Rod Eldred, recorded a combined ratio of 87.1 even\nthough it absorbed the expenses of expanding to new states. Rod's threeyear combined ratio is an amazing 83.2. Berkshire's workers' compensation\nbusiness, run out of California by Brad Kinstler, has now moved into six\nother states and, despite the costs of that expansion, again achieved an\nexcellent underwriting profit. Finally, John Kizer, at Central States\nIndemnity, set new records for premium volume while generating good\nearnings from underwriting. In aggregate, our smaller insurance operations\n(now including Kansas Bankers Surety) have an underwriting record virtually\nunmatched in the industry. Don, Rod, Brad and John have all created\nsignificant value for Berkshire, and we believe there is more to come.",
+    "metadata": {
+      "letter_year": 1996,
+      "letter_date": "1997-02-28",
+      "source_file": "1996_cleaned.txt",
+      "section_title": "Insurance - GEICO and Other Primary Operations",
+      "section_hierarchy": [
+        "Letter Body",
+        "Business Segments",
+        "Insurance"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "narrative",
+      "contextual_summary": "Buffett contrasts underwriting and investment performance metrics and explains why Berkshire rewards each discipline independently. He notes strong results across Berkshire’s smaller insurance units and credits their managers for generating industry-leading combined ratios and float.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "GEICO",
+          "Kansas Bankers Surety",
+          "National Indemnity",
+          "S&P 500"
+        ],
+        "people": [
+          "Brad Kinstler",
+          "John Kizer",
+          "Lou Simpson",
+          "Rod Eldred"
+        ],
+        "metrics": [
+          "combined ratio",
+          "float",
+          "underwriting profit"
+        ]
+      },
+      "themes": [
+        "insurance underwriting",
+        "investment performance",
+        "manager performance"
+      ],
+      "buffett_concepts": [
+        "proper incentives",
+        "decentralized accountability"
+      ],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1996,
+        "comparison_years": [],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "medium",
+      "token_count": 333,
+      "char_count": 2049,
+      "source_span": {
+        "start_char": 32408,
+        "end_char_exclusive": 34457
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "merged_from": [],
+      "boundary_note": null,
+      "previous_summary": "GEICO grows voluntary auto policies while meeting underwriting targets by maintaining a structural cost advantage that supports low prices and high referrals. Buffett describes a simple incentive system tied to policy growth and seasoned underwriting profitability to keep management focused.",
+      "next_summary": "Buffett frames Berkshire’s large 1996 tax payment as an appropriate consequence of prospering in the U.S., then breaks down reported earnings by operating businesses, investment gains, and accounting adjustments. He explains why Berkshire also reports results before purchase-accounting charges to better reflect business performance."
+    }
+  },
+  {
+    "chunk_id": "1996-S07-T1-001",
+    "content": "In 1961, President Kennedy said that we should ask not what our\ncountry can do for us, but rather ask what we can do for our country. Last\nyear we decided to give his suggestion a try - and who says it never hurts\nto ask? We were told to mail $860 million in income taxes to the U. S.\nTreasury.\n\nHere's a little perspective on that figure: If an equal amount had\nbeen paid by only 2,000 other taxpayers, the government would have had a\nbalanced budget in 1996 without needing a dime of taxes - income or Social\nSecurity or what have you - from\nany\nother American. Berkshire\nshareholders can truly say, \"I gave at the office.\"\n\nCharlie and I believe that large tax payments by Berkshire are\nentirely fitting. The contribution we thus make to society's well-being is\nat most only proportional to its contribution to ours. Berkshire prospers\nin America as it would nowhere else.\n\nSources of Reported Earnings\n\nIn 1961, President Kennedy said that we should ask not what our\ncountry can do for us, but rather ask what we can do for our country. Last\nyear we decided to give his suggestion a try - and who says it never hurts\nto ask? We were told to mail $860 million in income taxes to the U. S.\nTreasury.\n\nHere's a little perspective on that figure: If an equal amount had\nbeen paid by only 2,000 other taxpayers, the government would have had a\nbalanced budget in 1996 without needing a dime of taxes - income or Social\nSecurity or what have you - from\nany\nother American. Berkshire\nshareholders can truly say, \"I gave at the office.\"\n\nCharlie and I believe that large tax payments by Berkshire are\nentirely fitting. The contribution we thus make to society's well-being is\nat most only proportional to its contribution to ours. Berkshire prospers\nin America as it would nowhere else.\n\nThe table that follows shows the main sources of Berkshire's reported\nearnings. In this presentation, purchase-accounting adjustments are not\nassigned to the specific businesses to which they apply, but are instead\naggregated and shown separately. This procedure lets you view the earnings\nof our businesses as they would have been reported had we not purchased\nthem. For the reasons discussed on pages 65 and 66, this form of\npresentation seems to us to be more useful to investors and managers than\none utilizing generally-accepted accounting principles (GAAP), which\nrequire purchase-premiums to be charged off business-by-business. The\ntotal earnings we show in the table are, of course, identical to the GAAP\ntotal in our audited financial statements.\n\n(in millions)\n--------------------------------------\nBerkshire's Share\nof Net Earnings\n(after taxes and\nPre-tax Earnings minority interests)\n\n---------------- -------------------\n1996 1995(1) 1996 1995(1)\n------- -------- ------- -------\nOperating Earnings:\nInsurance Group:\nUnderwriting.....................$ 222.1 $ 20.5 $ 142.8 $ 11.3\nNet Investment Income............ 726.2 501.6 593.1 417.7\nBuffalo News........................... 50.4 46.8 29.5 27.3\nFechheimer............................. 17.3 16.9 9.3 8.8\nFinance Businesses..................... 23.1 20.8 14.9 12.6\nHome Furnishings....................... 43.8 29.7(2) 24.8 16.7(2)\nJewelry................................ 27.8 33.9(3) 16.1 19.1(3)\nKirby.................................. 58.5 50.2 39.9 32.1\nScott Fetzer Manufacturing Group....... 50.6 34.1 32.2 21.2\nSee's Candies.......................... 51.9 50.2 30.8 29.8\nShoe Group............................. 61.6 58.4 41.0 37.5\nWorld Book............................. 12.6 8.8 9.5 7.0\nPurchase-Accounting Adjustments........ (75.7) (27.0) (70.5) (23.4)\nInterest Expense(4).................... (94.3) (56.0) (56.6) (34.9)\nShareholder-Designated Contributions... (13.3) (11.6) (8.5) (7.0)\nOther.................................. 58.8 37.4 34.8 24.4\n------- -------- -------- -------\nOperating Earnings....................... 1,221.4 814.7 883.1 600.2\nSales of Securities...................... 2,484.5 194.1 1,605.5 125.0\n------- -------- -------- -------\nTotal Earnings - All Entities...........$3,705.9 $1,008.8 $2,488.6 $ 725.2\n======= ======== ======== =======\n\n(1) Before the GEICO-related restatement. (3) Includes Helzberg's from\nApril 30,1995.\n(2) Includes R. C. Willey from June 29,1995. (4) Excludes interest expense\nof Finance Businesses.\n\nIn this section last year, I discussed three businesses that reported\na decline in earnings - Buffalo News, Shoe Group and World Book. All, I'm\nhappy to say, recorded gains in 1996.",
+    "metadata": {
+      "letter_year": 1996,
+      "letter_date": "1997-02-28",
+      "source_file": "1996_cleaned.txt",
+      "section_title": "Sources of Reported Earnings",
+      "section_hierarchy": [
+        "Letter Body",
+        "Financial Reporting",
+        "Earnings"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [
+        "1996-S07-T2-001"
+      ],
+      "content_type": "financial_table",
+      "contextual_summary": "Buffett frames Berkshire’s large 1996 tax payment as an appropriate consequence of prospering in the U.S., then breaks down reported earnings by operating businesses, investment gains, and accounting adjustments. He explains why Berkshire also reports results before purchase-accounting charges to better reflect business performance.",
+      "has_table": true,
+      "table_data": [
+        {
+          "table_name": "1996-S07-T1-001 Table 1",
+          "summary": "Key figures presented in the letter for this discussion.",
+          "columns": [
+            "col_1",
+            "col_2"
+          ],
+          "rows": [
+            [
+              "Underwriting",
+              "$ 222.1 $ 20.5 $ 142.8 $ 11.3"
+            ],
+            [
+              "Net Investment Income",
+              "726.2 501.6 593.1 417.7"
+            ],
+            [
+              "Buffalo News",
+              "50.4 46.8 29.5 27.3"
+            ],
+            [
+              "Fechheimer",
+              "17.3 16.9 9.3 8.8"
+            ],
+            [
+              "Finance Businesses",
+              "23.1 20.8 14.9 12.6"
+            ],
+            [
+              "Home Furnishings",
+              "43.8 29.7(2) 24.8 16.7(2)"
+            ],
+            [
+              "Jewelry",
+              "27.8 33.9(3) 16.1 19.1(3)"
+            ],
+            [
+              "Kirby",
+              "58.5 50.2 39.9 32.1"
+            ],
+            [
+              "Scott Fetzer Manufacturing Group",
+              "50.6 34.1 32.2 21.2"
+            ],
+            [
+              "See's Candies",
+              "51.9 50.2 30.8 29.8"
+            ],
+            [
+              "Shoe Group",
+              "61.6 58.4 41.0 37.5"
+            ],
+            [
+              "World Book",
+              "12.6 8.8 9.5 7.0"
+            ],
+            [
+              "Purchase-Accounting Adjustments",
+              "(75.7) (27.0) (70.5) (23.4)"
+            ],
+            [
+              "Interest Expense(4)",
+              "(94.3) (56.0) (56.6) (34.9)"
+            ],
+            [
+              "Shareholder-Designated Contributions",
+              "(13.3) (11.6) (8.5) (7.0)"
+            ],
+            [
+              "Other",
+              "58.8 37.4 34.8 24.4"
+            ]
+          ],
+          "row_count": 16
+        }
+      ],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "Buffalo News",
+          "Fechheimer",
+          "GEICO",
+          "Helzberg",
+          "Kirby",
+          "Scott Fetzer",
+          "See's Candies",
+          "World Book"
+        ],
+        "people": [],
+        "metrics": [
+          "$1,008.8",
+          "$11.3\n",
+          "$142.8",
+          "$2,488.6",
+          "$20.5",
+          "$222.1",
+          "$3,705.9",
+          "$725.2\n",
+          "$860million",
+          "1961",
+          "1995",
+          "1996",
+          "Operating Earnings"
+        ]
+      },
+      "themes": [
+        "taxes",
+        "earnings breakdown",
+        "purchase accounting"
+      ],
+      "buffett_concepts": [
+        "owner reporting",
+        "economic vs accounting earnings"
+      ],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1996,
+        "comparison_years": [
+          1961,
+          1995
+        ],
+        "future_outlook": false
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "low",
+      "token_count": 722,
+      "char_count": 4489,
+      "source_span": {
+        "start_char": 0,
+        "end_char_exclusive": 0
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "merged_from": [
+        "Taxes"
+      ],
+      "boundary_note": null,
+      "previous_summary": "Buffett contrasts underwriting and investment performance metrics and explains why Berkshire rewards each discipline independently. He notes strong results across Berkshire’s smaller insurance units and credits their managers for generating industry-leading combined ratios and float.",
+      "next_summary": "The letter introduces “look-through” earnings to capture Berkshire’s share of retained profits at major investees, net of a hypothetical dividend tax. Buffett lists major holdings, then discusses operating-business performance highlights and how Berkshire thinks about segment results."
+    }
+  },
+  {
+    "chunk_id": "1996-S07-T1-002",
+    "content": "World Book, however, did not find it easy: Despite the operation's\nnew status as the only direct-seller of encyclopedias in the country\n(Encyclopedia Britannica exited the field last year), its unit volume fell.\nAdditionally, World Book spent heavily on a new CD-ROM product that began\nto take in revenues only in early 1997, when it was launched in association\nwith IBM. In the face of these factors, earnings would have evaporated had\nWorld Book not revamped distribution methods and cut overhead at\nheadquarters, thereby dramatically reducing its fixed costs. Overall, the\ncompany has gone a long way toward assuring its long-term viability in both\nthe print and electronic marketplaces.\n\nOur only disappointment last year was in jewelry: Borsheim's did\nfine, but Helzberg's suffered a material decline in earnings. Its expense\nlevels had been geared to a sizable increase in same-store sales,\nconsistent with the gains achieved in recent years. When sales were\ninstead flat, profit margins fell. Jeff Comment, CEO of Helzberg's, is\naddressing the expense problem in a decisive manner, and the company's\nearnings should improve in 1997.\n\nOverall, our operating businesses continue to perform exceptionally,\nfar outdoing their industry norms. For this, Charlie and I thank our\nmanagers. If you should see any of them at the Annual Meeting, add your\nthanks as well.\n\nMore information about our various businesses is given on pages 3646, where you will also find our segment earnings reported on a GAAP\nbasis. In addition, on pages 51-57, we have rearranged Berkshire's\nfinancial data into four segments on a non-GAAP basis, a presentation\nthat corresponds to the way Charlie and I think about the company. Our\nintent is to supply you with the financial information that we would wish\nyou to give us if our positions were reversed.\n\n\"Look-Through\" Earnings\n\nReported earnings are a poor measure of economic progress at\nBerkshire, in part because the numbers shown in the table presented\nearlier include only the dividends we receive from investees - though\nthese dividends typically represent only a small fraction of the earnings\nattributable to our ownership. Not that we mind this division of money,\nsince on balance we regard the undistributed earnings of investees as\nmore valuable to us than the portion paid out. The reason is simple:\nOur investees often have the opportunity to reinvest earnings at high\nrates of return. So why should we want them paid out?\n\nTo depict something closer to economic reality at Berkshire than\nreported earnings, though, we employ the concept of \"look-through\"\nearnings. As we calculate these, they consist of: (1) the operating\nearnings reported in the previous section, plus; (2) our share of the\nretained operating earnings of major investees that, under GAAP\naccounting, are not reflected in our profits, less; (3) an allowance for\nthe tax that would be paid by Berkshire if these retained earnings of\ninvestees had instead been distributed to us. When tabulating \"operating\nearnings\" here, we exclude purchase-accounting adjustments as well as\ncapital gains and other major non-recurring items.\n\nThe following table sets forth our 1996 look-through earnings,\nthough I warn you that the figures can be no more than approximate, since\nthey are based on a number of judgment calls. (The dividends paid to us\nby these investees have been included in the operating earnings itemized\non page 12, mostly under \"Insurance Group: Net Investment Income.\")\n\nBerkshire's Share\nof Undistributed\nBerkshire's Approximate Operating Earnings\nBerkshire's Major Investees Ownership at Yearend(1) (in millions)(2)\n-------------------------------- ----------------------- ------------------\n\nAmerican Express Company........ 10.5% $ 132\nThe Coca-Cola Company........... 8.1% 180\nThe Walt Disney Company......... 3.6% 50\nFederal Home Loan Mortgage Corp. 8.4% 77\nThe Gillette Company............ 8.6% 73\nMc Donald's Corporation.......... 4.3% 38\nThe Washington Post Company..... 15.8% 27\nWells Fargo & Company........... 8.0% 84\n------\nBerkshire's share of undistributed earnings of major investees.. 661\nHypothetical tax on these undistributed investee earnings(3).... (93)\nReported operating earnings of Berkshire........................ 954\n------\nTotal look-through earnings of Berkshire..................$1,522\n======\n\n(1) Does not include shares allocable to minority interests\n(2) Calculated on average ownership for the year\n(3) The tax rate used is 14%, which is the rate Berkshire pays on\nthe dividends it receives",
+    "metadata": {
+      "letter_year": 1996,
+      "letter_date": "1997-02-28",
+      "source_file": "1996_cleaned.txt",
+      "section_title": "Sources of Reported Earnings",
+      "section_hierarchy": [
+        "Letter Body",
+        "Financial Reporting",
+        "Earnings"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [
+        "1996-S07-T2-002"
+      ],
+      "content_type": "financial_table",
+      "contextual_summary": "The letter introduces “look-through” earnings to capture Berkshire’s share of retained profits at major investees, net of a hypothetical dividend tax. Buffett lists major holdings, then discusses operating-business performance highlights and how Berkshire thinks about segment results.",
+      "has_table": true,
+      "table_data": [
+        {
+          "table_name": "1996-S07-T1-002 Table 1",
+          "summary": "Key figures presented in the letter for this discussion.",
+          "columns": [
+            "col_1",
+            "col_2"
+          ],
+          "rows": [
+            [
+              "American Express Company",
+              "10.5% $ 132"
+            ],
+            [
+              "The Coca-Cola Company",
+              "8.1% 180"
+            ],
+            [
+              "The Walt Disney Company",
+              "3.6% 50"
+            ],
+            [
+              "The Gillette Company",
+              "8.6% 73"
+            ],
+            [
+              "Mc Donald's Corporation",
+              "4.3% 38"
+            ],
+            [
+              "The Washington Post Company",
+              "15.8% 27"
+            ],
+            [
+              "Wells Fargo & Company",
+              "8.0% 84"
+            ]
+          ],
+          "row_count": 7
+        }
+      ],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "American Express",
+          "American Express Company",
+          "Borsheim's",
+          "Federal Home Loan Mortgage Corp.",
+          "Helzberg",
+          "IBM",
+          "Mc Donald's Corporation",
+          "The Coca-Cola Company",
+          "The Gillette Company",
+          "The Walt Disney Company",
+          "The Washington Post Company",
+          "Wells Fargo & Company",
+          "World Book"
+        ],
+        "people": [
+          "Jeff Comment"
+        ],
+        "metrics": [
+          "$1,522\n",
+          "$132\n",
+          "10.5%",
+          "14%",
+          "15.8%",
+          "1996",
+          "1997",
+          "3.6%",
+          "3646",
+          "4.3%",
+          "8.0%",
+          "8.1%",
+          "8.4%",
+          "8.6%",
+          "Operating Earnings",
+          "look-through earnings",
+          "operating earnings"
+        ]
+      },
+      "themes": [
+        "look-through earnings",
+        "investee retained earnings",
+        "segment performance"
+      ],
+      "buffett_concepts": [
+        "look-through earnings",
+        "economic reality"
+      ],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1996,
+        "comparison_years": [
+          1997
+        ],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "low",
+      "token_count": 693,
+      "char_count": 4544,
+      "source_span": {
+        "start_char": 38080,
+        "end_char_exclusive": 42624
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "merged_from": [],
+      "boundary_note": null,
+      "previous_summary": "Buffett frames Berkshire’s large 1996 tax payment as an appropriate consequence of prospering in the U.S., then breaks down reported earnings by operating businesses, investment gains, and accounting adjustments. He explains why Berkshire also reports results before purchase-accounting charges to better reflect business performance.",
+      "next_summary": "Buffett presents Berkshire’s major common-stock positions and argues that inactivity is often the most intelligent investing behavior. He likens concentrated winners to owning future earnings streams of standout performers and cautions against trimming simply because a holding has grown large."
+    }
+  },
+  {
+    "chunk_id": "1996-S08-T1-001",
+    "content": "Below we present our common stock investments. Those with a market\nvalue of more than $500 million are itemized.\n\n12/31/96\n\nShares Company Cost* Market\n\n----------- --------------------------------- -------- ---------\n(dollars in millions)\n49,456,900 American Express Company...........$1,392.7 $ 2,794.3\n200,000,000 The Coca-Cola Company.............. 1,298.9 10,525.0\n24,614,214 The Walt Disney Company............ 577.0 1,716.8\n64,246,000 Federal Home Loan Mortgage Corp.... 333.4 1,772.8\n48,000,000 The Gillette Company............... 600.0 3,732.0\n30,156,600 Mc Donald's Corporation............. 1,265.3 1,368.4\n1,727,765 The Washington Post Company........ 10.6 579.0\n7,291,418 Wells Fargo & Company.............. 497.8 1,966.9\nOthers............................. 1,934.5 3,295.4\n-------- ---------\nTotal Common Stocks................$7,910.2 $27,750.6\n======== =========\n\n* Represents tax-basis cost which, in aggregate, is $1.2 billion\nless than GAAP cost.\n\nOur portfolio shows little change: We continue to make more money\nwhen snoring than when active.\n\nInactivity strikes us as intelligent behavior. Neither we nor most\nbusiness managers would dream of feverishly trading highly-profitable\nsubsidiaries because a small move in the Federal Reserve's discount rate\nwas predicted or because some Wall Street pundit had reversed his views\non the market. Why, then, should we behave differently with our minority\npositions in wonderful businesses? The art of investing in public\ncompanies successfully is little different from the art of successfully\nacquiring subsidiaries. In each case you simply want to acquire, at a\nsensible price, a business with excellent economics and able, honest\nmanagement. Thereafter, you need only monitor whether these qualities\nare being preserved.\n\nWhen carried out capably, an investment strategy of that type will\noften result in its practitioner owning a few securities that will come\nto represent a very large portion of his portfolio. This investor would\nget a similar result if he followed a policy of purchasing an interest\nin, say, 20% of the future earnings of a number of outstanding college\nbasketball stars. A handful of these would go on to achieve NBA stardom,\nand the investor's take from them would soon dominate his royalty stream.\nTo suggest that this investor should sell off portions of his most\nsuccessful investments simply because they have come to dominate his\nportfolio is akin to suggesting that the Bulls trade Michael Jordan\nbecause he has become so important to the team.\n\nIn studying the investments we have made in both subsidiary\ncompanies and common stocks, you will see that we favor businesses and\nindustries unlikely to experience major change. The reason for that is\nsimple: Making either type of purchase, we are searching for operations\nthat we believe are virtually certain to possess enormous competitive\nstrength ten or twenty years from now. A fast-changing industry\nenvironment may offer the chance for huge wins, but it precludes the\ncertainty we seek.\n\nI should emphasize that, as citizens, Charlie and I welcome change:\nFresh ideas, new products, innovative processes and the like cause our\ncountry's standard of living to rise, and that's clearly good. As\ninvestors, however, our reaction to a fermenting industry is much like\nour attitude toward space exploration: We applaud the endeavor but\nprefer to skip the ride.\n\nObviously all businesses change to some extent. Today, See's is\ndifferent in many ways from what it was in 1972 when we bought it: It\noffers a different assortment of candy, employs different machinery and\nsells through different distribution channels. But the reasons why\npeople today buy boxed chocolates, and why they buy them from us rather\nthan from someone else, are virtually unchanged from what they were in\nthe 1920 s when the See family was building the business. Moreover, these\nmotivations are not likely to change over the next 20 years, or even 50.\n\nWe look for similar predictability in marketable securities. Take\nCoca-Cola: The zeal and imagination with which Coke products are sold\nhas burgeoned under Roberto Goizueta, who has done an absolutely\nincredible job in creating value for his shareholders. Aided by Don\nKeough and Doug Ivester, Roberto has rethought and improved every aspect\nof the company. But the fundamentals of the business - the qualities\nthat underlie Coke's competitive dominance and stunning economics - have\nremained constant through the years.\n\nI was recently studying the 1896 report of Coke (and you think that",
+    "metadata": {
+      "letter_year": 1996,
+      "letter_date": "1997-02-28",
+      "source_file": "1996_cleaned.txt",
+      "section_title": "Common Stock Investments",
+      "section_hierarchy": [
+        "Letter Body",
+        "Investments",
+        "Public Equities"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [
+        "1996-S08-T2-001"
+      ],
+      "content_type": "financial_table",
+      "contextual_summary": "Buffett presents Berkshire’s major common-stock positions and argues that inactivity is often the most intelligent investing behavior. He likens concentrated winners to owning future earnings streams of standout performers and cautions against trimming simply because a holding has grown large.",
+      "has_table": true,
+      "table_data": [
+        {
+          "table_name": "1996-S08-T1-001 Table 1",
+          "summary": "Key figures presented in the letter for this discussion.",
+          "columns": [
+            "col_1",
+            "col_2"
+          ],
+          "rows": [
+            [
+              "49,456,900 American Express Company",
+              "$1,392.7 $ 2,794.3"
+            ],
+            [
+              "200,000,000 The Coca-Cola Company",
+              "1,298.9 10,525.0"
+            ],
+            [
+              "24,614,214 The Walt Disney Company",
+              "577.0 1,716.8"
+            ],
+            [
+              "64,246,000 Federal Home Loan Mortgage Corp",
+              "333.4 1,772.8"
+            ],
+            [
+              "48,000,000 The Gillette Company",
+              "600.0 3,732.0"
+            ],
+            [
+              "30,156,600 Mc Donald's Corporation",
+              "1,265.3 1,368.4"
+            ],
+            [
+              "1,727,765 The Washington Post Company",
+              "10.6 579.0"
+            ],
+            [
+              "7,291,418 Wells Fargo & Company",
+              "497.8 1,966.9"
+            ],
+            [
+              "Others",
+              "1,934.5 3,295.4"
+            ]
+          ],
+          "row_count": 9
+        }
+      ],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "American Express",
+          "American Express Company",
+          "Federal Home Loan Mortgage Corp.",
+          "Mc Donald's Corporation",
+          "The Coca-Cola Company",
+          "The Gillette Company",
+          "The Walt Disney Company",
+          "The Washington Post Company",
+          "Wells Fargo & Company"
+        ],
+        "people": [
+          "Doug Ivester",
+          "Roberto Goizueta"
+        ],
+        "metrics": [
+          "$1,392.7",
+          "$1.2billion",
+          "$2,794.3\n",
+          "$27,750.6\n",
+          "$500million",
+          "$7,910.2",
+          "1896",
+          "1920",
+          "1972",
+          "20%"
+        ]
+      },
+      "themes": [
+        "equity portfolio",
+        "long-term holding",
+        "concentration"
+      ],
+      "buffett_concepts": [
+        "circle of competence",
+        "buy-and-hold",
+        "focus"
+      ],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1996,
+        "comparison_years": [
+          1920,
+          1972
+        ],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "medium",
+      "token_count": 728,
+      "char_count": 4560,
+      "source_span": {
+        "start_char": 42652,
+        "end_char_exclusive": 47212
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "merged_from": [],
+      "boundary_note": null,
+      "previous_summary": "The letter introduces “look-through” earnings to capture Berkshire’s share of retained profits at major investees, net of a hypothetical dividend tax. Buffett lists major holdings, then discusses operating-business performance highlights and how Berkshire thinks about segment results.",
+      "next_summary": "Berkshire favors businesses with predictable economics and durable competitive advantages, even if they grow more slowly than hot industries. Buffett explains why brands like Coca-Cola and Gillette can remain dominant for decades, while warning that many apparent leaders are impostors vulnerable to disruption."
+    }
+  },
+  {
+    "chunk_id": "1996-S08-T1-002",
+    "content": "you\nare behind in your reading!). At that time Coke, though it was\nalready the leading soft drink, had been around for only a decade. But\nits blueprint for the next 100 years was already drawn. Reporting sales\nof $148,000 that year, Asa Candler, the company's president, said: \"We\nhave not lagged in our efforts to go into all the world teaching that\nCoca-Cola is the article, par excellence, for the health and good feeling\nof all people.\" Though \"health\" may have been a reach, I love the fact\nthat Coke still relies on Candler's basic theme today - a century later.\nCandler went on to say, just as Roberto could now, \"No article of like\ncharacter has ever so firmly entrenched itself in public favor.\" Sales\nof syrup that year, incidentally, were 116,492 gallons versus about 3.2\nbillion in 1996.\n\nI can't resist one more Candler quote: \"Beginning this year about\nMarch 1 st . . . we employed ten traveling salesmen by means of which,\nwith systematic correspondence from the office, we covered almost the\nterritory of the Union.\" That's my kind of sales force.\n\nCompanies such as Coca-Cola and Gillette might well be labeled \"The\nInevitables.\" Forecasters may differ a bit in their predictions of\nexactly how much soft drink or shaving-equipment business these companies\nwill be doing in ten or twenty years. Nor is our talk of inevitability\nmeant to play down the vital work that these companies must continue to\ncarry out, in such areas as manufacturing, distribution, packaging and\nproduct innovation. In the end, however, no sensible observer - not even\nthese companies' most vigorous competitors, assuming they are assessing\nthe matter honestly - questions that Coke and Gillette will dominate\ntheir fields worldwide for an investment lifetime. Indeed, their\ndominance will probably strengthen. Both companies have significantly\nexpanded their already huge shares of market during the past ten years,\nand all signs point to their repeating that performance in the next\ndecade.\n\nObviously many companies in high-tech businesses or embryonic\nindustries will grow much faster in percentage terms than will The\nInevitables. But I would rather be certain of a good result than hopeful\nof a great one.\n\nOf course, Charlie and I can identify only a few Inevitables, even\nafter a lifetime of looking for them. Leadership alone provides no\ncertainties: Witness the shocks some years back at General Motors, IBM\nand Sears, all of which had enjoyed long periods of seeming\ninvincibility. Though some industries or lines of business exhibit\ncharacteristics that endow leaders with virtually insurmountable\nadvantages, and that tend to establish Survival of the Fattest as almost\na natural law, most do not. Thus, for every Inevitable, there are dozens\nof Impostors, companies now riding high but vulnerable to competitive\nattacks. Considering what it takes to be an Inevitable, Charlie and I\nrecognize that we will never be able to come up with a Nifty Fifty or\neven a Twinkling Twenty. To the Inevitables in our portfolio, therefore,\nwe add a few \"Highly Probables.\"\n\nYou can, of course, pay too much for even the best of businesses.\nThe overpayment risk surfaces periodically and, in our opinion, may now\nbe quite high for the purchasers of virtually all stocks, The Inevitables\nincluded. Investors making purchases in an overheated market need to\nrecognize that it may often take an extended period for the value of even\nan outstanding company to catch up with the price they paid.\n\nA far more serious problem occurs when the management of a great\ncompany gets sidetracked and neglects its wonderful base business while\npurchasing other businesses that are so-so or worse. When that happens,\nthe suffering of investors is often prolonged. Unfortunately, that is\nprecisely what transpired years ago at both Coke and Gillette. (Would\nyou believe that a few decades back they were growing shrimp at Coke and\nexploring for oil at Gillette?) Loss of focus is what most worries\nCharlie and me when we contemplate investing in businesses that in\ngeneral look outstanding. All too often, we've seen value stagnate in\nthe presence of hubris or of boredom that caused the attention of\nmanagers to wander. That's not going to happen again at Coke and\nGillette, however - not given their current and prospective managements.\n\n* * * * * * * * * * * *\n\nLet me add a few thoughts about your own investments. Most\ninvestors, both institutional and individual, will find that the best way\nto own common stocks is through an index fund that charges minimal fees.\nThose following this path are sure to beat the net results (after fees\nand expenses) delivered by the great majority of investment\nprofessionals.",
+    "metadata": {
+      "letter_year": 1996,
+      "letter_date": "1997-02-28",
+      "source_file": "1996_cleaned.txt",
+      "section_title": "Common Stock Investments",
+      "section_hierarchy": [
+        "Letter Body",
+        "Investments",
+        "Public Equities"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "narrative",
+      "contextual_summary": "Berkshire favors businesses with predictable economics and durable competitive advantages, even if they grow more slowly than hot industries. Buffett explains why brands like Coca-Cola and Gillette can remain dominant for decades, while warning that many apparent leaders are impostors vulnerable to disruption.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "IBM"
+        ],
+        "people": [
+          "Asa Candler"
+        ],
+        "metrics": [
+          "$148,000",
+          "1996"
+        ]
+      },
+      "themes": [
+        "durable moats",
+        "business predictability",
+        "brand dominance"
+      ],
+      "buffett_concepts": [
+        "economic moat",
+        "circle of competence"
+      ],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1996,
+        "comparison_years": [],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "high",
+      "token_count": 766,
+      "char_count": 4689,
+      "source_span": {
+        "start_char": 47214,
+        "end_char_exclusive": 51903
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "merged_from": [],
+      "boundary_note": null,
+      "previous_summary": "Buffett presents Berkshire’s major common-stock positions and argues that inactivity is often the most intelligent investing behavior. He likens concentrated winners to owning future earnings streams of standout performers and cautions against trimming simply because a holding has grown large.",
+      "next_summary": "Buffett recommends low-cost index funds for most investors and outlines a simple discipline for selecting individual stocks within a circle of competence. He stresses buying meaningful positions in understandable businesses at rational prices and holding them for years rather than minutes."
+    }
+  },
+  {
+    "chunk_id": "1996-S08-T1-003",
+    "content": "Should you choose, however, to construct your own portfolio, there\nare a few thoughts worth remembering. Intelligent investing is not\ncomplex, though that is far from saying that it is easy. What an\ninvestor needs is the ability to correctly evaluate selected businesses.\nNote that word \"selected\": You don't have to be an expert on every\ncompany, or even many. You only have to be able to evaluate companies\nwithin your circle of competence. The size of that circle is not very\nimportant; knowing its boundaries, however, is vital.\n\nTo invest successfully, you need not understand beta, efficient\nmarkets, modern portfolio theory, option pricing or emerging markets.\nYou may, in fact, be better off knowing nothing of these. That, of\ncourse, is not the prevailing view at most business schools, whose\nfinance curriculum tends to be dominated by such subjects. In our view,\nthough, investment students need only two well-taught courses - How to\nValue a Business, and How to Think About Market Prices.\n\nYour goal as an investor should simply be to purchase, at a rational\nprice, a part interest in an easily-understandable business whose\nearnings are virtually certain to be materially higher five, ten and\ntwenty years from now. Over time, you will find only a few companies\nthat meet these standards - so when you see one that qualifies, you\nshould buy a meaningful amount of stock. You must also resist the\ntemptation to stray from your guidelines: If you aren't willing to own a\nstock for ten years, don't even think about owning it for ten minutes.\nPut together a portfolio of companies whose aggregate earnings march\nupward over the years, and so also will the portfolio's market value.\n\nThough it's seldom recognized, this is the exact approach that has\nproduced gains for Berkshire shareholders: Our look-through earnings\nhave grown at a good clip over the years, and our stock price has risen\ncorrespondingly. Had those gains in earnings not materialized, there\nwould have been little increase in Berkshire's value.\n\nThe greatly enlarged earnings base we now enjoy will inevitably\ncause our future gains to lag those of the past. We will continue,\nhowever, to push in the directions we always have. We will try to build\nearnings by running our present businesses well - a job made easy because\nof the extraordinary talents of our operating managers - and by\npurchasing other businesses, in whole or in part, that are not likely to\nbe roiled by change and that possess important competitive advantages.",
+    "metadata": {
+      "letter_year": 1996,
+      "letter_date": "1997-02-28",
+      "source_file": "1996_cleaned.txt",
+      "section_title": "Common Stock Investments",
+      "section_hierarchy": [
+        "Letter Body",
+        "Investments",
+        "Public Equities"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "narrative",
+      "contextual_summary": "Buffett recommends low-cost index funds for most investors and outlines a simple discipline for selecting individual stocks within a circle of competence. He stresses buying meaningful positions in understandable businesses at rational prices and holding them for years rather than minutes.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": false,
+      "entities": {
+        "companies": [],
+        "people": [],
+        "metrics": [
+          "look-through earnings"
+        ]
+      },
+      "themes": [
+        "investing advice",
+        "index funds",
+        "circle of competence"
+      ],
+      "buffett_concepts": [
+        "circle of competence",
+        "long-term ownership",
+        "rational pricing"
+      ],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1996,
+        "comparison_years": [],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "high",
+      "token_count": 414,
+      "char_count": 2509,
+      "source_span": {
+        "start_char": 51905,
+        "end_char_exclusive": 54414
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "merged_from": [],
+      "boundary_note": null,
+      "previous_summary": "Berkshire favors businesses with predictable economics and durable competitive advantages, even if they grow more slowly than hot industries. Buffett explains why brands like Coca-Cola and Gillette can remain dominant for decades, while warning that many apparent leaders are impostors vulnerable to disruption.",
+      "next_summary": "Buffett recounts his flawed preferred-stock investment in USAir, explaining how deregulation and a rigid cost structure undermined the airline’s economics. He describes the write-down, the importance of penalty-dividend protections, and how improved operations later allowed partial recovery."
+    }
+  },
+  {
+    "chunk_id": "1996-S09-T1-001",
+    "content": "When Richard Branson, the wealthy owner of Virgin Atlantic Airways,\nwas asked how to become a millionaire, he had a quick answer: \"There's\nreally nothing to it. Start as a billionaire and then buy an airline.\"\nUnwilling to accept Branson's proposition on faith, your Chairman decided\nin 1989 to test it by investing $358 million in a 9.25% preferred stock of\nUSAir.\n\nI liked and admired Ed Colodny, the company's then-CEO, and I still\ndo. But my analysis of USAir's business was both superficial and wrong.\nI was so beguiled by the company's long history of profitable\noperations, and by the protection that ownership of a senior security\nseemingly offered me, that I overlooked the crucial point: USAir's\nrevenues would increasingly feel the effects of an unregulated, fiercelycompetitive market whereas its cost structure was a holdover from the\ndays when regulation protected profits. These costs, if left unchecked,\nportended disaster, however reassuring the airline's past record might\nbe. (If history supplied all of the answers, the Forbes 400 would\nconsist of librarians.)\n\nTo rationalize its costs, however, USAir needed major improvements\nin its labor contracts - and that's something most airlines have found it\nextraordinarily difficult to get, short of credibly threatening, or\nactually entering, bankruptcy. USAir was to be no exception.\nImmediately after we purchased our preferred stock, the imbalance between\nthe company's costs and revenues began to grow explosively. In the 19901994 period, USAir lost an aggregate of $2.4 billion, a performance that\ntotally wiped out the book equity of its common stock.\n\nFor much of this period, the company paid us our preferred\ndividends, but in 1994 payment was suspended. A bit later, with the\nsituation looking particularly gloomy, we wrote down our investment by\n75%, to $89.5 million. Thereafter, during much of 1995, I offered to\nsell our shares at 50% of face value. Fortunately, I was unsuccessful.\n\nMixed in with my many mistakes at USAir was one thing I got right:\nMaking our investment, we wrote into the preferred contract a somewhat\nunusual provision stipulating that \"penalty dividends\" - to run five\npercentage points over the prime rate - would be accrued on any\narrearages. This meant that when our 9.25% dividend was omitted for two\nyears, the unpaid amounts compounded at rates ranging between 13.25% and\n14%.\n\nFacing this penalty provision, USAir had every incentive to pay\narrearages just as promptly as it could. And in the second half of 1996,\nwhen USAir turned profitable, it indeed began to pay, giving us $47.9\nmillion. We owe Stephen Wolf, the company's CEO, a huge thank-you for\nextracting a performance from the airline that permitted this payment.\nEven so, USAir's performance has recently been helped significantly by an\nindustry tailwind that may be cyclical in nature. The company still has\nbasic cost problems that must be solved.\n\nIn any event, the prices of USAir's publicly-traded securities tell\nus that our preferred stock is now probably worth its par value of $358\nmillion, give or take a little. In addition, we have over the years\ncollected an aggregate of $240.5 million in dividends (including $30\nmillion received in 1997).\n\nEarly in 1996, before any accrued dividends had been paid, I tried\nonce more to unload our holdings - this time for about $335 million.\nYou're lucky: I again failed in my attempt to snatch defeat from the\njaws of victory.\n\nIn another context, a friend once asked me: \"If you're so rich, why\naren't you smart?\" After reviewing my sorry performance with USAir, you\nmay conclude he had a point.",
+    "metadata": {
+      "letter_year": 1996,
+      "letter_date": "1997-02-28",
+      "source_file": "1996_cleaned.txt",
+      "section_title": "USAir",
+      "section_hierarchy": [
+        "Letter Body",
+        "Investments",
+        "USAir Preferred"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "mistake_confession",
+      "contextual_summary": "Buffett recounts his flawed preferred-stock investment in USAir, explaining how deregulation and a rigid cost structure undermined the airline’s economics. He describes the write-down, the importance of penalty-dividend protections, and how improved operations later allowed partial recovery.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "USAir"
+        ],
+        "people": [
+          "Ed Colodny",
+          "Richard Branson",
+          "Stephen Wolf"
+        ],
+        "metrics": [
+          "$2.4billion",
+          "$240.5million",
+          "$30\nmillion",
+          "$335million",
+          "$358\nmillion",
+          "$358million",
+          "$47.9\nmillion",
+          "$89.5million",
+          "13.25%",
+          "14%",
+          "1989",
+          "1994",
+          "1995",
+          "1996",
+          "1997",
+          "50%",
+          "75%",
+          "9.25%"
+        ]
+      },
+      "themes": [
+        "investment mistake",
+        "airline economics",
+        "preferred stock terms"
+      ],
+      "buffett_concepts": [
+        "mistake admission",
+        "contract protections"
+      ],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1996,
+        "comparison_years": [
+          1989,
+          1994,
+          1995,
+          1997
+        ],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "medium",
+      "token_count": 596,
+      "char_count": 3619,
+      "source_span": {
+        "start_char": 54423,
+        "end_char_exclusive": 58042
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "merged_from": [],
+      "boundary_note": null,
+      "previous_summary": "Buffett recommends low-cost index funds for most investors and outlines a simple discipline for selecting individual stocks within a circle of competence. He stresses buying meaningful positions in understandable businesses at rational prices and holding them for years rather than minutes.",
+      "next_summary": "Berkshire details the 1996 Class B share offering designed to prevent fee-heavy “Berkshire look-alike” trusts from exploiting retail investors and inflating the stock price. Buffett explains how low commissions and an open-ended offering discouraged short-term flipping and aligned new shareholders with long horizons."
+    }
+  },
+  {
+    "chunk_id": "1996-S10-T1-001",
+    "content": "We wrote four checks to Salomon Brothers last year and in each case\nwere delighted with the work for which we were paying. I've already\ndescribed one transaction: the Flight Safety purchase in which Salomon was\nthe initiating investment banker. In a second deal, the firm placed a\nsmall debt offering for our finance subsidiary.\n\nAdditionally, we made two good-sized offerings through Salomon, both\nwith interesting aspects. The first was our sale in May of 517,500\nshares of Class B Common, which generated net proceeds of $565 million.\nAs I have told you before, we made this sale in response to the\nthreatened creation of unit trusts that would have marketed themselves as\nBerkshire look-alikes. In the process, they would have used our past,\nand definitely nonrepeatable, record to entice naive small investors and\nwould have charged these innocents high fees and commissions.\n\nI think it would have been quite easy for such trusts to have sold\nmany billions of dollars worth of units, and I also believe that early\nmarketing successes by these trusts would have led to the formation of\nothers. (In the securities business, whatever can be sold will be sold.)\nThe trusts would have meanwhile indiscriminately poured the proceeds of\ntheir offerings into a supply of Berkshire shares that is fixed and\nlimited. The likely result: a speculative bubble in our stock. For at\nleast a time, the price jump would have been self-validating, in that it\nwould have pulled new waves of naive and impressionable investors into\nthe trusts and set off still more buying of Berkshire shares.\n\nSome Berkshire shareholders choosing to exit might have found that\noutcome ideal, since they could have profited at the expense of the\nbuyers entering with false hopes. Continuing shareholders, however,\nwould have suffered once reality set in, for at that point Berkshire\nwould have been burdened with both hundreds of thousands of unhappy,\nindirect owners (trustholders, that is) and a stained reputation.\n\nOur issuance of the B shares not only arrested the sale of the\ntrusts, but provided a low-cost way for people to invest in Berkshire if\nthey still wished to after hearing the warnings we issued. To blunt the\nenthusiasm that brokers normally have for pushing new issues - because\nthat's where the money is - we arranged for our offering to carry a\ncommission of only 1.5%, the lowest payoff that we have ever seen in a\ncommon stock underwriting. Additionally, we made the amount of the\noffering open-ended, thereby repelling the typical IPO buyer who looks\nfor a short-term price spurt arising from a combination of hype and\nscarcity.\n\nOverall, we tried to make sure that the B stock would be purchased\nonly by investors with a long-term perspective. Those efforts were\ngenerally successful: Trading volume in the B shares immediately\nfollowing the offering - a rough index of \"flipping\" - was far below the\nnorm for a new issue. In the end we added about 40,000 shareholders,\nmost of whom we believe both understand what they own and share our time\nhorizons.",
+    "metadata": {
+      "letter_year": 1996,
+      "letter_date": "1997-02-28",
+      "source_file": "1996_cleaned.txt",
+      "section_title": "Financings",
+      "section_hierarchy": [
+        "Letter Body",
+        "Capital Markets",
+        "Financings"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "narrative",
+      "contextual_summary": "Berkshire details the 1996 Class B share offering designed to prevent fee-heavy “Berkshire look-alike” trusts from exploiting retail investors and inflating the stock price. Buffett explains how low commissions and an open-ended offering discouraged short-term flipping and aligned new shareholders with long horizons.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "Salomon",
+          "Salomon Brothers"
+        ],
+        "people": [],
+        "metrics": [
+          "$565million",
+          "1.5%"
+        ]
+      },
+      "themes": [
+        "Class B shares",
+        "capital raising",
+        "shareholder protection"
+      ],
+      "buffett_concepts": [
+        "owner communication",
+        "market structure"
+      ],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1996,
+        "comparison_years": [],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "medium",
+      "token_count": 509,
+      "char_count": 3047,
+      "source_span": {
+        "start_char": 58056,
+        "end_char_exclusive": 61103
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "merged_from": [],
+      "boundary_note": null,
+      "previous_summary": "Buffett recounts his flawed preferred-stock investment in USAir, explaining how deregulation and a rigid cost structure undermined the airline’s economics. He describes the write-down, the importance of penalty-dividend protections, and how improved operations later allowed partial recovery.",
+      "next_summary": "Buffett describes an exchangeable note issue tied to Berkshire’s Salomon holdings and explains how the structure lowered borrowing costs if investors exchanged into stock. He argues that investment-banking fees are worthwhile when performance and shareholder objectives are well served."
+    }
+  },
+  {
+    "chunk_id": "1996-S10-T1-002",
+    "content": "Salomon could not have performed better in the handling of this\nunusual transaction. Its investment bankers understood perfectly what we\nwere trying to achieve and tailored every aspect of the offering to meet\nthese objectives. The firm would have made far more money - perhaps ten\ntimes as much - if our offering had been standard in its make-up. But\nthe investment bankers involved made no attempt to tweak the specifics in\nthat direction. Instead they came up with ideas that were counter to\nSalomon's financial interest but that made it much more certain\nBerkshire's goals would be reached. Terry Fitzgerald captained this\neffort, and we thank him for the job that he did.\n\nGiven that background, it won't surprise you to learn that we again\nwent to Terry when we decided late in the year to sell an issue of\nBerkshire notes that can be exchanged for a portion of the Salomon shares\nthat we hold. In this instance, once again, Salomon did an absolutely\nfirst-class job, selling $500 million principal amount of five-year notes\nfor $447.1 million. Each $1,000 note is exchangeable into 17.65 shares\nand is callable in three years at accreted value. Counting the original\nissue discount and a 1% coupon, the securities will provide a yield of 3%\nto maturity for holders who do not exchange them for Salomon stock. But\nit seems quite likely that the notes will be exchanged before their\nmaturity. If that happens, our interest cost will be about 1.1% for the\nperiod prior to exchange.\n\nIn recent years, it has been written that Charlie and I are unhappy\nabout all investment-banking fees. That's dead wrong. We have paid a\ngreat many fees over the last 30 years - beginning with the check we\nwrote to Charlie Heider upon our purchase of National Indemnity in 1967 -\nand we are delighted to make payments that are commensurate with\nperformance. In the case of the 1996 transactions at Salomon Brothers,\nwe more than got our money's worth.",
+    "metadata": {
+      "letter_year": 1996,
+      "letter_date": "1997-02-28",
+      "source_file": "1996_cleaned.txt",
+      "section_title": "Financings",
+      "section_hierarchy": [
+        "Letter Body",
+        "Capital Markets",
+        "Financings"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "mistake_confession",
+      "contextual_summary": "Buffett describes an exchangeable note issue tied to Berkshire’s Salomon holdings and explains how the structure lowered borrowing costs if investors exchanged into stock. He argues that investment-banking fees are worthwhile when performance and shareholder objectives are well served.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "National Indemnity",
+          "Salomon",
+          "Salomon Brothers"
+        ],
+        "people": [
+          "Terry Fitzgerald"
+        ],
+        "metrics": [
+          "$1,000",
+          "$447.1million",
+          "$500million",
+          "1%",
+          "1.1%",
+          "1967",
+          "1996",
+          "3%"
+        ]
+      },
+      "themes": [
+        "exchangeable notes",
+        "financing structure",
+        "investment banking fees"
+      ],
+      "buffett_concepts": [
+        "capital markets",
+        "cost of capital"
+      ],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1996,
+        "comparison_years": [
+          1967
+        ],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "medium",
+      "abstraction_level": "medium",
+      "token_count": 335,
+      "char_count": 1938,
+      "source_span": {
+        "start_char": 61105,
+        "end_char_exclusive": 63043
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "merged_from": [],
+      "boundary_note": null,
+      "previous_summary": "Berkshire details the 1996 Class B share offering designed to prevent fee-heavy “Berkshire look-alike” trusts from exploiting retail investors and inflating the stock price. Buffett explains how low commissions and an open-ended offering discouraged short-term flipping and aligned new shareholders with long horizons.",
+      "next_summary": "Berkshire plans to publish reports online on set Saturdays and considers reducing mailed quarterlies to cut costs and improve delivery consistency. Buffett also summarizes the shareholder-designated giving program and clarifies eligibility and deadlines for participation."
+    }
+  },
+  {
+    "chunk_id": "1996-S11-T1-001",
+    "content": "Though it was a close decision, Charlie and I have decided to enter\nthe 20 th Century. Accordingly, we are going to put future quarterly and\nannual reports of Berkshire on the Internet, where they can be accessed\nvia http://www. berkshirehathaway. com. We will always \"post\" these\nreports on a Saturday so that anyone interested will have ample time to\ndigest the information before trading begins. Our publishing schedule\nfor the next 12 months is May 17,1997, August 16,1997, November 15,1997, and March 14,1998. We will also post any press releases that we\nissue.\n\nAt some point, we may stop mailing our quarterly reports and simply\npost these on the Internet. This move would eliminate significant costs.\nAlso, we have a large number of \"street name\" holders and have found\nthat the distribution of our quarterlies to them is highly erratic: Some\nholders receive their mailings weeks later than others.\n\nThe drawback to Internet-only distribution is that many of our\nshareholders lack computers. Most of these holders, however, could\neasily obtain printouts at work or through friends. Please let me know\nif you prefer that we continue mailing quarterlies. We want your input -\nstarting with whether you even read these reports - and at a minimum will\nmake no change in 1997. Also, we will definitely keep delivering the\nannual report in its present form in addition to publishing it on the\nInternet.\n\n* * * * * * * * * * * *\n\nAbout 97.2% of all eligible shares participated in Berkshire's 1996\nshareholder-designated contributions program. Contributions made were\n$13.3 million, and 3,910 charities were recipients. A full description\nof the shareholder-designated contributions program appears on pages 4849.\n\nEvery year a few shareholders miss out on the program because they\ndon't have their shares registered in their own names on the prescribed\nrecord date or because they fail to get the designation form back to us\nwithin the 60-day period allowed. This is distressing to Charlie and me.\nBut if replies are received late, we have to reject them because we\ncan't make exceptions for some shareholders while refusing to make them\nfor others.\n\nTo participate in future programs, you must own Class A shares that\nare registered in the name of the actual owner, not the nominee name of a\nbroker, bank or depository. Shares not so registered on August 31,1997,\nwill be ineligible for the 1997 program. When you get the form, return\nit promptly so that it does not get put aside or forgotten.",
+    "metadata": {
+      "letter_year": 1996,
+      "letter_date": "1997-02-28",
+      "source_file": "1996_cleaned.txt",
+      "section_title": "Miscellaneous",
+      "section_hierarchy": [
+        "Letter Body",
+        "Company Updates",
+        "Miscellaneous"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "narrative",
+      "contextual_summary": "Berkshire plans to publish reports online on set Saturdays and considers reducing mailed quarterlies to cut costs and improve delivery consistency. Buffett also summarizes the shareholder-designated giving program and clarifies eligibility and deadlines for participation.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [],
+        "people": [],
+        "metrics": [
+          "$13.3million",
+          "1996",
+          "1997",
+          "1998",
+          "4849",
+          "97.2%"
+        ]
+      },
+      "themes": [
+        "internet reporting",
+        "cost reduction",
+        "charitable giving program"
+      ],
+      "buffett_concepts": [
+        "shareholder communication",
+        "administrative efficiency"
+      ],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1996,
+        "comparison_years": [
+          1997,
+          1998
+        ],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "low",
+      "abstraction_level": "medium",
+      "token_count": 415,
+      "char_count": 2497,
+      "source_span": {
+        "start_char": 63060,
+        "end_char_exclusive": 65557
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "merged_from": [],
+      "boundary_note": null,
+      "previous_summary": "Buffett describes an exchangeable note issue tied to Berkshire’s Salomon holdings and explains how the structure lowered borrowing costs if investors exchanged into stock. He argues that investment-banking fees are worthwhile when performance and shareholder objectives are well served.",
+      "next_summary": "Buffett invites shareholders to the May 5 annual meeting in Omaha, describing the expanded venue, schedule, and product exhibits from Berkshire subsidiaries. He provides practical guidance on travel, GEICO policy checks, and key destinations like Nebraska Furniture Mart and Borsheim’s."
+    }
+  },
+  {
+    "chunk_id": "1996-S12-T1-001",
+    "content": "Our capitalist's version of Woodstock -the Berkshire Annual Meetingwill be held on Monday, May 5. Charlie and I thoroughly enjoy this\nevent, and we hope that you come. We will start at 9: 30 a. m., break for\nabout 15 minutes at noon (food will be available - but at a price, of\ncourse), and then continue talking to hard-core attendees until at least\n3: 30. Last year we had representatives from all 50 states, as well as\nAustralia, Greece, Israel, Portugal, Singapore, Sweden, Switzerland, and\nthe United Kingdom. The annual meeting is a time for owners to get their\nbusiness-related questions answered, and therefore Charlie and I will\nstay on stage until we start getting punchy. (When that happens, I hope\nyou notice a change.)\n\nLast year we had attendance of 5,000 and strained the capacity of\nthe Holiday Convention Centre, even though we spread out over three\nrooms. This year, our new Class B shares have caused a doubling of our\nstockholder count, and we are therefore moving the meeting to the\nAksarben Coliseum, which holds about 10,000 and also has a huge parking\nlot. The doors will open for the meeting at 7: 00 a. m., and at 8: 30 we\nwill - upon popular demand - show a new Berkshire movie produced by Marc\nHamburg, our CFO. (In this company, no one gets by with doing only a\nsingle job.)\n\nOvercoming our legendary repugnance for activities even faintly\ncommercial, we will also have an abundant array of Berkshire products\nfor\nsale\nin the halls outside the meeting room. Last year we broke all\nrecords, selling 1,270 pounds of See's candy, 1,143 pairs of Dexter\nshoes, $29,000 of World Books and related publications, and 700 sets of\nknives manufactured by our Quikut subsidiary. Additionally, many\nshareholders made inquiries about GEICO auto policies. If you would like\nto investigate possible insurance savings, bring your present policy to\nthe meeting. We estimate that about 40% of our shareholders can save\nmoney by insuring with us. (We'd like to say 100%, but the insurance\nbusiness doesn't work that way: Because insurers differ in their\nunderwriting judgments, some of our shareholders are currently paying\nrates that are lower than GEICO's.)\n\nAn attachment to the proxy material enclosed with this report\nexplains how you can obtain the card you will need for admission to the\nmeeting. We expect a large crowd, so get both plane and hotel\nreservations promptly. American Express (800-799-6634) will be happy to\nhelp you with arrangements. As usual, we will have buses servicing the\nlarger hotels to take you to and from the meeting, and also to take you\nto Nebraska Furniture Mart, Borsheim's and the airport after it is over.\n\nNFM's main store, located on a 75-acre site about a mile from\nAksarben, is open from 10 a. m. to 9 p. m. on weekdays, 10 a. m. to 6 p. m.\non Saturdays, and noon to 6 p. m. on Sundays. Come by and say hello to\n\"Mrs. B\" (Rose Blumkin). She's 103 now and sometimes operates with an\noxygen mask that is attached to a tank on her cart. But if you try to\nkeep pace with her, it will be you who needs oxygen. NFM did about $265\nmillion of business last year - a record for a single-location home\nfurnishings operation - and you'll see why once you check out its\nmerchandise and prices.\n\nBorsheim's normally is closed on Sunday but will be open for\nshareholders from 10 a. m. to 6 p. m. on May 4 th. Last year on\n\"Shareholder Sunday\" we broke every Borsheim's record in terms of\ntickets, dollar volume and, no doubt, attendees per square inch. Because\nwe expect a capacity crowd this year as well, all shareholders attending\non Sunday must bring their admission cards. Shareholders who prefer a\nsomewhat less frenzied experience will get the same special treatment on\nSaturday, when the store is open from 10 a. m. to 5: 30 p. m., or on Monday\nbetween 10 a. m. and 8 p. m. Come by at any time this year and let Susan\nJacques, Borsheim's CEO, and her skilled associates perform a painless\nwalletectomy on you.",
+    "metadata": {
+      "letter_year": 1996,
+      "letter_date": "1997-02-28",
+      "source_file": "1996_cleaned.txt",
+      "section_title": "The Annual Meeting",
+      "section_hierarchy": [
+        "Letter Body",
+        "Shareholder Matters",
+        "Annual Meeting"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "narrative",
+      "contextual_summary": "Buffett invites shareholders to the May 5 annual meeting in Omaha, describing the expanded venue, schedule, and product exhibits from Berkshire subsidiaries. He provides practical guidance on travel, GEICO policy checks, and key destinations like Nebraska Furniture Mart and Borsheim’s.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "Aksarben Coliseum",
+          "American Express",
+          "Borsheim's",
+          "GEICO",
+          "Holiday Convention Centre",
+          "Nebraska Furniture Mart",
+          "World Book"
+        ],
+        "people": [
+          "Rose Blumkin"
+        ],
+        "metrics": [
+          "$265\nmillion",
+          "$29,000",
+          "100%",
+          "40%",
+          "6634"
+        ]
+      },
+      "themes": [
+        "annual meeting logistics",
+        "shareholder engagement",
+        "subsidiary showcases"
+      ],
+      "buffett_concepts": [
+        "shareholder culture"
+      ],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1996,
+        "comparison_years": [],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "low",
+      "abstraction_level": "low",
+      "token_count": 703,
+      "char_count": 3955,
+      "source_span": {
+        "start_char": 65579,
+        "end_char_exclusive": 69534
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "merged_from": [],
+      "boundary_note": null,
+      "previous_summary": "Berkshire plans to publish reports online on set Saturdays and considers reducing mailed quarterlies to cut costs and improve delivery consistency. Buffett also summarizes the shareholder-designated giving program and clarifies eligibility and deadlines for participation.",
+      "next_summary": "The letter lists additional weekend events, ticketing details, and restaurant and transportation arrangements to help shareholders plan their visit. Buffett closes with personal notes about traditions such as Gorat’s dinner and throwing the ceremonial first pitch."
+    }
+  },
+  {
+    "chunk_id": "1996-S12-T1-002",
+    "content": "My favorite steakhouse, Gorat's, was sold out last year on the\nweekend of the annual meeting, even though it added an additional seating\nat 4 p. m. on Sunday. You can make reservations beginning on April 1 st\n\n(but not earlier)\nby calling 402-551-3733. I will be at Gorat's on\nSunday after Borsheim's, having my usual rare T-bone and double order of\nhashbrowns. I can also recommend - this is the standard fare when Debbie\nBosanek, my invaluable assistant, and I go to lunch - the hot roast beef\nsandwich with mashed potatoes and gravy. Mention Debbie's name and you\nwill be given an extra boat of gravy.\n\nThe Omaha Royals and Indianapolis Indians will play baseball on\nSaturday evening, May 3 rd, at Rosenblatt Stadium. Pitching in my normal\nrotation - one throw a year - I will start.\n\nThough Rosenblatt is normal in appearance, it is anything but: The\nfield sits on a unique geological structure that occasionally emits short\ngravitational waves causing even the most smoothly-delivered pitch to\nsink violently. I have been the victim of this weird phenomenon several\ntimes in the past but am hoping for benign conditions this year. There\nwill be lots of opportunities for photos at the ball game, but you will\nneed incredibly fast reflexes to snap my fast ball en route to the plate.\n\nOur proxy statement includes information about obtaining tickets to\nthe game. We will also provide an information packet listing restaurants\nthat will be open on Sunday night and describing various things that you\ncan do in Omaha on the weekend. The entire gang at Berkshire looks\nforward to seeing you.\n\nWarren E. Buffett\nFebruary 28,1997 Chairman of the Board",
+    "metadata": {
+      "letter_year": 1996,
+      "letter_date": "1997-02-28",
+      "source_file": "1996_cleaned.txt",
+      "section_title": "The Annual Meeting",
+      "section_hierarchy": [
+        "Letter Body",
+        "Shareholder Matters",
+        "Annual Meeting"
+      ],
+      "chunk_tier": 1,
+      "parent_chunk_id": null,
+      "child_chunk_ids": [],
+      "content_type": "narrative",
+      "contextual_summary": "The letter lists additional weekend events, ticketing details, and restaurant and transportation arrangements to help shareholders plan their visit. Buffett closes with personal notes about traditions such as Gorat’s dinner and throwing the ceremonial first pitch.",
+      "has_table": false,
+      "table_data": [],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "Borsheim's",
+          "Gorat's"
+        ],
+        "people": [
+          "Warren E. Buffett"
+        ],
+        "metrics": [
+          "1997",
+          "3733"
+        ]
+      },
+      "themes": [
+        "annual meeting events",
+        "travel planning",
+        "shareholder traditions"
+      ],
+      "buffett_concepts": [
+        "shareholder culture"
+      ],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1996,
+        "comparison_years": [
+          1997
+        ],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "low",
+      "abstraction_level": "low",
+      "token_count": 281,
+      "char_count": 1650,
+      "source_span": {
+        "start_char": 69536,
+        "end_char_exclusive": 71186
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "merged_from": [],
+      "boundary_note": null,
+      "previous_summary": "Buffett invites shareholders to the May 5 annual meeting in Omaha, describing the expanded venue, schedule, and product exhibits from Berkshire subsidiaries. He provides practical guidance on travel, GEICO policy checks, and key destinations like Nebraska Furniture Mart and Borsheim’s.",
+      "next_summary": "A table tracks Berkshire’s per-share book value from 1965 to 1996 and shows the long-term compounding that Buffett uses as a scorecard. It supports his argument that intrinsic value has risen substantially even when market prices have fluctuated."
+    }
+  },
+  {
+    "chunk_id": "1996-S01-T2-001",
+    "content": "Last year, for the first time, we supplied you with a table that\nCharlie and I believe will help anyone trying to estimate Berkshire's\nintrinsic value. In the updated version of that table, which follows, we\ntrace two key indices of value. The first column lists our per-share\nownership of investments (including cash and equivalents) and the second\ncolumn shows our per-share earnings from Berkshire's operating businesses\nbefore taxes and purchase-accounting adjustments but after all interest\nand corporate overhead expenses. The operating-earnings column excludes\nall dividends, interest and capital gains that we realized from the\ninvestments presented in the first column. In effect, the two columns\nshow what Berkshire would have reported had it been broken into two parts.\n\n1965................................$ 4 $ 4.08\n1975................................ 159 (6.48)\n1985................................ 2,443 18.86\n1995................................ 22,088 258.20\n1996................................ 28,500 421.39\n\nAnnual Growth Rate, 1965-95......... 33.4% 14.7%\nOne-Year Growth Rate, 1995-96 ...... 29.0% 63.2%",
+    "metadata": {
+      "letter_year": 1996,
+      "letter_date": "1997-02-28",
+      "source_file": "1996_cleaned.txt",
+      "section_title": "Opening",
+      "section_hierarchy": [
+        "Letter Body",
+        "Introduction",
+        "Overview"
+      ],
+      "chunk_tier": 2,
+      "parent_chunk_id": "1996-S01-T1-001",
+      "child_chunk_ids": [],
+      "content_type": "financial_table",
+      "contextual_summary": "A table tracks Berkshire’s per-share book value from 1965 to 1996 and shows the long-term compounding that Buffett uses as a scorecard. It supports his argument that intrinsic value has risen substantially even when market prices have fluctuated.",
+      "has_table": true,
+      "table_data": [
+        {
+          "table_name": "Opening Table 1",
+          "summary": "A table tracks Berkshire’s per-share book value from 1965 to 1996 and shows the long-term compounding that Buffett uses as a scorecard.",
+          "columns": [
+            "col_1",
+            "col_2"
+          ],
+          "rows": [
+            [
+              "1965",
+              "$ 4 $ 4.08"
+            ],
+            [
+              "1975",
+              "159 (6.48)"
+            ],
+            [
+              "1985",
+              "2,443 18.86"
+            ],
+            [
+              "1995",
+              "22,088 258.20"
+            ],
+            [
+              "1996",
+              "28,500 421.39"
+            ]
+          ],
+          "row_count": 5
+        }
+      ],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [],
+        "people": [],
+        "metrics": [
+          "$4",
+          "$4.08\n",
+          "14.7%",
+          "1965",
+          "1975",
+          "1985",
+          "1995",
+          "1996",
+          "29.0%",
+          "33.4%",
+          "63.2%",
+          "intrinsic value"
+        ]
+      },
+      "themes": [
+        "book value history",
+        "compounding"
+      ],
+      "buffett_concepts": [
+        "intrinsic value",
+        "performance measurement"
+      ],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1996,
+        "comparison_years": [
+          1965,
+          1975,
+          1985,
+          1995
+        ],
+        "future_outlook": true
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "low",
+      "token_count": 158,
+      "char_count": 1126,
+      "source_span": {
+        "start_char": 0,
+        "end_char_exclusive": 0
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "merged_from": [],
+      "boundary_note": null,
+      "previous_summary": "The letter lists additional weekend events, ticketing details, and restaurant and transportation arrangements to help shareholders plan their visit. Buffett closes with personal notes about traditions such as Gorat’s dinner and throwing the ceremonial first pitch.",
+      "next_summary": "A multi-year table shows Berkshire’s growing insurance float and underwriting results, highlighting periods when float carried a negative cost. Buffett uses the figures to argue that disciplined underwriting can create a large, low-cost funding source for investments."
+    }
+  },
+  {
+    "chunk_id": "1996-S04-T2-001",
+    "content": "(1) (2) Yearend Yield\nUnderwriting Approximat on Long-Term\nLoss Average Float Cost of Funds Govt. Bonds\n------------ ------------- ---------------- -------------\n(In $ Millions) (Ratio of 1 to 2)\n\n1967.......... profit 17.3 less than zero 5.50%\n1968.......... profit 19.9 less than zero 5.90%\n1969.......... profit 23.4 less than zero 6.79%\n1970.......... 0.37 32.4 1.14% 6.25%\n1971.......... profit 52.5 less than zero 5.81%\n1972.......... profit 69.5 less than zero 5.82%\n1973.......... profit 73.3 less than zero 7.27%\n1974.......... 7.36 79.1 9.30% 8.13%\n1975.......... 11.35 87.6 12.96% 8.03%\n1976.......... profit 102.6 less than zero 7.30%\n1977.......... profit 139.0 less than zero 7.97%\n1978.......... profit 190.4 less than zero 8.93%\n1979.......... profit 227.3 less than zero 10.08%\n1980.......... profit 237.0 less than zero 11.94%\n1981.......... profit 228.4 less than zero 13.61%\n1982.......... 21.56 220.6 9.77% 10.64%\n1983.......... 33.87 231.3 14.64% 11.84%\n1984.......... 48.06 253.2 18.98% 11.58%\n1985.......... 44.23 390.2 11.34% 9.34%\n1986.......... 55.84 797.5 7.00% 7.60%\n1987.......... 55.43 1,266.7 4.38% 8.95%\n1988.......... 11.08 1,497.7 0.74% 9.00%\n1989.......... 24.40 1,541.3 1.58% 7.97%\n1990.......... 26.65 1,637.3 1.63% 8.24%\n1991.......... 119.59 1,895.0 6.31% 7.40%\n1992.......... 108.96 2,290.4 4.76% 7.39%\n1993.......... profit 2,624.7 less than zero 6.35%\n1994.......... profit 3,056.6 less than zero 7.88%\n1995.......... profit 3,607.2 less than zero 5.95%\n1996.......... profit 6,702.0 less than zero 6.64%",
+    "metadata": {
+      "letter_year": 1996,
+      "letter_date": "1997-02-28",
+      "source_file": "1996_cleaned.txt",
+      "section_title": "Insurance Operations - Overview",
+      "section_hierarchy": [
+        "Letter Body",
+        "Business Segments",
+        "Insurance"
+      ],
+      "chunk_tier": 2,
+      "parent_chunk_id": "1996-S04-T1-001",
+      "child_chunk_ids": [],
+      "content_type": "financial_table",
+      "contextual_summary": "A multi-year table shows Berkshire’s growing insurance float and underwriting results, highlighting periods when float carried a negative cost. Buffett uses the figures to argue that disciplined underwriting can create a large, low-cost funding source for investments.",
+      "has_table": true,
+      "table_data": [
+        {
+          "table_name": "Insurance Operations - Overview Table 1",
+          "summary": "A multi-year table shows Berkshire’s growing insurance float and underwriting results, highlighting periods when float carried a negative cost.",
+          "columns": [
+            "col_1",
+            "col_2"
+          ],
+          "rows": [
+            [
+              "1967",
+              "profit 17.3 less than zero 5.50%"
+            ],
+            [
+              "1968",
+              "profit 19.9 less than zero 5.90%"
+            ],
+            [
+              "1969",
+              "profit 23.4 less than zero 6.79%"
+            ],
+            [
+              "1970",
+              "0.37 32.4 1.14% 6.25%"
+            ],
+            [
+              "1971",
+              "profit 52.5 less than zero 5.81%"
+            ],
+            [
+              "1972",
+              "profit 69.5 less than zero 5.82%"
+            ],
+            [
+              "1973",
+              "profit 73.3 less than zero 7.27%"
+            ],
+            [
+              "1974",
+              "7.36 79.1 9.30% 8.13%"
+            ],
+            [
+              "1975",
+              "11.35 87.6 12.96% 8.03%"
+            ],
+            [
+              "1976",
+              "profit 102.6 less than zero 7.30%"
+            ],
+            [
+              "1977",
+              "profit 139.0 less than zero 7.97%"
+            ],
+            [
+              "1978",
+              "profit 190.4 less than zero 8.93%"
+            ],
+            [
+              "1979",
+              "profit 227.3 less than zero 10.08%"
+            ],
+            [
+              "1980",
+              "profit 237.0 less than zero 11.94%"
+            ],
+            [
+              "1981",
+              "profit 228.4 less than zero 13.61%"
+            ],
+            [
+              "1982",
+              "21.56 220.6 9.77% 10.64%"
+            ],
+            [
+              "1983",
+              "33.87 231.3 14.64% 11.84%"
+            ],
+            [
+              "1984",
+              "48.06 253.2 18.98% 11.58%"
+            ],
+            [
+              "1985",
+              "44.23 390.2 11.34% 9.34%"
+            ],
+            [
+              "1986",
+              "55.84 797.5 7.00% 7.60%"
+            ],
+            [
+              "1987",
+              "55.43 1,266.7 4.38% 8.95%"
+            ],
+            [
+              "1988",
+              "11.08 1,497.7 0.74% 9.00%"
+            ],
+            [
+              "1989",
+              "24.40 1,541.3 1.58% 7.97%"
+            ],
+            [
+              "1990",
+              "26.65 1,637.3 1.63% 8.24%"
+            ],
+            [
+              "1991",
+              "119.59 1,895.0 6.31% 7.40%"
+            ],
+            [
+              "1992",
+              "108.96 2,290.4 4.76% 7.39%"
+            ],
+            [
+              "1993",
+              "profit 2,624.7 less than zero 6.35%"
+            ],
+            [
+              "1994",
+              "profit 3,056.6 less than zero 7.88%"
+            ],
+            [
+              "1995",
+              "profit 3,607.2 less than zero 5.95%"
+            ],
+            [
+              "1996",
+              "profit 6,702.0 less than zero 6.64%"
+            ]
+          ],
+          "row_count": 30
+        }
+      ],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [],
+        "people": [],
+        "metrics": [
+          "0.74%",
+          "1.14%",
+          "1.58%",
+          "1.63%",
+          "10.08%",
+          "10.64%",
+          "11.34%",
+          "11.58%",
+          "11.84%",
+          "11.94%",
+          "12.96%",
+          "13.61%",
+          "14.64%",
+          "18.98%",
+          "1967",
+          "1968",
+          "1969",
+          "1970",
+          "1971",
+          "1972",
+          "1973",
+          "1974",
+          "1975",
+          "1976",
+          "1977",
+          "1978",
+          "1979",
+          "1980",
+          "1981",
+          "1982",
+          "1983",
+          "1984",
+          "1985",
+          "1986",
+          "1987",
+          "1988",
+          "1989",
+          "1990",
+          "1991",
+          "1992",
+          "1993",
+          "1994",
+          "1995",
+          "1996",
+          "4.38%",
+          "4.76%",
+          "5.50%",
+          "5.81%",
+          "5.82%",
+          "5.90%",
+          "5.95%",
+          "6.25%",
+          "6.31%",
+          "6.35%",
+          "6.64%",
+          "6.79%",
+          "7.00%",
+          "7.27%",
+          "7.30%",
+          "7.39%",
+          "7.40%",
+          "7.60%",
+          "7.88%",
+          "7.97%",
+          "8.03%",
+          "8.13%",
+          "8.24%",
+          "8.93%",
+          "8.95%",
+          "9.00%",
+          "9.30%",
+          "9.34%",
+          "9.77%",
+          "Float"
+        ]
+      },
+      "themes": [
+        "insurance float history",
+        "underwriting results"
+      ],
+      "buffett_concepts": [
+        "float",
+        "underwriting discipline"
+      ],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1996,
+        "comparison_years": [
+          1967,
+          1968,
+          1969,
+          1970,
+          1971,
+          1972,
+          1973,
+          1974,
+          1975,
+          1976,
+          1977,
+          1978,
+          1979,
+          1980,
+          1981,
+          1982,
+          1983,
+          1984,
+          1985,
+          1986,
+          1987,
+          1988,
+          1989,
+          1990,
+          1991,
+          1992,
+          1993,
+          1994,
+          1995
+        ],
+        "future_outlook": false
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "low",
+      "token_count": 303,
+      "char_count": 1547,
+      "source_span": {
+        "start_char": 16748,
+        "end_char_exclusive": 18295
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "merged_from": [],
+      "boundary_note": null,
+      "previous_summary": "A table tracks Berkshire’s per-share book value from 1965 to 1996 and shows the long-term compounding that Buffett uses as a scorecard. It supports his argument that intrinsic value has risen substantially even when market prices have fluctuated.",
+      "next_summary": "A detailed table reconciles Berkshire’s 1996 reported earnings by major components such as operating earnings, investment results, and accounting charges. The breakdown clarifies what Buffett considers durable operating performance versus more volatile or accounting-driven items."
+    }
+  },
+  {
+    "chunk_id": "1996-S07-T2-001",
+    "content": "(in millions)\n--------------------------------------\nBerkshire's Share\nof Net Earnings\n(after taxes and\nPre-tax Earnings minority interests)\n\nUnderwriting.....................$ 222.1 $ 20.5 $ 142.8 $ 11.3\nNet Investment Income............ 726.2 501.6 593.1 417.7\nBuffalo News........................... 50.4 46.8 29.5 27.3\nFechheimer............................. 17.3 16.9 9.3 8.8\nFinance Businesses..................... 23.1 20.8 14.9 12.6\nHome Furnishings....................... 43.8 29.7(2) 24.8 16.7(2)\nJewelry................................ 27.8 33.9(3) 16.1 19.1(3)\nKirby.................................. 58.5 50.2 39.9 32.1\nScott Fetzer Manufacturing Group....... 50.6 34.1 32.2 21.2\nSee's Candies.......................... 51.9 50.2 30.8 29.8\nShoe Group............................. 61.6 58.4 41.0 37.5\nWorld Book............................. 12.6 8.8 9.5 7.0\nPurchase-Accounting Adjustments........ (75.7) (27.0) (70.5) (23.4)\nInterest Expense(4).................... (94.3) (56.0) (56.6) (34.9)\nShareholder-Designated Contributions... (13.3) (11.6) (8.5) (7.0)\nOther.................................. 58.8 37.4 34.8 24.4",
+    "metadata": {
+      "letter_year": 1996,
+      "letter_date": "1997-02-28",
+      "source_file": "1996_cleaned.txt",
+      "section_title": "Sources of Reported Earnings",
+      "section_hierarchy": [
+        "Letter Body",
+        "Financial Reporting",
+        "Earnings"
+      ],
+      "chunk_tier": 2,
+      "parent_chunk_id": "1996-S07-T1-001",
+      "child_chunk_ids": [],
+      "content_type": "financial_table",
+      "contextual_summary": "A detailed table reconciles Berkshire’s 1996 reported earnings by major components such as operating earnings, investment results, and accounting charges. The breakdown clarifies what Buffett considers durable operating performance versus more volatile or accounting-driven items.",
+      "has_table": true,
+      "table_data": [
+        {
+          "table_name": "Sources of Reported Earnings Table 1",
+          "summary": "A detailed table reconciles Berkshire’s 1996 reported earnings by major components such as operating earnings, investment results, and accounting charges.",
+          "columns": [
+            "col_1",
+            "col_2"
+          ],
+          "rows": [
+            [
+              "Underwriting",
+              "$ 222.1 $ 20.5 $ 142.8 $ 11.3"
+            ],
+            [
+              "Net Investment Income",
+              "726.2 501.6 593.1 417.7"
+            ],
+            [
+              "Buffalo News",
+              "50.4 46.8 29.5 27.3"
+            ],
+            [
+              "Fechheimer",
+              "17.3 16.9 9.3 8.8"
+            ],
+            [
+              "Finance Businesses",
+              "23.1 20.8 14.9 12.6"
+            ],
+            [
+              "Home Furnishings",
+              "43.8 29.7(2) 24.8 16.7(2)"
+            ],
+            [
+              "Jewelry",
+              "27.8 33.9(3) 16.1 19.1(3)"
+            ],
+            [
+              "Kirby",
+              "58.5 50.2 39.9 32.1"
+            ],
+            [
+              "Scott Fetzer Manufacturing Group",
+              "50.6 34.1 32.2 21.2"
+            ],
+            [
+              "See's Candies",
+              "51.9 50.2 30.8 29.8"
+            ],
+            [
+              "Shoe Group",
+              "61.6 58.4 41.0 37.5"
+            ],
+            [
+              "World Book",
+              "12.6 8.8 9.5 7.0"
+            ],
+            [
+              "Purchase-Accounting Adjustments",
+              "(75.7) (27.0) (70.5) (23.4)"
+            ],
+            [
+              "Interest Expense(4)",
+              "(94.3) (56.0) (56.6) (34.9)"
+            ],
+            [
+              "Shareholder-Designated Contributions",
+              "(13.3) (11.6) (8.5) (7.0)"
+            ],
+            [
+              "Other",
+              "58.8 37.4 34.8 24.4"
+            ]
+          ],
+          "row_count": 16
+        }
+      ],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "Buffalo News",
+          "Fechheimer",
+          "Kirby",
+          "Scott Fetzer",
+          "See's Candies",
+          "World Book"
+        ],
+        "people": [],
+        "metrics": [
+          "$11.3\n",
+          "$142.8",
+          "$20.5",
+          "$222.1"
+        ]
+      },
+      "themes": [
+        "earnings components",
+        "financial reporting"
+      ],
+      "buffett_concepts": [
+        "economic vs accounting earnings"
+      ],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1996,
+        "comparison_years": [],
+        "future_outlook": false
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "low",
+      "token_count": 177,
+      "char_count": 1131,
+      "source_span": {
+        "start_char": 0,
+        "end_char_exclusive": 0
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "merged_from": [],
+      "boundary_note": null,
+      "previous_summary": "A multi-year table shows Berkshire’s growing insurance float and underwriting results, highlighting periods when float carried a negative cost. Buffett uses the figures to argue that disciplined underwriting can create a large, low-cost funding source for investments.",
+      "next_summary": "A table lists Berkshire’s major equity investees with ownership percentages and the implied look-through earnings and dividend taxes. Buffett uses it to show why retained earnings at investees matter even when accounting rules exclude them from Berkshire’s reported income."
+    }
+  },
+  {
+    "chunk_id": "1996-S07-T2-002",
+    "content": "The following table sets forth our 1996 look-through earnings,\nthough I warn you that the figures can be no more than approximate, since\nthey are based on a number of judgment calls. (The dividends paid to us\nby these investees have been included in the operating earnings itemized\non page 12, mostly under \"Insurance Group: Net Investment Income.\")\n\nBerkshire's Share\nof Undistributed\nBerkshire's Approximate Operating Earnings\nBerkshire's Major Investees Ownership at Yearend(1) (in millions)(2)\n-------------------------------- ----------------------- ------------------\n\nAmerican Express Company........ 10.5% $ 132\nThe Coca-Cola Company........... 8.1% 180\nThe Walt Disney Company......... 3.6% 50\nFederal Home Loan Mortgage Corp. 8.4% 77\nThe Gillette Company............ 8.6% 73\nMc Donald's Corporation.......... 4.3% 38\nThe Washington Post Company..... 15.8% 27\nWells Fargo & Company........... 8.0% 84\n\n(1) Does not include shares allocable to minority interests\n(2) Calculated on average ownership for the year\n(3) The tax rate used is 14%, which is the rate Berkshire pays on\nthe dividends it receives",
+    "metadata": {
+      "letter_year": 1996,
+      "letter_date": "1997-02-28",
+      "source_file": "1996_cleaned.txt",
+      "section_title": "Sources of Reported Earnings",
+      "section_hierarchy": [
+        "Letter Body",
+        "Financial Reporting",
+        "Earnings"
+      ],
+      "chunk_tier": 2,
+      "parent_chunk_id": "1996-S07-T1-002",
+      "child_chunk_ids": [],
+      "content_type": "financial_table",
+      "contextual_summary": "A table lists Berkshire’s major equity investees with ownership percentages and the implied look-through earnings and dividend taxes. Buffett uses it to show why retained earnings at investees matter even when accounting rules exclude them from Berkshire’s reported income.",
+      "has_table": true,
+      "table_data": [
+        {
+          "table_name": "Sources of Reported Earnings Table 2",
+          "summary": "A table lists Berkshire’s major equity investees with ownership percentages and the implied look-through earnings and dividend taxes.",
+          "columns": [
+            "col_1",
+            "col_2"
+          ],
+          "rows": [
+            [
+              "American Express Company",
+              "10.5% $ 132"
+            ],
+            [
+              "The Coca-Cola Company",
+              "8.1% 180"
+            ],
+            [
+              "The Walt Disney Company",
+              "3.6% 50"
+            ],
+            [
+              "The Gillette Company",
+              "8.6% 73"
+            ],
+            [
+              "Mc Donald's Corporation",
+              "4.3% 38"
+            ],
+            [
+              "The Washington Post Company",
+              "15.8% 27"
+            ],
+            [
+              "Wells Fargo & Company",
+              "8.0% 84"
+            ]
+          ],
+          "row_count": 7
+        }
+      ],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "American Express",
+          "American Express Company",
+          "Federal Home Loan Mortgage Corp.",
+          "Mc Donald's Corporation",
+          "The Coca-Cola Company",
+          "The Gillette Company",
+          "The Walt Disney Company",
+          "The Washington Post Company",
+          "Wells Fargo & Company"
+        ],
+        "people": [],
+        "metrics": [
+          "$132\n",
+          "10.5%",
+          "14%",
+          "15.8%",
+          "1996",
+          "3.6%",
+          "4.3%",
+          "8.0%",
+          "8.1%",
+          "8.4%",
+          "8.6%",
+          "Operating Earnings",
+          "look-through earnings",
+          "operating earnings"
+        ]
+      },
+      "themes": [
+        "look-through earnings table",
+        "major holdings"
+      ],
+      "buffett_concepts": [
+        "look-through earnings"
+      ],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1996,
+        "comparison_years": [],
+        "future_outlook": false
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "low",
+      "token_count": 163,
+      "char_count": 1111,
+      "source_span": {
+        "start_char": 0,
+        "end_char_exclusive": 0
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "merged_from": [],
+      "boundary_note": null,
+      "previous_summary": "A detailed table reconciles Berkshire’s 1996 reported earnings by major components such as operating earnings, investment results, and accounting charges. The breakdown clarifies what Buffett considers durable operating performance versus more volatile or accounting-driven items.",
+      "next_summary": "A table lists Berkshire’s principal common-stock holdings with share counts and market values, illustrating the company’s concentrated portfolio. It provides concrete context for Buffett’s discussion of focusing on a few outstanding businesses over frequent trading."
+    }
+  },
+  {
+    "chunk_id": "1996-S08-T2-001",
+    "content": "Shares Company Cost* Market\n\n(dollars in millions)\n49,456,900 American Express Company...........$1,392.7 $ 2,794.3\n200,000,000 The Coca-Cola Company.............. 1,298.9 10,525.0\n24,614,214 The Walt Disney Company............ 577.0 1,716.8\n64,246,000 Federal Home Loan Mortgage Corp.... 333.4 1,772.8\n48,000,000 The Gillette Company............... 600.0 3,732.0\n30,156,600 Mc Donald's Corporation............. 1,265.3 1,368.4\n1,727,765 The Washington Post Company........ 10.6 579.0\n7,291,418 Wells Fargo & Company.............. 497.8 1,966.9\nOthers............................. 1,934.5 3,295.4\n\n* Represents tax-basis cost which, in aggregate, is $1.2 billion\nless than GAAP cost.\n\nOur portfolio shows little change: We continue to make more money\nwhen snoring than when active.\n\nInactivity strikes us as intelligent behavior. Neither we nor most\nbusiness managers would dream of feverishly trading highly-profitable\nsubsidiaries because a small move in the Federal Reserve's discount rate\nwas predicted or because some Wall Street pundit had reversed his views\non the market. Why, then, should we behave differently with our minority\npositions in wonderful businesses? The art of investing in public\ncompanies successfully is little different from the art of successfully\nacquiring subsidiaries. In each case you simply want to acquire, at a\nsensible price, a business with excellent economics and able, honest\nmanagement. Thereafter, you need only monitor whether these qualities\nare being preserved.",
+    "metadata": {
+      "letter_year": 1996,
+      "letter_date": "1997-02-28",
+      "source_file": "1996_cleaned.txt",
+      "section_title": "Common Stock Investments",
+      "section_hierarchy": [
+        "Letter Body",
+        "Investments",
+        "Public Equities"
+      ],
+      "chunk_tier": 2,
+      "parent_chunk_id": "1996-S08-T1-001",
+      "child_chunk_ids": [],
+      "content_type": "financial_table",
+      "contextual_summary": "A table lists Berkshire’s principal common-stock holdings with share counts and market values, illustrating the company’s concentrated portfolio. It provides concrete context for Buffett’s discussion of focusing on a few outstanding businesses over frequent trading.",
+      "has_table": true,
+      "table_data": [
+        {
+          "table_name": "Common Stock Investments Table 1",
+          "summary": "A table lists Berkshire’s principal common-stock holdings with share counts and market values, illustrating the company’s concentrated portfolio.",
+          "columns": [
+            "col_1",
+            "col_2"
+          ],
+          "rows": [
+            [
+              "49,456,900 American Express Company",
+              "$1,392.7 $ 2,794.3"
+            ],
+            [
+              "200,000,000 The Coca-Cola Company",
+              "1,298.9 10,525.0"
+            ],
+            [
+              "24,614,214 The Walt Disney Company",
+              "577.0 1,716.8"
+            ],
+            [
+              "64,246,000 Federal Home Loan Mortgage Corp",
+              "333.4 1,772.8"
+            ],
+            [
+              "48,000,000 The Gillette Company",
+              "600.0 3,732.0"
+            ],
+            [
+              "30,156,600 Mc Donald's Corporation",
+              "1,265.3 1,368.4"
+            ],
+            [
+              "1,727,765 The Washington Post Company",
+              "10.6 579.0"
+            ],
+            [
+              "7,291,418 Wells Fargo & Company",
+              "497.8 1,966.9"
+            ],
+            [
+              "Others",
+              "1,934.5 3,295.4"
+            ]
+          ],
+          "row_count": 9
+        }
+      ],
+      "has_financial_data": true,
+      "entities": {
+        "companies": [
+          "American Express",
+          "American Express Company",
+          "Federal Home Loan Mortgage Corp.",
+          "Mc Donald's Corporation",
+          "The Coca-Cola Company",
+          "The Gillette Company",
+          "The Walt Disney Company",
+          "The Washington Post Company",
+          "Wells Fargo & Company"
+        ],
+        "people": [],
+        "metrics": [
+          "$1,392.7",
+          "$1.2billion",
+          "$2,794.3\n"
+        ]
+      },
+      "themes": [
+        "portfolio holdings",
+        "concentration"
+      ],
+      "buffett_concepts": [
+        "focus investing",
+        "buy-and-hold"
+      ],
+      "principles": [],
+      "temporal_references": {
+        "primary_year": 1996,
+        "comparison_years": [],
+        "future_outlook": false
+      },
+      "cross_references": {
+        "related_sections_same_letter": [],
+        "related_years": []
+      },
+      "retrieval_priority": "high",
+      "abstraction_level": "low",
+      "token_count": 245,
+      "char_count": 1505,
+      "source_span": {
+        "start_char": 0,
+        "end_char_exclusive": 0
+      },
+      "standalone_exception": false,
+      "exception_reason": null,
+      "merged_from": [],
+      "boundary_note": null,
+      "previous_summary": "A table lists Berkshire’s major equity investees with ownership percentages and the implied look-through earnings and dividend taxes. Buffett uses it to show why retained earnings at investees matter even when accounting rules exclude them from Berkshire’s reported income.",
+      "next_summary": null
+    }
+  }
+]
