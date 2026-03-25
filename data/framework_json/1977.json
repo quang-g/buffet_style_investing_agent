@@ -1,0 +1,1164 @@
+{
+  "schema_version": "1.0",
+  "document_type": "buffett_framework_letter",
+  "letter_metadata": {
+    "year": 1977,
+    "source_title": "Berkshire Hathaway Shareholder Letter",
+    "source_date": "1978-03-14",
+    "coverage_year": 1977,
+    "source_file": "/mnt/data/1977.md",
+    "extraction_purpose": "Reusable stock/business analysis framework extraction",
+    "one_sentence_synthesis": "This letter emphasizes judging businesses by returns on capital, preferring capital-light and structurally advantaged businesses, applying disciplined insurance economics, and valuing stocks as partial ownership interests in understandable businesses run by honest and competent managers.",
+    "knowledge_base_tags": [
+      "return_on_capital",
+      "capital_light_growth",
+      "industry_economics",
+      "insurance_underwriting",
+      "management_quality",
+      "stock_as_business_ownership",
+      "look_through_earnings",
+      "capital_allocation"
+    ]
+  },
+  "framework_items": [
+    {
+      "item_id": "1977_001",
+      "section": "Core performance logic",
+      "subsection": "1.1 Judge management by return on equity, not by EPS growth alone",
+      "principle_title": "ROE over EPS growth",
+      "principle_statement": "Management should be judged by the economic return earned on shareholder capital, not by headline earnings-per-share growth alone.",
+      "normalized_principle": "Business performance should be judged primarily by returns on capital rather than by per-share earnings growth in isolation.",
+      "category": "accounting_earnings_quality",
+      "importance": "high",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "public_stock",
+        "private_business",
+        "management_team",
+        "capital_allocator"
+      ],
+      "performance_logic": [
+        "EPS can rise mechanically when the equity base expands, so earnings growth alone can overstate improvement in business economics.",
+        "Capital efficiency reveals whether management is creating more profit per dollar employed rather than merely using more capital."
+      ],
+      "evaluation_questions": [
+        "How much beginning equity capital was required to generate current earnings?",
+        "Did earnings growth exceed, match, or lag growth in the equity base?",
+        "Is management improving business economics or only deploying more capital?"
+      ],
+      "diagnostic_signals": [
+        "EPS growth is celebrated without reference to capital employed.",
+        "Equity grows as fast as or faster than earnings.",
+        "Incremental returns on retained earnings are mediocre."
+      ],
+      "practical_rules": [
+        "Compare EPS growth against equity growth before praising performance.",
+        "Use return on beginning equity or a similar capital-based measure as the primary scorecard."
+      ],
+      "example_buffett_phrasing": [
+        "return on equity, not EPS growth alone",
+        "capital efficiency is a better indicator of managerial quality than raw earnings growth"
+      ],
+      "source_refs": [
+        {
+          "source_file": "/mnt/data/1977.md",
+          "pages": []
+        }
+      ],
+      "tags": [
+        "return_on_equity",
+        "eps_vs_equity_growth",
+        "capital_efficiency"
+      ],
+      "synthesis_notes": {
+        "candidate_for_cross_file_merge": true,
+        "merge_key_hint": "return_on_capital_over_eps_growth",
+        "generality": "high"
+      }
+    },
+    {
+      "item_id": "1977_002",
+      "section": "Core performance logic",
+      "subsection": "1.2 Use capital-aware denominators when evaluating performance",
+      "principle_title": "Adjust misleading denominators",
+      "principle_statement": "Standard performance ratios must be adjusted when reported equity, asset values, or capital structure make the denominator economically misleading.",
+      "normalized_principle": "Performance metrics should be adjusted when accounting values or capital structure make standard denominators economically unreliable.",
+      "category": "accounting_earnings_quality",
+      "importance": "high",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "public_stock",
+        "private_business",
+        "balance_sheet",
+        "capital_allocator"
+      ],
+      "performance_logic": [
+        "A ratio is only meaningful if the denominator approximates real capital employed.",
+        "Distorted book values or unusual leverage can make unadjusted ROE or similar ratios misstate true economics."
+      ],
+      "evaluation_questions": [
+        "Are assets carried at unrealistic values?",
+        "Does reported equity fairly represent the capital employed in the business?",
+        "Would return on tangible equity or return on invested capital be more informative here?"
+      ],
+      "diagnostic_signals": [
+        "Large accounting distortions in balance-sheet carrying values.",
+        "Unusual leverage makes equity-based ratios swing wildly.",
+        "Reported ROE looks strong but underlying capital intensity is still high."
+      ],
+      "practical_rules": [
+        "Adjust the denominator before drawing conclusions from standard ratios.",
+        "Prefer the capital measure that best reflects economic reality, not accounting convenience."
+      ],
+      "example_buffett_phrasing": [
+        "standard ratios are useful only if the denominator is economically meaningful",
+        "adjust the framework when accounting figures obscure business reality"
+      ],
+      "source_refs": [
+        {
+          "source_file": "/mnt/data/1977.md",
+          "pages": []
+        }
+      ],
+      "tags": [
+        "denominator_quality",
+        "economic_reality",
+        "adjusted_return_metrics"
+      ],
+      "synthesis_notes": {
+        "candidate_for_cross_file_merge": true,
+        "merge_key_hint": "economically_meaningful_denominator",
+        "generality": "high"
+      }
+    },
+    {
+      "item_id": "1977_003",
+      "section": "Core performance logic",
+      "subsection": "1.3 Single-year results are weak evidence; long-term economics are what count",
+      "principle_title": "Long-term record over single-year snapshots",
+      "principle_statement": "Single-year earnings, market values, or operating snapshots are weak evidence; the long-term economic record should dominate judgment.",
+      "normalized_principle": "A business should be evaluated over a multi-year period because single-year results often misrepresent underlying economics.",
+      "category": "business_quality",
+      "importance": "high",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "public_stock",
+        "private_business",
+        "conglomerate",
+        "holding_company"
+      ],
+      "performance_logic": [
+        "Short-term figures can be distorted by cycles, temporary gains or losses, and accounting noise.",
+        "A multi-year record better captures durability, compounding ability, and true business economics."
+      ],
+      "evaluation_questions": [
+        "Over five to ten years, has the business compounded value?",
+        "Are current results cyclical, temporary, or structural?",
+        "Does the long-run record confirm or contradict the latest snapshot?"
+      ],
+      "diagnostic_signals": [
+        "Heavy reliance on a single-year earnings figure or a single-date market value.",
+        "Current margins or results are unusually boosted or depressed by temporary conditions."
+      ],
+      "practical_rules": [
+        "Treat one-year figures as clues, not conclusions.",
+        "Anchor judgment in multi-year return on capital and long-term value creation."
+      ],
+      "example_buffett_phrasing": [
+        "single-year results are weak evidence",
+        "treat one-year figures as clues, not conclusions"
+      ],
+      "source_refs": [
+        {
+          "source_file": "/mnt/data/1977.md",
+          "pages": []
+        }
+      ],
+      "tags": [
+        "multi_year_record",
+        "long_term_economics",
+        "cycle_adjustment"
+      ],
+      "synthesis_notes": {
+        "candidate_for_cross_file_merge": true,
+        "merge_key_hint": "long_term_over_single_year_results",
+        "generality": "high"
+      }
+    },
+    {
+      "item_id": "1977_004",
+      "section": "Business quality and industry economics",
+      "subsection": "2.1 Prefer businesses with structural tailwinds over businesses fighting structural headwinds",
+      "principle_title": "Industry structure outweighs effort",
+      "principle_statement": "Business quality should be judged partly by whether industry structure provides tailwinds or imposes headwinds that overwhelm even capable management.",
+      "normalized_principle": "Industry structure strongly influences business outcomes and should be weighted more heavily than heroic management narratives.",
+      "category": "business_quality",
+      "importance": "high",
+      "time_horizon": "cross_cycle",
+      "applies_to": [
+        "public_stock",
+        "private_business",
+        "acquisition_target"
+      ],
+      "performance_logic": [
+        "Favorable industries can allow good businesses to prosper despite mistakes, while structurally weak industries can suppress returns even under able managers.",
+        "Industry economics often determine whether execution can translate into attractive returns."
+      ],
+      "evaluation_questions": [
+        "Is the business pushed forward by favorable industry forces or backward by structural disadvantages?",
+        "Can good execution translate into strong returns in this industry?",
+        "Are improving results driven by durable industry economics or temporary conditions?"
+      ],
+      "diagnostic_signals": [
+        "Industry-wide low margins and weak returns on capital.",
+        "A business requires exceptional effort just to achieve mediocre results.",
+        "Management stories overshadow poor structural economics."
+      ],
+      "practical_rules": [
+        "Give heavy weight to industry structure when assessing quality.",
+        "Do not confuse managerial effort with durable economic advantage."
+      ],
+      "example_buffett_phrasing": [
+        "tailwinds vs. headwinds",
+        "put greater weight on business quality and industry structure than on heroic operational stories"
+      ],
+      "source_refs": [
+        {
+          "source_file": "/mnt/data/1977.md",
+          "pages": []
+        }
+      ],
+      "tags": [
+        "industry_structure",
+        "tailwinds_headwinds",
+        "structural_economics"
+      ],
+      "synthesis_notes": {
+        "candidate_for_cross_file_merge": true,
+        "merge_key_hint": "industry_tailwinds_vs_headwinds",
+        "generality": "high"
+      }
+    },
+    {
+      "item_id": "1977_005",
+      "section": "Business quality and industry economics",
+      "subsection": "2.2 Distinguish businesses where mistakes are survivable from those where perfection still yields mediocre returns",
+      "principle_title": "Seek error-tolerant businesses",
+      "principle_statement": "Superior businesses remain attractive despite normal managerial mistakes, whereas weak businesses require near-perfect execution just to earn modest returns.",
+      "normalized_principle": "Prefer businesses whose economics are robust enough to tolerate ordinary human error.",
+      "category": "business_quality",
+      "importance": "high",
+      "time_horizon": "cross_cycle",
+      "applies_to": [
+        "public_stock",
+        "private_business",
+        "management_team"
+      ],
+      "performance_logic": [
+        "Robust economics provide a margin of safety against inevitable mistakes.",
+        "Fragile businesses magnify small errors into poor returns because the base economics are weak."
+      ],
+      "evaluation_questions": [
+        "If management makes a few mistakes, does the business still work?",
+        "How fragile are margins, demand, or capital allocation to small errors?",
+        "Does this business need perfection to earn acceptable returns?"
+      ],
+      "diagnostic_signals": [
+        "Minor execution errors quickly destroy profitability.",
+        "The business lacks margin structure or competitive resilience.",
+        "Good managers still produce only mediocre returns."
+      ],
+      "practical_rules": [
+        "Favor businesses that can survive normal mistakes.",
+        "Avoid businesses that require near-perfect execution to be merely adequate."
+      ],
+      "example_buffett_phrasing": [
+        "mistakes are survivable",
+        "perfection still yields mediocre returns"
+      ],
+      "source_refs": [
+        {
+          "source_file": "/mnt/data/1977.md",
+          "pages": []
+        }
+      ],
+      "tags": [
+        "error_tolerance",
+        "margin_of_safety_in_business_quality",
+        "fragile_economics"
+      ],
+      "synthesis_notes": {
+        "candidate_for_cross_file_merge": true,
+        "merge_key_hint": "businesses_tolerant_of_mistakes",
+        "generality": "high"
+      }
+    },
+    {
+      "item_id": "1977_006",
+      "section": "Business quality and industry economics",
+      "subsection": "2.3 Favor businesses that can grow without requiring proportional capital",
+      "principle_title": "Capital-light growth",
+      "principle_statement": "A superior business can increase earnings significantly without requiring proportional increases in invested capital.",
+      "normalized_principle": "Growth is most valuable when it requires little incremental capital and produces high incremental returns.",
+      "category": "capital_allocation",
+      "importance": "high",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "public_stock",
+        "private_business",
+        "capital_allocator",
+        "acquisition_target"
+      ],
+      "performance_logic": [
+        "Capital-light growth frees cash for distribution or redeployment into other high-return uses.",
+        "Low incremental capital requirements often indicate economic goodwill, pricing power, or franchise strength."
+      ],
+      "evaluation_questions": [
+        "How much additional capital was required to produce recent growth?",
+        "Can earnings expand without continuous heavy reinvestment?",
+        "Are growth opportunities internally funded and high-return?"
+      ],
+      "diagnostic_signals": [
+        "Revenue and earnings growth consume large amounts of additional capital.",
+        "Maintenance and growth capex absorb most operating cash.",
+        "Incremental returns on new capital are weak."
+      ],
+      "practical_rules": [
+        "Prioritize businesses with low incremental capital needs.",
+        "Measure growth quality by return on incremental invested capital, not by growth alone."
+      ],
+      "example_buffett_phrasing": [
+        "grow without requiring proportional capital",
+        "growth is valuable only when the capital required is sensible relative to the return produced"
+      ],
+      "source_refs": [
+        {
+          "source_file": "/mnt/data/1977.md",
+          "pages": []
+        }
+      ],
+      "tags": [
+        "capital_light_growth",
+        "incremental_returns",
+        "economic_goodwill"
+      ],
+      "synthesis_notes": {
+        "candidate_for_cross_file_merge": true,
+        "merge_key_hint": "capital_light_growth",
+        "generality": "high"
+      }
+    },
+    {
+      "item_id": "1977_007",
+      "section": "Business quality and industry economics",
+      "subsection": "2.4 A no-growth industry can still hold a great business",
+      "principle_title": "Great business in a slow-growth industry",
+      "principle_statement": "Industry volume growth is not the same as business quality; a company can be excellent in a slow-growth industry if it has pricing power, loyalty, or capital-light economics.",
+      "normalized_principle": "A slow-growth industry can still contain an excellent business when the company has durable economics and low capital needs.",
+      "category": "business_quality",
+      "importance": "medium",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "public_stock",
+        "private_business",
+        "acquisition_target"
+      ],
+      "performance_logic": [
+        "Business value can come from pricing power, customer attachment, and efficient economics rather than industry volume growth.",
+        "Low-growth industries may hide strong unit economics and cash generation."
+      ],
+      "evaluation_questions": [
+        "Is this company creating superior economics despite limited industry growth?",
+        "Are margins, pricing, or loyalty driving value more than unit growth?",
+        "Is industry stagnation obscuring business quality?"
+      ],
+      "diagnostic_signals": [
+        "Analysts dismiss the business mainly because industry growth is low.",
+        "The company still produces strong earnings growth or cash flow with little added capital."
+      ],
+      "practical_rules": [
+        "Do not reject a business solely because its industry lacks volume growth.",
+        "Favor durable economics over fashionable growth narratives."
+      ],
+      "example_buffett_phrasing": [
+        "a no-growth industry can still hold a great business",
+        "favor durable economics over fashionable growth stories"
+      ],
+      "source_refs": [
+        {
+          "source_file": "/mnt/data/1977.md",
+          "pages": []
+        }
+      ],
+      "tags": [
+        "slow_growth_industry",
+        "pricing_power",
+        "durable_economics"
+      ],
+      "synthesis_notes": {
+        "candidate_for_cross_file_merge": true,
+        "merge_key_hint": "great_business_in_slow_growth_industry",
+        "generality": "high"
+      }
+    },
+    {
+      "item_id": "1977_008",
+      "section": "Insurance-specific analysis logic",
+      "subsection": "3.1 Underwriting profitability matters first; investment float is valuable only if underwriting discipline is real",
+      "principle_title": "Underwriting before float",
+      "principle_statement": "An insurer must first be judged on underwriting discipline, because float is valuable only when premium growth does not create future underwriting losses.",
+      "normalized_principle": "Insurance float has value only when underwriting is disciplined enough not to destroy it.",
+      "category": "insurance",
+      "importance": "high",
+      "time_horizon": "cross_cycle",
+      "applies_to": [
+        "insurance_operation",
+        "management_team",
+        "capital_allocator"
+      ],
+      "performance_logic": [
+        "Float provides investable funds, but underpriced underwriting can turn that apparent funding advantage into future losses.",
+        "Underwriting quality determines whether premium volume creates value or destroys it."
+      ],
+      "evaluation_questions": [
+        "Is underwriting profitable or at least rational?",
+        "Is premium growth creating valuable investable funds or merely enlarging future losses?",
+        "Will management sacrifice volume when pricing becomes inadequate?"
+      ],
+      "diagnostic_signals": [
+        "Premium growth outpaces underwriting discipline.",
+        "Combined ratios deteriorate while float is praised.",
+        "Management emphasizes volume instead of pricing adequacy."
+      ],
+      "practical_rules": [
+        "Judge insurers first on underwriting quality, then on investment use of float.",
+        "Treat premium volume as suspect unless pricing discipline is evident."
+      ],
+      "example_buffett_phrasing": [
+        "underwriting profitability matters first",
+        "float is valuable only if underwriting discipline is real"
+      ],
+      "source_refs": [
+        {
+          "source_file": "/mnt/data/1977.md",
+          "pages": []
+        }
+      ],
+      "tags": [
+        "underwriting_discipline",
+        "insurance_float",
+        "combined_ratio"
+      ],
+      "synthesis_notes": {
+        "candidate_for_cross_file_merge": true,
+        "merge_key_hint": "underwriting_before_float",
+        "generality": "high"
+      }
+    },
+    {
+      "item_id": "1977_009",
+      "section": "Insurance-specific analysis logic",
+      "subsection": "3.2 Pricing in insurance must keep pace with underlying cost inflation",
+      "principle_title": "Insurance pricing must match loss inflation",
+      "principle_statement": "Insurance profitability erodes when pricing fails to keep pace with claims-cost inflation, including broader social and legal inflation.",
+      "normalized_principle": "Insurance pricing must at least match underlying loss-cost inflation to preserve underwriting profitability.",
+      "category": "insurance",
+      "importance": "high",
+      "time_horizon": "medium_term",
+      "applies_to": [
+        "insurance_operation",
+        "management_team"
+      ],
+      "performance_logic": [
+        "Loss costs can compound faster than reported premiums, causing delayed but predictable erosion in underwriting margins.",
+        "Temporary underwriting success may simply reflect a lag before higher claims costs appear."
+      ],
+      "evaluation_questions": [
+        "Are rate increases keeping up with claims-cost inflation?",
+        "Is management accounting for social or legal inflation as well as ordinary cost inflation?",
+        "Are current underwriting profits sustainable or just temporarily ahead of loss emergence?"
+      ],
+      "diagnostic_signals": [
+        "Rate changes trail claims inflation.",
+        "Reserve development deteriorates after seemingly strong periods.",
+        "Combined ratios worsen by accident year after earlier underpricing."
+      ],
+      "practical_rules": [
+        "Compare rate changes directly with loss-cost trends.",
+        "Treat underwriting profits cautiously when claims inflation is rising faster than premiums."
+      ],
+      "example_buffett_phrasing": [
+        "pricing must keep pace with underlying cost inflation",
+        "temporary underwriting success may reverse once cost inflation catches up"
+      ],
+      "source_refs": [
+        {
+          "source_file": "/mnt/data/1977.md",
+          "pages": []
+        }
+      ],
+      "tags": [
+        "insurance_pricing",
+        "claims_inflation",
+        "reserve_development"
+      ],
+      "synthesis_notes": {
+        "candidate_for_cross_file_merge": true,
+        "merge_key_hint": "insurance_pricing_must_match_loss_inflation",
+        "generality": "medium"
+      }
+    },
+    {
+      "item_id": "1977_010",
+      "section": "Insurance-specific analysis logic",
+      "subsection": "3.3 Cyclical discipline is a competitive advantage",
+      "principle_title": "Shrink when pricing is irrational",
+      "principle_statement": "In cyclical industries, superior managers are willing to accept lower volume when pricing becomes uneconomic.",
+      "normalized_principle": "Management discipline in cyclical markets is shown by willingness to shrink rather than pursue unprofitable volume.",
+      "category": "management_quality",
+      "importance": "high",
+      "time_horizon": "cross_cycle",
+      "applies_to": [
+        "insurance_operation",
+        "management_team",
+        "capital_allocator"
+      ],
+      "performance_logic": [
+        "Cyclical expansions often tempt firms into underpriced growth that destroys future value.",
+        "Refusing bad business preserves capital and underwriting economics for better periods."
+      ],
+      "evaluation_questions": [
+        "Does management chase market share when prices are foolish?",
+        "Has management historically walked away from underpriced business?",
+        "Are volume decisions driven by economics or ego?"
+      ],
+      "diagnostic_signals": [
+        "Premium growth accelerates during soft markets.",
+        "Margins deteriorate during aggressive expansion.",
+        "Management emphasizes share gains despite weak pricing."
+      ],
+      "practical_rules": [
+        "Treat willingness to shrink as a mark of managerial quality.",
+        "Prefer disciplined volume declines to value-destructive growth."
+      ],
+      "example_buffett_phrasing": [
+        "cyclical discipline is a competitive advantage",
+        "refusal to pursue unprofitable volume reflects discipline"
+      ],
+      "source_refs": [
+        {
+          "source_file": "/mnt/data/1977.md",
+          "pages": []
+        }
+      ],
+      "tags": [
+        "cyclical_discipline",
+        "market_share_vs_profitability",
+        "soft_market_behavior"
+      ],
+      "synthesis_notes": {
+        "candidate_for_cross_file_merge": true,
+        "merge_key_hint": "willingness_to_shrink_in_bad_markets",
+        "generality": "high"
+      }
+    },
+    {
+      "item_id": "1977_011",
+      "section": "Insurance-specific analysis logic",
+      "subsection": "3.4 Insurance is a people business because products are largely undifferentiated",
+      "principle_title": "Management as moat in commoditized insurance",
+      "principle_statement": "When insurance products are largely standardized and easy to copy, managerial judgment becomes a primary source of competitive advantage.",
+      "normalized_principle": "In commoditized businesses, management quality can function as a substitute for structural competitive advantage.",
+      "category": "management_quality",
+      "importance": "medium",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "insurance_operation",
+        "management_team",
+        "public_stock",
+        "private_business"
+      ],
+      "performance_logic": [
+        "Weak product differentiation reduces structural protection, so underwriting and claims judgment drive outcomes.",
+        "Where products are commoditized, exceptional people can be the decisive edge."
+      ],
+      "evaluation_questions": [
+        "Does the company rely on human judgment more than on unique products?",
+        "Are underwriting and claims decisions dependent on exceptional managers?",
+        "Is the moat structural or mainly people-based?"
+      ],
+      "diagnostic_signals": [
+        "Products are standardized and easy to copy.",
+        "Business outcomes vary widely across firms despite similar offerings.",
+        "Performance appears highly dependent on key managers."
+      ],
+      "practical_rules": [
+        "Weight personnel quality more heavily in commoditized industries.",
+        "Do not assume the absence of patents or brand dominance means all firms are equal."
+      ],
+      "example_buffett_phrasing": [
+        "insurance is a people business",
+        "personnel quality is often the moat substitute"
+      ],
+      "source_refs": [
+        {
+          "source_file": "/mnt/data/1977.md",
+          "pages": []
+        }
+      ],
+      "tags": [
+        "people_business",
+        "commoditized_products",
+        "management_as_moat"
+      ],
+      "synthesis_notes": {
+        "candidate_for_cross_file_merge": true,
+        "merge_key_hint": "management_quality_in_commoditized_business",
+        "generality": "medium"
+      }
+    },
+    {
+      "item_id": "1977_012",
+      "section": "Stock selection framework",
+      "subsection": "4.1 Evaluate a stock exactly as if buying the whole business",
+      "principle_title": "Stocks are partial business ownership",
+      "principle_statement": "A marketable stock should be evaluated with the same logic used to acquire an entire business: understandability, favorable prospects, honest and competent management, and attractive price.",
+      "normalized_principle": "Public stocks should be analyzed as partial ownership interests in whole businesses.",
+      "category": "valuation",
+      "importance": "high",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "public_stock",
+        "private_business",
+        "acquisition_target",
+        "shareholder"
+      ],
+      "performance_logic": [
+        "Treating stocks as businesses shifts focus from price movement to economics, management, and valuation.",
+        "Whole-business thinking discourages speculation and aligns analysis with intrinsic value."
+      ],
+      "evaluation_questions": [
+        "Do I understand how this company makes money?",
+        "Are long-term prospects favorable?",
+        "Is the business operated by honest and competent people?",
+        "Is the stock available at a very attractive price?"
+      ],
+      "diagnostic_signals": [
+        "Investment case relies on short-term market behavior rather than business economics.",
+        "The business is not understandable or management quality is questionable.",
+        "Price attractiveness is not assessed relative to business value."
+      ],
+      "practical_rules": [
+        "Apply the same acquisition criteria to public stocks that you would apply to a full-business purchase.",
+        "Refuse investments that fail on business quality or management quality even if the stock is popular."
+      ],
+      "example_buffett_phrasing": [
+        "evaluate a stock exactly as if buying the whole business",
+        "understandable, favorable long-term prospects, honest and competent people, and a very attractive price"
+      ],
+      "source_refs": [
+        {
+          "source_file": "/mnt/data/1977.md",
+          "pages": []
+        }
+      ],
+      "tags": [
+        "stock_as_business",
+        "whole_business_thinking",
+        "four_filters"
+      ],
+      "synthesis_notes": {
+        "candidate_for_cross_file_merge": true,
+        "merge_key_hint": "analyze_stock_as_whole_business",
+        "generality": "high"
+      }
+    },
+    {
+      "item_id": "1977_013",
+      "section": "Stock selection framework",
+      "subsection": "4.2 Ignore short-term market behavior when the business remains sound",
+      "principle_title": "Welcome lower prices in sound businesses",
+      "principle_statement": "When business economics remain sound, lower stock prices improve prospective returns rather than invalidate the investment thesis.",
+      "normalized_principle": "Short-term price declines in a sound business should be treated as opportunities rather than threats.",
+      "category": "valuation",
+      "importance": "high",
+      "time_horizon": "medium_term",
+      "applies_to": [
+        "public_stock",
+        "shareholder"
+      ],
+      "performance_logic": [
+        "If intrinsic business value is intact, a lower purchase price raises expected future returns.",
+        "Focusing on business performance instead of quotations reduces emotional decision-making."
+      ],
+      "evaluation_questions": [
+        "Has the business thesis changed or only the stock price?",
+        "Would I want to buy more at the lower price?",
+        "Am I reacting to quotations instead of value?"
+      ],
+      "diagnostic_signals": [
+        "Selling pressure occurs without deterioration in business experience.",
+        "Analyst concern centers on price movement rather than operating economics."
+      ],
+      "practical_rules": [
+        "Separate business deterioration from quotation volatility.",
+        "Welcome lower prices when business value remains intact and capital is available."
+      ],
+      "example_buffett_phrasing": [
+        "ignore short-term market behavior when the business remains sound",
+        "market declines in a sound business are opportunities, not threats"
+      ],
+      "source_refs": [
+        {
+          "source_file": "/mnt/data/1977.md",
+          "pages": []
+        }
+      ],
+      "tags": [
+        "price_vs_value",
+        "quotation_volatility",
+        "buy_more_when_cheaper"
+      ],
+      "synthesis_notes": {
+        "candidate_for_cross_file_merge": true,
+        "merge_key_hint": "welcome_lower_prices_if_business_sound",
+        "generality": "high"
+      }
+    },
+    {
+      "item_id": "1977_014",
+      "section": "Stock selection framework",
+      "subsection": "4.3 Market quotations can offer better bargains than full-company acquisitions",
+      "principle_title": "Public markets as bargain source",
+      "principle_statement": "Public markets can sometimes offer partial ownership in exceptional businesses at prices below what the same businesses would command in a negotiated acquisition.",
+      "normalized_principle": "Public market quotations can provide access to high-quality businesses at discounts unavailable in private transactions.",
+      "category": "valuation",
+      "importance": "medium",
+      "time_horizon": "medium_term",
+      "applies_to": [
+        "public_stock",
+        "acquisition_target",
+        "capital_allocator"
+      ],
+      "performance_logic": [
+        "Quoted markets can become temporarily pessimistic even when underlying business value is intact.",
+        "Minority ownership may capture much of the economics at a lower entry price than full control."
+      ],
+      "evaluation_questions": [
+        "Would this business command a much higher value in a private transaction?",
+        "Is the public market discount driven by sentiment rather than impaired economics?",
+        "Does minority ownership capture sufficient economic upside?"
+      ],
+      "diagnostic_signals": [
+        "The public stock trades materially below rational private-market value.",
+        "The quality of the business is high but the quotation reflects temporary disfavor."
+      ],
+      "practical_rules": [
+        "Compare public-market price with plausible private-market value.",
+        "Use stock markets as a sourcing mechanism for mispriced business ownership."
+      ],
+      "example_buffett_phrasing": [
+        "market quotations can offer better bargains than full-company acquisitions",
+        "the stock market can be a sourcing mechanism for mispriced business ownership"
+      ],
+      "source_refs": [
+        {
+          "source_file": "/mnt/data/1977.md",
+          "pages": []
+        }
+      ],
+      "tags": [
+        "public_market_discount",
+        "private_market_value",
+        "minority_ownership"
+      ],
+      "synthesis_notes": {
+        "candidate_for_cross_file_merge": true,
+        "merge_key_hint": "public_market_can_offer_better_bargains",
+        "generality": "medium"
+      }
+    },
+    {
+      "item_id": "1977_015",
+      "section": "Stock selection framework",
+      "subsection": "4.4 Non-control can be superior to control when management is exceptional",
+      "principle_title": "Do not overvalue control",
+      "principle_statement": "Control is not inherently superior; when existing management is exceptional, minority ownership may be economically better than acquisition.",
+      "normalized_principle": "Ownership control should be pursued only when it adds economic value beyond what exceptional incumbent management already provides.",
+      "category": "capital_allocation",
+      "importance": "medium",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "public_stock",
+        "private_business",
+        "acquisition_target",
+        "capital_allocator"
+      ],
+      "performance_logic": [
+        "Control can add cost and responsibility without improving operations or capital allocation.",
+        "When incumbent managers are already superior, minority ownership can capture economics without the burden of control."
+      ],
+      "evaluation_questions": [
+        "Would control genuinely improve operations or capital allocation?",
+        "Is existing management already better than what an acquirer could provide?",
+        "Does control add responsibility without adding economics?"
+      ],
+      "diagnostic_signals": [
+        "Desire for control is driven by form rather than economics.",
+        "Incumbent management already allocates capital and runs operations exceptionally well."
+      ],
+      "practical_rules": [
+        "Do not pay a premium for control unless you can improve the economics.",
+        "Be willing to own minority stakes when management quality makes control unnecessary."
+      ],
+      "example_buffett_phrasing": [
+        "non-control can be superior to control",
+        "do not overvalue control for its own sake"
+      ],
+      "source_refs": [
+        {
+          "source_file": "/mnt/data/1977.md",
+          "pages": []
+        }
+      ],
+      "tags": [
+        "control_premium",
+        "minority_ownership",
+        "exceptional_management"
+      ],
+      "synthesis_notes": {
+        "candidate_for_cross_file_merge": true,
+        "merge_key_hint": "control_not_inherently_valuable",
+        "generality": "medium"
+      }
+    },
+    {
+      "item_id": "1977_016",
+      "section": "Stock selection framework",
+      "subsection": "4.5 Reported earnings may understate the economics of an equity investment",
+      "principle_title": "Look-through earnings matter",
+      "principle_statement": "Reported income from minority stock holdings may understate economic value because retained earnings inside the investee can compound even when they are not reported by the owner.",
+      "normalized_principle": "Economic earnings from minority holdings should include the value of retained earnings that are reinvested well by the underlying business.",
+      "category": "accounting_earnings_quality",
+      "importance": "high",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "public_stock",
+        "holding_company",
+        "capital_allocator",
+        "shareholder"
+      ],
+      "performance_logic": [
+        "Accounting treatment may record only dividends while ignoring the owner’s economic share of retained earnings.",
+        "When retained earnings are reinvested at high returns, reported earnings materially understate compounding value."
+      ],
+      "evaluation_questions": [
+        "How much of the investee’s earnings are retained rather than paid out?",
+        "Are retained earnings being deployed at high incremental returns?",
+        "Is reported income masking the real compounding occurring inside the business?"
+      ],
+      "diagnostic_signals": [
+        "Dividend yield appears modest but underlying reinvestment returns are high.",
+        "Accounting contribution looks weak despite strong underlying business performance."
+      ],
+      "practical_rules": [
+        "Evaluate minority holdings on look-through earnings, not dividends alone.",
+        "Judge retained earnings by the returns management earns on them."
+      ],
+      "example_buffett_phrasing": [
+        "reported earnings may understate the economics of an equity investment",
+        "look-through earnings",
+        "the true value lies in the underlying business’s retained earning power"
+      ],
+      "source_refs": [
+        {
+          "source_file": "/mnt/data/1977.md",
+          "pages": []
+        }
+      ],
+      "tags": [
+        "look_through_earnings",
+        "retained_earnings",
+        "minority_holdings"
+      ],
+      "synthesis_notes": {
+        "candidate_for_cross_file_merge": true,
+        "merge_key_hint": "look_through_earnings_over_reported_dividends",
+        "generality": "high"
+      }
+    },
+    {
+      "item_id": "1977_017",
+      "section": "Management assessment framework",
+      "subsection": "5.1 Management quality = honesty + competence + capital allocation ability + discipline",
+      "principle_title": "Management quality is multi-dimensional",
+      "principle_statement": "Management quality should be judged by integrity, operating competence, rational capital allocation, and the discipline to reject uneconomic growth.",
+      "normalized_principle": "Manager quality combines honesty, competence, capital allocation skill, and discipline.",
+      "category": "management_quality",
+      "importance": "high",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "management_team",
+        "capital_allocator",
+        "public_stock",
+        "private_business"
+      ],
+      "performance_logic": [
+        "Operational skill without integrity or rational capital allocation can still destroy value.",
+        "Disciplined managers preserve returns by resisting growth that looks good but earns poorly."
+      ],
+      "evaluation_questions": [
+        "Are management communications candid?",
+        "Have managers allocated retained earnings well?",
+        "Do they prioritize economics over appearances?",
+        "Will they refuse growth when growth becomes unprofitable?"
+      ],
+      "diagnostic_signals": [
+        "Management emphasizes growth or optics over return on capital.",
+        "Retained earnings are deployed without attractive returns.",
+        "Communications are polished but economically evasive."
+      ],
+      "practical_rules": [
+        "Evaluate managers on honesty, competence, capital allocation, and discipline together.",
+        "Do not infer management quality from operational metrics alone."
+      ],
+      "example_buffett_phrasing": [
+        "management quality = honesty + competence + capital allocation ability + discipline",
+        "they prioritize economics over appearances"
+      ],
+      "source_refs": [
+        {
+          "source_file": "/mnt/data/1977.md",
+          "pages": []
+        }
+      ],
+      "tags": [
+        "manager_quality",
+        "capital_allocator_quality",
+        "discipline"
+      ],
+      "synthesis_notes": {
+        "candidate_for_cross_file_merge": true,
+        "merge_key_hint": "management_quality_multi_dimensional",
+        "generality": "high"
+      }
+    },
+    {
+      "item_id": "1977_018",
+      "section": "Management assessment framework",
+      "subsection": "5.2 Candor about mistakes is a positive signal",
+      "principle_title": "Candor is evidence of quality",
+      "principle_statement": "Management that openly identifies mistakes and explains them economically is more trustworthy than management that hides failure behind promotional narratives.",
+      "normalized_principle": "Candid discussion of mistakes is a positive signal of managerial integrity and learning capacity.",
+      "category": "management_quality",
+      "importance": "medium",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "management_team",
+        "shareholder",
+        "public_stock",
+        "private_business"
+      ],
+      "performance_logic": [
+        "Candor improves trust and suggests a learning-oriented culture.",
+        "Evasive reporting raises analytical risk because problems may be hidden until they become severe."
+      ],
+      "evaluation_questions": [
+        "Does management discuss mistakes specifically and economically?",
+        "Are failures explained in ways that improve future decisions?",
+        "Is communication analytical or promotional?"
+      ],
+      "diagnostic_signals": [
+        "Mistakes are ignored, reframed, or buried in adjusted narratives.",
+        "Shareholder communication feels promotional rather than candid."
+      ],
+      "practical_rules": [
+        "Treat specific acknowledgement of errors as a positive signal.",
+        "Discount management credibility when communication avoids clear responsibility."
+      ],
+      "example_buffett_phrasing": [
+        "candor about mistakes is a positive signal",
+        "candid management is more likely to learn and allocate rationally"
+      ],
+      "source_refs": [
+        {
+          "source_file": "/mnt/data/1977.md",
+          "pages": []
+        }
+      ],
+      "tags": [
+        "candor",
+        "shareholder_communication",
+        "management_integrity"
+      ],
+      "synthesis_notes": {
+        "candidate_for_cross_file_merge": true,
+        "merge_key_hint": "candor_about_mistakes",
+        "generality": "high"
+      }
+    },
+    {
+      "item_id": "1977_019",
+      "section": "Management assessment framework",
+      "subsection": "5.3 Great managers can produce exceptional returns even in undifferentiated industries",
+      "principle_title": "Exceptional people can overcome weak differentiation",
+      "principle_statement": "In industries with little natural product differentiation, managerial skill can become one of the most important drivers of investment outcomes.",
+      "normalized_principle": "When structural differentiation is weak, management skill becomes a more decisive variable in business performance.",
+      "category": "management_quality",
+      "importance": "medium",
+      "time_horizon": "cross_cycle",
+      "applies_to": [
+        "management_team",
+        "public_stock",
+        "private_business",
+        "insurance_operation"
+      ],
+      "performance_logic": [
+        "Where products are similar, superior judgment and execution can create large performance dispersion.",
+        "The absence of strong product moats increases the importance of people and systems."
+      ],
+      "evaluation_questions": [
+        "Is success mainly explained by industry position or by exceptional people?",
+        "If key managers left, how much of the economics would remain?",
+        "Is the advantage system-based or person-dependent?"
+      ],
+      "diagnostic_signals": [
+        "Performance differs sharply among firms with similar products.",
+        "Key personnel appear central to underwriting, pricing, or operating decisions."
+      ],
+      "practical_rules": [
+        "Increase the weight on management assessment in undifferentiated industries.",
+        "Check whether the advantage is durable beyond a few key people."
+      ],
+      "example_buffett_phrasing": [
+        "great managers can produce exceptional returns even in undifferentiated industries",
+        "managerial quality has an outsized effect"
+      ],
+      "source_refs": [
+        {
+          "source_file": "/mnt/data/1977.md",
+          "pages": []
+        }
+      ],
+      "tags": [
+        "people_driven_advantage",
+        "undifferentiated_industries",
+        "key_person_risk"
+      ],
+      "synthesis_notes": {
+        "candidate_for_cross_file_merge": true,
+        "merge_key_hint": "management_skill_decisive_in_weakly_differentiated_industries",
+        "generality": "medium"
+      }
+    },
+    {
+      "item_id": "1977_020",
+      "section": "Capital allocation logic",
+      "subsection": "6.1 Capital should migrate toward the highest-return opportunities",
+      "principle_title": "Redeploy capital to better uses",
+      "principle_statement": "A corporate system creates value when retained capital is redirected away from mediocre uses and toward the highest-return available opportunities.",
+      "normalized_principle": "Capital allocation quality depends on moving internally generated capital toward the highest-return opportunities.",
+      "category": "capital_allocation",
+      "importance": "high",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "conglomerate",
+        "holding_company",
+        "capital_allocator",
+        "management_team"
+      ],
+      "performance_logic": [
+        "Keeping capital trapped in weak businesses depresses overall compounding.",
+        "Redeployment into better businesses, securities, or projects raises enterprise-wide returns."
+      ],
+      "evaluation_questions": [
+        "Is management retaining earnings where returns are low or reallocating toward superior uses?",
+        "Does the company have a record of moving capital from mediocre businesses to better ones?",
+        "Are acquisitions or investments economically superior to the status quo?"
+      ],
+      "diagnostic_signals": [
+        "Low-return segments continue to absorb capital.",
+        "Management measures success by empire size rather than return on redeployed capital."
+      ],
+      "practical_rules": [
+        "Trace where each dollar of retained earnings goes.",
+        "Favor allocators who shift capital aggressively toward higher-return uses."
+      ],
+      "example_buffett_phrasing": [
+        "capital should migrate toward the highest-return opportunities",
+        "redirected toward better opportunities"
+      ],
+      "source_refs": [
+        {
+          "source_file": "/mnt/data/1977.md",
+          "pages": []
+        }
+      ],
+      "tags": [
+        "capital_redeployment",
+        "segment_returns",
+        "retained_earnings_productivity"
+      ],
+      "synthesis_notes": {
+        "candidate_for_cross_file_merge": true,
+        "merge_key_hint": "capital_should_flow_to_highest_return_use",
+        "generality": "high"
+      }
+    },
+    {
+      "item_id": "1977_021",
+      "section": "Capital allocation logic",
+      "subsection": "6.2 External form matters less than economic result",
+      "principle_title": "Economic result over legal form",
+      "principle_statement": "Investments should be judged by their economics rather than by whether they take the form of a subsidiary, a minority stake, or a public stock holding.",
+      "normalized_principle": "Ownership form matters less than underlying economic result.",
+      "category": "capital_allocation",
+      "importance": "medium",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "holding_company",
+        "conglomerate",
+        "capital_allocator",
+        "public_stock",
+        "private_business"
+      ],
+      "performance_logic": [
+        "Different ownership forms can produce similar economic exposure, so legal structure can distract from the real question of return and value.",
+        "Bias toward control or full ownership can reduce flexibility if a minority position offers better economics."
+      ],
+      "evaluation_questions": [
+        "Which ownership form offers the best economics here?",
+        "Am I biased toward control when the returns are better without it?",
+        "Does legal form obscure the underlying capital allocation logic?"
+      ],
+      "diagnostic_signals": [
+        "Preference for a structure is justified by optics rather than returns.",
+        "Control is favored even when minority ownership is cheaper and equally effective."
+      ],
+      "practical_rules": [
+        "Evaluate opportunities by expected economics, not by organizational form.",
+        "Use whichever ownership structure offers the best combination of return, flexibility, and risk."
+      ],
+      "example_buffett_phrasing": [
+        "external form matters less than economic result",
+        "analyze investments based on their economics, not on their form"
+      ],
+      "source_refs": [
+        {
+          "source_file": "/mnt/data/1977.md",
+          "pages": []
+        }
+      ],
+      "tags": [
+        "economic_substance_over_form",
+        "ownership_structure",
+        "allocation_flexibility"
+      ],
+      "synthesis_notes": {
+        "candidate_for_cross_file_merge": true,
+        "merge_key_hint": "economic_result_over_ownership_form",
+        "generality": "high"
+      }
+    }
+  ]
+}
