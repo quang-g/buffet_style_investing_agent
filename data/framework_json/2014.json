@@ -1,0 +1,2425 @@
+{
+  "schema_version": "2.1",
+  "document_type": "buffett_framework_letter",
+  "letter_metadata": {
+    "year": 2014,
+    "source_title": "Berkshire Hathaway Shareholder Letter",
+    "source_date": null,
+    "coverage_year": 2014,
+    "source_file": "/mnt/data/2014.md",
+    "extraction_purpose": "Reusable stock/business analysis framework extraction",
+    "one_sentence_synthesis": "The 2014 framework centers on estimating intrinsic value through operating earning power and asset value while insisting on per-share compounding, high-quality businesses, disciplined capital allocation, underwriting discipline, and fortress balance sheets.",
+    "knowledge_base_tags": [
+      "intrinsic_value",
+      "per_share_value",
+      "business_quality",
+      "capital_allocation",
+      "insurance_float",
+      "acquisition_discipline",
+      "balance_sheet_strength",
+      "conglomerate_logic",
+      "management_quality",
+      "accounting_adjustments"
+    ]
+  },
+  "framework_items": [
+    {
+      "item_id": "2014_001",
+      "section": "Core Buffett valuation logic",
+      "subsection": "Intrinsic value is the anchor, not reported accounting value",
+      "principle_title": "Intrinsic value over book value",
+      "principle_statement": "Book value can be a rough tracking tool, but a business should be valued on economic earning power and future cash-generation capacity rather than accounting carrying values alone.",
+      "normalized_principle": "Estimate business value from future economic earning power and cash generation rather than relying mechanically on accounting book value.",
+      "importance": "high",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "public_stock",
+        "private_business",
+        "conglomerate",
+        "holding_company",
+        "capital_allocator",
+        "shareholder"
+      ],
+      "financial_metrics": [
+        "book_value",
+        "intrinsic_value",
+        "earning_power",
+        "cash_generation_capacity"
+      ],
+      "metric_definition": [
+        "book_value: accounting net worth based on recorded asset and liability carrying values",
+        "intrinsic_value: estimated economic worth based on future cash that can be taken out of the business",
+        "earning_power: normalized profit-generating ability of the business economics",
+        "cash_generation_capacity: the business's ability to produce distributable cash over time"
+      ],
+      "metric_usage_context": [
+        "book_value: used as a rough tracking measure but not as the governing estimate of value when assets are carried at historical cost",
+        "intrinsic_value: used as the true anchor for comparing market price with business worth",
+        "earning_power: used to infer value when accounting values understate the economics of operating subsidiaries",
+        "cash_generation_capacity: used to judge the long-run economics that reported balance-sheet numbers may not capture"
+      ],
+      "metric_limitations": [
+        "book_value: can materially understate worth when important operating assets are recorded far below economic value",
+        "intrinsic_value: is an estimate and may diverge from market price for long periods",
+        "earning_power: can be distorted if current earnings are not normalized or are viewed without capital needs",
+        "cash_generation_capacity: can be misread if analysts ignore reinvestment requirements or accounting distortions"
+      ],
+      "performance_logic": [
+        "When assets are recorded at historical cost, accounting net worth can disconnect from actual earning power.",
+        "Over long periods, intrinsic value and market price tend to converge more than short-run quotations suggest.",
+        "Analysts who translate reported numbers into economic reality can identify value that simple price-to-book screens miss."
+      ],
+      "evaluation_questions": [
+        "How far does reported book value depart from a sensible estimate of intrinsic value?",
+        "Which major assets are carried materially below economic worth?",
+        "Do accounting liabilities overstate economic burden relative to reality?",
+        "Is current market price below, near, or above estimated intrinsic value?"
+      ],
+      "diagnostic_signals": [
+        "Operating subsidiaries carried at historical cost",
+        "Large gap between accounting net worth and earning power",
+        "Conglomerate structure that obscures look-through economics"
+      ],
+      "practical_rules": [
+        "Do not screen or value compounders only on price-to-book.",
+        "Translate accounting figures into economic reality before making a value judgment.",
+        "For conglomerates, emphasize look-through earning power and capital allocation quality."
+      ],
+      "example_buffett_phrasing": [
+        "intrinsic business value is what matters",
+        "economic earning power and future cash-generation capacity"
+      ],
+      "tags": [
+        "intrinsic_value",
+        "book_value",
+        "valuation",
+        "accounting_distortion"
+      ]
+    },
+    {
+      "item_id": "2014_002",
+      "section": "Core Buffett valuation logic",
+      "subsection": "The two quantitative pillars of intrinsic value",
+      "principle_title": "Separate investments from operating earning power",
+      "principle_statement": "For a holding company or diversified company, intrinsic value can often be approximated by combining per-share investments and excess assets with the normalized per-share earning power of operating businesses.",
+      "normalized_principle": "Value hybrid and holding-company structures by separately assessing investment assets and operating earning power instead of compressing everything into one accounting multiple.",
+      "importance": "high",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "public_stock",
+        "conglomerate",
+        "holding_company",
+        "capital_allocator",
+        "shareholder"
+      ],
+      "financial_metrics": [
+        "per_share_investments",
+        "per_share_operating_earnings",
+        "investment_portfolio_value",
+        "intrinsic_value"
+      ],
+      "metric_definition": [
+        "per_share_investments: investments and excess assets attributable to each share",
+        "per_share_operating_earnings: earnings per share generated by operating businesses apart from insurance and investments",
+        "investment_portfolio_value: value of marketable securities and other non-operating assets",
+        "intrinsic_value: combined economic value of assets and operating earning power"
+      ],
+      "metric_usage_context": [
+        "per_share_investments: used as one explicit pillar of value for a hybrid structure",
+        "per_share_operating_earnings: used as the second pillar that captures franchise earning power",
+        "investment_portfolio_value: used to separate asset value from business-franchise value",
+        "intrinsic_value: used as the sum-of-the-parts conclusion after both pillars are assessed"
+      ],
+      "metric_limitations": [
+        "per_share_investments: can be incomplete if analysts ignore capital allocation optionality",
+        "per_share_operating_earnings: can mislead if current earnings are cyclical or not normalized",
+        "investment_portfolio_value: should not be treated as the whole business when operating franchises matter materially",
+        "intrinsic_value: will be misstated if either asset values or normalized operating earnings are assessed poorly"
+      ],
+      "performance_logic": [
+        "A diversified company often contains both readily valued assets and operating businesses whose worth comes from earning power.",
+        "Separating the two clarifies whether value creation is coming from asset growth, operating improvement, or capital allocation optionality."
+      ],
+      "evaluation_questions": [
+        "What investments or non-operating assets exist on a per-share basis?",
+        "What is the normalized per-share earning power of the operating businesses?",
+        "Are both pillars growing over time?",
+        "Is operating earnings growth more important than simple asset growth?"
+      ],
+      "diagnostic_signals": [
+        "Large investment portfolio alongside operating subsidiaries",
+        "Market debate focused on a single accounting multiple",
+        "Per-share asset growth diverging from per-share operating earnings growth"
+      ],
+      "practical_rules": [
+        "Use a sum-of-the-parts mindset for conglomerates and holding companies.",
+        "Do not collapse investments and operating businesses into one blunt multiple.",
+        "Assess capital allocation optionality as a distinct source of value."
+      ],
+      "example_buffett_phrasing": [
+        "per-share investments",
+        "per-share earnings from businesses other than insurance and investments"
+      ],
+      "tags": [
+        "sum_of_the_parts",
+        "holding_company",
+        "per_share_metrics",
+        "intrinsic_value"
+      ]
+    },
+    {
+      "item_id": "2014_003",
+      "section": "Core Buffett valuation logic",
+      "subsection": "Per-share value matters more than aggregate growth",
+      "principle_title": "Per-share compounding over aggregate growth",
+      "principle_statement": "Growth creates value only when it raises per-share intrinsic value rather than merely making the company larger in absolute terms.",
+      "normalized_principle": "Judge corporate progress by per-share intrinsic value growth, not by aggregate increases in revenue, assets, or earnings.",
+      "importance": "high",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "public_stock",
+        "private_business",
+        "conglomerate",
+        "holding_company",
+        "capital_allocator",
+        "management_team",
+        "shareholder"
+      ],
+      "financial_metrics": [
+        "per_share_intrinsic_value",
+        "per_share_earnings",
+        "share_count",
+        "aggregate_earnings"
+      ],
+      "metric_definition": [
+        "per_share_intrinsic_value: intrinsic business value attributable to each outstanding share",
+        "per_share_earnings: earnings attributable to each share after considering dilution",
+        "share_count: number of outstanding shares over which business value is divided",
+        "aggregate_earnings: total company earnings before per-share adjustment"
+      ],
+      "metric_usage_context": [
+        "per_share_intrinsic_value: used as the governing scoreboard for whether growth actually benefits owners",
+        "per_share_earnings: used to test whether growth survives dilution and capital issuance",
+        "share_count: used to detect whether management is diluting owners while claiming growth",
+        "aggregate_earnings: treated as insufficient by itself for judging shareholder value creation"
+      ],
+      "metric_limitations": [
+        "aggregate_earnings: can flatter management even when each owner's claim on value worsens",
+        "per_share_earnings: can be cosmetically improved by buybacks or accounting without intrinsic value gain",
+        "share_count: should be assessed together with value received when shares are issued",
+        "per_share_intrinsic_value: still requires a grounded estimate, not a mechanical shortcut"
+      ],
+      "performance_logic": [
+        "Owners benefit from business progress only through the value attached to each share they own.",
+        "Issuing undervalued equity or making low-quality acquisitions can increase size while decreasing per-share worth."
+      ],
+      "evaluation_questions": [
+        "Is management growing earnings while diluting owners?",
+        "Are acquisitions accretive to intrinsic value per share?",
+        "Are share issuances justified by value received?",
+        "Is company size being confused with owner wealth?"
+      ],
+      "diagnostic_signals": [
+        "Management emphasizing bigger revenue or assets without per-share improvement",
+        "Frequent equity issuance",
+        "Acquisition-led growth with unclear owner economics"
+      ],
+      "practical_rules": [
+        "Reject growth narratives that ignore per-share outcomes.",
+        "Measure capital allocation decisions by their effect on per-share intrinsic value.",
+        "Treat dilution as a real economic cost."
+      ],
+      "example_buffett_phrasing": [
+        "per-share growth",
+        "per-share intrinsic value"
+      ],
+      "tags": [
+        "per_share_value",
+        "dilution",
+        "capital_allocation",
+        "owner_orientation"
+      ]
+    },
+    {
+      "item_id": "2014_004",
+      "section": "Business-quality framework",
+      "subsection": "Prefer wonderful businesses over statistically cheap mediocre ones",
+      "principle_title": "Wonderful business at a fair price",
+      "principle_statement": "A high-quality business bought at a fair price is usually superior to a low-quality business bought very cheaply because the former compounds cash over time while the latter often consumes capital.",
+      "normalized_principle": "Prefer durable high-quality businesses with strong economics over statistically cheap but mediocre businesses.",
+      "importance": "high",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "public_stock",
+        "private_business",
+        "acquisition_target",
+        "capital_allocator",
+        "shareholder"
+      ],
+      "financial_metrics": [
+        "return_on_tangible_capital",
+        "incremental_capital_required",
+        "cash_generation_capacity"
+      ],
+      "metric_definition": [
+        "return_on_tangible_capital: profits earned relative to the tangible capital actually required by the business",
+        "incremental_capital_required: additional capital needed to produce further growth in earnings",
+        "cash_generation_capacity: the business's ability to produce excess cash after supporting operations"
+      ],
+      "metric_usage_context": [
+        "return_on_tangible_capital: used to distinguish economically great businesses from merely cheap ones",
+        "incremental_capital_required: used to assess whether growth will absorb or release capital",
+        "cash_generation_capacity: used to identify businesses that can compound and fund redeployment"
+      ],
+      "metric_limitations": [
+        "return_on_tangible_capital: should be paired with durability and moat, not viewed as a one-period statistic only",
+        "incremental_capital_required: can be misread if maintenance and growth needs are not separated",
+        "cash_generation_capacity: may look temporarily high if the business is underinvesting"
+      ],
+      "performance_logic": [
+        "Wonderful businesses can raise prices, earn high returns on tangible capital, and require limited incremental capital.",
+        "Mediocre businesses may look cheap but often require continual reinvestment and do not scale well as capital compounds."
+      ],
+      "evaluation_questions": [
+        "Is this business merely cheap, or economically great?",
+        "Does it have durable pricing power?",
+        "Can it grow earnings with little incremental capital?",
+        "Is it a compounding machine or just a one-time bargain?"
+      ],
+      "diagnostic_signals": [
+        "Persistent high returns with limited capital needs",
+        "Ability to raise prices without losing relevance",
+        "Cheap valuation justified only by poor economics"
+      ],
+      "practical_rules": [
+        "Do not let cheapness outrank business quality.",
+        "Favor businesses that can produce cash repeatedly rather than one-time bargains.",
+        "Prioritize compounding franchise economics over discarded-cigar-butt opportunities."
+      ],
+      "example_buffett_phrasing": [
+        "wonderful businesses at fair prices",
+        "cigar butt"
+      ],
+      "tags": [
+        "business_quality",
+        "compounding",
+        "valuation_discipline",
+        "moat"
+      ]
+    },
+    {
+      "item_id": "2014_005",
+      "section": "Business-quality framework",
+      "subsection": "Focus on returns on tangible capital, not just reported earnings",
+      "principle_title": "Returns on tangible capital",
+      "principle_statement": "A superior business generates strong earnings relative to the unleveraged net tangible assets actually required to run it.",
+      "normalized_principle": "Judge business quality by earnings relative to tangible capital employed, not by reported earnings alone.",
+      "importance": "high",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "public_stock",
+        "private_business",
+        "acquisition_target",
+        "capital_allocator"
+      ],
+      "financial_metrics": [
+        "after_tax_earnings",
+        "net_tangible_assets",
+        "return_on_net_tangible_assets",
+        "incremental_return_on_capital",
+        "cash_earnings"
+      ],
+      "metric_definition": [
+        "after_tax_earnings: profits remaining after taxes from business operations",
+        "net_tangible_assets: tangible operating assets minus operating liabilities required by the business",
+        "return_on_net_tangible_assets: after-tax earnings earned relative to net tangible assets employed",
+        "incremental_return_on_capital: earnings generated by each additional unit of capital invested",
+        "cash_earnings: cash-based earnings available after considering business economics"
+      ],
+      "metric_usage_context": [
+        "after_tax_earnings: used as the numerator for judging economic productivity",
+        "net_tangible_assets: used as the relevant capital base rather than total accounting equity",
+        "return_on_net_tangible_assets: used to identify terrific, good, or weak economics",
+        "incremental_return_on_capital: used to test whether growth creates value",
+        "cash_earnings: used to connect reported profitability with reinvestment needs"
+      ],
+      "metric_limitations": [
+        "return_on_net_tangible_assets: can be overstated if business quality depends on heavy hidden reinvestment not captured in the period",
+        "after_tax_earnings: can be distorted by one-time items or leverage effects",
+        "net_tangible_assets: requires judgment when intangible assets or accounting conventions obscure required capital",
+        "cash_earnings: should not be used without considering maintenance needs"
+      ],
+      "performance_logic": [
+        "High earnings on modest tangible capital indicate a business that can compound with limited reinvestment burden.",
+        "Reported ROE can flatter economics when leverage or accounting intangibles distort the capital base."
+      ],
+      "evaluation_questions": [
+        "What are after-tax earnings relative to net tangible assets?",
+        "How much capital must be reinvested to maintain or grow earnings?",
+        "Is reported ROE inflated by leverage or accounting intangibles?",
+        "Is the business productive without financial engineering?"
+      ],
+      "diagnostic_signals": [
+        "Very high returns on unleveraged tangible capital",
+        "Solid double-digit returns without leverage dependence",
+        "Poor returns despite heavy capital employed"
+      ],
+      "practical_rules": [
+        "Compute return on net tangible assets whenever possible.",
+        "Pair returns analysis with incremental capital requirements.",
+        "Be skeptical of headline profitability that depends on leverage or accounting presentation."
+      ],
+      "example_buffett_phrasing": [
+        "returns on unleveraged net tangible assets",
+        "high profits with little capital"
+      ],
+      "tags": [
+        "tangible_capital",
+        "returns_on_capital",
+        "business_quality",
+        "capital_efficiency"
+      ]
+    },
+    {
+      "item_id": "2014_006",
+      "section": "Business-quality framework",
+      "subsection": "Great businesses often have an unrecorded intangible asset: a moat",
+      "principle_title": "Moats must show up economically",
+      "principle_statement": "The best businesses often possess economically real but weakly recorded intangible advantages such as brand, trust, cost position, or customer captivity, and these advantages should appear in durable returns and demand.",
+      "normalized_principle": "Treat a moat as an economically observable advantage that sustains superior returns, margins, or demand rather than as a slogan.",
+      "importance": "high",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "public_stock",
+        "private_business",
+        "acquisition_target"
+      ],
+      "financial_metrics": [
+        "operating_margin",
+        "return_on_capital",
+        "market_share",
+        "recurring_demand",
+        "capital_intensity"
+      ],
+      "metric_definition": [
+        "operating_margin: operating profit earned as a percentage of revenue",
+        "return_on_capital: profit earned relative to the capital required in the business",
+        "market_share: proportion of customer demand captured by the company",
+        "recurring_demand: repeat demand stability supported by customer behavior",
+        "capital_intensity: amount of capital required to support a given level of earnings"
+      ],
+      "metric_usage_context": [
+        "operating_margin: used as one place where pricing power or cost advantage can show up",
+        "return_on_capital: used to verify that the moat produces superior economics",
+        "market_share: used to test whether competitive advantage is durable in practice",
+        "recurring_demand: used to identify customer captivity or durable relevance",
+        "capital_intensity: used to assess whether the business can earn well without heavy asset burden"
+      ],
+      "metric_limitations": [
+        "operating_margin: may be temporarily high without a durable moat",
+        "market_share: can be high in a structurally poor business",
+        "return_on_capital: should be judged across time, not in a single favorable period",
+        "recurring_demand: may reflect inertia rather than true advantage if economics are deteriorating"
+      ],
+      "performance_logic": [
+        "A real moat permits superior economics to persist because competitors cannot easily replicate the advantage.",
+        "Economic evidence of a moat includes durable margins, returns, market position, or customer behavior."
+      ],
+      "evaluation_questions": [
+        "What allows the business to sustain returns above commodity levels?",
+        "Can competitors replicate the advantage?",
+        "Does the business have pricing power without losing relevance?",
+        "Is the advantage getting stronger, weaker, or staying stable?"
+      ],
+      "diagnostic_signals": [
+        "Sustained margins above commodity levels",
+        "High returns on capital across time",
+        "Durable market share and recurring demand",
+        "Low capital intensity relative to earnings"
+      ],
+      "practical_rules": [
+        "Do not accept moat claims without economic evidence.",
+        "Identify the specific source of advantage and then test whether it appears in numbers.",
+        "Track whether moat evidence is strengthening or eroding over time."
+      ],
+      "example_buffett_phrasing": [
+        "a moat is not a slogan",
+        "pricing power"
+      ],
+      "tags": [
+        "moat",
+        "competitive_advantage",
+        "intangibles",
+        "business_quality"
+      ]
+    },
+    {
+      "item_id": "2014_007",
+      "section": "Business-quality framework",
+      "subsection": "Low cost is often the strongest moat",
+      "principle_title": "Structural cost advantage",
+      "principle_statement": "A genuine structural cost advantage can be an enduring moat because it enables lower prices, customer savings, share gains, and attractive returns at the same time.",
+      "normalized_principle": "Favor businesses whose structural cost advantage reinforces scale, customer value, and returns.",
+      "importance": "high",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "public_stock",
+        "private_business",
+        "insurance_operation",
+        "acquisition_target"
+      ],
+      "financial_metrics": [
+        "cost_ratio",
+        "price_level",
+        "market_share",
+        "return_on_capital"
+      ],
+      "metric_definition": [
+        "cost_ratio: operating or underwriting cost relative to revenue or premium base",
+        "price_level: price charged to customers relative to competitors or customer alternatives",
+        "market_share: proportion of industry demand won by the company",
+        "return_on_capital: profits earned relative to the capital supporting the business"
+      ],
+      "metric_usage_context": [
+        "cost_ratio: used to identify whether the business truly has a lower-cost structure",
+        "price_level: used to test whether cost savings are shared with customers to widen the franchise",
+        "market_share: used to verify whether lower cost is translating into competitive gains",
+        "return_on_capital: used to confirm that lower cost still leaves attractive economics"
+      ],
+      "metric_limitations": [
+        "cost_ratio: can appear favorable temporarily if inputs are cyclically advantageous rather than structurally lower",
+        "price_level: low prices alone do not prove a moat if returns are poor",
+        "market_share: growth from discounting can be destructive if economics deteriorate",
+        "return_on_capital: must be tested alongside durability of the cost lead"
+      ],
+      "performance_logic": [
+        "A lower-cost producer can charge less, still earn well, attract more customers, and widen scale advantages.",
+        "Scale can then further reinforce cost leadership, making the moat self-reinforcing."
+      ],
+      "evaluation_questions": [
+        "Is the company the low-cost producer?",
+        "Is the cost gap structural or temporary?",
+        "Does lower cost translate into customer savings and share gains?",
+        "Is scale reinforcing the cost lead?"
+      ],
+      "diagnostic_signals": [
+        "Persistent lower costs than peers",
+        "Ability to price attractively while maintaining returns",
+        "Share gains consistent with customer value"
+      ],
+      "practical_rules": [
+        "Treat low cost as one of the strongest possible moats when it is structural.",
+        "Demand evidence in both customer outcomes and business economics.",
+        "Question moat claims that do not show either better economics or better customer value."
+      ],
+      "example_buffett_phrasing": [
+        "low cost is often the strongest moat",
+        "lower costs enable lower prices"
+      ],
+      "tags": [
+        "cost_advantage",
+        "moat",
+        "scale",
+        "pricing_power"
+      ]
+    },
+    {
+      "item_id": "2014_008",
+      "section": "Business-quality framework",
+      "subsection": "The best businesses require little incremental capital to grow",
+      "principle_title": "Incremental capital-light growth",
+      "principle_statement": "A business becomes much more valuable when earnings can grow without proportional reinvestment, allowing excess cash to fund other opportunities.",
+      "normalized_principle": "The highest-quality businesses can grow earnings with minimal incremental capital and thereby release cash for redeployment.",
+      "importance": "high",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "public_stock",
+        "private_business",
+        "capital_allocator",
+        "holding_company",
+        "conglomerate"
+      ],
+      "financial_metrics": [
+        "incremental_capital_required",
+        "incremental_earnings",
+        "incremental_return_on_capital",
+        "free_cash_flow"
+      ],
+      "metric_definition": [
+        "incremental_capital_required: additional capital needed to generate growth",
+        "incremental_earnings: extra earnings produced by growth investments",
+        "incremental_return_on_capital: incremental earnings relative to incremental capital invested",
+        "free_cash_flow: excess cash generated after supporting business needs"
+      ],
+      "metric_usage_context": [
+        "incremental_capital_required: used to judge whether growth consumes or releases cash",
+        "incremental_earnings: used to test whether retained earnings are productive",
+        "incremental_return_on_capital: used to determine if additional investment compounds value",
+        "free_cash_flow: used as evidence that one great business can finance a wider compounding system"
+      ],
+      "metric_limitations": [
+        "free_cash_flow: can be overstated if maintenance needs are understated",
+        "incremental_return_on_capital: requires enough time and clean measurement to evaluate properly",
+        "incremental_capital_required: can be obscured by acquisition accounting or mixed reported segments"
+      ],
+      "performance_logic": [
+        "When a business earns high returns and needs little new capital, retained earnings turn into cash available for redeployment.",
+        "This permits a capital allocator to use one strong franchise to fund other attractive opportunities."
+      ],
+      "evaluation_questions": [
+        "How much incremental capital is required for each additional dollar of earnings?",
+        "Does growth consume cash or release cash?",
+        "Are retained earnings producing high future earning power?"
+      ],
+      "diagnostic_signals": [
+        "Earnings growth without proportional balance-sheet growth",
+        "Strong free cash generation",
+        "High incremental returns alongside low reinvestment burden"
+      ],
+      "practical_rules": [
+        "Favor growth that is capital-light.",
+        "Track whether retained earnings are creating additional earning power.",
+        "Treat a cash-gushing franchise as a platform for wider capital compounding."
+      ],
+      "example_buffett_phrasing": [
+        "require little incremental capital to grow",
+        "gush cash over time"
+      ],
+      "tags": [
+        "incremental_capital",
+        "free_cash_flow",
+        "compounding",
+        "business_quality"
+      ]
+    },
+    {
+      "item_id": "2014_009",
+      "section": "Management framework",
+      "subsection": "Management quality is partly operational skill, partly capital allocation skill",
+      "principle_title": "Management as operator and allocator",
+      "principle_statement": "A great manager runs operations efficiently, thinks like an owner, allocates retained earnings rationally, protects culture and reputation, and avoids empire-building or optics-driven behavior.",
+      "normalized_principle": "Evaluate management not only by operating performance but also by owner-oriented capital allocation and stewardship.",
+      "importance": "high",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "management_team",
+        "capital_allocator",
+        "private_business",
+        "public_stock",
+        "holding_company",
+        "conglomerate"
+      ],
+      "financial_metrics": [
+        "retained_earnings",
+        "per_share_intrinsic_value",
+        "return_on_incremental_capital"
+      ],
+      "metric_definition": [
+        "retained_earnings: earnings kept inside the business rather than distributed",
+        "per_share_intrinsic_value: economic value per share created for owners over time",
+        "return_on_incremental_capital: value or earnings produced by additional capital under management's control"
+      ],
+      "metric_usage_context": [
+        "retained_earnings: used to judge whether management is deploying owner capital intelligently",
+        "per_share_intrinsic_value: used as the owner-oriented scoreboard for managerial decisions",
+        "return_on_incremental_capital: used to assess whether management's capital allocation decisions create value"
+      ],
+      "metric_limitations": [
+        "retained_earnings: should not be praised automatically without evidence of productive use",
+        "per_share_intrinsic_value: must be estimated thoughtfully rather than inferred from stock price alone",
+        "return_on_incremental_capital: can be hard to isolate when many capital decisions overlap"
+      ],
+      "performance_logic": [
+        "Management decisions determine whether internally generated cash compounds value or is wasted in empire-building, leverage, or optics.",
+        "Operational excellence without rational capital allocation leaves value on the table."
+      ],
+      "evaluation_questions": [
+        "Does management think like an owner or a promoter?",
+        "Are retained earnings used intelligently?",
+        "Does management prioritize intrinsic value or accounting optics?",
+        "Does management admit mistakes?",
+        "Does management avoid leverage-driven or EPS-driven games?"
+      ],
+      "diagnostic_signals": [
+        "Owner-like communication and action",
+        "Rational use of retained earnings",
+        "Resistance to promotional or empire-building behavior"
+      ],
+      "practical_rules": [
+        "Assess managers as both operators and investors.",
+        "Judge decisions by per-share intrinsic value impact.",
+        "Discount managers who rely on leverage, promotion, or size-building."
+      ],
+      "example_buffett_phrasing": [
+        "acts like an owner",
+        "allocates retained earnings rationally"
+      ],
+      "tags": [
+        "management_quality",
+        "capital_allocation",
+        "owner_orientation",
+        "stewardship"
+      ]
+    },
+    {
+      "item_id": "2014_010",
+      "section": "Management framework",
+      "subsection": "Shareholder orientation is a real economic asset",
+      "principle_title": "Shareholder alignment",
+      "principle_statement": "Shareholder-oriented managers improve capital allocation and reduce value-destructive behavior through candor, long-term thinking, rational repurchases, restrained issuance, and incentives aligned with owners.",
+      "normalized_principle": "Treat shareholder alignment as an economic asset because it improves capital allocation and limits self-serving behavior.",
+      "importance": "high",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "management_team",
+        "shareholder",
+        "public_stock",
+        "capital_allocator",
+        "board"
+      ],
+      "financial_metrics": [
+        "share_repurchases",
+        "share_issuance",
+        "management_ownership"
+      ],
+      "metric_definition": [
+        "share_repurchases: company purchases of its own outstanding shares",
+        "share_issuance: issuance of new equity that affects ownership claims",
+        "management_ownership: management's meaningful personal ownership in the business"
+      ],
+      "metric_usage_context": [
+        "share_repurchases: used as one signal of owner-minded capital deployment when done rationally",
+        "share_issuance: used to test whether management is transferring value away from continuing owners",
+        "management_ownership: used as one indicator that incentives may align with long-term owner outcomes"
+      ],
+      "metric_limitations": [
+        "management_ownership: does not prove good behavior without evidence of rational decisions",
+        "share_repurchases: can be destructive when done above intrinsic value",
+        "share_issuance: is not automatically bad if equal-or-greater intrinsic value is received"
+      ],
+      "performance_logic": [
+        "Aligned managers are more likely to refrain from promotional narratives, empire-building, or fashionable but foolish moves.",
+        "Better alignment increases the odds that retained cash and equity currency are used in owners' interests."
+      ],
+      "evaluation_questions": [
+        "Does management act like a partner to shareholders?",
+        "Is communication candid?",
+        "Are incentives aligned with long-term value creation?",
+        "Is management willing to do nothing when no good opportunity exists?"
+      ],
+      "diagnostic_signals": [
+        "Honest communication",
+        "Restrained stock issuance",
+        "Rational repurchases",
+        "Long-term orientation"
+      ],
+      "practical_rules": [
+        "Look for owner-minded behavior in both words and capital decisions.",
+        "Do not assume alignment from slogans alone.",
+        "Treat candor and restraint as economically meaningful."
+      ],
+      "example_buffett_phrasing": [
+        "shareholder-oriented",
+        "acts like a partner to shareholders"
+      ],
+      "tags": [
+        "shareholder_alignment",
+        "management_quality",
+        "capital_allocation",
+        "governance"
+      ]
+    },
+    {
+      "item_id": "2014_011",
+      "section": "Management framework",
+      "subsection": "Character matters as much as brilliance",
+      "principle_title": "Character as an economic variable",
+      "principle_statement": "Trustworthiness, rationality, calmness, decisiveness, and resistance to ego, greed, bureaucracy, arrogance, and complacency are economically material traits for managers and capital allocators.",
+      "normalized_principle": "For leaders and capital allocators, character is a hard economic variable because it shapes decision quality under stress and across time.",
+      "importance": "high",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "management_team",
+        "capital_allocator",
+        "board",
+        "public_stock",
+        "private_business"
+      ],
+      "financial_metrics": [],
+      "metric_definition": [],
+      "metric_usage_context": [],
+      "metric_limitations": [],
+      "performance_logic": [
+        "Capital allocation errors often come from ego, promotion, complacency, or poor temperament rather than from missing formulas.",
+        "Trustworthy and rational leaders are more likely to preserve culture, avoid ruinous behavior, and make sound long-term decisions."
+      ],
+      "evaluation_questions": [
+        "Would you trust this person with all your capital for decades?",
+        "Does the leader under-promise and allocate carefully?",
+        "Do they seek applause and headlines, or results?",
+        "Can they resist arrogance, bureaucracy, and complacency?"
+      ],
+      "diagnostic_signals": [
+        "Calmness under stress",
+        "Low-ego communication",
+        "Stewardship rather than promotion",
+        "Resistance to bureaucratic decay"
+      ],
+      "practical_rules": [
+        "Treat temperament and character as part of valuation and risk analysis.",
+        "Avoid leaders who are promotional, ego-driven, or complacent.",
+        "Favor managers whose behavior remains rational under pressure."
+      ],
+      "example_buffett_phrasing": [
+        "character is not soft",
+        "ABCs of decline: arrogance, bureaucracy, complacency"
+      ],
+      "tags": [
+        "character",
+        "management_quality",
+        "risk_control",
+        "culture"
+      ]
+    },
+    {
+      "item_id": "2014_012",
+      "section": "Capital allocation framework",
+      "subsection": "Capital allocation is central to business value",
+      "principle_title": "Capital allocation building blocks",
+      "principle_statement": "A business compounds through a limited set of actions: improving basic earning power, bolt-on acquisitions, benefiting from investee growth, repurchasing undervalued shares, and occasional large acquisitions.",
+      "normalized_principle": "Assess corporate compounding through the core capital-allocation levers management actually controls.",
+      "importance": "high",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "capital_allocator",
+        "management_team",
+        "holding_company",
+        "conglomerate",
+        "public_stock",
+        "private_business"
+      ],
+      "financial_metrics": [
+        "earning_power",
+        "acquisition_price",
+        "look_through_earnings",
+        "share_repurchases"
+      ],
+      "metric_definition": [
+        "earning_power: normalized profit-generating ability of the core business",
+        "acquisition_price: price paid for bolt-on or large acquisitions",
+        "look_through_earnings: economic earnings attributable through minority investees",
+        "share_repurchases: retirement of undervalued shares to increase per-share value"
+      ],
+      "metric_usage_context": [
+        "earning_power: used to judge improvement in the core business",
+        "acquisition_price: used to test whether external growth is sensibly priced",
+        "look_through_earnings: used to capture value from investees beyond reported dividends",
+        "share_repurchases: used as one of the few explicit levers for increasing per-share intrinsic value"
+      ],
+      "metric_limitations": [
+        "acquisition_price: must be paired with quality and fit, not price alone",
+        "share_repurchases: help only when shares are below intrinsic value",
+        "look_through_earnings: may be obscured by accounting that recognizes dividends rather than retained value"
+      ],
+      "performance_logic": [
+        "Long-run compounding depends less on abstract strategy and more on a handful of repeatable capital-allocation decisions.",
+        "Management quality can therefore be judged by how intelligently and selectively these levers are used."
+      ],
+      "evaluation_questions": [
+        "Is management improving the core business?",
+        "Are bolt-ons done at sensible prices?",
+        "Is there value from minority investees?",
+        "Are repurchases rational?",
+        "Are large acquisitions selective and value-accretive?"
+      ],
+      "diagnostic_signals": [
+        "Consistent core earning-power improvement",
+        "Disciplined bolt-ons in familiar areas",
+        "Value-accretive repurchases rather than prestige actions"
+      ],
+      "practical_rules": [
+        "Map value creation to specific capital-allocation levers.",
+        "Do not praise activity that cannot be tied to one of the core compounding mechanisms.",
+        "Evaluate management by execution quality across these levers."
+      ],
+      "example_buffett_phrasing": [
+        "five building blocks",
+        "improve basic earning power"
+      ],
+      "tags": [
+        "capital_allocation",
+        "compounding",
+        "repurchases",
+        "acquisitions"
+      ]
+    },
+    {
+      "item_id": "2014_013",
+      "section": "Capital allocation framework",
+      "subsection": "Retained earnings are only justified if they create more than one dollar of market value per dollar retained",
+      "principle_title": "Retained earnings as an investment decision",
+      "principle_statement": "Retained earnings should be judged like any other investment: they are justified only if management can turn each retained dollar into more than a dollar of market value or intrinsic value over time.",
+      "normalized_principle": "Retained earnings deserve to stay inside the business only when management can reinvest them at attractive incremental returns.",
+      "importance": "high",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "capital_allocator",
+        "management_team",
+        "public_stock",
+        "private_business",
+        "shareholder"
+      ],
+      "financial_metrics": [
+        "retained_earnings",
+        "market_value_creation",
+        "per_share_earning_power",
+        "intrinsic_value_growth"
+      ],
+      "metric_definition": [
+        "retained_earnings: earnings kept for reinvestment rather than distributed",
+        "market_value_creation: increase in market value attributable to capital retained over time",
+        "per_share_earning_power: owner-level earning power on a per-share basis",
+        "intrinsic_value_growth: increase in estimated economic value over time"
+      ],
+      "metric_usage_context": [
+        "retained_earnings: treated as investor capital management has chosen to allocate",
+        "market_value_creation: used as one scoreboard for whether retained dollars were productive",
+        "per_share_earning_power: used to test whether retained capital improved owner economics",
+        "intrinsic_value_growth: used as the ultimate judgment of retained-capital success"
+      ],
+      "metric_limitations": [
+        "market_value_creation: may be noisy over shorter periods because market quotations fluctuate",
+        "retained_earnings: are not justified merely because earnings exist; returns on them matter",
+        "per_share_earning_power: should be tracked over multiple years rather than a single period",
+        "intrinsic_value_growth: must be estimated thoughtfully, not inferred blindly from stock movement"
+      ],
+      "performance_logic": [
+        "Retained capital compounds value only when management can earn attractive incremental returns or otherwise increase owner value materially.",
+        "If management cannot do that, shareholders would often be better off receiving the cash."
+      ],
+      "evaluation_questions": [
+        "What has management earned on incremental retained capital?",
+        "Would shareholders be better off receiving the cash?",
+        "Has retained capital increased intrinsic value at attractive rates?"
+      ],
+      "diagnostic_signals": [
+        "Large retained earnings without matching per-share progress",
+        "Multi-year value creation below capital retained",
+        "Management unable to explain productive use of retained cash"
+      ],
+      "practical_rules": [
+        "Track retained earnings against per-share earning power and intrinsic value over multi-year windows.",
+        "Treat retention as a capital-allocation choice, not a default virtue.",
+        "Favor businesses that can demonstrably reinvest at high rates."
+      ],
+      "example_buffett_phrasing": [
+        "more than one dollar of market value per dollar retained",
+        "retained earnings must be judged as an investment decision"
+      ],
+      "tags": [
+        "retained_earnings",
+        "incremental_returns",
+        "capital_allocation",
+        "shareholder_value"
+      ]
+    },
+    {
+      "item_id": "2014_014",
+      "section": "Capital allocation framework",
+      "subsection": "Repurchases make sense only below intrinsic value",
+      "principle_title": "Intrinsic-value-based buybacks",
+      "principle_statement": "Repurchasing undervalued shares increases per-share intrinsic value, while repurchasing overvalued shares destroys value.",
+      "normalized_principle": "Buy back stock only when shares trade below intrinsic value and the repurchase threshold is tied to value rather than optics.",
+      "importance": "high",
+      "time_horizon": "medium_term",
+      "applies_to": [
+        "public_stock",
+        "capital_allocator",
+        "management_team",
+        "shareholder",
+        "board"
+      ],
+      "financial_metrics": [
+        "share_repurchases",
+        "intrinsic_value",
+        "per_share_intrinsic_value"
+      ],
+      "metric_definition": [
+        "share_repurchases: company purchases and retirement of its own shares",
+        "intrinsic_value: estimated economic worth of the whole business",
+        "per_share_intrinsic_value: intrinsic business value attributable to each remaining share after repurchases"
+      ],
+      "metric_usage_context": [
+        "share_repurchases: used as a capital-allocation tool for increasing each remaining owner's claim on value",
+        "intrinsic_value: used as the threshold for deciding whether buybacks are intelligent or destructive",
+        "per_share_intrinsic_value: used to judge whether the repurchase benefits continuing owners"
+      ],
+      "metric_limitations": [
+        "share_repurchases: can be misused for EPS optics or prestige",
+        "intrinsic_value: must be estimated conservatively because repurchase decisions depend on it",
+        "per_share_intrinsic_value: can be confused with EPS accretion, which is not enough by itself"
+      ],
+      "performance_logic": [
+        "When a company buys back shares below intrinsic value, each remaining share owns a larger proportion of business worth at an attractive exchange rate.",
+        "Buying back expensive shares transfers value away from continuing owners."
+      ],
+      "evaluation_questions": [
+        "Is the company buying back stock at a discount to intrinsic value?",
+        "Is management repurchasing because it lacks ideas, wants EPS optics, or truly sees undervaluation?",
+        "Is the repurchase threshold clearly tied to value?"
+      ],
+      "diagnostic_signals": [
+        "Automatic buybacks without valuation discipline",
+        "Repurchase rationale centered on EPS or headlines",
+        "Management unwilling to state a value-based threshold"
+      ],
+      "practical_rules": [
+        "Require a value-based buyback discipline.",
+        "Ignore EPS accretion unless intrinsic value economics also improve.",
+        "Treat repurchases above intrinsic value as value destruction."
+      ],
+      "example_buffett_phrasing": [
+        "repurchases below intrinsic value",
+        "repurchasing overvalued shares destroys value"
+      ],
+      "tags": [
+        "buybacks",
+        "intrinsic_value",
+        "capital_allocation",
+        "per_share_value"
+      ]
+    },
+    {
+      "item_id": "2014_015",
+      "section": "Capital allocation framework",
+      "subsection": "Share issuance is costly and should be rare",
+      "principle_title": "Equity as expensive currency",
+      "principle_statement": "Issuing undervalued shares transfers wealth from continuing owners, so stock should be used only when the company receives equal-or-greater intrinsic value in return.",
+      "normalized_principle": "Treat equity issuance as a real economic cost and judge stock deals by intrinsic value exchanged, not by EPS optics or conventional premiums.",
+      "importance": "high",
+      "time_horizon": "medium_term",
+      "applies_to": [
+        "public_stock",
+        "capital_allocator",
+        "management_team",
+        "board",
+        "acquisition_target",
+        "shareholder"
+      ],
+      "financial_metrics": [
+        "share_issuance",
+        "intrinsic_value_given",
+        "intrinsic_value_received",
+        "earnings_per_share"
+      ],
+      "metric_definition": [
+        "share_issuance: creation of new shares used to raise capital or pay for acquisitions",
+        "intrinsic_value_given: economic value transferred from continuing owners through issued shares",
+        "intrinsic_value_received: economic value obtained in exchange for issued shares",
+        "earnings_per_share: accounting earnings attributable to each share"
+      ],
+      "metric_usage_context": [
+        "share_issuance: used to evaluate whether ownership dilution is justified economically",
+        "intrinsic_value_given: used as the true cost in a stock-for-stock transaction",
+        "intrinsic_value_received: used as the true benefit received in exchange",
+        "earnings_per_share: explicitly rejected as a sufficient decision rule for judging stock deals"
+      ],
+      "metric_limitations": [
+        "earnings_per_share: can make a deal look accretive while owner value declines",
+        "share_issuance: is not automatically bad if intrinsic value received is at least equal",
+        "intrinsic_value_given: requires honest appraisal of the issuer's own shares",
+        "intrinsic_value_received: can be overstated by optimistic synergy or banker narratives"
+      ],
+      "performance_logic": [
+        "Equity is a currency, and using undervalued equity to buy inferior assets is like exchanging more value for less value.",
+        "Customary premiums, fairness opinions, and EPS accretion can obscure the real owner economics of a stock deal."
+      ],
+      "evaluation_questions": [
+        "When stock is issued, is the company receiving at least equal intrinsic value?",
+        "Is management using stock merely because it appears cheap in accounting or EPS terms?",
+        "What is the intrinsic value given versus intrinsic value received?"
+      ],
+      "diagnostic_signals": [
+        "Deal rationale dominated by EPS accretion",
+        "Heavy reliance on banker fairness opinions or vague synergies",
+        "Frequent stock issuance despite undervaluation concerns"
+      ],
+      "practical_rules": [
+        "Never judge stock-for-stock deals by EPS accretion alone.",
+        "Calculate intrinsic value given and intrinsic value received.",
+        "Issue stock rarely and only when the exchange is clearly favorable."
+      ],
+      "example_buffett_phrasing": [
+        "a hundred-dollar bill for eight tens",
+        "intrinsic value given vs intrinsic value received"
+      ],
+      "tags": [
+        "share_issuance",
+        "stock_deals",
+        "intrinsic_value",
+        "capital_allocation"
+      ]
+    },
+    {
+      "item_id": "2014_016",
+      "section": "Acquisition framework",
+      "subsection": "Buffett’s explicit acquisition checklist",
+      "principle_title": "Acquisition checklist",
+      "principle_statement": "Preferred acquisitions are large enough to matter, have demonstrated consistent earning power, earn good returns on equity with little or no debt, are simple, have management in place, and come with an offering price.",
+      "normalized_principle": "Acquire proven, understandable, financially sound businesses with capable management already in place and a realistic seller.",
+      "importance": "high",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "acquisition_target",
+        "capital_allocator",
+        "holding_company",
+        "conglomerate",
+        "private_business"
+      ],
+      "financial_metrics": [
+        "consistent_earning_power",
+        "return_on_equity",
+        "debt_level",
+        "offering_price"
+      ],
+      "metric_definition": [
+        "consistent_earning_power: demonstrated history of stable or durable earnings generation",
+        "return_on_equity: earnings earned relative to shareholder equity",
+        "debt_level: amount of leverage required to support returns",
+        "offering_price: explicit seller price at which a transaction is possible"
+      ],
+      "metric_usage_context": [
+        "consistent_earning_power: used to avoid aspirational or turnaround-based acquisition cases",
+        "return_on_equity: used to test whether the target earns attractive returns",
+        "debt_level: used to verify that returns are not dependent on leverage",
+        "offering_price: used to focus on realistic transactions rather than vague interest"
+      ],
+      "metric_limitations": [
+        "return_on_equity: should be read alongside debt because leverage can flatter the metric",
+        "consistent_earning_power: may still require judgment about cyclicality and durability",
+        "offering_price: a named price is not enough if the economics are poor"
+      ],
+      "performance_logic": [
+        "The best acquisitions are self-sufficient businesses with proven economics rather than stories that require rescue, forecasting heroics, or operational overhaul.",
+        "Simplicity and management already in place reduce integration risk and headquarters burden."
+      ],
+      "evaluation_questions": [
+        "Does the company have a long, demonstrated earnings record?",
+        "Is performance dependent on optimistic projections or turnaround hopes?",
+        "Does the business earn attractive returns without leverage?",
+        "Is management already capable and trustworthy?",
+        "Is the business understandable enough to value?",
+        "Is the seller serious enough to name a price?"
+      ],
+      "diagnostic_signals": [
+        "Long record of demonstrated earning power",
+        "Good returns with little debt",
+        "Existing strong management",
+        "Simple understandable economics"
+      ],
+      "practical_rules": [
+        "Avoid aspirational and turnaround acquisitions.",
+        "Prefer understandable businesses already producing good economics.",
+        "Require a serious seller and a price before spending time deeply."
+      ],
+      "example_buffett_phrasing": [
+        "demonstrated consistent earning power",
+        "good returns on equity with little or no debt"
+      ],
+      "tags": [
+        "acquisition_checklist",
+        "earning_power",
+        "debt_discipline",
+        "management_in_place"
+      ]
+    },
+    {
+      "item_id": "2014_017",
+      "section": "Acquisition framework",
+      "subsection": "Avoid auctions and unfriendly deals",
+      "principle_title": "Auction avoidance",
+      "principle_statement": "Competitive auctions and unfriendly processes tend to raise prices, reward optimism, and favor ego over discipline, worsening future returns for buyers.",
+      "normalized_principle": "Avoid acquisition processes designed to maximize seller proceeds at the buyer’s expense.",
+      "importance": "medium",
+      "time_horizon": "medium_term",
+      "applies_to": [
+        "acquisition_target",
+        "capital_allocator",
+        "holding_company",
+        "conglomerate"
+      ],
+      "financial_metrics": [
+        "purchase_price",
+        "expected_return"
+      ],
+      "metric_definition": [
+        "purchase_price: total price paid to acquire a business",
+        "expected_return: return likely to be earned on the acquisition from the buyer's perspective"
+      ],
+      "metric_usage_context": [
+        "purchase_price: used as the immediate variable most auctions tend to worsen",
+        "expected_return: used as the downstream consequence when price rises and discipline weakens"
+      ],
+      "metric_limitations": [
+        "purchase_price: a high price can still be justified in rare cases by exceptional economics, but auctions bias against that outcome",
+        "expected_return: depends on disciplined underwriting of business quality, not price alone"
+      ],
+      "performance_logic": [
+        "Auctions attract optimistic assumptions and competitive behavior that cause buyers to overpay.",
+        "Higher prices and ego-driven bidding compress future returns and increase the odds of regret."
+      ],
+      "evaluation_questions": [
+        "Is the process structured to maximize seller proceeds at your expense?",
+        "Are you being pulled into overpaying because of competition?",
+        "Would walking away improve expected returns?"
+      ],
+      "diagnostic_signals": [
+        "Competitive bidding pressure",
+        "Escalating optimism to justify price",
+        "Process dynamics rewarding speed and ego rather than discipline"
+      ],
+      "practical_rules": [
+        "Prefer direct, friendly, trust-based processes.",
+        "Walk away when competitive structure undermines expected returns.",
+        "Do not let process pressure replace valuation discipline."
+      ],
+      "example_buffett_phrasing": [
+        "avoid auctions",
+        "unfriendly deals"
+      ],
+      "tags": [
+        "acquisition_discipline",
+        "auction_risk",
+        "price_discipline"
+      ]
+    },
+    {
+      "item_id": "2014_018",
+      "section": "Insurance framework",
+      "subsection": "Insurance economics must be analyzed through both underwriting and float",
+      "principle_title": "Insurance = underwriting plus float",
+      "principle_statement": "Insurance value comes from two engines: underwriting result and the value of investable float, with the best case being underwriting profit plus valuable float plus investment income.",
+      "normalized_principle": "Analyze insurers through the combined economics of underwriting profitability and float quality rather than through reported assets or premium volume alone.",
+      "importance": "high",
+      "time_horizon": "cross_cycle",
+      "applies_to": [
+        "insurance_operation",
+        "public_stock",
+        "private_business",
+        "capital_allocator"
+      ],
+      "financial_metrics": [
+        "underwriting_result",
+        "underwriting_profit",
+        "float",
+        "cost_of_float",
+        "investment_income"
+      ],
+      "metric_definition": [
+        "underwriting_result: profit or loss from insurance operations before investment income",
+        "underwriting_profit: positive underwriting result earned from disciplined pricing and risk selection",
+        "float: investable funds held from policyholders before claims are paid",
+        "cost_of_float: economic cost of carrying float as implied by underwriting results",
+        "investment_income: income earned by investing float and other insurance assets"
+      ],
+      "metric_usage_context": [
+        "underwriting_result: used to judge whether the insurance operation itself is profitable",
+        "float: used to assess the amount of investable funds the insurer can employ",
+        "cost_of_float: used to determine whether float is valuable, neutral, or expensive",
+        "investment_income: used as the additional return generated when float is invested intelligently"
+      ],
+      "metric_limitations": [
+        "float: should not be treated as valuable merely because it is large; cost and durability matter",
+        "underwriting_result: can look good temporarily if reserves or pricing are not conservative",
+        "investment_income: cannot rescue a chronically poor underwriting business indefinitely",
+        "cost_of_float: must be assessed across time because one period may mislead"
+      ],
+      "performance_logic": [
+        "An excellent insurer gets paid to hold float or at least bears little cost, then invests that float intelligently.",
+        "A poor insurer can destroy value when underwriting losses swamp any benefit from float."
+      ],
+      "evaluation_questions": [
+        "Is the insurer consistently profitable on underwriting?",
+        "Is float stable, growing, or shrinking?",
+        "What is the cost of float?",
+        "Is float long-duration and dependable?",
+        "Can management invest float intelligently?"
+      ],
+      "diagnostic_signals": [
+        "Consistent underwriting profit",
+        "Stable or growing float",
+        "Float carried at low or negative cost",
+        "Strong investment discipline"
+      ],
+      "practical_rules": [
+        "Always analyze underwriting and float together.",
+        "Do not praise premium growth without checking underwriting economics.",
+        "Treat float quality as a function of cost and durability."
+      ],
+      "example_buffett_phrasing": [
+        "underwriting result",
+        "value of investable float"
+      ],
+      "tags": [
+        "insurance",
+        "underwriting",
+        "float",
+        "investment_income"
+      ]
+    },
+    {
+      "item_id": "2014_019",
+      "section": "Insurance framework",
+      "subsection": "Float is not just a liability; its economic value depends on cost and durability",
+      "principle_title": "Float economics",
+      "principle_statement": "Accounting treats float as a liability, but economically it can be a highly valuable revolving funding source if it is low-cost, durable, and not vulnerable to sudden withdrawal.",
+      "normalized_principle": "Judge float by its cost, duration, and stability rather than by its accounting label alone.",
+      "importance": "high",
+      "time_horizon": "cross_cycle",
+      "applies_to": [
+        "insurance_operation",
+        "balance_sheet",
+        "capital_allocator"
+      ],
+      "financial_metrics": [
+        "float",
+        "cost_of_float",
+        "duration_of_float",
+        "liquidity_resources"
+      ],
+      "metric_definition": [
+        "float: funds held from policyholders before ultimate claim payment",
+        "cost_of_float: underwriting-derived economic cost of carrying float",
+        "duration_of_float: persistence and longevity of float before payout",
+        "liquidity_resources: cash and other resources available to meet claim obligations"
+      ],
+      "metric_usage_context": [
+        "float: used as a funding source whose value depends on its economics rather than accounting form",
+        "cost_of_float: used to determine whether float is better-than-costless, roughly neutral, or expensive",
+        "duration_of_float: used to assess whether float behaves like revolving funding rather than near-term cash demand",
+        "liquidity_resources: used to ensure liabilities are matched with payment capacity"
+      ],
+      "metric_limitations": [
+        "float: can disappear or become costly if underwriting deteriorates or liabilities shorten",
+        "duration_of_float: should not be assumed from current balance-sheet size alone",
+        "cost_of_float: may worsen quickly if pricing discipline erodes",
+        "liquidity_resources: must be sufficient for extreme scenarios, not only normal ones"
+      ],
+      "performance_logic": [
+        "A revolving liability that is constantly replenished at low or negative cost can behave economically like attractive funding.",
+        "A liability that leaves quickly or costs too much destroys that advantage."
+      ],
+      "evaluation_questions": [
+        "Is float durable?",
+        "Is the insurer being paid to hold it, roughly breaking even, or paying dearly for it?",
+        "Could float disappear suddenly?",
+        "Are liabilities matched to cash resources?"
+      ],
+      "diagnostic_signals": [
+        "Long-enduring float base",
+        "Low or negative cost of float",
+        "No signs of sudden-withdrawal vulnerability"
+      ],
+      "practical_rules": [
+        "Translate float from accounting form into economic substance.",
+        "Analyze both liability timing and underwriting cost.",
+        "Demand strong liquidity against potential claim flows."
+      ],
+      "example_buffett_phrasing": [
+        "not just a liability",
+        "cost and durability"
+      ],
+      "tags": [
+        "float",
+        "insurance",
+        "liability_analysis",
+        "funding_quality"
+      ]
+    },
+    {
+      "item_id": "2014_020",
+      "section": "Insurance framework",
+      "subsection": "Underwriting discipline is non-negotiable",
+      "principle_title": "Four-part underwriting discipline",
+      "principle_statement": "Insurance quality depends on understanding exposures, assessing probability and severity conservatively, setting adequate premiums, and walking away when the premium is inadequate.",
+      "normalized_principle": "Superior insurance economics require underwriting discipline strong enough to reject underpriced business even under competitive pressure.",
+      "importance": "high",
+      "time_horizon": "cross_cycle",
+      "applies_to": [
+        "insurance_operation",
+        "management_team",
+        "capital_allocator"
+      ],
+      "financial_metrics": [
+        "premium_adequacy",
+        "loss_ratio",
+        "reserve_adequacy",
+        "underwriting_result"
+      ],
+      "metric_definition": [
+        "premium_adequacy: whether premium charged is sufficient for expected loss, expenses, and acceptable return",
+        "loss_ratio: claims incurred relative to premiums earned",
+        "reserve_adequacy: sufficiency of claim reserves relative to ultimate obligations",
+        "underwriting_result: profit or loss from insurance operations before investment income"
+      ],
+      "metric_usage_context": [
+        "premium_adequacy: used as the key test of whether business should be written at all",
+        "loss_ratio: used to observe whether pricing and risk selection are working",
+        "reserve_adequacy: used to judge conservatism in loss recognition",
+        "underwriting_result: used as the overall summary of underwriting discipline"
+      ],
+      "metric_limitations": [
+        "underwriting_result: may flatter results if reserve estimates are weak",
+        "loss_ratio: one period can be noisy in catastrophe or specialty lines",
+        "premium_adequacy: requires judgment about exposure severity and tail risk"
+      ],
+      "performance_logic": [
+        "Insurance fails when companies understand risk and pricing in theory but still write underpriced business to preserve volume.",
+        "The ability to walk away under pressure is what protects underwriting quality."
+      ],
+      "evaluation_questions": [
+        "Does management understand the risks written?",
+        "Are reserves and pricing conservative?",
+        "Does the company refuse underpriced business?",
+        "Can it tolerate competitors writing dumb business without following them?"
+      ],
+      "diagnostic_signals": [
+        "Discipline in refusing inadequately priced risks",
+        "Conservative reserves",
+        "Consistent underwriting profitability across time"
+      ],
+      "practical_rules": [
+        "Test underwriting discipline directly, not through premium growth.",
+        "Treat failure to walk away as a major red flag.",
+        "Pair pricing analysis with reserve conservatism."
+      ],
+      "example_buffett_phrasing": [
+        "walk away if the premium is inadequate",
+        "underwriting discipline is non-negotiable"
+      ],
+      "tags": [
+        "underwriting",
+        "insurance",
+        "pricing_discipline",
+        "reserve_quality"
+      ]
+    },
+    {
+      "item_id": "2014_021",
+      "section": "Regulated and capital-intensive business framework",
+      "subsection": "Some capital-intensive businesses are excellent if regulation and economics support them",
+      "principle_title": "Good capital-intensive economics",
+      "principle_statement": "A capital-intensive business can still be highly attractive when it owns essential long-lived assets, faces persistent demand, operates under reasonable regulation, maintains strong interest coverage, and can reinvest large sums at acceptable returns.",
+      "normalized_principle": "Do not reject capital-intensive businesses automatically; prefer those with essential assets, durable demand, fair regulatory economics, and room to reinvest at decent returns.",
+      "importance": "medium",
+      "time_horizon": "cross_cycle",
+      "applies_to": [
+        "public_stock",
+        "private_business",
+        "balance_sheet",
+        "holding_company",
+        "conglomerate"
+      ],
+      "financial_metrics": [
+        "interest_coverage",
+        "regulated_return",
+        "reinvestment_opportunity",
+        "debt_support"
+      ],
+      "metric_definition": [
+        "interest_coverage: operating or pre-tax earnings available relative to interest obligations",
+        "regulated_return: return allowed or achievable under the regulatory regime",
+        "reinvestment_opportunity: capacity to deploy large sums into productive projects over time",
+        "debt_support: degree to which debt is safely supported by operating earnings or ring-fenced from the parent"
+      ],
+      "metric_usage_context": [
+        "interest_coverage: used instead of EBITDA-heavy framing to judge financing resilience",
+        "regulated_return: used to determine whether the business can earn acceptable economics despite regulation",
+        "reinvestment_opportunity: used to assess whether large capital needs are actually an attractive avenue for compounding",
+        "debt_support: used to test whether leverage is sensible and parent risk is contained"
+      ],
+      "metric_limitations": [
+        "regulated_return: depends on the stability and fairness of the regime, not a static formula",
+        "interest_coverage: must use real earnings rather than flattering EBITDA substitutes",
+        "reinvestment_opportunity: can be value-destructive if returns are inadequate"
+      ],
+      "performance_logic": [
+        "Essential infrastructure can be attractive when society needs continual investment and regulation permits fair returns on that capital.",
+        "Large reinvestment needs become a strength rather than a weakness when capital can be deployed safely at acceptable rates."
+      ],
+      "evaluation_questions": [
+        "Is the asset base essential?",
+        "Is demand persistent and difficult to displace?",
+        "Are returns regulated but adequate?",
+        "Can large amounts of capital be deployed at acceptable rates?",
+        "Is debt well supported by operating earnings?"
+      ],
+      "diagnostic_signals": [
+        "Essential long-lived assets",
+        "Persistent demand",
+        "Reasonable regulation",
+        "Strong interest coverage"
+      ],
+      "practical_rules": [
+        "Analyze regulation and reinvestment economics before dismissing capital intensity.",
+        "Use real earnings and interest coverage, not EBITDA shortcuts.",
+        "Prefer structures where parent exposure is limited and operating earnings support obligations."
+      ],
+      "example_buffett_phrasing": [
+        "capital-intensive business can still be highly attractive",
+        "strong interest coverage"
+      ],
+      "tags": [
+        "capital_intensity",
+        "regulation",
+        "interest_coverage",
+        "infrastructure"
+      ]
+    },
+    {
+      "item_id": "2014_022",
+      "section": "Regulated and capital-intensive business framework",
+      "subsection": "EBITDA is not a sound substitute for real earnings in capital-intensive businesses",
+      "principle_title": "Reject EBITDA in asset-heavy analysis",
+      "principle_statement": "Depreciation is usually a real economic expense in asset-heavy industries, so EBITDA can flatter businesses that require substantial maintenance capital and real financing support.",
+      "normalized_principle": "In capital-intensive businesses, value the economics after real depreciation and maintenance needs rather than relying on EBITDA.",
+      "importance": "high",
+      "time_horizon": "cross_cycle",
+      "applies_to": [
+        "public_stock",
+        "private_business",
+        "balance_sheet",
+        "lender"
+      ],
+      "financial_metrics": [
+        "ebitda",
+        "depreciation",
+        "pretax_earnings",
+        "maintenance_capex",
+        "owner_earnings",
+        "interest_coverage"
+      ],
+      "metric_definition": [
+        "ebitda: earnings before interest, taxes, depreciation, and amortization",
+        "depreciation: accounting recognition of asset wear and consumption over time",
+        "pretax_earnings: earnings before taxes after real operating expenses including depreciation",
+        "maintenance_capex: capital expenditure required to maintain current earning power",
+        "owner_earnings: earnings available to owners after maintenance capital needs",
+        "interest_coverage: earnings available to service interest obligations"
+      ],
+      "metric_usage_context": [
+        "ebitda: used as a warning signal when management emphasizes it in capital-heavy settings",
+        "depreciation: treated as usually real in asset-heavy industries",
+        "pretax_earnings: used for interest coverage analysis rather than EBITDA",
+        "maintenance_capex: used to test whether EBITDA ignores true cash demands",
+        "owner_earnings: used to estimate what owners really get after sustaining the asset base",
+        "interest_coverage: used to judge financing strength on a more realistic basis"
+      ],
+      "metric_limitations": [
+        "ebitda: ignores real wear, replacement needs, and financing burden",
+        "depreciation: accounting depreciation may not perfectly match economic wear, but it is usually far closer to reality than zero",
+        "owner_earnings: requires judgment about maintenance capex",
+        "pretax_earnings: should still be normalized for unusual items"
+      ],
+      "performance_logic": [
+        "Asset-heavy businesses consume capital through wear and replacement, so pretending depreciation is optional overstates economic performance.",
+        "Real owner economics must reflect maintenance needs and interest obligations."
+      ],
+      "evaluation_questions": [
+        "Does depreciation approximate real economic wear?",
+        "Is EBITDA flattering a business that consumes large capital?",
+        "What are true owner earnings after maintenance needs?",
+        "Is interest coverage strong when measured on real earnings?"
+      ],
+      "diagnostic_signals": [
+        "Management leaning heavily on EBITDA",
+        "Large capital spending required to sustain assets",
+        "Weak economics once maintenance needs are included"
+      ],
+      "practical_rules": [
+        "Do not value asset-heavy businesses on EBITDA alone.",
+        "Use pre-tax earnings and owner-earnings logic in capital-intensive sectors.",
+        "Treat maintenance capex as economically real."
+      ],
+      "example_buffett_phrasing": [
+        "EBITDA is not a sound substitute for real earnings",
+        "depreciation is usually a real expense"
+      ],
+      "tags": [
+        "ebitda",
+        "owner_earnings",
+        "maintenance_capex",
+        "capital_intensity"
+      ]
+    },
+    {
+      "item_id": "2014_023",
+      "section": "Investment framework for public equities",
+      "subsection": "A minority stake in a wonderful company can be better than full ownership of a mediocre one",
+      "principle_title": "Partial ownership can beat control",
+      "principle_statement": "Control is not inherently superior; owning a minority stake in a wonderful company can be more attractive than owning all of a mediocre business.",
+      "normalized_principle": "Prefer superior business economics over control for its own sake.",
+      "importance": "medium",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "public_stock",
+        "private_business",
+        "holding_company",
+        "capital_allocator",
+        "shareholder"
+      ],
+      "financial_metrics": [
+        "return_on_capital",
+        "business_quality",
+        "ownership_percentage"
+      ],
+      "metric_definition": [
+        "return_on_capital: economic return generated by the business on capital employed",
+        "business_quality: overall strength of economics including durability, returns, and reinvestment ability",
+        "ownership_percentage: stake size held in the underlying business"
+      ],
+      "metric_usage_context": [
+        "business_quality: used as the primary determinant of attractiveness over control",
+        "return_on_capital: used to compare wonderful companies against mediocre wholly owned alternatives",
+        "ownership_percentage: treated as secondary to the underlying economics when the business is exceptional"
+      ],
+      "metric_limitations": [
+        "ownership_percentage: low ownership can limit control but does not diminish the quality of economics owned",
+        "business_quality: must be assessed rigorously rather than assumed from reputation"
+      ],
+      "performance_logic": [
+        "Owning a fraction of a superior compounding machine can produce better long-run results than controlling an inferior business.",
+        "Control has value only when it is attached to attractive economics."
+      ],
+      "evaluation_questions": [
+        "Is this company better than the 100%-owned alternative?",
+        "Does a non-controlling stake still give participation in excellent economics and management?",
+        "Are you overvaluing control for its own sake?"
+      ],
+      "diagnostic_signals": [
+        "Attractive listed company with superior economics",
+        "Temptation to overpay for full control of a weaker business"
+      ],
+      "practical_rules": [
+        "Do not pay a premium for control if the underlying economics are worse.",
+        "Compare opportunities by business quality first, ownership form second."
+      ],
+      "example_buffett_phrasing": [
+        "part of the Hope Diamond",
+        "all of a rhinestone"
+      ],
+      "tags": [
+        "public_equities",
+        "control",
+        "business_quality",
+        "capital_allocation"
+      ]
+    },
+    {
+      "item_id": "2014_024",
+      "section": "Investment framework for public equities",
+      "subsection": "Look-through earnings matter more than reported dividend income",
+      "principle_title": "Look-through earnings",
+      "principle_statement": "For minority investments in excellent businesses, economic value includes the investor’s share of retained earnings, not just cash dividends reported in accounting income.",
+      "normalized_principle": "Assess minority investments using look-through earnings, including retained earnings that compound inside the investee.",
+      "importance": "high",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "public_stock",
+        "holding_company",
+        "capital_allocator",
+        "shareholder"
+      ],
+      "financial_metrics": [
+        "dividend_income",
+        "look_through_earnings",
+        "retained_earnings",
+        "ownership_percentage"
+      ],
+      "metric_definition": [
+        "dividend_income: cash dividends received from an investee and recognized in reported earnings",
+        "look_through_earnings: proportionate economic earnings attributable to the investor including undistributed earnings",
+        "retained_earnings: investee earnings kept inside the business for reinvestment",
+        "ownership_percentage: investor's stake used to estimate proportionate economics"
+      ],
+      "metric_usage_context": [
+        "dividend_income: treated as incomplete for understanding the economics of ownership",
+        "look_through_earnings: used to capture the investor's true share of value creation",
+        "retained_earnings: used to assess whether undistributed earnings are compounding owner value invisibly",
+        "ownership_percentage: used to scale investee economics to the investor's claim"
+      ],
+      "metric_limitations": [
+        "dividend_income: understates economic benefit when the investee retains earnings productively",
+        "look_through_earnings: depend on the quality of investee capital allocation",
+        "retained_earnings: add value only when management reinvests them well"
+      ],
+      "performance_logic": [
+        "Great investees can compound owner value by retaining earnings and deploying them intelligently even if reported dividend income is low.",
+        "Accounting that recognizes only dividends can understate the economic progress of minority ownership."
+      ],
+      "evaluation_questions": [
+        "What are your proportionate earnings from the investee?",
+        "Are retained earnings being reinvested well?",
+        "Are investee buybacks increasing your ownership of future earnings?",
+        "Are reported accounting numbers understating economic benefit?"
+      ],
+      "diagnostic_signals": [
+        "Low reported dividend income despite strong investee economics",
+        "Investee retaining capital at high returns",
+        "Per-share compounding at the investee"
+      ],
+      "practical_rules": [
+        "Use look-through earnings for minority investments in quality businesses.",
+        "Do not equate reported dividend income with total economic benefit.",
+        "Study the investee's capital allocation skill."
+      ],
+      "example_buffett_phrasing": [
+        "look-through earnings",
+        "retained earnings belonging economically"
+      ],
+      "tags": [
+        "look_through_earnings",
+        "minority_investments",
+        "retained_earnings",
+        "public_equities"
+      ]
+    },
+    {
+      "item_id": "2014_025",
+      "section": "Investment framework for public equities",
+      "subsection": "Mistakes often come from delayed selling when the thesis breaks",
+      "principle_title": "Act when the thesis deteriorates",
+      "principle_statement": "When facts worsen and the original investment thesis weakens, slow action can convert a manageable mistake into a larger loss.",
+      "normalized_principle": "Reassess quickly when business quality or management quality deteriorates; delay often magnifies losses.",
+      "importance": "medium",
+      "time_horizon": "medium_term",
+      "applies_to": [
+        "public_stock",
+        "shareholder",
+        "capital_allocator"
+      ],
+      "financial_metrics": [],
+      "metric_definition": [],
+      "metric_usage_context": [],
+      "metric_limitations": [],
+      "performance_logic": [
+        "Deterioration often appears serially rather than all at once, so hesitation can allow a broken thesis to compound into a worse outcome.",
+        "Temperamental delay is itself a source of investment loss."
+      ],
+      "evaluation_questions": [
+        "Has management quality worsened?",
+        "Are operational problems appearing serially?",
+        "Is the moat shrinking?",
+        "Are you delaying reassessment instead of acting on changed facts?"
+      ],
+      "diagnostic_signals": [
+        "Repeated bad news from the same business",
+        "Weakening moat or management quality",
+        "Investor rationalization replacing fresh analysis"
+      ],
+      "practical_rules": [
+        "Update the thesis when facts change materially.",
+        "Do not let inertia turn an error into a larger one.",
+        "Treat serial bad news as evidence requiring action, not comfort."
+      ],
+      "example_buffett_phrasing": [
+        "thumb-sucking",
+        "one cockroach usually has relatives"
+      ],
+      "tags": [
+        "mistake_management",
+        "thesis_break",
+        "sell_discipline",
+        "behavior"
+      ]
+    },
+    {
+      "item_id": "2014_026",
+      "section": "Investment framework for public equities",
+      "subsection": "Price volatility is not the same as risk",
+      "principle_title": "Risk is not volatility",
+      "principle_statement": "For long-horizon investors, true risk is permanent capital loss, inadequate purchasing-power growth, forced selling, and self-inflicted behavioral errors rather than day-to-day price fluctuation.",
+      "normalized_principle": "Define investment risk economically and behaviorally, not as quoted volatility alone.",
+      "importance": "high",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "public_stock",
+        "shareholder",
+        "capital_allocator",
+        "balance_sheet"
+      ],
+      "financial_metrics": [
+        "price_volatility",
+        "permanent_capital_loss",
+        "purchasing_power_growth",
+        "after_tax_return",
+        "liquidity_need"
+      ],
+      "metric_definition": [
+        "price_volatility: short-term fluctuation in quoted market price",
+        "permanent_capital_loss: lasting destruction of owner capital",
+        "purchasing_power_growth: increase in real after-inflation economic value",
+        "after_tax_return: return remaining after taxes",
+        "liquidity_need: requirement to sell assets because of cash needs or leverage pressure"
+      ],
+      "metric_usage_context": [
+        "price_volatility: explicitly rejected as the primary definition of risk",
+        "permanent_capital_loss: used as the real danger for long-term owners",
+        "purchasing_power_growth: used to judge whether an investment is actually protecting wealth",
+        "after_tax_return: used to compare productive assets with nominally safe claims",
+        "liquidity_need: used to identify conditions that convert volatility into real damage"
+      ],
+      "metric_limitations": [
+        "price_volatility: can be high even when long-term economics are sound",
+        "after_tax_return: nominal stability can mask poor real outcomes after inflation and tax",
+        "liquidity_need: depends not just on asset quality but on investor structure and leverage"
+      ],
+      "performance_logic": [
+        "Volatility matters mainly when it combines with leverage, liquidity demands, or bad behavior to force permanent mistakes.",
+        "Long-run safety comes from productive economics and staying power, not from smooth quoted prices."
+      ],
+      "evaluation_questions": [
+        "Is the asset likely to preserve and grow purchasing power after tax?",
+        "Could leverage, liquidity needs, or behavior force a bad exit?",
+        "Are you mistaking quoted volatility for economic danger?"
+      ],
+      "diagnostic_signals": [
+        "Leverage or liquidity structure that could force selling",
+        "Investor focus on price movement rather than business economics",
+        "Nominally stable assets with weak real returns"
+      ],
+      "practical_rules": [
+        "Define risk in terms of permanent loss and purchasing power.",
+        "Build structures that can survive volatility without forced selling.",
+        "Do not treat low volatility as proof of safety."
+      ],
+      "example_buffett_phrasing": [
+        "price volatility is not the same as risk",
+        "permanent capital loss"
+      ],
+      "tags": [
+        "risk",
+        "volatility",
+        "purchasing_power",
+        "behavior"
+      ]
+    },
+    {
+      "item_id": "2014_027",
+      "section": "Investment framework for public equities",
+      "subsection": "Borrowing is toxic for equity investors",
+      "principle_title": "Leverage converts volatility into danger",
+      "principle_statement": "Borrowing turns price volatility into real risk by creating forced-sale danger and dependence on outside financing when markets are dislocated.",
+      "normalized_principle": "Avoid leverage structures that can force liquidation of sound assets during periods of market stress.",
+      "importance": "high",
+      "time_horizon": "cross_cycle",
+      "applies_to": [
+        "shareholder",
+        "public_stock",
+        "balance_sheet",
+        "capital_allocator"
+      ],
+      "financial_metrics": [
+        "leverage_ratio",
+        "margin_call_risk",
+        "forced_sale_risk",
+        "liquidity_buffer"
+      ],
+      "metric_definition": [
+        "leverage_ratio: amount of borrowed money relative to equity or asset value",
+        "margin_call_risk: chance that falling prices trigger collateral demands or forced deleveraging",
+        "forced_sale_risk: probability of being compelled to sell at unfavorable prices",
+        "liquidity_buffer: cash or readily available resources that reduce financing stress"
+      ],
+      "metric_usage_context": [
+        "leverage_ratio: used to identify when an investor's structure is fragile",
+        "margin_call_risk: used to judge whether volatility could become a real loss event",
+        "forced_sale_risk: used as the core mechanism by which leverage becomes toxic",
+        "liquidity_buffer: used to determine whether chaos can be survived without outside rescue"
+      ],
+      "metric_limitations": [
+        "leverage_ratio: modest-looking leverage can still be dangerous if assets are volatile or funding is short-term",
+        "liquidity_buffer: is only meaningful if it covers plausible stress scenarios",
+        "forced_sale_risk: depends on both funding structure and investor behavior"
+      ],
+      "performance_logic": [
+        "Without leverage, volatility is often survivable; with leverage, the same volatility can trigger liquidation and permanent loss.",
+        "Borrowing creates dependence on market conditions and third-party tolerance precisely when both may disappear."
+      ],
+      "evaluation_questions": [
+        "Could a 50% drop force liquidation?",
+        "Is leverage being used because the opportunity is extraordinary or because the investor wants speed?",
+        "Can the investment survive chaos without outside financing?"
+      ],
+      "diagnostic_signals": [
+        "Use of margin or short-term borrowing against equities",
+        "Thin liquidity buffer",
+        "Investment case that assumes continuous refinancing"
+      ],
+      "practical_rules": [
+        "Avoid leverage in equity investing.",
+        "Stress-test financing against large market declines.",
+        "Favor structures that preserve staying power through chaos."
+      ],
+      "example_buffett_phrasing": [
+        "borrowing is toxic for equity investors",
+        "forced-sale danger"
+      ],
+      "tags": [
+        "leverage",
+        "forced_selling",
+        "risk",
+        "liquidity"
+      ]
+    },
+    {
+      "item_id": "2014_028",
+      "section": "Accounting and analytical adjustment framework",
+      "subsection": "GAAP is necessary, but not always sufficient for valuation",
+      "principle_title": "Translate GAAP into economics",
+      "principle_statement": "GAAP numbers are necessary but often incomplete for valuation, so analysts should mentally adjust for economic realities such as float value, look-through earnings, purchase-accounting effects, and operating businesses carried at cost.",
+      "normalized_principle": "Use GAAP as the starting point, then adjust analytically where accounting obscures economic reality.",
+      "importance": "high",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "public_stock",
+        "holding_company",
+        "conglomerate",
+        "capital_allocator",
+        "shareholder"
+      ],
+      "financial_metrics": [
+        "gaap_earnings",
+        "look_through_earnings",
+        "float",
+        "purchase_accounting_amortization",
+        "book_value",
+        "intrinsic_value"
+      ],
+      "metric_definition": [
+        "gaap_earnings: earnings reported under generally accepted accounting principles",
+        "look_through_earnings: economic earnings attributable through ownership even if not fully recognized in GAAP income",
+        "float: insurance liabilities that may have funding value economically",
+        "purchase_accounting_amortization: amortization charges arising from acquisition accounting rather than recurring economic depletion",
+        "book_value: accounting net worth on the balance sheet",
+        "intrinsic_value: economic worth after translating accounting into business reality"
+      ],
+      "metric_usage_context": [
+        "gaap_earnings: used as the required starting point for reported analysis",
+        "look_through_earnings: used to recover economic value omitted by dividend-only accounting",
+        "float: used to reinterpret certain liabilities economically",
+        "purchase_accounting_amortization: used to separate accounting artifacts from recurring business economics",
+        "book_value: used as a partial but incomplete scorecard",
+        "intrinsic_value: used as the final valuation objective after adjustments"
+      ],
+      "metric_limitations": [
+        "gaap_earnings: can understate or misstate economics in complex holding or insurance structures",
+        "purchase_accounting_amortization: may not reflect real ongoing economic cost",
+        "book_value: can diverge materially from worth when major assets are carried at cost",
+        "float: should not be viewed favorably without considering cost and durability"
+      ],
+      "performance_logic": [
+        "Accounting rules are designed for consistency, not always for perfect representation of economic value.",
+        "Analytical advantage comes from understanding where reported numbers and economic reality diverge."
+      ],
+      "evaluation_questions": [
+        "Which accounting items are economically real?",
+        "Which are artifacts of acquisition accounting?",
+        "What does reported equity omit?",
+        "Are assets or liabilities economically different from their accounting treatment?"
+      ],
+      "diagnostic_signals": [
+        "Large operating businesses carried at historical cost",
+        "Material purchase-accounting charges",
+        "Insurance liabilities with unusual funding economics",
+        "Minority holdings whose value exceeds reported dividends"
+      ],
+      "practical_rules": [
+        "Start with GAAP, then build economic adjustments explicitly.",
+        "Do not accept reported accounting categories at face value when economic substance differs.",
+        "Use adjusted economic reasoning for valuation, not for promotional earnings presentation."
+      ],
+      "example_buffett_phrasing": [
+        "GAAP is necessary, but not always sufficient",
+        "think economically"
+      ],
+      "tags": [
+        "gaap",
+        "economic_reality",
+        "look_through_earnings",
+        "accounting_adjustments"
+      ]
+    },
+    {
+      "item_id": "2014_029",
+      "section": "Accounting and analytical adjustment framework",
+      "subsection": "Distinguish real depreciation from non-real amortization",
+      "principle_title": "Depreciation versus amortization",
+      "principle_statement": "Depreciation is usually a real economic expense, while certain intangible amortization charges from acquisition accounting often do not reflect recurring economic depletion in the same way.",
+      "normalized_principle": "Separate charges that represent real economic wear from charges that mostly reflect accounting convention.",
+      "importance": "medium",
+      "time_horizon": "medium_term",
+      "applies_to": [
+        "public_stock",
+        "private_business",
+        "acquisition_target",
+        "lender"
+      ],
+      "financial_metrics": [
+        "depreciation",
+        "intangible_amortization",
+        "customer_relationship_amortization",
+        "owner_earnings"
+      ],
+      "metric_definition": [
+        "depreciation: accounting expense reflecting the consumption of tangible assets over time",
+        "intangible_amortization: amortization of acquired intangible assets under accounting rules",
+        "customer_relationship_amortization: specific acquisition-accounting amortization assigned to customer relationships",
+        "owner_earnings: cash earnings after the expenditures required to maintain the business"
+      ],
+      "metric_usage_context": [
+        "depreciation: used as a generally real economic expense that should not be ignored",
+        "intangible_amortization: used as a category requiring skepticism about economic reality",
+        "customer_relationship_amortization: used as an example of accounting charges that can mislead analysis",
+        "owner_earnings: used to reconnect reported charges with economic cash consequences"
+      ],
+      "metric_limitations": [
+        "depreciation: accounting schedules may not perfectly match economic wear, though the expense is usually real",
+        "intangible_amortization: is not always non-economic; analysts must test whether true depletion exists",
+        "owner_earnings: require judgment about maintenance spending and true depletion"
+      ],
+      "performance_logic": [
+        "Not all non-cash charges are equal: some represent necessary economic cost while others mainly result from acquisition accounting conventions.",
+        "Analysts should neither add back everything mechanically nor accept every charge as equally economic."
+      ],
+      "evaluation_questions": [
+        "Is the amortization tied to true economic depletion?",
+        "Would the business need comparable cash outlays to maintain earnings?",
+        "Is management using adjusted earnings honestly or deceptively?"
+      ],
+      "diagnostic_signals": [
+        "Heavy amortization from purchase accounting",
+        "Tangible assets requiring real replacement",
+        "Management emphasizing adjusted numbers without economic explanation"
+      ],
+      "practical_rules": [
+        "Treat depreciation with respect in asset-heavy businesses.",
+        "Examine whether intangible amortization reflects true ongoing economic cost.",
+        "Use owner-earnings logic to connect accounting to business reality."
+      ],
+      "example_buffett_phrasing": [
+        "depreciation: usually real",
+        "customer relationship amortization"
+      ],
+      "tags": [
+        "depreciation",
+        "amortization",
+        "owner_earnings",
+        "accounting"
+      ]
+    },
+    {
+      "item_id": "2014_030",
+      "section": "Conglomerate and holding-company framework",
+      "subsection": "A conglomerate can be excellent if capital allocation is rational and bureaucracy is minimal",
+      "principle_title": "Good conglomerate design",
+      "principle_statement": "A conglomerate is valuable when headquarters allocates capital better than stand-alone owners could, moves capital tax-efficiently, keeps bureaucracy light, and owns high-quality autonomous businesses with a wide opportunity set.",
+      "normalized_principle": "A conglomerate works when decentralized operating excellence is paired with rational, low-friction capital allocation at the parent.",
+      "importance": "high",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "conglomerate",
+        "holding_company",
+        "capital_allocator",
+        "management_team",
+        "shareholder"
+      ],
+      "financial_metrics": [
+        "capital_redeployment",
+        "tax_efficiency",
+        "headquarters_cost",
+        "return_on_capital"
+      ],
+      "metric_definition": [
+        "capital_redeployment: movement of cash from one part of the group to higher-return opportunities elsewhere",
+        "tax_efficiency: ability to move or deploy capital with minimal tax friction",
+        "headquarters_cost: overhead burden imposed by the parent organization",
+        "return_on_capital: returns generated by subsidiaries and capital deployment decisions"
+      ],
+      "metric_usage_context": [
+        "capital_redeployment: used to test whether the parent truly adds value through allocation",
+        "tax_efficiency: used to judge one advantage of a well-structured conglomerate",
+        "headquarters_cost: used to detect whether bureaucracy is eroding value",
+        "return_on_capital: used to determine whether the structure channels capital into attractive businesses"
+      ],
+      "metric_limitations": [
+        "capital_redeployment: is valuable only if the parent actually has skill and discipline",
+        "tax_efficiency: does not rescue poor business quality or poor allocation",
+        "headquarters_cost: can seem small individually but compound through bureaucracy",
+        "return_on_capital: must be judged both at subsidiary and parent allocation levels"
+      ],
+      "performance_logic": [
+        "A lean parent can shift capital toward the best opportunities across businesses while leaving capable operators autonomous.",
+        "The structure fails if headquarters becomes bureaucratic or uses capital worse than owners could on their own."
+      ],
+      "evaluation_questions": [
+        "Does the parent add value through capital allocation?",
+        "Can it redeploy capital across businesses with low friction?",
+        "Is headquarters lean?",
+        "Are subsidiaries autonomous and high quality?",
+        "Is the structure expanding the opportunity set?"
+      ],
+      "diagnostic_signals": [
+        "Low parent overhead",
+        "Autonomous strong subsidiaries",
+        "Disciplined capital movement across businesses",
+        "Wide opportunity set across full and partial ownership"
+      ],
+      "practical_rules": [
+        "Judge conglomerates by parent allocation skill and bureaucratic burden.",
+        "Prefer decentralized structures with capable managers.",
+        "Do not dismiss conglomerates categorically; test whether the design actually adds value."
+      ],
+      "example_buffett_phrasing": [
+        "bureaucracy is minimal",
+        "capital allocation is rational"
+      ],
+      "tags": [
+        "conglomerate",
+        "decentralization",
+        "capital_allocation",
+        "headquarters"
+      ]
+    },
+    {
+      "item_id": "2014_031",
+      "section": "Conglomerate and holding-company framework",
+      "subsection": "Conglomerates fail when they rely on accounting tricks, serial issuance, and mediocre acquisitions",
+      "principle_title": "Bad conglomerate pattern",
+      "principle_statement": "Weak conglomerates are often built through promotional leadership, acquisition addiction, aggressive share issuance, EPS optics, and mediocre acquired businesses.",
+      "normalized_principle": "Avoid conglomerates whose growth relies on deal-making optics, weak acquisitions, and equity issuance rather than real value creation.",
+      "importance": "medium",
+      "time_horizon": "medium_term",
+      "applies_to": [
+        "conglomerate",
+        "holding_company",
+        "shareholder",
+        "capital_allocator"
+      ],
+      "financial_metrics": [
+        "share_issuance",
+        "earnings_per_share",
+        "acquisition_price",
+        "acquired_business_quality"
+      ],
+      "metric_definition": [
+        "share_issuance: new equity sold or used in acquisitions",
+        "earnings_per_share: accounting earnings per share often used to justify deals",
+        "acquisition_price: price paid for acquired businesses",
+        "acquired_business_quality: economic strength of the businesses being acquired"
+      ],
+      "metric_usage_context": [
+        "share_issuance: used to detect whether the group is financing growth by transferring value from owners",
+        "earnings_per_share: used as a warning sign when it becomes the main justification for acquisitions",
+        "acquisition_price: used to judge whether serial deal-making is disciplined or promotional",
+        "acquired_business_quality: used to determine whether the group is adding good businesses or just activity"
+      ],
+      "metric_limitations": [
+        "earnings_per_share: can look favorable even when intrinsic value creation is poor",
+        "share_issuance: may occasionally be sensible, but serial use is a warning sign",
+        "acquisition_price: low price does not redeem poor business quality"
+      ],
+      "performance_logic": [
+        "Promotional conglomerates can manufacture apparent growth through accounting optics and constant deal activity while owner economics deteriorate.",
+        "The combination of mediocre businesses and expensive currency use compounds long-term disappointment."
+      ],
+      "evaluation_questions": [
+        "Is growth driven by genuine value creation or serial deal-making?",
+        "Are acquisitions chosen because they are good businesses or because they fit EPS math?",
+        "Is the parent issuing shares aggressively?"
+      ],
+      "diagnostic_signals": [
+        "Promotional leadership",
+        "Acquisition addiction",
+        "EPS-focused deal justification",
+        "Aggressive equity issuance"
+      ],
+      "practical_rules": [
+        "Treat EPS-driven acquisition seriality as a danger sign.",
+        "Inspect both the quality of acquired businesses and the currency used to buy them.",
+        "Discount promotional conglomerate narratives."
+      ],
+      "example_buffett_phrasing": [
+        "accounting tricks",
+        "serial issuance"
+      ],
+      "tags": [
+        "conglomerate_risk",
+        "eps_optics",
+        "share_issuance",
+        "acquisitions"
+      ]
+    },
+    {
+      "item_id": "2014_032",
+      "section": "Balance-sheet and risk framework",
+      "subsection": "Financial strength is strategic, not cosmetic",
+      "principle_title": "Fortress balance sheet",
+      "principle_statement": "A strong balance sheet protects against ruin, preserves freedom of action, and creates opportunity during crises.",
+      "normalized_principle": "Treat financial strength as a strategic asset that supports survival and opportunistic action under stress.",
+      "importance": "high",
+      "time_horizon": "cross_cycle",
+      "applies_to": [
+        "balance_sheet",
+        "public_stock",
+        "private_business",
+        "insurance_operation",
+        "holding_company",
+        "conglomerate",
+        "lender"
+      ],
+      "financial_metrics": [
+        "cash",
+        "liquidity",
+        "debt_maturity_profile",
+        "solvency_margin"
+      ],
+      "metric_definition": [
+        "cash: cash and cash-like resources immediately available",
+        "liquidity: capacity to meet obligations without distress or forced asset sales",
+        "debt_maturity_profile: timing structure of debt obligations",
+        "solvency_margin: cushion of financial strength relative to obligations and stress needs"
+      ],
+      "metric_usage_context": [
+        "cash: used as part of the survival and opportunity buffer",
+        "liquidity: used to judge whether the company can withstand severe stress without rescue",
+        "debt_maturity_profile: used to identify near-term refinancing pressure",
+        "solvency_margin: used to assess whether the balance sheet is strong enough for crises"
+      ],
+      "metric_limitations": [
+        "cash: headline cash is less valuable if offset by sudden claims or collateral calls",
+        "liquidity: must be stress-tested, not just measured in normal conditions",
+        "debt_maturity_profile: can still be risky if markets close when maturities come due"
+      ],
+      "performance_logic": [
+        "Financial strength prevents ruin, preserves optionality, and allows opportunistic investment when weaker rivals must retreat.",
+        "The strategic value of liquidity is highest exactly when external financing is least available."
+      ],
+      "evaluation_questions": [
+        "Can the company survive severe stress without outside rescue?",
+        "Does it maintain large liquidity?",
+        "Are near-term obligations manageable?",
+        "Can it act offensively during crises?"
+      ],
+      "diagnostic_signals": [
+        "Large liquidity reserves",
+        "Manageable maturities",
+        "Ability to invest during downturns",
+        "No dependence on fragile financing"
+      ],
+      "practical_rules": [
+        "Value financial strength as an asset, not idle conservatism.",
+        "Test both survival and offensive optionality under stress.",
+        "Favor companies that can self-fund through crises."
+      ],
+      "example_buffett_phrasing": [
+        "financial strength is strategic",
+        "freedom of action"
+      ],
+      "tags": [
+        "balance_sheet",
+        "liquidity",
+        "solvency",
+        "crisis_optionalitiy"
+      ]
+    },
+    {
+      "item_id": "2014_033",
+      "section": "Balance-sheet and risk framework",
+      "subsection": "Avoid structures that can trigger sudden cash demands",
+      "principle_title": "Avoid sudden-cash-demand structures",
+      "principle_statement": "Danger often comes not from ordinary-time insolvency but from structures that can trigger immediate cash demands such as collateral calls, short-term maturities, redemptions, or runs.",
+      "normalized_principle": "Identify and avoid financing or liability structures that can create sudden liquidity squeezes.",
+      "importance": "high",
+      "time_horizon": "cross_cycle",
+      "applies_to": [
+        "balance_sheet",
+        "insurance_operation",
+        "lender",
+        "public_stock",
+        "private_business"
+      ],
+      "financial_metrics": [
+        "short_term_debt",
+        "collateral_call_exposure",
+        "redemption_risk",
+        "liquidity_buffer"
+      ],
+      "metric_definition": [
+        "short_term_debt: debt that must be repaid or refinanced in the near term",
+        "collateral_call_exposure: potential cash demands triggered by market moves or contract terms",
+        "redemption_risk: possibility that funding providers or customers withdraw cash quickly",
+        "liquidity_buffer: readily available cash resources to absorb immediate outflows"
+      ],
+      "metric_usage_context": [
+        "short_term_debt: used to identify rollover risk during stress",
+        "collateral_call_exposure: used to measure how market dislocation could create immediate funding needs",
+        "redemption_risk: used to assess run-like vulnerability",
+        "liquidity_buffer: used to judge whether sudden demands can be met"
+      ],
+      "metric_limitations": [
+        "short_term_debt: even moderate amounts can be dangerous if markets freeze",
+        "liquidity_buffer: may be inadequate if stress assumptions are too mild",
+        "redemption_risk: can rise sharply when confidence erodes"
+      ],
+      "performance_logic": [
+        "Businesses can be economically sound yet fail financially if they face large immediate cash demands they cannot meet.",
+        "A robust structure minimizes triggers that convert stress into a liquidity crisis."
+      ],
+      "evaluation_questions": [
+        "What scenarios create immediate cash needs?",
+        "How much short-term debt must be rolled?",
+        "Are there derivative or policyholder features that could produce a liquidity squeeze?",
+        "Could the company be fine economically but fail financially?"
+      ],
+      "diagnostic_signals": [
+        "Reliance on short-term funding",
+        "Derivative or collateral triggers",
+        "Potential for customer or policyholder runs"
+      ],
+      "practical_rules": [
+        "Map all sudden-cash-demand pathways explicitly.",
+        "Avoid structures dependent on continuous refinancing or confidence.",
+        "Maintain liquidity against plausible stress triggers."
+      ],
+      "example_buffett_phrasing": [
+        "sudden cash demands",
+        "could be fine economically but fail financially"
+      ],
+      "tags": [
+        "liquidity_risk",
+        "short_term_debt",
+        "collateral_calls",
+        "balance_sheet"
+      ]
+    },
+    {
+      "item_id": "2014_034",
+      "section": "Balance-sheet and risk framework",
+      "subsection": "Prepare for the thousand-year flood",
+      "principle_title": "Stress-test for extreme events",
+      "principle_statement": "A sound framework should test not only probable scenarios but also severe low-frequency events to ensure survival and potential opportunistic action.",
+      "normalized_principle": "Build businesses and portfolios to survive extreme but plausible tail events.",
+      "importance": "high",
+      "time_horizon": "cross_cycle",
+      "applies_to": [
+        "balance_sheet",
+        "insurance_operation",
+        "public_stock",
+        "private_business",
+        "capital_allocator"
+      ],
+      "financial_metrics": [
+        "stress_liquidity",
+        "capital_buffer",
+        "survival_capacity"
+      ],
+      "metric_definition": [
+        "stress_liquidity: liquidity available under severe adverse scenarios",
+        "capital_buffer: excess capital available beyond normal operating needs",
+        "survival_capacity: ability to remain solvent and liquid through extreme events"
+      ],
+      "metric_usage_context": [
+        "stress_liquidity: used to judge whether the company can withstand extreme demands",
+        "capital_buffer: used as the margin that prevents ruin under tail events",
+        "survival_capacity: used as the ultimate test of resilience"
+      ],
+      "metric_limitations": [
+        "stress_liquidity: depends on how severe the assumed scenario is",
+        "capital_buffer: can look ample until correlated shocks hit multiple exposures at once",
+        "survival_capacity: requires conservative judgment because extreme scenarios are rare and easy to underestimate"
+      ],
+      "performance_logic": [
+        "Survival through rare severe events preserves long-run compounding and may allow offensive action when others are impaired.",
+        "Tail preparedness lowers peak upside but avoids ruinous downside."
+      ],
+      "evaluation_questions": [
+        "What does survival look like under extreme stress?",
+        "Would the company still be liquid?",
+        "Could it exploit crisis while others retrench?"
+      ],
+      "diagnostic_signals": [
+        "Explicit tail-event planning",
+        "Large buffers relative to plausible stress",
+        "Capacity to invest during panics"
+      ],
+      "practical_rules": [
+        "Stress-test beyond normal-case planning.",
+        "Favor asymmetry that sacrifices some upside to avoid ruin.",
+        "Use crisis survival as a core screening test."
+      ],
+      "example_buffett_phrasing": [
+        "thousand-year flood",
+        "never risk what you need for what you merely desire"
+      ],
+      "tags": [
+        "tail_risk",
+        "stress_testing",
+        "survival",
+        "risk_management"
+      ]
+    },
+    {
+      "item_id": "2014_035",
+      "section": "Cultural framework",
+      "subsection": "Culture compounds",
+      "principle_title": "Culture as a compounding asset",
+      "principle_statement": "Culture influences trust, capital allocation, bureaucracy, talent attraction, seller attraction, crisis behavior, and long-term continuity, making it a durable economic asset when well designed.",
+      "normalized_principle": "Treat culture as a long-duration asset that affects decision quality, adaptability, and opportunity flow across the organization.",
+      "importance": "medium",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "management_team",
+        "conglomerate",
+        "holding_company",
+        "private_business",
+        "board"
+      ],
+      "financial_metrics": [],
+      "metric_definition": [],
+      "metric_usage_context": [],
+      "metric_limitations": [],
+      "performance_logic": [
+        "A strong culture improves decision-making, attracts better operators and sellers, and reduces bureaucratic decay.",
+        "Because culture influences who joins, stays, sells, and acts under stress, it compounds across time."
+      ],
+      "evaluation_questions": [
+        "Is the culture decentralized or bureaucratic?",
+        "Does it reward stewardship or politics?",
+        "Does it attract high-quality operators and sellers?",
+        "Can it persist beyond a charismatic founder?"
+      ],
+      "diagnostic_signals": [
+        "Stewardship-oriented behavior",
+        "Attraction of strong autonomous managers",
+        "Low bureaucracy and trusted delegation",
+        "Continuity beyond one individual"
+      ],
+      "practical_rules": [
+        "Include culture in long-term business quality analysis.",
+        "Look for evidence that culture improves capital allocation and trust.",
+        "Be skeptical of culture claims unsupported by behavior and incentives."
+      ],
+      "example_buffett_phrasing": [
+        "culture compounds",
+        "durable asset"
+      ],
+      "tags": [
+        "culture",
+        "decentralization",
+        "stewardship",
+        "organizational_quality"
+      ]
+    }
+  ]
+}

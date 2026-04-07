@@ -1,0 +1,1679 @@
+{
+  "schema_version": "2.1",
+  "document_type": "buffett_framework_letter",
+  "letter_metadata": {
+    "year": 2023,
+    "source_title": "Berkshire Hathaway Shareholder Letter",
+    "source_date": "2024-02-24",
+    "coverage_year": 2023,
+    "source_file": "/mnt/data/2023.md",
+    "extraction_purpose": "Reusable stock/business analysis framework extraction",
+    "one_sentence_synthesis": "A Buffett-quality investment is a durable, understandable business run by trustworthy managers, able to reinvest capital at high returns, purchased with valuation discipline, held with patience, and financed in a way that makes permanent capital loss highly unlikely.",
+    "knowledge_base_tags": [
+      "business_quality",
+      "capital_allocation",
+      "management_quality",
+      "earnings_quality",
+      "risk_management",
+      "balance_sheet_resilience",
+      "compounding",
+      "valuation_discipline",
+      "investor_behavior"
+    ]
+  },
+  "framework_items": [
+    {
+      "item_id": "2023_001",
+      "section": "Core Meta-Shift: From “Cheap Cigar Butts” to “Wonderful Businesses at Fair Prices”",
+      "subsection": null,
+      "principle_title": "Prefer wonderful businesses at fair prices",
+      "principle_statement": "Long-term superiority comes from buying wonderful businesses at fair prices rather than fair businesses at wonderful prices.",
+      "normalized_principle": "Buying wonderful businesses at fair prices is superior to buying mediocre businesses simply because they are cheap.",
+      "importance": "high",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "public_stock",
+        "private_business",
+        "acquisition_target",
+        "capital_allocator"
+      ],
+      "financial_metrics": [
+        "incremental_return_on_capital"
+      ],
+      "metric_definition": [
+        "incremental_return_on_capital: return earned on additional capital reinvested into the business"
+      ],
+      "metric_usage_context": [
+        "incremental_return_on_capital: helps judge whether business quality and reinvestment ability can justify paying a merely fair price"
+      ],
+      "metric_limitations": [
+        "incremental_return_on_capital: can be hard to observe directly when disclosure is poor or growth investment is mixed with maintenance spending"
+      ],
+      "performance_logic": [
+        "A statistically cheap mediocre business can produce limited gains, but a wonderful business can compound internally for long periods and make time an ally."
+      ],
+      "evaluation_questions": [
+        "Is this merely a statistically cheap asset, or a genuinely wonderful business?",
+        "If the business compounds internally at high rates for a long time, does paying a merely fair price still produce an excellent long-term outcome?",
+        "Is the business quality high enough that time becomes an ally?"
+      ],
+      "diagnostic_signals": [
+        "Investment case relies mainly on low multiple rather than durable business quality",
+        "Business has limited ability to reinvest at high returns"
+      ],
+      "practical_rules": [
+        "Start with business quality before valuation cheapness.",
+        "Allow fair prices for exceptional businesses with durable compounding power."
+      ],
+      "example_buffett_phrasing": [
+        "wonderful businesses at fair prices",
+        "fair businesses at wonderful prices"
+      ],
+      "tags": [
+        "business_quality",
+        "valuation_discipline",
+        "compounding",
+        "quality_over_cheapness"
+      ]
+    },
+    {
+      "item_id": "2023_002",
+      "section": "1. Favor businesses with good economics that are fundamental and enduring",
+      "subsection": null,
+      "principle_title": "Own structurally durable economics",
+      "principle_statement": "Prefer businesses whose economics are structurally good and likely to remain so for a long time.",
+      "normalized_principle": "Prefer businesses with enduring economics tied to persistent demand rather than temporary favorable conditions.",
+      "importance": "high",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "public_stock",
+        "private_business",
+        "acquisition_target"
+      ],
+      "financial_metrics": [],
+      "metric_definition": [],
+      "metric_usage_context": [],
+      "metric_limitations": [],
+      "performance_logic": [
+        "Businesses tied to durable human needs and resilient models are more likely to withstand competition, technology shifts, and cyclical change."
+      ],
+      "evaluation_questions": [
+        "Are this company’s economics fundamental or temporary?",
+        "Does the business solve a persistent human need?",
+        "Will demand likely remain strong 10–20 years from now?",
+        "Is the company likely to be a winner, or could it become a sinkhole?"
+      ],
+      "diagnostic_signals": [
+        "Demand is driven mainly by excitement, speculation, or temporary scarcity",
+        "Business model complexity obscures weak economics",
+        "Economics depend on permanently favorable external conditions",
+        "Weak durability under competition or regulation"
+      ],
+      "practical_rules": [
+        "Test whether demand and economics are durable across time, competition, and change.",
+        "Be skeptical of businesses supported mainly by hype or temporary enthusiasm."
+      ],
+      "example_buffett_phrasing": [
+        "good economics that are fundamental and enduring"
+      ],
+      "tags": [
+        "durability",
+        "business_quality",
+        "demand_resilience",
+        "moat"
+      ]
+    },
+    {
+      "item_id": "2023_003",
+      "section": "2. Prefer businesses that can deploy additional capital at high returns",
+      "subsection": null,
+      "principle_title": "Value high-return reinvestment",
+      "principle_statement": "The rare superior business can take retained earnings and redeploy them at high incremental returns in the future.",
+      "normalized_principle": "Retained earnings are valuable only when management can reinvest additional capital at attractive incremental returns.",
+      "importance": "high",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "public_stock",
+        "private_business",
+        "capital_allocator",
+        "management_team"
+      ],
+      "financial_metrics": [
+        "incremental_return_on_capital",
+        "retained_earnings",
+        "intrinsic_value"
+      ],
+      "metric_definition": [
+        "incremental_return_on_capital: return generated on newly deployed capital beyond the existing asset base",
+        "retained_earnings: profits kept in the business rather than distributed to owners",
+        "intrinsic_value: the underlying economic value created for owners by the business"
+      ],
+      "metric_usage_context": [
+        "incremental_return_on_capital: used to judge whether future reinvestment opportunities can compound owner value",
+        "retained_earnings: used to assess whether keeping cash in the business is justified by later value creation",
+        "intrinsic_value: used as the benchmark for whether reinvestment actually increases owner wealth"
+      ],
+      "metric_limitations": [
+        "incremental_return_on_capital: can look strong temporarily if growth is early-stage or if maintenance needs are understated",
+        "retained_earnings: are not evidence of value creation by themselves",
+        "intrinsic_value: is estimated rather than directly reported in accounting statements"
+      ],
+      "performance_logic": [
+        "A business becomes extraordinarily valuable when it earns strong returns, needs little capital merely to stand still, and still has room to reinvest more capital at attractive rates."
+      ],
+      "evaluation_questions": [
+        "Can the company reinvest incremental capital at high rates?",
+        "Are reinvestment opportunities abundant, limited, or exhausted?",
+        "Does retained earnings actually create more intrinsic value?",
+        "Is growth value-creating or just growth for appearance?"
+      ],
+      "diagnostic_signals": [
+        "High reported earnings but weak incremental returns on additional capital",
+        "Growth requires large capital just to preserve current economics",
+        "Expansion into unrelated areas with poor results",
+        "Mature business with no productive use for retained capital"
+      ],
+      "practical_rules": [
+        "Distinguish profitable businesses from compounding machines.",
+        "Treat retained earnings as valuable only when they can earn attractive future returns."
+      ],
+      "example_buffett_phrasing": [
+        "deploy additional capital at high returns",
+        "compounding machines"
+      ],
+      "tags": [
+        "reinvestment",
+        "incremental_returns",
+        "retained_earnings",
+        "intrinsic_value"
+      ]
+    },
+    {
+      "item_id": "2023_004",
+      "section": "3. Distinguish between businesses that compound and businesses that consume capital",
+      "subsection": null,
+      "principle_title": "Separate owner economics from accounting profits",
+      "principle_statement": "Reported earnings can be misleading if the business must reinvest heavily just to maintain current capacity.",
+      "normalized_principle": "Judge businesses by owner economics after true maintenance needs, not by accounting earnings alone.",
+      "importance": "high",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "public_stock",
+        "private_business",
+        "balance_sheet"
+      ],
+      "financial_metrics": [
+        "reported_earnings",
+        "maintenance_capex",
+        "depreciation",
+        "owner_earnings",
+        "replacement_cost"
+      ],
+      "metric_definition": [
+        "reported_earnings: accounting profit reported under standard financial statements",
+        "maintenance_capex: capital spending required merely to sustain current operating capacity",
+        "depreciation: accounting charge intended to represent asset wear and consumption",
+        "owner_earnings: cash available to owners after realistic maintenance capital needs",
+        "replacement_cost: economic cost to reproduce the business asset base at current economics"
+      ],
+      "metric_usage_context": [
+        "reported_earnings: starting point for analysis but not the final measure of owner value",
+        "maintenance_capex: used to judge how much capital the business consumes just to stay in place",
+        "depreciation: compared against maintenance_capex to see whether accounting understates real upkeep needs",
+        "owner_earnings: used to estimate distributable economics rather than reported profit",
+        "replacement_cost: used to test whether acceptable accounting returns are actually weak relative to the capital truly required"
+      ],
+      "metric_limitations": [
+        "reported_earnings: can overstate true economics when capital intensity is high",
+        "depreciation: may understate real maintenance spending in capital-heavy businesses",
+        "owner_earnings: requires judgment about maintenance needs rather than a single reported line item",
+        "replacement_cost: can be difficult to estimate precisely"
+      ],
+      "performance_logic": [
+        "A capital-intensive business may report profits while producing poor owner cash economics if large reinvestment is required merely to preserve present capacity."
+      ],
+      "evaluation_questions": [
+        "How much capital does the business require merely to stay in place?",
+        "Is depreciation understating true maintenance capex?",
+        "How much of reported earnings is actually distributable to owners?",
+        "Is return attractive on purchase price but poor on replacement cost?"
+      ],
+      "diagnostic_signals": [
+        "Persistent maintenance capex above depreciation",
+        "Low owner cash generation relative to accounting earnings",
+        "Need to increase debt to fund dividends or normal operations",
+        "Weak return on replacement value despite acceptable accounting profits"
+      ],
+      "practical_rules": [
+        "Translate reported earnings into owner economics.",
+        "Be tougher on capital-intensive businesses whose maintenance needs exceed depreciation."
+      ],
+      "example_buffett_phrasing": [
+        "compound",
+        "consume capital",
+        "maintenance capex exceeds depreciation"
+      ],
+      "tags": [
+        "owner_earnings",
+        "capital_intensity",
+        "maintenance_capex",
+        "earnings_quality"
+      ]
+    },
+    {
+      "item_id": "2023_005",
+      "section": "4. Prefer businesses with timeless products, trust, and “traveling” demand",
+      "subsection": null,
+      "principle_title": "Seek timeless, portable demand",
+      "principle_statement": "Favor simple, trusted offerings that remain relevant across generations and geographies.",
+      "normalized_principle": "Businesses with timeless products, trusted brands, and demand that travels across borders and decades are especially durable.",
+      "importance": "medium",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "public_stock",
+        "private_business",
+        "acquisition_target"
+      ],
+      "financial_metrics": [],
+      "metric_definition": [],
+      "metric_usage_context": [],
+      "metric_limitations": [],
+      "performance_logic": [
+        "Products or services that are simple, trusted, and globally understandable are harder to displace and can sustain long-lived economics."
+      ],
+      "evaluation_questions": [
+        "Does the product or service satisfy a timeless need?",
+        "Can the brand or trusted function travel globally?",
+        "Is the offering easy to understand but hard to displace?",
+        "Has the base business remained successful across decades?"
+      ],
+      "diagnostic_signals": [
+        "Trend-dependent demand",
+        "No durable customer trust",
+        "Core business diluted by unrelated diversification",
+        "Business identity tied to temporary market narratives"
+      ],
+      "practical_rules": [
+        "Prefer offerings with durable relevance across time and geography.",
+        "Treat trusted simplicity as a strategic strength."
+      ],
+      "example_buffett_phrasing": [
+        "traveling demand",
+        "the product travels, the brand travels, the trust travels"
+      ],
+      "tags": [
+        "brand_durability",
+        "timeless_demand",
+        "global_scalability",
+        "trust"
+      ]
+    },
+    {
+      "item_id": "2023_006",
+      "section": "5. Treat accounting earnings as a starting point, not the conclusion",
+      "subsection": null,
+      "principle_title": "Use earnings as a starting point",
+      "principle_statement": "Reported earnings should be treated as a sensible analytical starting point rather than mechanically accepted as the conclusion.",
+      "normalized_principle": "Accounting earnings are useful only after being translated into economic reality.",
+      "importance": "high",
+      "time_horizon": "medium_term",
+      "applies_to": [
+        "public_stock",
+        "private_business",
+        "capital_allocator"
+      ],
+      "financial_metrics": [
+        "reported_earnings",
+        "operating_earnings",
+        "owner_earnings",
+        "retained_earnings"
+      ],
+      "metric_definition": [
+        "reported_earnings: formal accounting profit shown in financial statements",
+        "operating_earnings: earnings generated by the ongoing business apart from non-operating noise",
+        "owner_earnings: economic earnings available after realistic maintenance requirements",
+        "retained_earnings: earnings kept inside the business for reinvestment or other uses"
+      ],
+      "metric_usage_context": [
+        "reported_earnings: starting point for reconciling accounting numbers to business reality",
+        "operating_earnings: used to isolate core performance for valuation",
+        "owner_earnings: used to judge what a rational owner actually receives economically",
+        "retained_earnings: used to link current accounting profits to later value creation"
+      ],
+      "metric_limitations": [
+        "reported_earnings: can be formally correct yet analytically unhelpful",
+        "operating_earnings: may still omit important capital intensity or asset-quality issues",
+        "owner_earnings: depends on realistic estimates of maintenance needs"
+      ],
+      "performance_logic": [
+        "GAAP can be technically correct while still obscuring the economics that matter for valuation and capital allocation."
+      ],
+      "evaluation_questions": [
+        "Does reported net income reflect business reality?",
+        "What earnings measure best represents ongoing operating performance?",
+        "Which items are informative for valuation, and which are noise?",
+        "What would a rational owner want separated out?"
+      ],
+      "diagnostic_signals": [],
+      "practical_rules": [
+        "Reconcile reported earnings, operating earnings, owner economics, capital intensity, and value creation from retained capital.",
+        "Do not accept net income at face value."
+      ],
+      "example_buffett_phrasing": [
+        "starting point, not the conclusion",
+        "GAAP can be correct in a formal sense yet still be unhelpful"
+      ],
+      "tags": [
+        "gaap",
+        "earnings_quality",
+        "owner_earnings",
+        "valuation"
+      ]
+    },
+    {
+      "item_id": "2023_007",
+      "section": "6. Separate operating performance from market-value volatility",
+      "subsection": null,
+      "principle_title": "Separate operations from mark-to-market swings",
+      "principle_statement": "Do not judge business performance using earnings distorted by short-term market-value volatility.",
+      "normalized_principle": "Separate operating performance from unrealized mark-to-market fluctuations when judging business progress.",
+      "importance": "high",
+      "time_horizon": "medium_term",
+      "applies_to": [
+        "public_stock",
+        "holding_company",
+        "insurance_operation",
+        "capital_allocator"
+      ],
+      "financial_metrics": [
+        "unrealized_capital_gains_losses",
+        "operating_earnings",
+        "market_value"
+      ],
+      "metric_definition": [
+        "unrealized_capital_gains_losses: changes in portfolio value recognized before assets are sold",
+        "operating_earnings: profits generated by the business operations themselves",
+        "market_value: quoted value assigned by the market to securities at a point in time"
+      ],
+      "metric_usage_context": [
+        "unrealized_capital_gains_losses: monitored over long periods but excluded from short-run judgments about operating performance",
+        "operating_earnings: used to assess actual business progress absent portfolio price noise",
+        "market_value: treated as a fluctuating reference rather than proof of operating change"
+      ],
+      "metric_limitations": [
+        "unrealized_capital_gains_losses: are economically meaningful over long periods but can badly mislead over short periods when mixed into earnings",
+        "market_value: often reflects mood more than operating progress in the short run"
+      ],
+      "performance_logic": [
+        "Capital gains matter over long horizons, but short-term market moves often say more about market mood than about business performance."
+      ],
+      "evaluation_questions": [
+        "How much of earnings change came from operations versus market-price fluctuations?",
+        "What does the business itself earn absent portfolio valuation noise?",
+        "Am I confusing quote changes with business performance?"
+      ],
+      "diagnostic_signals": [
+        "Huge earnings volatility driven mainly by unrealized gains or losses",
+        "Media narratives focused on bottom-line swings without operating analysis",
+        "Valuation conclusions based on short-term quote movement"
+      ],
+      "practical_rules": [
+        "Strip out mark-to-market noise before evaluating operations.",
+        "Use long-run capital gains as a separate economic consideration."
+      ],
+      "example_buffett_phrasing": [
+        "market-value volatility",
+        "mark-to-market swings"
+      ],
+      "tags": [
+        "mark_to_market",
+        "operating_earnings",
+        "portfolio_noise",
+        "earnings_distortion"
+      ]
+    },
+    {
+      "item_id": "2023_008",
+      "section": "7. Use the market as a reference, not as a judge of intrinsic progress",
+      "subsection": null,
+      "principle_title": "Use markets as references, not judges",
+      "principle_statement": "The market is useful, but its short-run behavior is often emotional, speculative, and casino-like.",
+      "normalized_principle": "Treat market prices as references and opportunities rather than judges of intrinsic business progress.",
+      "importance": "high",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "public_stock",
+        "shareholder",
+        "capital_allocator"
+      ],
+      "financial_metrics": [
+        "market_price",
+        "intrinsic_value"
+      ],
+      "metric_definition": [
+        "market_price: current quoted price at which securities trade",
+        "intrinsic_value: estimated underlying business value based on economics rather than quotations"
+      ],
+      "metric_usage_context": [
+        "market_price: used as a source of opportunity or temptation, not as instruction",
+        "intrinsic_value: used as the anchor for judging whether quotations are informative or noisy"
+      ],
+      "metric_limitations": [
+        "market_price: often reflects sentiment rather than substance in the short run",
+        "intrinsic_value: must be estimated and can differ from market consensus for long periods"
+      ],
+      "performance_logic": [
+        "In the short run the market often votes emotionally; over the long run business substance is more likely to govern value realization."
+      ],
+      "evaluation_questions": [
+        "Is current price movement reflecting intrinsic progress or crowd voting?",
+        "Is the market giving me information, temptation, or noise?",
+        "Am I treating market quotations as instructions instead of opportunities?"
+      ],
+      "diagnostic_signals": [],
+      "practical_rules": [
+        "Anchor analysis to intrinsic progress, not daily quotations.",
+        "Use market behavior to source opportunities, not validation."
+      ],
+      "example_buffett_phrasing": [
+        "reference, not as a judge",
+        "casino-like"
+      ],
+      "tags": [
+        "market_psychology",
+        "intrinsic_value",
+        "price_vs_value"
+      ]
+    },
+    {
+      "item_id": "2023_009",
+      "section": "8. Require both ability and trustworthiness",
+      "subsection": null,
+      "principle_title": "Require competence and integrity together",
+      "principle_statement": "A great business run by untrustworthy people is not a great investment.",
+      "normalized_principle": "Invest only when managerial ability and trustworthiness coexist.",
+      "importance": "high",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "management_team",
+        "private_business",
+        "public_stock",
+        "acquisition_target",
+        "board"
+      ],
+      "financial_metrics": [],
+      "metric_definition": [],
+      "metric_usage_context": [],
+      "metric_limitations": [],
+      "performance_logic": [
+        "Business quality alone is insufficient; management character and competence affect capital allocation, disclosure quality, and long-term owner outcomes."
+      ],
+      "evaluation_questions": [
+        "Are managers both competent and honest?",
+        "Do they allocate capital rationally?",
+        "Do they communicate plainly rather than cosmetically?",
+        "Are they working for owners, or selling a story?"
+      ],
+      "diagnostic_signals": [
+        "Promotional tone",
+        "Incentives that reward activity over value creation",
+        "Empire-building acquisitions",
+        "Complicated disclosures that obscure reality",
+        "Signs of insincerity, cosmetic empathy, or selling behavior"
+      ],
+      "practical_rules": [
+        "Underwrite management quality as a core variable, not a soft factor.",
+        "Reject investments where trustworthiness is doubtful even if the business looks strong."
+      ],
+      "example_buffett_phrasing": [
+        "able and trustworthy managers"
+      ],
+      "tags": [
+        "management_quality",
+        "integrity",
+        "capital_allocation",
+        "candor"
+      ]
+    },
+    {
+      "item_id": "2023_010",
+      "section": "9. Never assume you can safely partner with a rascal",
+      "subsection": null,
+      "principle_title": "Do not rationalize bad character",
+      "principle_statement": "Do not invest under the assumption that bad character can be safely managed around.",
+      "normalized_principle": "Integrity failures in management are hard underwriting negatives, not nuisances to be controlled away.",
+      "importance": "high",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "management_team",
+        "board",
+        "public_stock",
+        "private_business"
+      ],
+      "financial_metrics": [],
+      "metric_definition": [],
+      "metric_usage_context": [],
+      "metric_limitations": [],
+      "performance_logic": [
+        "Weak ethics can overwhelm controls, contaminate culture, and create losses that attractive numbers do not offset."
+      ],
+      "evaluation_questions": [
+        "If management is flawed ethically, am I rationalizing that controls will protect me?",
+        "Am I overlooking integrity problems because the numbers look attractive?",
+        "Are there governance structures that depend too heavily on trusting the wrong person?"
+      ],
+      "diagnostic_signals": [
+        "Repeated related-party concerns",
+        "Aggressive accounting with weak candor",
+        "A culture that normalizes questionable behavior",
+        "Charisma compensating for lack of credibility"
+      ],
+      "practical_rules": [
+        "Treat integrity issues as decisive unless clearly disproven.",
+        "Do not rely on governance structures to fix a fundamentally bad partner."
+      ],
+      "example_buffett_phrasing": [
+        "partner with a rascal"
+      ],
+      "tags": [
+        "integrity",
+        "governance",
+        "management_risk",
+        "underwriting"
+      ]
+    },
+    {
+      "item_id": "2023_011",
+      "section": "10. Study incentives, human weakness, and behavioral “tells”",
+      "subsection": null,
+      "principle_title": "Analyze incentives and selling behavior",
+      "principle_statement": "Study incentives, human weakness, and who is selling when evaluating any investment or business counterpart.",
+      "normalized_principle": "Incentive structures and behavioral tells often reveal more than formal statements.",
+      "importance": "medium",
+      "time_horizon": "medium_term",
+      "applies_to": [
+        "management_team",
+        "board",
+        "shareholder",
+        "capital_allocator",
+        "other"
+      ],
+      "financial_metrics": [],
+      "metric_definition": [],
+      "metric_usage_context": [],
+      "metric_limitations": [],
+      "performance_logic": [
+        "People respond to incentives; optimism, complexity, and activity may serve insiders or intermediaries rather than owners."
+      ],
+      "evaluation_questions": [
+        "What behavior is management incentivized to pursue?",
+        "Who benefits from optimism, complexity, or constant activity?",
+        "Is the person speaking to me acting like an owner or a salesperson?"
+      ],
+      "diagnostic_signals": [
+        "Complex explanations paired with self-serving incentives",
+        "Constant activity promoted as value creation",
+        "Intermediaries rewarded for transactions rather than owner outcomes"
+      ],
+      "practical_rules": [
+        "Study the incentive system around executives, boards, brokers, dealmakers, and promoters.",
+        "Discount narratives that align neatly with the speaker’s payoff."
+      ],
+      "example_buffett_phrasing": [
+        "who is selling"
+      ],
+      "tags": [
+        "incentives",
+        "behavioral_analysis",
+        "agency",
+        "promotion"
+      ]
+    },
+    {
+      "item_id": "2023_012",
+      "section": "11. Favor managements that are genuinely shareholder-friendly",
+      "subsection": null,
+      "principle_title": "Demand concrete shareholder orientation",
+      "principle_statement": "Shareholder friendliness should show up in concrete capital allocation behavior, not branding.",
+      "normalized_principle": "True shareholder orientation is visible in disciplined per-share capital allocation decisions.",
+      "importance": "high",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "management_team",
+        "shareholder",
+        "board",
+        "public_stock",
+        "holding_company"
+      ],
+      "financial_metrics": [
+        "per_share_value",
+        "share_repurchases",
+        "share_issuance",
+        "managerial_compensation",
+        "retained_earnings"
+      ],
+      "metric_definition": [
+        "per_share_value: owner value attributable to each share outstanding",
+        "share_repurchases: company buybacks of its own stock",
+        "share_issuance: creation and sale of additional shares that can dilute existing owners",
+        "managerial_compensation: pay awarded to management",
+        "retained_earnings: profits kept inside the business for future use"
+      ],
+      "metric_usage_context": [
+        "per_share_value: used to judge whether management decisions benefit each owner rather than just enlarge the enterprise",
+        "share_repurchases: used as a tool to increase owner participation when pricing is favorable",
+        "share_issuance: monitored as a potential source of dilution unless clearly beneficial",
+        "managerial_compensation: examined as a sign of owner alignment or self-enrichment",
+        "retained_earnings: tested for productive deployment rather than hoarding"
+      ],
+      "metric_limitations": [
+        "share_repurchases: are not shareholder-friendly if done regardless of price",
+        "per_share_value: may not improve even when total earnings rise if dilution or poor capital allocation offsets gains"
+      ],
+      "performance_logic": [
+        "Owner-friendly management allocates capital to maximize per-share value, avoids unnecessary dilution, and does not enrich itself at owners' expense."
+      ],
+      "evaluation_questions": [
+        "Does management think in per-share terms?",
+        "Are buybacks price-sensitive or merely automatic?",
+        "Are retained earnings deployed intelligently?",
+        "Is dilution avoided unless clearly beneficial?"
+      ],
+      "diagnostic_signals": [],
+      "practical_rules": [
+        "Judge shareholder friendliness through actions, not messaging.",
+        "Focus on per-share value creation rather than empire size."
+      ],
+      "example_buffett_phrasing": [
+        "shareholder-friendly",
+        "per-share value"
+      ],
+      "tags": [
+        "shareholder_orientation",
+        "per_share_value",
+        "buybacks",
+        "dilution"
+      ]
+    },
+    {
+      "item_id": "2023_013",
+      "section": "12. All repurchases must be price-dependent",
+      "subsection": null,
+      "principle_title": "Only repurchase below value",
+      "principle_statement": "Buybacks are beneficial only when they are executed below business value.",
+      "normalized_principle": "Share repurchases create value only when management buys at a discount to intrinsic value.",
+      "importance": "high",
+      "time_horizon": "medium_term",
+      "applies_to": [
+        "public_stock",
+        "management_team",
+        "shareholder",
+        "capital_allocator"
+      ],
+      "financial_metrics": [
+        "share_repurchases",
+        "intrinsic_value",
+        "per_share_value",
+        "debt"
+      ],
+      "metric_definition": [
+        "share_repurchases: reduction of shares outstanding through company purchases of its own stock",
+        "intrinsic_value: estimated worth of the business independent of current market quotation",
+        "per_share_value: value attributable to each remaining owner after repurchase effects",
+        "debt: borrowed capital that can fund operations or buybacks"
+      ],
+      "metric_usage_context": [
+        "share_repurchases: judged by whether they are conducted below intrinsic value and improve each owner’s stake",
+        "intrinsic_value: benchmark for deciding whether buybacks are accretive or destructive",
+        "per_share_value: used to test whether repurchases actually enhanced owner economics",
+        "debt: assessed to determine whether buybacks are funded prudently"
+      ],
+      "metric_limitations": [
+        "share_repurchases: can destroy value when done at premiums or merely to offset stock compensation",
+        "intrinsic_value: must be estimated, so buyback discipline requires conservative judgment",
+        "debt: debt-funded buybacks can increase fragility even if shares seem reasonably priced"
+      ],
+      "performance_logic": [
+        "Repurchases below value increase each remaining owner’s participation in the business; repurchases above value transfer wealth away from continuing shareholders."
+      ],
+      "evaluation_questions": [
+        "Is the company repurchasing shares at a discount to intrinsic value?",
+        "Is management buying back stock because it is cheap, or because buybacks are fashionable?",
+        "Is per-share value increasing, or is capital being wasted?"
+      ],
+      "diagnostic_signals": [
+        "Buybacks done at obviously rich valuations",
+        "Debt-funded buybacks unsupported by economics",
+        "Buybacks used only to offset stock compensation without improving owner value"
+      ],
+      "practical_rules": [
+        "Require valuation discipline in repurchases.",
+        "Treat buybacks as capital allocation decisions, not reflexive policy."
+      ],
+      "example_buffett_phrasing": [
+        "price-dependent",
+        "Repurchases at premiums destroy value"
+      ],
+      "tags": [
+        "buybacks",
+        "intrinsic_value",
+        "capital_allocation",
+        "per_share_value"
+      ]
+    },
+    {
+      "item_id": "2023_014",
+      "section": "13. Retained earnings must justify themselves",
+      "subsection": null,
+      "principle_title": "Make retained earnings prove their worth",
+      "principle_statement": "A company should keep earnings only if retained capital can create value at attractive rates.",
+      "normalized_principle": "Retained earnings must be justified by subsequent value creation for owners.",
+      "importance": "high",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "management_team",
+        "public_stock",
+        "private_business",
+        "capital_allocator",
+        "shareholder"
+      ],
+      "financial_metrics": [
+        "retained_earnings",
+        "earning_power",
+        "per_share_value",
+        "return_on_capital"
+      ],
+      "metric_definition": [
+        "retained_earnings: profits not distributed to owners",
+        "earning_power: sustainable ability of the business to generate profits",
+        "per_share_value: owner value attributable to each share",
+        "return_on_capital: return generated on capital employed in the business"
+      ],
+      "metric_usage_context": [
+        "retained_earnings: tracked over multiyear periods to see whether management used them productively",
+        "earning_power: used to test whether retained capital improved the business economically",
+        "per_share_value: used to judge whether owners benefited from keeping cash inside the business",
+        "return_on_capital: helps assess whether retained funds earned attractive returns"
+      ],
+      "metric_limitations": [
+        "retained_earnings: can accumulate without creating value if management hoards cash or overexpands",
+        "earning_power: can appear stronger temporarily from cyclical or accounting effects rather than retained-capital skill"
+      ],
+      "performance_logic": [
+        "Keeping cash is worthwhile only when management can deploy it into high-return growth, valuable buybacks, or rational competitive strengthening."
+      ],
+      "evaluation_questions": [
+        "What has management done with retained earnings over the last 5–10 years?",
+        "Did retained capital produce higher earning power, stronger economics, or better per-share value?",
+        "Would owners have been better off receiving the cash?"
+      ],
+      "diagnostic_signals": [
+        "Retained earnings fund diworseification",
+        "Retained capital produces low returns",
+        "Management hoards cash without clear value-creating purpose"
+      ],
+      "practical_rules": [
+        "Review retained earnings against later earning power and per-share value.",
+        "Prefer distribution when reinvestment opportunities are weak."
+      ],
+      "example_buffett_phrasing": [
+        "Retained earnings must justify themselves"
+      ],
+      "tags": [
+        "retained_earnings",
+        "capital_allocation",
+        "earning_power",
+        "per_share_value"
+      ]
+    },
+    {
+      "item_id": "2023_015",
+      "section": "14. The first rule is: Never risk permanent loss of capital",
+      "subsection": null,
+      "principle_title": "Prioritize avoiding permanent capital loss",
+      "principle_statement": "Temporary volatility is acceptable, but permanent impairment of owner capital is not.",
+      "normalized_principle": "Avoid permanent loss of capital above all else in underwriting, financing, and portfolio construction.",
+      "importance": "high",
+      "time_horizon": "cross_cycle",
+      "applies_to": [
+        "public_stock",
+        "private_business",
+        "balance_sheet",
+        "capital_allocator",
+        "shareholder",
+        "lender"
+      ],
+      "financial_metrics": [],
+      "metric_definition": [],
+      "metric_usage_context": [],
+      "metric_limitations": [],
+      "performance_logic": [
+        "Long-term success depends more on surviving and avoiding ruin than on maximizing short-term reported performance."
+      ],
+      "evaluation_questions": [
+        "What could permanently impair capital here?",
+        "Is the downside merely volatility, or real destruction?",
+        "What scenarios could force dilution, distress, or bankruptcy?",
+        "How fragile is the company under stress?"
+      ],
+      "diagnostic_signals": [
+        "Business vulnerable to dilution, distress, or bankruptcy under plausible stress",
+        "Capital structure leaves no margin for bad outcomes"
+      ],
+      "practical_rules": [
+        "Separate volatility from permanent impairment.",
+        "Underwrite survival first, upside second."
+      ],
+      "example_buffett_phrasing": [
+        "Never risk permanent loss of capital"
+      ],
+      "tags": [
+        "risk_management",
+        "permanent_loss",
+        "downside_protection",
+        "survival"
+      ]
+    },
+    {
+      "item_id": "2023_016",
+      "section": "15. Build for resilience before the crisis arrives",
+      "subsection": null,
+      "principle_title": "Pre-build resilience",
+      "principle_statement": "Financial strength is valuable precisely because it looks excessive in normal times.",
+      "normalized_principle": "Resilience must be built before crisis conditions, not after they appear.",
+      "importance": "high",
+      "time_horizon": "cross_cycle",
+      "applies_to": [
+        "balance_sheet",
+        "holding_company",
+        "public_stock",
+        "private_business",
+        "capital_allocator"
+      ],
+      "financial_metrics": [
+        "liquidity",
+        "debt_maturities",
+        "dividends",
+        "share_repurchases",
+        "external_funding"
+      ],
+      "metric_definition": [
+        "liquidity: cash and near-cash resources available to meet obligations and seize opportunities",
+        "debt_maturities: schedule of debt obligations coming due",
+        "dividends: cash distributions that may or may not be discretionary",
+        "share_repurchases: capital returns that can be flexible or ill-timed",
+        "external_funding: reliance on capital markets or outside financing sources"
+      ],
+      "metric_usage_context": [
+        "liquidity: used to judge whether the company can survive paralysis and still operate",
+        "debt_maturities: used to assess refinancing risk during stress",
+        "dividends: examined for flexibility versus hard cash obligation",
+        "share_repurchases: assessed for whether they are discretionary and can be halted in stress",
+        "external_funding: monitored as a source of fragility if markets close"
+      ],
+      "metric_limitations": [
+        "liquidity: can appear excessive in normal times even though it is valuable in real crises",
+        "dividends: may be treated as optional by analysts even when management culture makes them sticky"
+      ],
+      "performance_logic": [
+        "Prepared liquidity may reduce reported returns in ordinary years, but it enables survival and rare opportunity capture during financial seizures."
+      ],
+      "evaluation_questions": [
+        "Can the company survive a severe financial seizure without outside help?",
+        "Are debt maturities manageable?",
+        "Are capital returns discretionary or obligatory?",
+        "Is liquidity sufficient for genuine stress, not just textbook stress?"
+      ],
+      "diagnostic_signals": [
+        "Constant dependence on refinancing",
+        "Thin liquidity buffers",
+        "Hard cash obligations during downturns",
+        "Business model viability dependent on friendly capital markets"
+      ],
+      "practical_rules": [
+        "Favor structures with large liquidity, modest maturity pressure, and low funding fragility.",
+        "Design capital returns to remain flexible in stress."
+      ],
+      "example_buffett_phrasing": [
+        "Build for resilience before the crisis arrives"
+      ],
+      "tags": [
+        "liquidity",
+        "balance_sheet",
+        "debt_maturities",
+        "crisis_resilience"
+      ]
+    },
+    {
+      "item_id": "2023_017",
+      "section": "16. Extreme conservatism can be a strategic asset",
+      "subsection": null,
+      "principle_title": "Fortress balance sheets can be strategic",
+      "principle_statement": "A fortress balance sheet may look inefficient in calm periods but can be priceless during panics.",
+      "normalized_principle": "Extreme conservatism in financing can create strategic advantage during market stress.",
+      "importance": "medium",
+      "time_horizon": "cross_cycle",
+      "applies_to": [
+        "balance_sheet",
+        "holding_company",
+        "capital_allocator",
+        "lender"
+      ],
+      "financial_metrics": [],
+      "metric_definition": [],
+      "metric_usage_context": [],
+      "metric_limitations": [],
+      "performance_logic": [
+        "Slightly lower upside in good times can buy the ability to avoid existential risk and gain flexibility when others are forced sellers."
+      ],
+      "evaluation_questions": [
+        "Is the company sacrificing a little upside to eliminate existential risk?",
+        "Could its conservatism become a competitive advantage during market stress?",
+        "Will this firm be a forced seller or a provider of liquidity in crisis?"
+      ],
+      "diagnostic_signals": [],
+      "practical_rules": [
+        "Treat fortress financing as a potential strategic asset, not mere inefficiency.",
+        "Favor counterparties likely to remain liquid under panic."
+      ],
+      "example_buffett_phrasing": [
+        "Extreme conservatism can be a strategic asset",
+        "fortress balance sheet"
+      ],
+      "tags": [
+        "fortress_balance_sheet",
+        "conservatism",
+        "strategic_resilience"
+      ]
+    },
+    {
+      "item_id": "2023_018",
+      "section": "17. The ability to act during panic is a competitive advantage",
+      "subsection": null,
+      "principle_title": "Prepare to act in panic",
+      "principle_statement": "Rare market seizures create extraordinary opportunities only for those with liquidity, credibility, and certainty of performance.",
+      "normalized_principle": "The ability to act decisively during panic is a valuable competitive advantage that must be prepared in advance.",
+      "importance": "high",
+      "time_horizon": "cross_cycle",
+      "applies_to": [
+        "capital_allocator",
+        "holding_company",
+        "lender",
+        "shareholder"
+      ],
+      "financial_metrics": [
+        "liquidity"
+      ],
+      "metric_definition": [
+        "liquidity: immediately available financial capacity to transact when markets are stressed"
+      ],
+      "metric_usage_context": [
+        "liquidity: used to determine whether the investor or company can deploy capital when others freeze"
+      ],
+      "metric_limitations": [
+        "liquidity: creates no special benefit if counterparties do not trust execution certainty or if management lacks decisiveness"
+      ],
+      "performance_logic": [
+        "Dislocations can materially enhance long-term returns, but only pre-positioned actors with cash and trusted execution can exploit them."
+      ],
+      "evaluation_questions": [
+        "Can this company or investor act decisively when others freeze?",
+        "Does it have both cash and counterpart trust?",
+        "Is opportunistic buying part of the culture, or only a fantasy?"
+      ],
+      "diagnostic_signals": [],
+      "practical_rules": [
+        "Value liquidity not only for survival but also for offense.",
+        "Assess whether organizational culture actually converts dry powder into action."
+      ],
+      "example_buffett_phrasing": [
+        "act during panic",
+        "certainty of performance"
+      ],
+      "tags": [
+        "opportunism",
+        "liquidity",
+        "crisis_alpha",
+        "preparedness"
+      ]
+    },
+    {
+      "item_id": "2023_019",
+      "section": "18. Great outcomes do not require many great decisions",
+      "subsection": null,
+      "principle_title": "A few great decisions can be enough",
+      "principle_statement": "A few excellent decisions combined with avoiding major mistakes can produce an outstanding investing lifetime.",
+      "normalized_principle": "Outstanding long-term results can come from a small number of exceptional decisions plus mistake avoidance.",
+      "importance": "medium",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "shareholder",
+        "capital_allocator",
+        "public_stock"
+      ],
+      "financial_metrics": [],
+      "metric_definition": [],
+      "metric_usage_context": [],
+      "metric_limitations": [],
+      "performance_logic": [
+        "Concentration in genuine excellence can outperform hyperactivity when combined with error avoidance."
+      ],
+      "evaluation_questions": [
+        "Am I overcomplicating the portfolio?",
+        "Which decisions matter most?",
+        "Would one truly exceptional business offset many merely average calls?"
+      ],
+      "diagnostic_signals": [],
+      "practical_rules": [
+        "Focus on decision quality over activity volume.",
+        "Avoid major mistakes rather than chasing many marginal opportunities."
+      ],
+      "example_buffett_phrasing": [
+        "Great outcomes do not require many great decisions"
+      ],
+      "tags": [
+        "concentration",
+        "decision_quality",
+        "mistake_avoidance",
+        "portfolio_construction"
+      ]
+    },
+    {
+      "item_id": "2023_020",
+      "section": "19. When you find a truly wonderful business, stick with it",
+      "subsection": null,
+      "principle_title": "Let time work for a wonderful business",
+      "principle_statement": "Patience is part of the edge when the business remains truly wonderful.",
+      "normalized_principle": "Long holding periods are valuable when a wonderful business continues to compound and the thesis remains intact.",
+      "importance": "high",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "public_stock",
+        "shareholder",
+        "capital_allocator"
+      ],
+      "financial_metrics": [
+        "tax_efficiency"
+      ],
+      "metric_definition": [
+        "tax_efficiency: preservation of after-tax compounding by reducing unnecessary realization of gains"
+      ],
+      "metric_usage_context": [
+        "tax_efficiency: part of the reason long holding periods can improve owner outcomes when the thesis is intact"
+      ],
+      "metric_limitations": [
+        "tax_efficiency: does not justify holding when the business quality or thesis has broken"
+      ],
+      "performance_logic": [
+        "Long holding periods allow internal compounding, tax efficiency, lower error rates, and fuller emergence of business quality."
+      ],
+      "evaluation_questions": [
+        "Is the business still wonderful?",
+        "Has the original thesis improved, weakened, or broken?",
+        "Am I tempted to act merely because time has passed or price has moved?"
+      ],
+      "diagnostic_signals": [
+        "Selling because of boredom",
+        "Excessive trading around a still-intact thesis",
+        "Replacing excellence with excitement"
+      ],
+      "practical_rules": [
+        "Hold exceptional businesses while the core thesis remains sound.",
+        "Do not confuse motion with progress."
+      ],
+      "example_buffett_phrasing": [
+        "stick with it",
+        "let time work"
+      ],
+      "tags": [
+        "patience",
+        "holding_period",
+        "compounding",
+        "tax_efficiency"
+      ]
+    },
+    {
+      "item_id": "2023_021",
+      "section": "20. Large scale reduces the opportunity set",
+      "subsection": null,
+      "principle_title": "Match strategy to scale",
+      "principle_statement": "As capital base grows, the number of opportunities that can materially move results shrinks.",
+      "normalized_principle": "The size of capital constrains the opportunity set and can force strategy changes.",
+      "importance": "medium",
+      "time_horizon": "medium_term",
+      "applies_to": [
+        "capital_allocator",
+        "holding_company",
+        "shareholder"
+      ],
+      "financial_metrics": [
+        "capital_base",
+        "position_size",
+        "capacity"
+      ],
+      "metric_definition": [
+        "capital_base: total capital available to deploy",
+        "position_size: amount invested relative to total capital",
+        "capacity: ability to build a meaningful position without distorting price or quality standards"
+      ],
+      "metric_usage_context": [
+        "capital_base: used to judge whether an opportunity can matter to overall results",
+        "position_size: used to test materiality relative to available capital",
+        "capacity: used to determine whether favorable opportunities are scalable enough"
+      ],
+      "metric_limitations": [
+        "capacity: can shrink quickly as price moves or liquidity falls",
+        "capital_base: large scale can force compromise even when analysis is correct"
+      ],
+      "performance_logic": [
+        "A strategy that works at small scale may lose potency when available capital grows beyond the size of attractive opportunities."
+      ],
+      "evaluation_questions": [
+        "Is this opportunity meaningful relative to available capital?",
+        "Is there enough capacity to build a position at a favorable price?",
+        "Does scale force compromise on quality, price, or patience?"
+      ],
+      "diagnostic_signals": [],
+      "practical_rules": [
+        "Evaluate opportunities relative to deployable capital, not in isolation.",
+        "Do not assume small-scale tactics remain valid at large size."
+      ],
+      "example_buffett_phrasing": [
+        "Large scale reduces the opportunity set"
+      ],
+      "tags": [
+        "scale",
+        "capacity",
+        "position_sizing",
+        "portfolio_constraints"
+      ]
+    },
+    {
+      "item_id": "2023_022",
+      "section": "21. Keep expectations realistic",
+      "subsection": null,
+      "principle_title": "Underwrite realistic outcomes",
+      "principle_statement": "Even a superb organization may eventually target slightly better-than-average results with materially lower risk of permanent loss.",
+      "normalized_principle": "As scale and maturity rise, realistic underwriting should favor solid compounding with safety over fantasy returns.",
+      "importance": "medium",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "holding_company",
+        "public_stock",
+        "shareholder",
+        "capital_allocator"
+      ],
+      "financial_metrics": [],
+      "metric_definition": [],
+      "metric_usage_context": [],
+      "metric_limitations": [],
+      "performance_logic": [
+        "Admiration for a business can lead to unrealistic growth assumptions even when size, competition, and market efficiency constrain future returns."
+      ],
+      "evaluation_questions": [
+        "Am I underwriting fantasy growth because I admire the company?",
+        "Has size, competition, or market efficiency reduced future upside?",
+        "Is the realistic goal solid compounding with safety rather than eye-popping returns?"
+      ],
+      "diagnostic_signals": [],
+      "practical_rules": [
+        "Set expectations based on realistic future economics, not reputation.",
+        "Value lower risk of permanent loss even when upside is moderate."
+      ],
+      "example_buffett_phrasing": [
+        "Keep expectations realistic",
+        "slightly better-than-average results"
+      ],
+      "tags": [
+        "expectations",
+        "base_rates",
+        "risk_adjusted_return"
+      ]
+    },
+    {
+      "item_id": "2023_023",
+      "section": "22. Capital intensity matters more than many investors admit",
+      "subsection": null,
+      "principle_title": "Be tougher on capital-hungry industries",
+      "principle_statement": "Industries that eat capital deserve tougher analysis than many investors give them.",
+      "normalized_principle": "Capital intensity is a central determinant of owner economics and should materially raise analytical standards.",
+      "importance": "high",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "public_stock",
+        "private_business",
+        "balance_sheet",
+        "other"
+      ],
+      "financial_metrics": [
+        "capital_intensity",
+        "owner_cash_conversion",
+        "maintenance_capex",
+        "replacement_cost"
+      ],
+      "metric_definition": [
+        "capital_intensity: amount of capital required to support and maintain the business",
+        "owner_cash_conversion: portion of accounting earnings that becomes owner-available cash after real capital needs",
+        "maintenance_capex: ongoing capital needed to preserve present economics",
+        "replacement_cost: economic cost to replicate the productive asset base"
+      ],
+      "metric_usage_context": [
+        "capital_intensity: used to screen industries where reported profits may overstate business attractiveness",
+        "owner_cash_conversion: used to test whether earnings translate into owner value",
+        "maintenance_capex: used to determine how much cash must be reinvested just to stay even",
+        "replacement_cost: used to judge whether acceptable accounting returns are poor relative to true capital required"
+      ],
+      "metric_limitations": [
+        "owner_cash_conversion: may look healthy in short windows when maintenance needs are deferred",
+        "replacement_cost: can be difficult to estimate in changing regulatory or technological environments"
+      ],
+      "performance_logic": [
+        "Strategically important assets can still be weak investments when they require heavy ongoing capital and generate low owner cash conversion."
+      ],
+      "evaluation_questions": [
+        "How much ongoing capital must be reinvested?",
+        "What is owner cash conversion after real maintenance needs?",
+        "Is the business earning on historical cost or replacement economics?"
+      ],
+      "diagnostic_signals": [],
+      "practical_rules": [
+        "Apply stricter hurdle rates to capital-intensive industries.",
+        "Look through historical accounting to the economics of replacement and maintenance."
+      ],
+      "example_buffett_phrasing": [
+        "eat capital",
+        "Capital intensity matters more than many investors admit"
+      ],
+      "tags": [
+        "capital_intensity",
+        "owner_cash_conversion",
+        "replacement_cost",
+        "industry_analysis"
+      ]
+    },
+    {
+      "item_id": "2023_024",
+      "section": "23. Regulation is part of the business model, not an external detail",
+      "subsection": null,
+      "principle_title": "Underwrite the regulatory compact",
+      "principle_statement": "In regulated industries, economics depend on whether the regulatory compact remains investable.",
+      "normalized_principle": "For regulated businesses, regulation is part of the business model and must be underwritten like any core economic variable.",
+      "importance": "high",
+      "time_horizon": "cross_cycle",
+      "applies_to": [
+        "public_stock",
+        "private_business",
+        "balance_sheet",
+        "other"
+      ],
+      "financial_metrics": [
+        "allowed_return",
+        "cost_recovery",
+        "liability_exposure"
+      ],
+      "metric_definition": [
+        "allowed_return: economic return regulators permit on invested capital or assets",
+        "cost_recovery: ability to recover incurred costs through rates or other mechanisms",
+        "liability_exposure: potential obligations arising from legal, climate, or policy shifts"
+      ],
+      "metric_usage_context": [
+        "allowed_return: used to judge whether long-dated investment remains economically justified",
+        "cost_recovery: used to test whether committed capital can earn back its required economics",
+        "liability_exposure: used to assess whether political, legal, or climate change can impair returns after capital is sunk"
+      ],
+      "metric_limitations": [
+        "allowed_return: can change after capital has already been committed",
+        "liability_exposure: may be poorly defined until adverse developments emerge"
+      ],
+      "performance_logic": [
+        "In regulated sectors, assets and demand are not enough; returns depend on a durable bargain that allows investors to recover costs and earn acceptable returns."
+      ],
+      "evaluation_questions": [
+        "What implicit bargain supports returns in this industry?",
+        "Can regulators change the economics after capital is committed?",
+        "Is the return framework stable enough to justify long-dated investment?",
+        "Are climate, legal, or political shifts changing the risk profile?"
+      ],
+      "diagnostic_signals": [
+        "Confiscatory regulation",
+        "Delayed cost recovery",
+        "Undefined liability exposure",
+        "Political pressure that weakens the return framework"
+      ],
+      "practical_rules": [
+        "Treat regulatory stability as part of business quality.",
+        "Require compensation for industries where sunk capital can be economically repriced after commitment."
+      ],
+      "example_buffett_phrasing": [
+        "Regulation is part of the business model"
+      ],
+      "tags": [
+        "regulation",
+        "allowed_return",
+        "cost_recovery",
+        "policy_risk"
+      ]
+    },
+    {
+      "item_id": "2023_025",
+      "section": "24. Do not throw good money after bad",
+      "subsection": null,
+      "principle_title": "Stop funding structurally worse economics",
+      "principle_statement": "Even resilient firms should not keep investing where future economics have structurally deteriorated.",
+      "normalized_principle": "New capital should be judged on future return prospects, not on the need to defend past commitments.",
+      "importance": "medium",
+      "time_horizon": "medium_term",
+      "applies_to": [
+        "capital_allocator",
+        "management_team",
+        "private_business",
+        "public_stock"
+      ],
+      "financial_metrics": [
+        "expected_return",
+        "risk"
+      ],
+      "metric_definition": [
+        "expected_return: forward-looking economic return anticipated from new capital",
+        "risk: uncertainty and potential downside associated with those future returns"
+      ],
+      "metric_usage_context": [
+        "expected_return: used to judge whether additional investment remains justified from this point forward",
+        "risk: considered alongside expected return when economics have worsened structurally"
+      ],
+      "metric_limitations": [
+        "expected_return: can be biased upward by sunk-cost thinking or optimism",
+        "risk: may rise in ways not captured by historical experience"
+      ],
+      "performance_logic": [
+        "Defending old decisions can destroy more value if the forward return-risk equation has changed structurally for the worse."
+      ],
+      "evaluation_questions": [
+        "Has the expected return/risk equation permanently worsened?",
+        "Am I defending past capital rather than underwriting future returns?",
+        "Is new capital likely to earn an adequate return from this point forward?"
+      ],
+      "diagnostic_signals": [],
+      "practical_rules": [
+        "Evaluate fresh capital on a forward basis only.",
+        "Cut off reinvestment when structural economics deteriorate."
+      ],
+      "example_buffett_phrasing": [
+        "Do not throw good money after bad"
+      ],
+      "tags": [
+        "sunk_cost",
+        "capital_allocation",
+        "forward_underwriting"
+      ]
+    },
+    {
+      "item_id": "2023_026",
+      "section": "25. In some businesses, optimism is dangerous",
+      "subsection": null,
+      "principle_title": "Use disciplined pessimism in long-tail risk businesses",
+      "principle_statement": "For underwriting and risk-assumption businesses, optimism is not a virtue at work.",
+      "normalized_principle": "In long-tail liability businesses, disciplined pessimism is safer than optimistic growth-minded underwriting.",
+      "importance": "high",
+      "time_horizon": "cross_cycle",
+      "applies_to": [
+        "insurance_operation",
+        "management_team",
+        "balance_sheet",
+        "public_stock"
+      ],
+      "financial_metrics": [
+        "loss_reserves",
+        "underwriting_price",
+        "loss_development",
+        "combined_ratio"
+      ],
+      "metric_definition": [
+        "loss_reserves: estimated liabilities for claims that will be paid in the future",
+        "underwriting_price: premium or pricing level charged for assuming risk",
+        "loss_development: later change in estimated losses after initial booking",
+        "combined_ratio: underwriting costs and losses relative to premiums earned"
+      ],
+      "metric_usage_context": [
+        "loss_reserves: used to judge whether management is conservative or optimistic about future liabilities",
+        "underwriting_price: used to test whether growth is being purchased by underpricing risk",
+        "loss_development: used as evidence of whether past underwriting assumptions were too optimistic",
+        "combined_ratio: used to assess underwriting quality rather than mere premium volume growth"
+      ],
+      "metric_limitations": [
+        "loss_reserves: are estimates and can hide optimism for years before losses emerge",
+        "combined_ratio: can look acceptable temporarily before long-tail adverse development appears"
+      ],
+      "performance_logic": [
+        "Where liabilities emerge years later, optimistic reserving or underpricing can create delayed but severe economic damage."
+      ],
+      "evaluation_questions": [
+        "Does this industry involve liabilities that emerge years later?",
+        "Are loss estimates structurally uncertain?",
+        "Does management show disciplined pessimism where required?"
+      ],
+      "diagnostic_signals": [
+        "Overly optimistic reserving",
+        "Underpricing long-tail risks",
+        "Underestimating legal or inflationary loss development",
+        "Cultural pressure to grow volume at the expense of underwriting quality"
+      ],
+      "practical_rules": [
+        "Demand conservative reserving and pricing in long-tail businesses.",
+        "Treat growth incentives with suspicion when liabilities emerge slowly."
+      ],
+      "example_buffett_phrasing": [
+        "optimism is dangerous",
+        "underwriting quality"
+      ],
+      "tags": [
+        "insurance",
+        "long_tail_risk",
+        "reserving",
+        "underwriting"
+      ]
+    },
+    {
+      "item_id": "2023_027",
+      "section": "26. Ignore pundits and hot-stock culture",
+      "subsection": null,
+      "principle_title": "Resist forecast-selling culture",
+      "principle_statement": "Useful investing behavior often requires independence from forecasts, narratives, and selling pressure.",
+      "normalized_principle": "Ignore punditry and hot-stock culture when they distract from business facts and owner economics.",
+      "importance": "medium",
+      "time_horizon": "medium_term",
+      "applies_to": [
+        "shareholder",
+        "public_stock",
+        "capital_allocator"
+      ],
+      "financial_metrics": [],
+      "metric_definition": [],
+      "metric_usage_context": [],
+      "metric_limitations": [],
+      "performance_logic": [
+        "Narratives and selling pressure often encourage activity without improving analytical quality or owner outcomes."
+      ],
+      "evaluation_questions": [
+        "Is this view based on business facts or on market chatter?",
+        "Who benefits from persuading me to act?",
+        "Would the thesis still make sense if financial TV did not exist?"
+      ],
+      "diagnostic_signals": [],
+      "practical_rules": [
+        "Base decisions on business analysis rather than commentary.",
+        "Treat persuasive market culture as a behavioral risk factor."
+      ],
+      "example_buffett_phrasing": [
+        "Ignore pundits and hot-stock culture"
+      ],
+      "tags": [
+        "independence",
+        "behavior",
+        "market_narratives",
+        "noise"
+      ]
+    },
+    {
+      "item_id": "2023_028",
+      "section": "27. Inactivity is often intelligent",
+      "subsection": null,
+      "principle_title": "Doing nothing can be correct",
+      "principle_statement": "Doing nothing is often the right action when you already own an exceptional business or when prices are unattractive.",
+      "normalized_principle": "Inactivity is often intelligent when action would worsen economics rather than improve them.",
+      "importance": "medium",
+      "time_horizon": "medium_term",
+      "applies_to": [
+        "shareholder",
+        "capital_allocator",
+        "public_stock"
+      ],
+      "financial_metrics": [],
+      "metric_definition": [],
+      "metric_usage_context": [],
+      "metric_limitations": [],
+      "performance_logic": [
+        "Emotional discomfort often drives unnecessary optimization; disciplined inactivity can preserve superior economics."
+      ],
+      "evaluation_questions": [
+        "Does action improve economics, or only satisfy emotional discomfort?",
+        "Would holding still produce a better result than forced optimization?"
+      ],
+      "diagnostic_signals": [],
+      "practical_rules": [
+        "Do not force action when economics do not justify it.",
+        "Treat inactivity as an active decision option."
+      ],
+      "example_buffett_phrasing": [
+        "Inactivity is often intelligent"
+      ],
+      "tags": [
+        "inactivity",
+        "patience",
+        "behavioral_discipline"
+      ]
+    },
+    {
+      "item_id": "2023_029",
+      "section": "28. Opportunity cost should be framed against business quality, not just price movement",
+      "subsection": null,
+      "principle_title": "Compare against better businesses, not just recent price moves",
+      "principle_statement": "Opportunity cost should often be framed against whether a better business is realistically available, not merely whether the stock has gone up.",
+      "normalized_principle": "Opportunity cost should be judged against alternative business quality, not just recent price appreciation.",
+      "importance": "medium",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "public_stock",
+        "shareholder",
+        "capital_allocator"
+      ],
+      "financial_metrics": [],
+      "metric_definition": [],
+      "metric_usage_context": [],
+      "metric_limitations": [],
+      "performance_logic": [
+        "A great owned business may remain the best use of capital even after large price gains if superior alternatives are unavailable."
+      ],
+      "evaluation_questions": [
+        "Could I realistically create or buy a better worldwide business than the one I already own?"
+      ],
+      "diagnostic_signals": [],
+      "practical_rules": [
+        "Frame sell decisions against the quality of available alternatives.",
+        "Do not let past price movement substitute for opportunity-cost analysis."
+      ],
+      "example_buffett_phrasing": [
+        "better business than this",
+        "not just price movement"
+      ],
+      "tags": [
+        "opportunity_cost",
+        "business_quality",
+        "sell_discipline"
+      ]
+    },
+    {
+      "item_id": "2023_030",
+      "section": "29. Forecasting has narrow usefulness; business capability matters more",
+      "subsection": null,
+      "principle_title": "Reduce dependence on macro forecasts",
+      "principle_statement": "Buffett shows skepticism toward forecasting short-term macro variables when business capability matters more.",
+      "normalized_principle": "Prefer businesses whose success depends more on operational capability and capital allocation than on accurate macro forecasting.",
+      "importance": "medium",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "public_stock",
+        "private_business",
+        "management_team",
+        "capital_allocator"
+      ],
+      "financial_metrics": [],
+      "metric_definition": [],
+      "metric_usage_context": [],
+      "metric_limitations": [],
+      "performance_logic": [
+        "Forecasts about oil prices, currencies, or other macro variables are often unnecessary if the business is attractive without them."
+      ],
+      "evaluation_questions": [
+        "Am I relying on a forecast that is not necessary?",
+        "What can management actually control?",
+        "Is the business attractive even if key macro variables are unpredictable?"
+      ],
+      "diagnostic_signals": [],
+      "practical_rules": [
+        "Prefer businesses where operations, brand, capital allocation, or underwriting matter more than macro prediction.",
+        "Eliminate avoidable forecast dependency from the thesis."
+      ],
+      "example_buffett_phrasing": [
+        "Forecasting has narrow usefulness"
+      ],
+      "tags": [
+        "forecasting",
+        "macro_uncertainty",
+        "operational_capability"
+      ]
+    },
+    {
+      "item_id": "2023_031",
+      "section": "30. Admit mistakes early and incorporate them into the framework",
+      "subsection": null,
+      "principle_title": "Turn mistakes into checklist improvements",
+      "principle_statement": "Explicitly stating costly mistakes is itself a reusable framework behavior.",
+      "normalized_principle": "Admit errors early and convert them into permanent improvements in the analytical framework.",
+      "importance": "medium",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "capital_allocator",
+        "management_team",
+        "shareholder"
+      ],
+      "financial_metrics": [],
+      "metric_definition": [],
+      "metric_usage_context": [],
+      "metric_limitations": [],
+      "performance_logic": [
+        "Mistake acknowledgment improves future judgment by adding new checklist items and reducing repeated blind spots."
+      ],
+      "evaluation_questions": [
+        "What did I fail to consider in the original thesis?",
+        "Is the error temporary, analytical, structural, or character-related?",
+        "What new checklist item should be added because of this mistake?"
+      ],
+      "diagnostic_signals": [],
+      "practical_rules": [
+        "Classify errors and update the process after each meaningful mistake.",
+        "Treat candor about mistakes as a strength rather than a reputational threat."
+      ],
+      "example_buffett_phrasing": [
+        "Admit mistakes early",
+        "What new checklist item should be added"
+      ],
+      "tags": [
+        "learning",
+        "mistake_analysis",
+        "checklists",
+        "candor"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2474 @@
+{
+  "schema_version": "2.1",
+  "document_type": "buffett_framework_letter",
+  "letter_metadata": {
+    "year": 2008,
+    "source_title": "Berkshire Hathaway Shareholder Letter",
+    "source_date": "2009-02-27",
+    "coverage_year": 2008,
+    "source_file": "/mnt/data/2008.md",
+    "extraction_purpose": "Reusable stock/business analysis framework extraction",
+    "one_sentence_synthesis": "The 2008 framework centers on judging businesses through financial resilience, moat strength, disciplined capital allocation, underwriting and lending quality, and a strict separation of intrinsic value from leverage, accounting noise, and model-driven illusion.",
+    "knowledge_base_tags": [
+      "financial_resilience",
+      "intrinsic_value",
+      "capital_allocation",
+      "insurance_float",
+      "lending_quality",
+      "risk_analysis",
+      "management_quality",
+      "moat_durability",
+      "accounting_skepticism",
+      "leverage_risk"
+    ]
+  },
+  "framework_items": [
+    {
+      "item_id": "2008_001",
+      "section": "Core Buffett principles embedded in the letter",
+      "subsection": "Financial strength comes before return maximization",
+      "principle_title": "Resilience before return",
+      "principle_statement": "A business should be evaluated first on its ability to survive stress, not on its ability to maximize reported returns in normal times.",
+      "normalized_principle": "Financial resilience should be assessed before return maximization because survivability is the foundation of long-term compounding.",
+      "importance": "high",
+      "time_horizon": "cross_cycle",
+      "applies_to": [
+        "public_stock",
+        "private_business",
+        "holding_company",
+        "balance_sheet",
+        "capital_allocator"
+      ],
+      "financial_metrics": [
+        "liquidity",
+        "near_term_obligations"
+      ],
+      "metric_definition": [
+        "liquidity: excess cash and liquid resources available to meet needs without forced financing",
+        "near_term_obligations: debt maturities and other commitments that must be met in the short run"
+      ],
+      "metric_usage_context": [
+        "liquidity: used to judge whether the company can endure credit freezes, recessions, or abnormal markets without external rescue",
+        "near_term_obligations: compared against liquidity to assess rollover risk and survivability under stress"
+      ],
+      "metric_limitations": [
+        "liquidity: a large cash balance can look inefficient if analyzed only against normal-period returns",
+        "near_term_obligations: the raw level can mislead unless matched against internal cash generation and asset liquidity"
+      ],
+      "performance_logic": [
+        "A company with ample liquidity, modest short-term obligations, and multiple earnings sources can avoid forced actions and preserve strategic freedom during stress."
+      ],
+      "evaluation_questions": [
+        "Can this company survive a severe credit freeze or recession without external rescue?",
+        "How much excess liquidity does it hold relative to near-term obligations?",
+        "Are its earnings streams diversified or dependent on one fragile engine?"
+      ],
+      "diagnostic_signals": [
+        "Dependence on continuous refinancing",
+        "Thin liquidity relative to obligations",
+        "A single fragile earnings engine"
+      ],
+      "practical_rules": [
+        "Penalize businesses that depend on favorable credit markets or refinancing to survive.",
+        "Favor businesses with durable liquidity, low rollover risk, and diversified cash-generation sources."
+      ],
+      "example_buffett_phrasing": [
+        "Gibraltar-like financial position",
+        "survivability as a first-order investment criterion",
+        "many independent sources of earnings and cash"
+      ],
+      "tags": [
+        "financial_resilience",
+        "liquidity",
+        "survival",
+        "rollover_risk"
+      ]
+    },
+    {
+      "item_id": "2008_002",
+      "section": "Core Buffett principles embedded in the letter",
+      "subsection": "Durable competitive advantage must be widened, not merely defended",
+      "principle_title": "Moat widening",
+      "principle_statement": "A great business is not static; its competitive advantage should be preserved and expanded over time.",
+      "normalized_principle": "A durable moat should be evaluated by whether it is widening, not merely whether it exists today.",
+      "importance": "high",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "public_stock",
+        "private_business",
+        "management_team",
+        "acquisition_target"
+      ],
+      "financial_metrics": [
+        "market_share",
+        "customer_satisfaction",
+        "unit_economics"
+      ],
+      "metric_definition": [
+        "market_share: the business's share of relevant customer demand or industry activity",
+        "customer_satisfaction: evidence that customers perceive superior value or service",
+        "unit_economics: the economics of serving one customer, product, or transaction"
+      ],
+      "metric_usage_context": [
+        "market_share: used as evidence that competitive position is strengthening rather than eroding",
+        "customer_satisfaction: used to detect whether service quality or trust reinforces the moat",
+        "unit_economics: used to judge whether scale and efficiency are making the advantage more durable"
+      ],
+      "metric_limitations": [
+        "market_share: gains can be cyclical rather than structural if not supported by economics",
+        "customer_satisfaction: high satisfaction alone can mislead if it does not translate into retention or economics",
+        "unit_economics: can improve temporarily due to underinvestment or favorable short-term conditions"
+      ],
+      "performance_logic": [
+        "A moat widens when efficiency, trust, service, scale, or cost advantage improves customer economics and reinforces future competitive position."
+      ],
+      "evaluation_questions": [
+        "What exactly is the moat: cost, brand, switching cost, regulatory position, distribution, scale, trust, or culture?",
+        "Is the moat widening, stable, or eroding?",
+        "What evidence shows strengthening position?"
+      ],
+      "diagnostic_signals": [
+        "Market share gains",
+        "Improving customer value proposition",
+        "Lower customer cost with attractive economics",
+        "Smarter reinvestment that deepens advantage"
+      ],
+      "practical_rules": [
+        "Evaluate whether management is making the moat stronger, not just preserving current profits."
+      ],
+      "example_buffett_phrasing": [
+        "widening the moat",
+        "not just possessing one"
+      ],
+      "tags": [
+        "moat",
+        "competitive_advantage",
+        "market_share",
+        "durability"
+      ]
+    },
+    {
+      "item_id": "2008_003",
+      "section": "Core Buffett principles embedded in the letter",
+      "subsection": "Long-term earning power matters more than short-term market quotations",
+      "principle_title": "Price versus value",
+      "principle_statement": "A falling stock price is not automatically bad if intrinsic value remains intact and capital is available to buy more.",
+      "normalized_principle": "Market quotations should be separated from intrinsic value and long-term earning power.",
+      "importance": "high",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "public_stock",
+        "shareholder",
+        "capital_allocator"
+      ],
+      "financial_metrics": [
+        "intrinsic_value",
+        "market_price"
+      ],
+      "metric_definition": [
+        "intrinsic_value: the long-term economic worth of the business based on earning power and assets",
+        "market_price: the current quoted price of the security in the market"
+      ],
+      "metric_usage_context": [
+        "intrinsic_value: used to judge whether business economics remain sound after a drawdown",
+        "market_price: used as an opportunity variable when quotation falls below intact intrinsic value"
+      ],
+      "metric_limitations": [
+        "intrinsic_value: cannot be observed directly and requires judgment",
+        "market_price: can become a distraction if treated as a measure of business quality"
+      ],
+      "performance_logic": [
+        "When business value is stable but quotation falls, expected future return can improve for investors with liquidity and patience."
+      ],
+      "evaluation_questions": [
+        "Has intrinsic value changed, or only market price?",
+        "Would lower prices be attractive if capital is available?",
+        "Is the business still high quality after the drawdown?"
+      ],
+      "diagnostic_signals": [
+        "Sharp price decline without evidence of business deterioration",
+        "Available liquidity to buy during dislocation"
+      ],
+      "practical_rules": [
+        "Separate business deterioration from quotation volatility.",
+        "Treat market declines as opportunities only when the underlying economics remain sound."
+      ],
+      "example_buffett_phrasing": [
+        "business value from market price movement",
+        "price and intrinsic value"
+      ],
+      "tags": [
+        "intrinsic_value",
+        "market_price",
+        "valuation",
+        "earning_power"
+      ]
+    },
+    {
+      "item_id": "2008_004",
+      "section": "Core Buffett principles embedded in the letter",
+      "subsection": "Pessimism often improves opportunity; euphoria destroys discipline",
+      "principle_title": "Pessimism as opportunity",
+      "principle_statement": "The best terms often appear when markets are fearful, liquidity is scarce, and capital providers are constrained.",
+      "normalized_principle": "Fearful markets can create exceptional opportunities for prepared capital, while euphoria weakens discipline.",
+      "importance": "high",
+      "time_horizon": "cross_cycle",
+      "applies_to": [
+        "public_stock",
+        "capital_allocator",
+        "holding_company",
+        "shareholder"
+      ],
+      "financial_metrics": [
+        "liquidity",
+        "expected_return"
+      ],
+      "metric_definition": [
+        "liquidity: capital available to act when markets are dislocated",
+        "expected_return: prospective return implied by favorable price and deal terms"
+      ],
+      "metric_usage_context": [
+        "liquidity: used to determine whether an investor or firm can act when others are constrained",
+        "expected_return: used to judge whether abnormal market conditions are offering unusually favorable economics"
+      ],
+      "metric_limitations": [
+        "liquidity: idle cash can appear unproductive in calm periods",
+        "expected_return: high apparent return can be illusory if underlying value is impaired rather than merely unpopular"
+      ],
+      "performance_logic": [
+        "Abnormal fear compresses prices and improves contractual terms, but only investors with liquidity and temperament can capture the opportunity."
+      ],
+      "evaluation_questions": [
+        "Is fear causing assets to be mispriced?",
+        "Does the company or investor have dry powder when others do not?",
+        "Are current terms available only in abnormal markets?"
+      ],
+      "diagnostic_signals": [
+        "Scarce capital in the market",
+        "Wide spreads or investor-friendly security terms",
+        "Prepared buyer with cash and courage"
+      ],
+      "practical_rules": [
+        "Maintain liquidity and emotional discipline so market pessimism can be converted into favorable investments."
+      ],
+      "example_buffett_phrasing": [
+        "pessimism is your friend, euphoria the enemy",
+        "available only in abnormal markets"
+      ],
+      "tags": [
+        "opportunity",
+        "market_dislocation",
+        "liquidity",
+        "temperament"
+      ]
+    },
+    {
+      "item_id": "2008_005",
+      "section": "Core Buffett principles embedded in the letter",
+      "subsection": "Intrinsic value grows through two engines",
+      "principle_title": "Value bucket decomposition",
+      "principle_statement": "Intrinsic value should be decomposed into investments and non-investment operating earnings rather than blurred by consolidated accounting.",
+      "normalized_principle": "Analyze intrinsic value through distinct economic value buckets instead of relying only on aggregate reported numbers.",
+      "importance": "high",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "holding_company",
+        "conglomerate",
+        "capital_allocator",
+        "shareholder"
+      ],
+      "financial_metrics": [
+        "investment_assets",
+        "operating_earnings",
+        "intrinsic_value"
+      ],
+      "metric_definition": [
+        "investment_assets: the value and earning power of stocks, bonds, cash equivalents, and similar financial holdings",
+        "operating_earnings: earning power generated by non-investment operating businesses",
+        "intrinsic_value: the combined economic worth of the company's distinct value engines"
+      ],
+      "metric_usage_context": [
+        "investment_assets: used to judge the contribution of investable assets to overall value growth",
+        "operating_earnings: used to judge the contribution of operating businesses to value growth",
+        "intrinsic_value: used by summing and evaluating the separate quality of each bucket rather than relying on GAAP aggregates"
+      ],
+      "metric_limitations": [
+        "investment_assets: market values can fluctuate and obscure long-term economics",
+        "operating_earnings: reported figures can be distorted by acquisition accounting or consolidation",
+        "intrinsic_value: aggregate estimates can hide which engine is strengthening or weakening"
+      ],
+      "performance_logic": [
+        "A multi-engine business compounds through both financial assets and operating earnings, so each engine must be assessed separately for growth and quality."
+      ],
+      "evaluation_questions": [
+        "What are the company’s major value components?",
+        "How much value comes from investable assets versus operating earnings power?",
+        "Are both components growing satisfactorily?"
+      ],
+      "diagnostic_signals": [
+        "One value bucket dominates results",
+        "Weak operating engine masked by investment gains",
+        "Consolidated accounts blur economic drivers"
+      ],
+      "practical_rules": [
+        "Analyze value by buckets instead of relying purely on GAAP aggregates.",
+        "Identify which bucket deserves the most attention going forward."
+      ],
+      "example_buffett_phrasing": [
+        "two broad buckets",
+        "investments",
+        "non-investment operating earnings"
+      ],
+      "tags": [
+        "intrinsic_value",
+        "sum_of_parts",
+        "operating_earnings",
+        "investment_assets"
+      ]
+    },
+    {
+      "item_id": "2008_006",
+      "section": "Core Buffett principles embedded in the letter",
+      "subsection": "Buy fair businesses at good prices, but great operating businesses may be even better than cheap securities",
+      "principle_title": "Quality over mere cheapness",
+      "principle_statement": "A strong business with good reinvestment prospects can be superior to a statistically cheap but limited security.",
+      "normalized_principle": "Business quality and reinvestment runway can justify paying a fair price instead of demanding only bargain multiples.",
+      "importance": "high",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "public_stock",
+        "private_business",
+        "acquisition_target",
+        "capital_allocator"
+      ],
+      "financial_metrics": [
+        "valuation_multiple",
+        "incremental_return_on_capital"
+      ],
+      "metric_definition": [
+        "valuation_multiple: price paid relative to earnings, assets, or cash flow",
+        "incremental_return_on_capital: return earned on additional capital reinvested in the business"
+      ],
+      "metric_usage_context": [
+        "valuation_multiple: used to distinguish statistically cheap securities from economically excellent businesses",
+        "incremental_return_on_capital: used to judge whether a fair-priced business can compound value through reinvestment"
+      ],
+      "metric_limitations": [
+        "valuation_multiple: low multiples can hide weak business economics or limited runway",
+        "incremental_return_on_capital: high historical returns can mislead if future reinvestment opportunities are scarce"
+      ],
+      "performance_logic": [
+        "A business that can reinvest large sums at decent returns can outcompete the apparent cheapness of mediocre assets."
+      ],
+      "evaluation_questions": [
+        "Is this merely statistically cheap, or economically excellent?",
+        "Does the business have long-duration reinvestment opportunities at decent returns?",
+        "Would ownership of the whole business be more attractive than owning a cheap security?"
+      ],
+      "diagnostic_signals": [
+        "Cheap valuation paired with weak economics",
+        "Fair valuation paired with long runway and strong business quality"
+      ],
+      "practical_rules": [
+        "Do not worship low multiples in mediocre businesses.",
+        "Be willing to pay a fair price for a superior business with durable reinvestment opportunities."
+      ],
+      "example_buffett_phrasing": [
+        "underpriced securities",
+        "fairly priced operating businesses even more"
+      ],
+      "tags": [
+        "quality",
+        "valuation",
+        "reinvestment_runway",
+        "incremental_returns"
+      ]
+    },
+    {
+      "item_id": "2008_007",
+      "section": "Buffett’s framework for judging business quality",
+      "subsection": "A business is attractive when it produces strong returns with little leverage",
+      "principle_title": "High returns without leverage",
+      "principle_statement": "High returns on tangible capital achieved with only minor leverage are a hallmark of business quality.",
+      "normalized_principle": "Strong returns on tangible capital are most meaningful when they are not produced by leverage.",
+      "importance": "high",
+      "time_horizon": "cross_cycle",
+      "applies_to": [
+        "public_stock",
+        "private_business",
+        "acquisition_target",
+        "balance_sheet"
+      ],
+      "financial_metrics": [
+        "return_on_tangible_net_worth",
+        "leverage_ratio",
+        "return_on_invested_capital"
+      ],
+      "metric_definition": [
+        "return_on_tangible_net_worth: earnings generated relative to tangible net worth employed in the business",
+        "leverage_ratio: the extent to which debt or borrowed funds support the capital structure",
+        "return_on_invested_capital: operating return earned on the capital committed to the business"
+      ],
+      "metric_usage_context": [
+        "return_on_tangible_net_worth: used to judge genuine operating excellence in the underlying business",
+        "leverage_ratio: used to test whether high returns are produced by debt rather than business quality",
+        "return_on_invested_capital: used as a broader check on the business's capital productivity"
+      ],
+      "metric_limitations": [
+        "return_on_tangible_net_worth: can look strong even when the total price paid for the business was excessive",
+        "leverage_ratio: a low ratio alone does not prove moat or durability",
+        "return_on_invested_capital: may require judgment on what capital is truly employed"
+      ],
+      "performance_logic": [
+        "High returns achieved with little leverage indicate that customer economics, cost structure, and asset efficiency are doing the work rather than financing tricks."
+      ],
+      "evaluation_questions": [
+        "What is the return on tangible net worth or invested capital?",
+        "How much debt is required to achieve that return?",
+        "Would returns remain attractive if leverage were reduced?"
+      ],
+      "diagnostic_signals": [
+        "Strong operating returns with modest debt",
+        "Returns collapse when leverage is normalized"
+      ],
+      "practical_rules": [
+        "Distinguish genuine operating excellence from leverage-enhanced returns."
+      ],
+      "example_buffett_phrasing": [
+        "strong returns on tangible net worth",
+        "only minor leverage"
+      ],
+      "tags": [
+        "capital_efficiency",
+        "leverage",
+        "return_on_tangible_net_worth",
+        "business_quality"
+      ]
+    },
+    {
+      "item_id": "2008_008",
+      "section": "Buffett’s framework for judging business quality",
+      "subsection": "Reported returns must be adjusted for acquisition premiums and goodwill",
+      "principle_title": "Separate operating return from purchase return",
+      "principle_statement": "Operating performance should be separated from the total return implied by the capital paid, including goodwill or acquisition premiums.",
+      "normalized_principle": "Judge both how well a business operates and whether the acquisition price paid was sensible.",
+      "importance": "high",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "private_business",
+        "acquisition_target",
+        "capital_allocator",
+        "conglomerate"
+      ],
+      "financial_metrics": [
+        "return_on_tangible_net_worth",
+        "return_on_total_acquisition_capital",
+        "goodwill"
+      ],
+      "metric_definition": [
+        "return_on_tangible_net_worth: operating return generated on tangible net worth employed by the business",
+        "return_on_total_acquisition_capital: return generated relative to the full capital paid to acquire the business, including premiums",
+        "goodwill: acquisition premium recorded above identifiable net assets"
+      ],
+      "metric_usage_context": [
+        "return_on_tangible_net_worth: used to assess whether management is running the asset well",
+        "return_on_total_acquisition_capital: used to judge whether the purchase price was economically sensible",
+        "goodwill: used as the accounting bridge between operating returns and the total capital actually committed"
+      ],
+      "metric_limitations": [
+        "return_on_tangible_net_worth: can overstate owner economics when the acquirer paid far above tangible value",
+        "return_on_total_acquisition_capital: can understate operating excellence when goodwill from old acquisitions is large",
+        "goodwill: an accounting number can obscure whether overpayment occurred or whether the acquired business remains excellent"
+      ],
+      "performance_logic": [
+        "An acquired business can be well run while still producing mediocre owner returns if too much was paid for it."
+      ],
+      "evaluation_questions": [
+        "Is management running the asset well?",
+        "Was the purchase price sensible?",
+        "Are good operating returns being diluted by overpayment?"
+      ],
+      "diagnostic_signals": [
+        "High tangible returns paired with weak returns on total acquisition cost",
+        "Large goodwill burden depressing returns on carrying value"
+      ],
+      "practical_rules": [
+        "Evaluate both operating return on tangible capital and return on total capital paid."
+      ],
+      "example_buffett_phrasing": [
+        "acquisition premiums and goodwill",
+        "purchase price sensible"
+      ],
+      "tags": [
+        "goodwill",
+        "acquisition_price",
+        "return_on_capital",
+        "operating_performance"
+      ]
+    },
+    {
+      "item_id": "2008_009",
+      "section": "Buffett’s framework for judging business quality",
+      "subsection": "A great business strengthens position during downturns",
+      "principle_title": "Stress reveals strategic strength",
+      "principle_statement": "Downturns should be judged not only by earnings decline but also by whether the business emerges in a stronger strategic position.",
+      "normalized_principle": "A strong business often gains share, talent, assets, or customer trust when weaker competitors retrench.",
+      "importance": "high",
+      "time_horizon": "cross_cycle",
+      "applies_to": [
+        "public_stock",
+        "private_business",
+        "management_team",
+        "acquisition_target"
+      ],
+      "financial_metrics": [
+        "market_share",
+        "earnings",
+        "competitive_position"
+      ],
+      "metric_definition": [
+        "market_share: share captured relative to rivals in the relevant market",
+        "earnings: profits produced during the downturn period",
+        "competitive_position: the business's relative standing in customer trust, assets, distribution, or economics after stress"
+      ],
+      "metric_usage_context": [
+        "market_share: used to see whether stress periods create share gains",
+        "earnings: used as a partial indicator but not the sole measure of downturn performance",
+        "competitive_position: used to assess whether the business merely survived or actually advanced"
+      ],
+      "metric_limitations": [
+        "market_share: temporary gains may reverse if they were caused only by short-term disruption",
+        "earnings: a decline can obscure strategic strengthening if analyzed in isolation",
+        "competitive_position: qualitative judgments require evidence and can be easy to overstate"
+      ],
+      "performance_logic": [
+        "When financially stronger firms stay active during stress, they can improve the post-crisis earning base even if near-term reported profits weaken."
+      ],
+      "evaluation_questions": [
+        "Did the business merely survive the downturn, or emerge stronger?",
+        "Did it acquire assets, talent, or customers on favorable terms?",
+        "Were competitors impaired while this firm advanced?"
+      ],
+      "diagnostic_signals": [
+        "Competitors retrenching",
+        "Favorable asset or talent acquisition during downturn",
+        "Improved trust or share after the crisis"
+      ],
+      "practical_rules": [
+        "Judge downturn performance by strategic position afterward, not just earnings decline."
+      ],
+      "example_buffett_phrasing": [
+        "improved competitive position during 2008",
+        "treading water or sinking"
+      ],
+      "tags": [
+        "downturns",
+        "competitive_position",
+        "market_share",
+        "stress_test"
+      ]
+    },
+    {
+      "item_id": "2008_010",
+      "section": "Buffett’s framework for judging business quality",
+      "subsection": "Customer value plus operating efficiency is a powerful moat",
+      "principle_title": "Cost advantage passed to customers",
+      "principle_statement": "A cost advantage becomes powerful when it is sustainably passed through to customers while preserving attractive economics.",
+      "normalized_principle": "A durable moat can be built by operational efficiency that lowers customer cost and strengthens share and economics at the same time.",
+      "importance": "high",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "public_stock",
+        "private_business",
+        "management_team"
+      ],
+      "financial_metrics": [
+        "cost_per_unit",
+        "productivity",
+        "market_share",
+        "unit_economics"
+      ],
+      "metric_definition": [
+        "cost_per_unit: cost incurred to serve one policy, customer, or unit of output",
+        "productivity: output or service delivered per unit of labor or operating input",
+        "market_share: share of customer demand captured in the market",
+        "unit_economics: profitability of each customer or transaction after serving costs"
+      ],
+      "metric_usage_context": [
+        "cost_per_unit: used to judge whether the business has a measurable efficiency edge",
+        "productivity: used as evidence that internal operations support the cost advantage",
+        "market_share: used to confirm that customers respond to the lower-cost value proposition",
+        "unit_economics: used to test whether passing value to customers still preserves attractive returns"
+      ],
+      "metric_limitations": [
+        "cost_per_unit: low cost may be temporary if underinvestment or pricing anomalies are involved",
+        "productivity: gains can be superficial if they come from cutting service quality",
+        "market_share: growth can be unprofitable if prices are cut below sustainable economics",
+        "unit_economics: strong economics may deteriorate if the customer benefit is not durable"
+      ],
+      "performance_logic": [
+        "Sustainable operating efficiency can create a self-reinforcing moat by lowering customer prices, raising share, and preserving attractive margins."
+      ],
+      "evaluation_questions": [
+        "Does the business save customers money in a way competitors struggle to match?",
+        "Is efficiency measurable through productivity, throughput, cost per unit, or service metrics?",
+        "Is market share rising because the value proposition is objectively better?"
+      ],
+      "diagnostic_signals": [
+        "Lower customer cost supported by measurable efficiency",
+        "Rising share without margin collapse"
+      ],
+      "practical_rules": [
+        "Look for moats where customer value and operating efficiency reinforce each other."
+      ],
+      "example_buffett_phrasing": [
+        "lower customer cost driven by internal efficiency",
+        "value proposition is objectively better"
+      ],
+      "tags": [
+        "cost_advantage",
+        "efficiency",
+        "customer_value",
+        "moat"
+      ]
+    },
+    {
+      "item_id": "2008_011",
+      "section": "Buffett’s framework for judging business quality",
+      "subsection": "Trust and certainty are moats in promise-based industries",
+      "principle_title": "Promise credibility as product",
+      "principle_statement": "In businesses selling long-duration promises, balance sheet strength and reputation are core competitive assets.",
+      "normalized_principle": "In promise-based businesses, financial strength and credibility are part of the product itself.",
+      "importance": "high",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "insurance_operation",
+        "private_business",
+        "public_stock",
+        "balance_sheet"
+      ],
+      "financial_metrics": [
+        "capital_strength",
+        "claims_paying_ability"
+      ],
+      "metric_definition": [
+        "capital_strength: the financial capacity to absorb losses and honor obligations under stress",
+        "claims_paying_ability: the credibility of fulfilling long-duration promises when claims come due"
+      ],
+      "metric_usage_context": [
+        "capital_strength: used to judge whether counterparties should trust the institution over weaker rivals",
+        "claims_paying_ability: used to assess whether the firm's promise carries economic value in winning business and pricing"
+      ],
+      "metric_limitations": [
+        "capital_strength: can be overstated by accounting capital that is not truly liquid or dependable",
+        "claims_paying_ability: reputation may look solid until a stress event tests it"
+      ],
+      "performance_logic": [
+        "Where the product is a promise, counterparties prefer institutions whose balance sheets make the promise credible under stress."
+      ],
+      "evaluation_questions": [
+        "Is the product fundamentally a promise rather than a physical good?",
+        "How credible is that promise under stress?",
+        "Does the company have capital strength that competitors lack?"
+      ],
+      "diagnostic_signals": [
+        "Counterparties prefer the strongest balance sheet",
+        "Trust translates into pricing power or market preference"
+      ],
+      "practical_rules": [
+        "Treat balance-sheet credibility and reputation as real competitive assets in promise-based industries."
+      ],
+      "example_buffett_phrasing": [
+        "a promise is only as good as the institution behind it"
+      ],
+      "tags": [
+        "trust",
+        "promise_based_business",
+        "capital_strength",
+        "insurance"
+      ]
+    },
+    {
+      "item_id": "2008_012",
+      "section": "Buffett’s framework for management quality",
+      "subsection": "Great managers combine discipline, efficiency, and trustworthiness",
+      "principle_title": "Behavioral test for management quality",
+      "principle_statement": "Management quality should be evaluated through disciplined behavior and operating outcomes rather than charisma.",
+      "normalized_principle": "Management should be judged by discipline, rational capital use, productivity, service quality, and trustworthiness.",
+      "importance": "high",
+      "time_horizon": "cross_cycle",
+      "applies_to": [
+        "management_team",
+        "capital_allocator",
+        "private_business",
+        "public_stock"
+      ],
+      "financial_metrics": [
+        "expense_ratio",
+        "productivity",
+        "capital_allocation_return"
+      ],
+      "metric_definition": [
+        "expense_ratio: operating expenses relative to the relevant revenue or premium base",
+        "productivity: output delivered per unit of labor or input",
+        "capital_allocation_return: economic return produced by management's deployment of retained capital"
+      ],
+      "metric_usage_context": [
+        "expense_ratio: used to judge cost discipline",
+        "productivity: used to judge whether management improves economics through better operations",
+        "capital_allocation_return: used to judge whether retained capital is being deployed rationally"
+      ],
+      "metric_limitations": [
+        "expense_ratio: low costs can mislead if they come from starving the business",
+        "productivity: high productivity can mislead if service quality or risk control deteriorates",
+        "capital_allocation_return: recent outcomes can reflect luck rather than repeatable skill"
+      ],
+      "performance_logic": [
+        "Managers who improve productivity, expenses, and capital use without relying on leverage or accounting optics create durable owner value."
+      ],
+      "evaluation_questions": [
+        "Does management improve economics without relying on leverage or accounting optics?",
+        "Do they allocate capital rationally?",
+        "Do they keep promises and behave in ways that build long-term trust?"
+      ],
+      "diagnostic_signals": [
+        "Operational consistency",
+        "Candid behavior",
+        "Productivity improvement",
+        "Owner-like decisions"
+      ],
+      "practical_rules": [
+        "Judge management quality through behavior and outcomes, not charisma."
+      ],
+      "example_buffett_phrasing": [
+        "disciplined underwriting, reserving, expenses, productivity, and capital use",
+        "operators first and empire builders second"
+      ],
+      "tags": [
+        "management_quality",
+        "discipline",
+        "productivity",
+        "capital_allocation"
+      ]
+    },
+    {
+      "item_id": "2008_013",
+      "section": "Buffett’s framework for management quality",
+      "subsection": "Culture can be a real asset or a hidden liability",
+      "principle_title": "Culture as economic variable",
+      "principle_statement": "Culture affects underwriting discipline, cost control, customer satisfaction, and long-run economics.",
+      "normalized_principle": "Culture should be treated as an economic asset or liability because it shapes behavior and results over time.",
+      "importance": "medium",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "management_team",
+        "insurance_operation",
+        "private_business",
+        "public_stock"
+      ],
+      "financial_metrics": [
+        "reserve_adequacy",
+        "expense_ratio",
+        "customer_satisfaction"
+      ],
+      "metric_definition": [
+        "reserve_adequacy: how conservatively liabilities or expected losses are recognized",
+        "expense_ratio: operating costs relative to the business base",
+        "customer_satisfaction: customer response to service quality and trustworthiness"
+      ],
+      "metric_usage_context": [
+        "reserve_adequacy: used as a clue to whether the culture is disciplined or sloppy",
+        "expense_ratio: used to detect cost control and accountability habits",
+        "customer_satisfaction: used to see whether frontline behavior aligns with long-term economics"
+      ],
+      "metric_limitations": [
+        "reserve_adequacy: can be hard for outsiders to assess in real time",
+        "expense_ratio: short-term reductions can mask deeper cultural problems",
+        "customer_satisfaction: survey or anecdotal evidence can be incomplete"
+      ],
+      "performance_logic": [
+        "Culture influences repeated operating decisions, which eventually show up in loss recognition, cost discipline, customer outcomes, and long-run economics."
+      ],
+      "evaluation_questions": [
+        "Is there evidence of discipline or sloppiness in reserving, underwriting, expenses, governance, and accountability?",
+        "Are frontline behaviors aligned with long-term economics?",
+        "Has culture improved or deteriorated under current leadership?"
+      ],
+      "diagnostic_signals": [
+        "Sloppy reserving",
+        "Weak accountability",
+        "Persistent operational inconsistency",
+        "Visible cultural repair under new leadership"
+      ],
+      "practical_rules": [
+        "Treat culture as a real analytical input, not a soft side note."
+      ],
+      "example_buffett_phrasing": [
+        "culture is not soft",
+        "cultural deterioration",
+        "cultural transformation"
+      ],
+      "tags": [
+        "culture",
+        "reserving",
+        "cost_control",
+        "governance"
+      ]
+    },
+    {
+      "item_id": "2008_014",
+      "section": "Buffett’s framework for management quality",
+      "subsection": "Autonomy plus high trust can outperform centralized control",
+      "principle_title": "Decentralization with trusted operators",
+      "principle_statement": "Decentralized autonomy works when paired with honest, capable operators and strong capital-allocation oversight.",
+      "normalized_principle": "Autonomy can outperform centralized control when the organization is built around trustworthy owner-operators.",
+      "importance": "medium",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "management_team",
+        "holding_company",
+        "conglomerate"
+      ],
+      "financial_metrics": [],
+      "metric_definition": [],
+      "metric_usage_context": [],
+      "metric_limitations": [],
+      "performance_logic": [
+        "A decentralized structure can produce speed and accountability when local operators are strong and headquarters focuses on capital allocation rather than bureaucracy."
+      ],
+      "evaluation_questions": [
+        "Does the firm attract owner-operators or bureaucrats?",
+        "Is autonomy producing speed, accountability, and superior execution?",
+        "Is headquarters adding value or merely control?"
+      ],
+      "diagnostic_signals": [
+        "Unusual autonomy with strong operating results",
+        "High-trust managers",
+        "Lean headquarters focused on capital allocation"
+      ],
+      "practical_rules": [
+        "Judge whether organizational structure fits the quality of people and the business model."
+      ],
+      "example_buffett_phrasing": [
+        "granting unusual autonomy",
+        "owner-operators or bureaucrats"
+      ],
+      "tags": [
+        "decentralization",
+        "autonomy",
+        "trust",
+        "organizational_design"
+      ]
+    },
+    {
+      "item_id": "2008_015",
+      "section": "Buffett’s framework for management quality",
+      "subsection": "The right partners think beyond the transaction",
+      "principle_title": "Stewardship over resale engineering",
+      "principle_statement": "Businesses built for stewardship differ fundamentally from businesses built for resale engineering.",
+      "normalized_principle": "Favor owners and acquirers who optimize for long-term business health rather than transaction-driven exits.",
+      "importance": "high",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "capital_allocator",
+        "acquisition_target",
+        "management_team",
+        "private_business"
+      ],
+      "financial_metrics": [],
+      "metric_definition": [],
+      "metric_usage_context": [],
+      "metric_limitations": [],
+      "performance_logic": [
+        "Owners focused on permanent stewardship are more likely to preserve culture, balance-sheet strength, and long-term economics than owners optimizing for resale or fee extraction."
+      ],
+      "evaluation_questions": [
+        "Are acquisitions being made to compound value or to manufacture resale outcomes?",
+        "Does the owner or operator think in decades or financing windows?",
+        "Would a seller or regulator trust this buyer as a permanent home?"
+      ],
+      "diagnostic_signals": [
+        "Exit-oriented behavior",
+        "Fee extraction mentality",
+        "Long-term stewardship reputation"
+      ],
+      "practical_rules": [
+        "Favor managements and owners who think in decades rather than financing windows."
+      ],
+      "example_buffett_phrasing": [
+        "merchandise",
+        "permanent home",
+        "stewardship"
+      ],
+      "tags": [
+        "stewardship",
+        "acquisitions",
+        "ownership",
+        "time_horizon"
+      ]
+    },
+    {
+      "item_id": "2008_016",
+      "section": "Buffett’s framework for capital allocation",
+      "subsection": "Preserve optionality with cash and conservative financing",
+      "principle_title": "Cash as strategic optionality",
+      "principle_statement": "Cash is not just a low-return asset; it is protection against forced behavior and a source of strategic optionality.",
+      "normalized_principle": "Liquidity policy should be judged by the optionality and resilience it provides, not just by current yield sacrifice.",
+      "importance": "high",
+      "time_horizon": "cross_cycle",
+      "applies_to": [
+        "capital_allocator",
+        "holding_company",
+        "balance_sheet",
+        "public_stock"
+      ],
+      "financial_metrics": [
+        "cash_balance",
+        "liquidity",
+        "financing_cost"
+      ],
+      "metric_definition": [
+        "cash_balance: cash and near-cash held on the balance sheet",
+        "liquidity: financial flexibility to meet obligations and act on opportunities",
+        "financing_cost: the cost of obtaining external capital when needed"
+      ],
+      "metric_usage_context": [
+        "cash_balance: used to judge whether the company can avoid emergency financing or forced sales",
+        "liquidity: used to assess resilience and ability to invest during panic periods",
+        "financing_cost: used implicitly to compare self-funded optionality with dependence on costly outside money"
+      ],
+      "metric_limitations": [
+        "cash_balance: can depress near-term returns if viewed without regard to opportunity value",
+        "liquidity: can be overstated if assets are illiquid in practice",
+        "financing_cost: can look low in easy markets and spike when capital is most needed"
+      ],
+      "performance_logic": [
+        "Holding cash reduces short-term yield but increases survival odds and the ability to deploy capital when terms become exceptional."
+      ],
+      "evaluation_questions": [
+        "Is the company holding enough cash to avoid forced sales or emergency financing?",
+        "Could it make major opportunities during a panic?",
+        "Is management sacrificing resilience for marginal yield?"
+      ],
+      "diagnostic_signals": [
+        "More than ample cash",
+        "No dependence on outside rescue",
+        "Ability to act in panics"
+      ],
+      "practical_rules": [
+        "Preserve enough liquidity to avoid forced behavior and exploit dislocations."
+      ],
+      "example_buffett_phrasing": [
+        "never depending on the kindness of strangers",
+        "more than ample cash"
+      ],
+      "tags": [
+        "cash",
+        "optionality",
+        "liquidity",
+        "capital_allocation"
+      ]
+    },
+    {
+      "item_id": "2008_017",
+      "section": "Buffett’s framework for capital allocation",
+      "subsection": "Capital should flow where risk-adjusted terms are exceptional",
+      "principle_title": "Opportunistic deployment on exceptional terms",
+      "principle_statement": "Great capital allocation moves aggressively when probabilities, structure, and downside protection are unusually favorable.",
+      "normalized_principle": "Allocate capital aggressively only when market conditions offer exceptional risk-adjusted terms.",
+      "importance": "high",
+      "time_horizon": "medium_term",
+      "applies_to": [
+        "capital_allocator",
+        "holding_company",
+        "shareholder"
+      ],
+      "financial_metrics": [
+        "expected_return",
+        "downside_protection",
+        "security_seniority"
+      ],
+      "metric_definition": [
+        "expected_return: prospective return implied by price, coupons, warrants, or other deal economics",
+        "downside_protection: contractual or structural features that reduce loss severity",
+        "security_seniority: claim priority in the capital structure"
+      ],
+      "metric_usage_context": [
+        "expected_return: used to determine whether the opportunity is unusually attractive",
+        "downside_protection: used to judge whether favorable structure protects capital in adverse outcomes",
+        "security_seniority: used to evaluate how deal structure improves odds in abnormal markets"
+      ],
+      "metric_limitations": [
+        "expected_return: can look high if the underlying business risk is misunderstood",
+        "downside_protection: protections may fail if counterparties or systems break down",
+        "security_seniority: seniority is less meaningful if asset values collapse severely"
+      ],
+      "performance_logic": [
+        "Exceptional market stress can create investments where both price and structure skew outcomes favorably for disciplined capital allocators."
+      ],
+      "evaluation_questions": [
+        "Were the deal terms normal or unusually favorable?",
+        "What downside protection was embedded?",
+        "Did management act because the asset was good, or because the terms were extraordinary?"
+      ],
+      "diagnostic_signals": [
+        "Preferred terms",
+        "Warrants or covenants",
+        "Senior claims obtained in abnormal markets"
+      ],
+      "practical_rules": [
+        "Study not just what management bought, but under what terms and with what protections."
+      ],
+      "example_buffett_phrasing": [
+        "terms were unusually favorable",
+        "downside protection",
+        "preferred terms, warrants, covenants, seniority"
+      ],
+      "tags": [
+        "deal_terms",
+        "downside_protection",
+        "risk_adjusted_return",
+        "opportunism"
+      ]
+    },
+    {
+      "item_id": "2008_018",
+      "section": "Buffett’s framework for capital allocation",
+      "subsection": "Reinvestment is attractive when large sums can earn fair returns for long periods",
+      "principle_title": "Reinvestment runway",
+      "principle_statement": "A business that can absorb large amounts of capital at acceptable returns can be exceptionally valuable.",
+      "normalized_principle": "The ability to reinvest large amounts of capital at decent incremental returns increases business value.",
+      "importance": "high",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "private_business",
+        "public_stock",
+        "capital_allocator",
+        "utility"
+      ],
+      "financial_metrics": [
+        "incremental_return_on_capital",
+        "reinvestment_capacity"
+      ],
+      "metric_definition": [
+        "incremental_return_on_capital: return earned on additional capital deployed into growth or expansion",
+        "reinvestment_capacity: the scale of capital the business can absorb productively over time"
+      ],
+      "metric_usage_context": [
+        "incremental_return_on_capital: used to judge whether new investment compounds value rather than merely enlarging the business",
+        "reinvestment_capacity: used to judge whether a business has a long runway for large-scale deployment"
+      ],
+      "metric_limitations": [
+        "incremental_return_on_capital: attractive historical returns may fade as more capital is deployed",
+        "reinvestment_capacity: large addressable investment need does not guarantee fair regulatory or economic returns"
+      ],
+      "performance_logic": [
+        "A company becomes more valuable when it can repeatedly deploy substantial capital at fair returns for long periods rather than distribute capital due to opportunity scarcity."
+      ],
+      "evaluation_questions": [
+        "How much capital can this business productively reinvest?",
+        "At what incremental return?",
+        "Is growth constrained by opportunity scarcity or by capital scarcity?"
+      ],
+      "diagnostic_signals": [
+        "Large projects or expansion opportunities with acceptable returns",
+        "Ability to deploy substantial capital without destroying economics"
+      ],
+      "practical_rules": [
+        "Evaluate reinvestment runway alongside current return metrics."
+      ],
+      "example_buffett_phrasing": [
+        "deploy substantial capital at decent returns",
+        "large sums can earn fair returns for long periods"
+      ],
+      "tags": [
+        "reinvestment",
+        "incremental_return_on_capital",
+        "capital_allocation",
+        "growth"
+      ]
+    },
+    {
+      "item_id": "2008_019",
+      "section": "Buffett’s framework for capital allocation",
+      "subsection": "Tuck-in acquisitions can strengthen moats if done sensibly",
+      "principle_title": "Small moat-enhancing acquisitions",
+      "principle_statement": "Small adjacent acquisitions can be highly effective when they deepen the existing moat and are bought at sensible prices.",
+      "normalized_principle": "Tuck-in acquisitions should be judged by fit with the existing moat, sensible pricing, and whether they strengthen earnings power without adding fragility.",
+      "importance": "medium",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "capital_allocator",
+        "private_business",
+        "acquisition_target",
+        "management_team"
+      ],
+      "financial_metrics": [
+        "acquisition_price",
+        "earnings_power"
+      ],
+      "metric_definition": [
+        "acquisition_price: capital paid to purchase the adjacent asset or business",
+        "earnings_power: the sustainable earnings capacity of the combined operation"
+      ],
+      "metric_usage_context": [
+        "acquisition_price: used to judge whether the tuck-in was bought sensibly",
+        "earnings_power: used to assess whether the acquisition deepens the moat and improves the combined business"
+      ],
+      "metric_limitations": [
+        "acquisition_price: a cheap-looking deal can still be poor if strategic fit is weak",
+        "earnings_power: immediate accretion can mislead if fragility or integration risk rises"
+      ],
+      "performance_logic": [
+        "Small adjacent acquisitions can compound value when they expand capabilities or distribution inside an already strong competitive position."
+      ],
+      "evaluation_questions": [
+        "Does the acquisition deepen the existing moat, improve capabilities, or widen distribution?",
+        "Is the deal price sensible?",
+        "Does it improve earnings power without adding fragility?"
+      ],
+      "diagnostic_signals": [
+        "Adjacency to existing operations",
+        "Capability or distribution enhancement",
+        "Sensible purchase price"
+      ],
+      "practical_rules": [
+        "Favor tuck-ins that reinforce an existing advantage rather than distracting diversification."
+      ],
+      "example_buffett_phrasing": [
+        "tuck-in acquisitions",
+        "fit the existing moat",
+        "bought at sensible prices"
+      ],
+      "tags": [
+        "tuck_in",
+        "acquisitions",
+        "moat",
+        "capital_allocation"
+      ]
+    },
+    {
+      "item_id": "2008_020",
+      "section": "Buffett’s framework for insurance and float economics",
+      "subsection": "Insurance is attractive when float is costless or better-than-costless",
+      "principle_title": "Underwriting-funded float",
+      "principle_statement": "Insurance is extraordinary when underwriting is disciplined enough that investable liabilities are obtained at no cost or at a profit.",
+      "normalized_principle": "Insurance float is valuable only when its true cost is low or negative because underwriting is sound.",
+      "importance": "high",
+      "time_horizon": "cross_cycle",
+      "applies_to": [
+        "insurance_operation",
+        "capital_allocator",
+        "public_stock"
+      ],
+      "financial_metrics": [
+        "float",
+        "underwriting_profit",
+        "combined_ratio"
+      ],
+      "metric_definition": [
+        "float: policyholder funds held before claims are paid that can be invested in the interim",
+        "underwriting_profit: profit generated from pricing and loss experience before investment income",
+        "combined_ratio: losses and expenses relative to premiums, indicating underwriting profitability"
+      ],
+      "metric_usage_context": [
+        "float: used to judge the size, duration, and value of investable liabilities",
+        "underwriting_profit: used to determine whether the insurer is being paid to hold float rather than paying for it",
+        "combined_ratio: used as a shorthand test of whether float is costless, costly, or better-than-costless"
+      ],
+      "metric_limitations": [
+        "float: large float is not valuable if underwriting losses make it expensive",
+        "underwriting_profit: can be temporarily favorable due to benign loss periods",
+        "combined_ratio: one period can mislead in catastrophe-prone or cyclical lines"
+      ],
+      "performance_logic": [
+        "When underwriting is profitable, the insurer gains investable funds whose economics can materially enhance long-term returns."
+      ],
+      "evaluation_questions": [
+        "Is underwriting profitable over time?",
+        "What is the size, duration, and stability of float?",
+        "What is the true cost of float?"
+      ],
+      "diagnostic_signals": [
+        "Growing float with disciplined underwriting",
+        "Combined ratio below breakeven over time",
+        "Stable, investable liabilities"
+      ],
+      "practical_rules": [
+        "Analyze insurance as underwriting economics plus the value of float."
+      ],
+      "example_buffett_phrasing": [
+        "float is costless or better-than-costless",
+        "money held and invested for Berkshire’s benefit"
+      ],
+      "tags": [
+        "insurance",
+        "float",
+        "underwriting",
+        "combined_ratio"
+      ]
+    },
+    {
+      "item_id": "2008_021",
+      "section": "Buffett’s framework for insurance and float economics",
+      "subsection": "Float is only valuable if supported by underwriting discipline",
+      "principle_title": "No value in loss-making float",
+      "principle_statement": "Float funded by chronic underwriting losses can be expensive and destructive.",
+      "normalized_principle": "Insurance growth should not be praised unless underwriting discipline keeps the true cost of float attractive.",
+      "importance": "high",
+      "time_horizon": "cross_cycle",
+      "applies_to": [
+        "insurance_operation",
+        "management_team"
+      ],
+      "financial_metrics": [
+        "float",
+        "underwriting_margin",
+        "reserve_adequacy"
+      ],
+      "metric_definition": [
+        "float: policyholder funding available for investment before claim payment",
+        "underwriting_margin: underwriting profit or loss relative to premium volume",
+        "reserve_adequacy: sufficiency and conservatism of loss reserves supporting reported underwriting results"
+      ],
+      "metric_usage_context": [
+        "float: used to judge whether insurance liabilities create value or hidden cost",
+        "underwriting_margin: used to test whether management is pursuing growth responsibly",
+        "reserve_adequacy: used to assess whether underwriting profits are real and repeatable"
+      ],
+      "metric_limitations": [
+        "float: growth can look attractive while masking persistent underwriting losses",
+        "underwriting_margin: a short favorable period can hide weak cycle discipline",
+        "reserve_adequacy: inadequate reserves can flatter underwriting results temporarily"
+      ],
+      "performance_logic": [
+        "Float contributes economic value only when underwriting and reserving discipline prevent the funding base from becoming expensive."
+      ],
+      "evaluation_questions": [
+        "Is management pursuing growth at the expense of underwriting discipline?",
+        "Are reserves conservative?",
+        "Are underwriting profits repeatable across cycles?"
+      ],
+      "diagnostic_signals": [
+        "Premium growth with weak underwriting",
+        "Chronic loss ratios",
+        "Aggressive reserving"
+      ],
+      "practical_rules": [
+        "Do not treat float as valuable unless underwriting quality supports it."
+      ],
+      "example_buffett_phrasing": [
+        "float is not inherently valuable",
+        "chronic underwriting losses"
+      ],
+      "tags": [
+        "float",
+        "underwriting_discipline",
+        "reserves",
+        "insurance_quality"
+      ]
+    },
+    {
+      "item_id": "2008_022",
+      "section": "Buffett’s framework for insurance and float economics",
+      "subsection": "Catastrophe-like businesses require caution even after long benign periods",
+      "principle_title": "Tail risk hidden by calm history",
+      "principle_statement": "Long periods of calm can hide severe tail risk in businesses with rare but correlated loss profiles.",
+      "normalized_principle": "Smooth historical earnings should not be trusted in businesses that warehouse infrequent but severe tail risk.",
+      "importance": "high",
+      "time_horizon": "cross_cycle",
+      "applies_to": [
+        "insurance_operation",
+        "public_stock",
+        "private_business"
+      ],
+      "financial_metrics": [
+        "tail_loss_severity",
+        "premium_income",
+        "historical_loss_rate"
+      ],
+      "metric_definition": [
+        "tail_loss_severity: the magnitude of losses in rare adverse scenarios",
+        "premium_income: steady income earned during benign periods",
+        "historical_loss_rate: realized loss experience observed in past calm periods"
+      ],
+      "metric_usage_context": [
+        "tail_loss_severity: used to judge whether one event can erase many years of normal profits",
+        "premium_income: used to see whether the business is collecting small steady gains while warehousing large risks",
+        "historical_loss_rate: used cautiously because benign history may understate true exposure"
+      ],
+      "metric_limitations": [
+        "tail_loss_severity: hard to estimate precisely before the stress event occurs",
+        "premium_income: steady income can seduce analysts into ignoring nonlinear downside",
+        "historical_loss_rate: can be deeply misleading when the loss distribution is rare and correlated"
+      ],
+      "performance_logic": [
+        "Businesses exposed to rare correlated shocks can look steadily profitable until one period reveals that prior earnings understated true risk."
+      ],
+      "evaluation_questions": [
+        "Is the business collecting small steady premiums while silently warehousing tail risk?",
+        "Could one correlated event erase many years of gains?",
+        "How severe are losses when the bad scenario actually occurs?"
+      ],
+      "diagnostic_signals": [
+        "Many quiet years",
+        "Highly correlated downside",
+        "One bad period capable of wiping out prior profits"
+      ],
+      "practical_rules": [
+        "Do not evaluate rare-risk businesses primarily by recent smooth earnings."
+      ],
+      "example_buffett_phrasing": [
+        "many quiet years can be followed by one devastating period",
+        "tail risk"
+      ],
+      "tags": [
+        "tail_risk",
+        "catastrophe",
+        "correlation",
+        "risk"
+      ]
+    },
+    {
+      "item_id": "2008_023",
+      "section": "Buffett’s framework for leverage and financing risk",
+      "subsection": "Leverage can destroy otherwise good businesses",
+      "principle_title": "Fragility from leverage",
+      "principle_statement": "High leverage can convert a decent business into a fragile security.",
+      "normalized_principle": "Business quality and capital structure risk should be analyzed separately because leverage can overwhelm operating strength.",
+      "importance": "high",
+      "time_horizon": "cross_cycle",
+      "applies_to": [
+        "public_stock",
+        "private_business",
+        "balance_sheet",
+        "lender"
+      ],
+      "financial_metrics": [
+        "debt_to_equity",
+        "interest_coverage",
+        "leverage_ratio"
+      ],
+      "metric_definition": [
+        "debt_to_equity: debt relative to shareholder equity",
+        "interest_coverage: earnings available to cover interest obligations",
+        "leverage_ratio: overall degree of debt dependence in the capital structure"
+      ],
+      "metric_usage_context": [
+        "debt_to_equity: used to gauge balance-sheet fragility",
+        "interest_coverage: used to test room for error if earnings weaken",
+        "leverage_ratio: used to separate operating quality from financing risk"
+      ],
+      "metric_limitations": [
+        "debt_to_equity: can understate risk if liabilities are short-dated or covenants are strict",
+        "interest_coverage: can look comfortable in peak conditions and collapse in downturns",
+        "leverage_ratio: the raw number needs context on asset quality and refinancing dependence"
+      ],
+      "performance_logic": [
+        "Debt amplifies vulnerability by reducing margin for error and increasing the chance that a temporary operating problem becomes permanent capital impairment."
+      ],
+      "evaluation_questions": [
+        "How would this business look with far less leverage?",
+        "Is debt supporting productive assets or merely financial engineering?",
+        "Does the capital structure leave room for error?"
+      ],
+      "diagnostic_signals": [
+        "Heavy leverage on an otherwise decent business",
+        "Thin interest coverage",
+        "Financial engineering dependence"
+      ],
+      "practical_rules": [
+        "Always separate business quality from capital structure risk."
+      ],
+      "example_buffett_phrasing": [
+        "debt burdens that put businesses in mortal danger",
+        "fragile security"
+      ],
+      "tags": [
+        "leverage",
+        "capital_structure",
+        "fragility",
+        "financing_risk"
+      ]
+    },
+    {
+      "item_id": "2008_024",
+      "section": "Buffett’s framework for leverage and financing risk",
+      "subsection": "Refinancing dependence is a major hidden risk",
+      "principle_title": "Rollover dependence",
+      "principle_statement": "Any business that must refinance regularly to survive is vulnerable to conditions beyond its control.",
+      "normalized_principle": "Near-term refinancing dependence is a major source of hidden risk even when current operations appear acceptable.",
+      "importance": "high",
+      "time_horizon": "cross_cycle",
+      "applies_to": [
+        "balance_sheet",
+        "lender",
+        "public_stock",
+        "private_business"
+      ],
+      "financial_metrics": [
+        "debt_maturity_schedule",
+        "internal_cash_generation",
+        "liquidity"
+      ],
+      "metric_definition": [
+        "debt_maturity_schedule: timing and amount of obligations coming due",
+        "internal_cash_generation: cash produced by operations that can meet obligations without new financing",
+        "liquidity: resources available to meet commitments without distressed actions"
+      ],
+      "metric_usage_context": [
+        "debt_maturity_schedule: used to identify refinancing cliffs and near-term vulnerability",
+        "internal_cash_generation: used to test whether obligations can be met internally",
+        "liquidity: used to assess survival if credit markets close for an extended period"
+      ],
+      "metric_limitations": [
+        "debt_maturity_schedule: a manageable schedule can still be risky if market access is essential",
+        "internal_cash_generation: can be overestimated in cyclical downturns",
+        "liquidity: balance-sheet liquidity may disappear if assets are not truly saleable"
+      ],
+      "performance_logic": [
+        "A sound company should be able to withstand periods when external credit is unavailable rather than assuming refinancing markets will remain open."
+      ],
+      "evaluation_questions": [
+        "How much debt matures in the near term?",
+        "Can obligations be met internally?",
+        "What happens if credit markets shut for 6 to 24 months?"
+      ],
+      "diagnostic_signals": [
+        "Large near-term maturities",
+        "Ongoing dependence on open credit markets",
+        "Weak internal cash coverage"
+      ],
+      "practical_rules": [
+        "Treat refinancing dependence as a central risk factor, not a footnote."
+      ],
+      "example_buffett_phrasing": [
+        "needing credit markets to remain open",
+        "must refinance regularly to survive"
+      ],
+      "tags": [
+        "refinancing",
+        "maturity_wall",
+        "liquidity",
+        "hidden_risk"
+      ]
+    },
+    {
+      "item_id": "2008_025",
+      "section": "Buffett’s framework for leverage and financing risk",
+      "subsection": "Funding advantage can overwhelm operating quality",
+      "principle_title": "Cost of funds as competitive edge",
+      "principle_statement": "In financial businesses, funding structure and cost can be as decisive as underwriting or operating skill.",
+      "normalized_principle": "For lenders and financial firms, durable low-cost funding can dominate operating quality as a source of competitive advantage.",
+      "importance": "medium",
+      "time_horizon": "cross_cycle",
+      "applies_to": [
+        "lender",
+        "public_stock",
+        "private_business"
+      ],
+      "financial_metrics": [
+        "cost_of_funds",
+        "net_interest_margin",
+        "funding_stability"
+      ],
+      "metric_definition": [
+        "cost_of_funds: the effective rate paid to obtain liabilities or borrowed money",
+        "net_interest_margin: spread between asset yields and funding costs in a lending model",
+        "funding_stability: durability and reliability of the liability base"
+      ],
+      "metric_usage_context": [
+        "cost_of_funds: used to compare competitive position against peers with different liability structures",
+        "net_interest_margin: used to see how funding advantage translates into economics",
+        "funding_stability: used to judge whether cheap funding is durable or artificially supported"
+      ],
+      "metric_limitations": [
+        "cost_of_funds: low funding costs can be artificial if caused by government backing or temporary distortions",
+        "net_interest_margin: can be flattered by credit risk that later reverses",
+        "funding_stability: current stability may vanish if confidence weakens"
+      ],
+      "performance_logic": [
+        "A durable funding edge lowers the hurdle for acceptable lending economics and can outweigh differences in operating skill."
+      ],
+      "evaluation_questions": [
+        "What is this company’s cost of funds versus competitors?",
+        "Is its funding durable, cheap, and stable?",
+        "Is there any artificial advantage created by regulation or guarantees?"
+      ],
+      "diagnostic_signals": [
+        "Persistently cheaper funding than peers",
+        "Government-backed liability advantage",
+        "Stable, low-cost liabilities"
+      ],
+      "practical_rules": [
+        "For financials, analyze liability structure as seriously as asset quality."
+      ],
+      "example_buffett_phrasing": [
+        "cost of funds",
+        "government-backed borrowers had lower funding costs"
+      ],
+      "tags": [
+        "funding",
+        "cost_of_funds",
+        "financials",
+        "liability_structure"
+      ]
+    },
+    {
+      "item_id": "2008_026",
+      "section": "Buffett’s framework for lending and credit analysis",
+      "subsection": "Lending success begins with borrower capacity, not collateral optimism",
+      "principle_title": "Repayment capacity first",
+      "principle_statement": "Safe lending is based primarily on the borrower’s capacity and willingness to pay from real income, not on hoped-for asset appreciation or refinancing.",
+      "normalized_principle": "Credit quality should be judged by borrower payment capacity and loan structure, not collateral optimism.",
+      "importance": "high",
+      "time_horizon": "cross_cycle",
+      "applies_to": [
+        "lender",
+        "public_stock",
+        "private_business"
+      ],
+      "financial_metrics": [
+        "debt_service_coverage",
+        "down_payment_ratio",
+        "loan_to_value"
+      ],
+      "metric_definition": [
+        "debt_service_coverage: the borrower's ability to service required payments from verified income",
+        "down_payment_ratio: borrower equity contribution at origination",
+        "loan_to_value: loan balance relative to collateral value"
+      ],
+      "metric_usage_context": [
+        "debt_service_coverage: used to judge whether payments are sustainable from real income",
+        "down_payment_ratio: used to assess borrower commitment and loss buffer",
+        "loan_to_value: used as a secondary indicator rather than the primary credit foundation"
+      ],
+      "metric_limitations": [
+        "debt_service_coverage: current income can deteriorate under unemployment or illness",
+        "down_payment_ratio: a nominal down payment can mislead if it is not real or meaningful",
+        "loan_to_value: can be dangerously overemphasized when repayment depends on appreciation or refinancing"
+      ],
+      "performance_logic": [
+        "Loans perform better when borrowers can comfortably pay from verified income and have meaningful equity at risk, reducing dependence on asset inflation."
+      ],
+      "evaluation_questions": [
+        "Can the borrower comfortably service the loan from verified income?",
+        "Is the down payment real and meaningful?",
+        "Is repayment dependent on refinancing or asset inflation?"
+      ],
+      "diagnostic_signals": [
+        "Meaningful borrower equity",
+        "Verified affordability",
+        "Underwriting based on income rather than future appraisal gains"
+      ],
+      "practical_rules": [
+        "Base lending judgment on borrower capacity and willingness to pay, not collateral optimism."
+      ],
+      "example_buffett_phrasing": [
+        "borrower capacity, not collateral optimism",
+        "actual income",
+        "meaningful down payments"
+      ],
+      "tags": [
+        "credit",
+        "underwriting",
+        "borrower_quality",
+        "payment_capacity"
+      ]
+    },
+    {
+      "item_id": "2008_027",
+      "section": "Buffett’s framework for lending and credit analysis",
+      "subsection": "Incentive alignment matters more than statistical labels",
+      "principle_title": "Look past superficial credit labels",
+      "principle_statement": "Crude labels such as average credit score can mislead if incentives, documentation, and loan structure differ.",
+      "normalized_principle": "Credit analysis should study the full lending system rather than relying on superficial borrower statistics.",
+      "importance": "medium",
+      "time_horizon": "cross_cycle",
+      "applies_to": [
+        "lender",
+        "public_stock",
+        "private_business"
+      ],
+      "financial_metrics": [
+        "fico_score",
+        "down_payment_ratio",
+        "payment_burden"
+      ],
+      "metric_definition": [
+        "fico_score: a summary credit score reflecting past borrower credit behavior",
+        "down_payment_ratio: borrower equity contribution at origination",
+        "payment_burden: required monthly payment relative to borrower income"
+      ],
+      "metric_usage_context": [
+        "fico_score: used only as a partial input rather than a decisive verdict on loan quality",
+        "down_payment_ratio: used to understand borrower commitment and incentive alignment",
+        "payment_burden: used to judge whether the loan design is sustainable"
+      ],
+      "metric_limitations": [
+        "fico_score: can mislead when loan structure and borrower intent are stronger than the statistical label suggests",
+        "down_payment_ratio: can be gamed if the equity contribution is not genuine",
+        "payment_burden: can look manageable under initial teaser conditions and later become unsustainable"
+      ],
+      "performance_logic": [
+        "Loan performance is driven by the entire underwriting system, including incentives and structure, not by one statistical label."
+      ],
+      "evaluation_questions": [
+        "Are borrowers intending to repay from income, or speculating on resale or refinance?",
+        "What underwriting assumptions actually drive performance?",
+        "Are models overemphasizing superficial variables while ignoring structure?"
+      ],
+      "diagnostic_signals": [
+        "Weak average credit labels but strong realized performance",
+        "Meaningful down payments",
+        "Conservative payment burden"
+      ],
+      "practical_rules": [
+        "Study incentives, documentation, payment burden, and borrower intent instead of overrelying on labels."
+      ],
+      "example_buffett_phrasing": [
+        "weak FICO scores, yet loan performance was strong",
+        "incentive alignment matters more than statistical labels"
+      ],
+      "tags": [
+        "credit_scores",
+        "incentives",
+        "loan_structure",
+        "underwriting"
+      ]
+    },
+    {
+      "item_id": "2008_028",
+      "section": "Buffett’s framework for lending and credit analysis",
+      "subsection": "Monthly payment affordability matters more than current asset value for default behavior",
+      "principle_title": "Payment burden drives default",
+      "principle_statement": "Default risk is driven more by cash-flow mismatch than by mark-to-market collateral status, especially for primary residences.",
+      "normalized_principle": "Focus default analysis on payment affordability rather than current collateral marks alone.",
+      "importance": "high",
+      "time_horizon": "cross_cycle",
+      "applies_to": [
+        "lender",
+        "public_stock",
+        "private_business"
+      ],
+      "financial_metrics": [
+        "payment_burden",
+        "loan_to_value",
+        "default_rate"
+      ],
+      "metric_definition": [
+        "payment_burden: required monthly payment relative to borrower income and resilience",
+        "loan_to_value: loan size relative to collateral value",
+        "default_rate: frequency with which borrowers fail to meet contractual obligations"
+      ],
+      "metric_usage_context": [
+        "payment_burden: used to judge the primary driver of borrower distress",
+        "loan_to_value: used as a secondary factor rather than the main behavioral driver of default",
+        "default_rate: used to evaluate whether loan affordability assumptions are producing durable outcomes"
+      ],
+      "metric_limitations": [
+        "payment_burden: can worsen abruptly under unemployment, illness, or resets",
+        "loan_to_value: underwater collateral can matter, but it should not replace analysis of payment capacity",
+        "default_rate: backward-looking rates can miss pending stress in borrower affordability"
+      ],
+      "performance_logic": [
+        "Borrowers usually default when scheduled payments overwhelm income resilience, so affordability is central to credit quality."
+      ],
+      "evaluation_questions": [
+        "What is the borrower payment burden relative to income?",
+        "How resilient is that burden under unemployment, illness, or other shocks?",
+        "Are analysts focusing too much on collateral marks and too little on payment capacity?"
+      ],
+      "diagnostic_signals": [
+        "High payment burden",
+        "Payment shocks under stress",
+        "Analysts obsessed with current asset values rather than cash flow"
+      ],
+      "practical_rules": [
+        "Center credit analysis on sustainable monthly payments."
+      ],
+      "example_buffett_phrasing": [
+        "most foreclosures occur because borrowers cannot make the agreed payment",
+        "payment affordability matters more"
+      ],
+      "tags": [
+        "payment_burden",
+        "default_risk",
+        "affordability",
+        "credit"
+      ]
+    },
+    {
+      "item_id": "2008_029",
+      "section": "Buffett’s framework for lending and credit analysis",
+      "subsection": "The right objective is sustainable ownership, not maximum origination volume",
+      "principle_title": "Optimize for loan durability",
+      "principle_statement": "Lending businesses should be evaluated by long-term loan sustainability, not by near-term origination growth.",
+      "normalized_principle": "The objective of lending should be durable borrower ownership and loan performance rather than maximum volume.",
+      "importance": "medium",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "lender",
+        "management_team",
+        "public_stock"
+      ],
+      "financial_metrics": [
+        "origination_volume",
+        "default_rate",
+        "loan_life_performance"
+      ],
+      "metric_definition": [
+        "origination_volume: new lending volume generated in a period",
+        "default_rate: share of loans that fail to perform",
+        "loan_life_performance: cumulative performance of loans over their full lives"
+      ],
+      "metric_usage_context": [
+        "origination_volume: used skeptically because high volume can reflect weak standards",
+        "default_rate: used to see whether growth is sacrificing quality",
+        "loan_life_performance: used as the true objective for judging lending quality"
+      ],
+      "metric_limitations": [
+        "origination_volume: growth can flatter management while hiding future losses",
+        "default_rate: near-term rates can understate later seasoning problems",
+        "loan_life_performance: requires patience and may not be visible in short reporting windows"
+      ],
+      "performance_logic": [
+        "Volume-driven incentives weaken underwriting, while sustainability-focused incentives improve long-term borrower and lender outcomes."
+      ],
+      "evaluation_questions": [
+        "Is management optimizing for volume or durable performance?",
+        "Do incentives reward loan quality after origination?",
+        "Would the same underwriting look rational if the lender had to keep the loan for life?"
+      ],
+      "diagnostic_signals": [
+        "Rapid origination growth",
+        "Misaligned compensation",
+        "Weak seasoning performance"
+      ],
+      "practical_rules": [
+        "Evaluate lenders by life-of-loan quality, not just origination growth."
+      ],
+      "example_buffett_phrasing": [
+        "not maximum origination volume",
+        "keeping them in homes"
+      ],
+      "tags": [
+        "loan_quality",
+        "origination",
+        "incentives",
+        "durability"
+      ]
+    },
+    {
+      "item_id": "2008_030",
+      "section": "Buffett’s framework for risk analysis",
+      "subsection": "Risk is not the same as volatility",
+      "principle_title": "Permanent impairment over price fluctuation",
+      "principle_statement": "True risk is permanent capital impairment, forced behavior, or inability to meet obligations, not merely market fluctuation.",
+      "normalized_principle": "Treat volatility as distinct from risk and focus on permanent loss and forced outcomes.",
+      "importance": "high",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "public_stock",
+        "shareholder",
+        "balance_sheet",
+        "capital_allocator"
+      ],
+      "financial_metrics": [
+        "market_volatility",
+        "permanent_capital_impairment",
+        "liquidity"
+      ],
+      "metric_definition": [
+        "market_volatility: fluctuation in quoted market prices over time",
+        "permanent_capital_impairment: lasting destruction of owner capital or economic value",
+        "liquidity: ability to avoid forced selling or financing under stress"
+      ],
+      "metric_usage_context": [
+        "market_volatility: used as a non-risk variable when business value is intact",
+        "permanent_capital_impairment: used as the core definition of economic risk",
+        "liquidity: used to assess whether volatility can be tolerated or turned into opportunity"
+      ],
+      "metric_limitations": [
+        "market_volatility: can matter more when leverage or liquidity constraints force action",
+        "permanent_capital_impairment: may be hard to distinguish from temporary distress in real time",
+        "liquidity: inadequate liquidity can transform volatility into real loss"
+      ],
+      "performance_logic": [
+        "Price swings are often harmless to a solvent, patient owner, but become dangerous when they trigger forced selling or reflect real value destruction."
+      ],
+      "evaluation_questions": [
+        "Could this investment cause permanent loss?",
+        "Could financing, covenants, or liquidity force a bad outcome?",
+        "Is volatility creating opportunity rather than danger?"
+      ],
+      "diagnostic_signals": [
+        "High volatility with intact business value",
+        "Leverage or covenants that force action",
+        "Liquidity shortage turning quotes into outcomes"
+      ],
+      "practical_rules": [
+        "Define risk by impairment and forced behavior, not by price movement alone."
+      ],
+      "example_buffett_phrasing": [
+        "risk is not the same as volatility",
+        "permanent capital impairment"
+      ],
+      "tags": [
+        "risk",
+        "volatility",
+        "impairment",
+        "liquidity"
+      ]
+    },
+    {
+      "item_id": "2008_031",
+      "section": "Buffett’s framework for risk analysis",
+      "subsection": "Tail risk and correlation matter more than smooth historical averages",
+      "principle_title": "Correlated downside over smooth history",
+      "principle_statement": "Benign historical data can hide correlated blowups when losses cluster rather than arrive independently.",
+      "normalized_principle": "Historical averages should be stress-tested for correlation and tail concentration rather than trusted at face value.",
+      "importance": "high",
+      "time_horizon": "cross_cycle",
+      "applies_to": [
+        "insurance_operation",
+        "lender",
+        "public_stock",
+        "private_business"
+      ],
+      "financial_metrics": [
+        "correlation",
+        "historical_loss_rate",
+        "tail_loss_severity"
+      ],
+      "metric_definition": [
+        "correlation: the extent to which losses occur together rather than independently",
+        "historical_loss_rate: past average loss experience in observed data",
+        "tail_loss_severity: scale of losses in extreme adverse scenarios"
+      ],
+      "metric_usage_context": [
+        "correlation: used to test whether many exposures can fail at once",
+        "historical_loss_rate: used only as a starting point rather than a full risk description",
+        "tail_loss_severity: used to estimate whether clustered stress can overwhelm normal-period economics"
+      ],
+      "metric_limitations": [
+        "correlation: often rises in stress and can be underestimated in normal models",
+        "historical_loss_rate: smooth history can understate risk when the system has changed",
+        "tail_loss_severity: extreme outcomes are difficult to estimate precisely"
+      ],
+      "performance_logic": [
+        "Systems with correlated exposures can look safe in average data while containing nonlinear downside that dominates long-term economics."
+      ],
+      "evaluation_questions": [
+        "Could losses cluster rather than arrive independently?",
+        "Are current conditions meaningfully different from the historical sample being used?",
+        "What assumptions break in a stress scenario?"
+      ],
+      "diagnostic_signals": [
+        "Smooth historical averages",
+        "Common exposure to one macro shock",
+        "Models assuming independence"
+      ],
+      "practical_rules": [
+        "Stress-test average historical data for clustering and tail concentration."
+      ],
+      "example_buffett_phrasing": [
+        "benign historical data can hide correlated blowups",
+        "tail risk and correlation"
+      ],
+      "tags": [
+        "tail_risk",
+        "correlation",
+        "historical_data",
+        "stress_testing"
+      ]
+    },
+    {
+      "item_id": "2008_032",
+      "section": "Buffett’s framework for risk analysis",
+      "subsection": "Risk models fail when they ignore changes in the underlying universe",
+      "principle_title": "Model breakdown from regime change",
+      "principle_statement": "A model built on past data is unreliable if the present system has different incentives, underwriting standards, leverage, or behavior.",
+      "normalized_principle": "Do not trust historical models when the underlying population or incentives have changed materially.",
+      "importance": "high",
+      "time_horizon": "cross_cycle",
+      "applies_to": [
+        "lender",
+        "insurance_operation",
+        "public_stock",
+        "private_business"
+      ],
+      "financial_metrics": [
+        "historical_dataset_relevance",
+        "underwriting_standard",
+        "leverage_ratio"
+      ],
+      "metric_definition": [
+        "historical_dataset_relevance: fit between the data used by the model and the current economic environment",
+        "underwriting_standard: the rigor and design of current underwriting compared with the historical sample",
+        "leverage_ratio: the degree of leverage embedded in the current system versus the past sample"
+      ],
+      "metric_usage_context": [
+        "historical_dataset_relevance: used to test whether past observations remain conceptually applicable",
+        "underwriting_standard: used to judge whether borrower or risk quality has changed",
+        "leverage_ratio: used to assess whether a new environment is more fragile than the historical dataset implies"
+      ],
+      "metric_limitations": [
+        "historical_dataset_relevance: statistical precision can conceal conceptual mismatch",
+        "underwriting_standard: can deteriorate in ways not captured by old data",
+        "leverage_ratio: rising leverage can invalidate calm historical comparisons"
+      ],
+      "performance_logic": [
+        "Models fail when their input history comes from a fundamentally different system than the one being analyzed today."
+      ],
+      "evaluation_questions": [
+        "Has the universe changed?",
+        "Are current borrowers, assets, incentives, and financing conditions materially different from the historical dataset?",
+        "Are we using apparent precision to hide conceptual error?"
+      ],
+      "diagnostic_signals": [
+        "Changed incentives",
+        "Different underwriting standards",
+        "Higher leverage than the historical sample"
+      ],
+      "practical_rules": [
+        "Before trusting a model, test whether the current system still resembles the one in the historical data."
+      ],
+      "example_buffett_phrasing": [
+        "changes in the underlying universe",
+        "apparent precision to hide conceptual error"
+      ],
+      "tags": [
+        "models",
+        "regime_change",
+        "historical_data",
+        "underwriting"
+      ]
+    },
+    {
+      "item_id": "2008_033",
+      "section": "Buffett’s framework for risk analysis",
+      "subsection": "Complex risks require direct owner-level understanding",
+      "principle_title": "Leadership must own critical risk",
+      "principle_statement": "A business is dangerous when leadership does not actually understand its major risk exposures.",
+      "normalized_principle": "Critical risk should be understood at the top of the organization rather than delegated blindly to models or departments.",
+      "importance": "high",
+      "time_horizon": "cross_cycle",
+      "applies_to": [
+        "management_team",
+        "board",
+        "insurance_operation",
+        "lender",
+        "public_stock"
+      ],
+      "financial_metrics": [],
+      "metric_definition": [],
+      "metric_usage_context": [],
+      "metric_limitations": [],
+      "performance_logic": [
+        "Risks that can threaten the institution require top-level comprehension because only leadership can properly trade off growth, capital, and survival."
+      ],
+      "evaluation_questions": [
+        "Can top management clearly explain the business’s major risks?",
+        "Are important risks outsourced to models, departments, or jargon?",
+        "Would the CEO know where the company breaks under stress?"
+      ],
+      "diagnostic_signals": [
+        "Jargon replacing understanding",
+        "Opaque risk books",
+        "Leadership unable to explain stress points"
+      ],
+      "practical_rules": [
+        "Treat management ignorance of core risk as a major red flag."
+      ],
+      "example_buffett_phrasing": [
+        "the CEO must also be chief risk officer",
+        "too important to delegate"
+      ],
+      "tags": [
+        "risk_governance",
+        "leadership",
+        "understanding",
+        "complexity"
+      ]
+    },
+    {
+      "item_id": "2008_034",
+      "section": "Buffett’s framework for skepticism toward models, accounting, and reported numbers",
+      "subsection": "Accounting classifications can distort economic reality",
+      "principle_title": "Translate accounting into economics",
+      "principle_statement": "Reported earnings are a starting point, not the truth; identical economics can produce different reported results.",
+      "normalized_principle": "Accounting presentation should be translated into underlying economic reality before judgment.",
+      "importance": "high",
+      "time_horizon": "cross_cycle",
+      "applies_to": [
+        "public_stock",
+        "holding_company",
+        "shareholder",
+        "capital_allocator"
+      ],
+      "financial_metrics": [
+        "reported_earnings",
+        "mark_to_market_value",
+        "accrual_earnings"
+      ],
+      "metric_definition": [
+        "reported_earnings: profits shown under accounting rules in a reporting period",
+        "mark_to_market_value: valuation based on current market quotations",
+        "accrual_earnings: earnings recognized through accrual accounting rather than immediate market marks"
+      ],
+      "metric_usage_context": [
+        "reported_earnings: used only as a starting point for economic analysis",
+        "mark_to_market_value: used to identify cases where quotation changes distort current reported performance",
+        "accrual_earnings: used to compare alternative accounting presentations for similar economics"
+      ],
+      "metric_limitations": [
+        "reported_earnings: can vary greatly based on classification rather than economic substance",
+        "mark_to_market_value: current marks may reflect temporary quotation noise rather than ultimate cash economics",
+        "accrual_earnings: accrual accounting can smooth economics in ways that hide immediate market information"
+      ],
+      "performance_logic": [
+        "Different accounting treatments can describe similar economics, so investors must look through classifications to eventual cash and value consequences."
+      ],
+      "evaluation_questions": [
+        "What is the economic reality behind the accounting treatment?",
+        "Could two economically similar positions show very different reported profits?",
+        "Are current marks reflecting quotation noise rather than ultimate cash economics?"
+      ],
+      "diagnostic_signals": [
+        "Large gap between reported earnings and cash economics",
+        "Accounting-driven volatility",
+        "Different labels for similar economics"
+      ],
+      "practical_rules": [
+        "Translate accounting into economics wherever possible."
+      ],
+      "example_buffett_phrasing": [
+        "reported earnings are a starting point, not the truth",
+        "accounting classifications can distort economic reality"
+      ],
+      "tags": [
+        "accounting",
+        "economic_reality",
+        "reported_earnings",
+        "mark_to_market"
+      ]
+    },
+    {
+      "item_id": "2008_035",
+      "section": "Buffett’s framework for skepticism toward models, accounting, and reported numbers",
+      "subsection": "Standard formulas can become dangerous when treated as sacred",
+      "principle_title": "Model assumptions before elegance",
+      "principle_statement": "A model may be useful in one domain and absurd in another, so assumptions matter more than formal elegance.",
+      "normalized_principle": "Do not outsource judgment to formulas without testing their assumptions, time horizon, and boundary conditions.",
+      "importance": "high",
+      "time_horizon": "cross_cycle",
+      "applies_to": [
+        "public_stock",
+        "lender",
+        "insurance_operation",
+        "capital_allocator"
+      ],
+      "financial_metrics": [
+        "model_assumption_fit",
+        "time_horizon",
+        "volatility_input"
+      ],
+      "metric_definition": [
+        "model_assumption_fit: the degree to which a model's assumptions match the economic problem being analyzed",
+        "time_horizon: the duration over which the model is being applied",
+        "volatility_input: variability parameter commonly fed into formulaic valuation or risk models"
+      ],
+      "metric_usage_context": [
+        "model_assumption_fit: used to judge whether the model belongs in the problem at hand",
+        "time_horizon: used to test whether a formula built for one duration is being stretched into another",
+        "volatility_input: used skeptically because elegant parameterization can hide conceptual mismatch"
+      ],
+      "metric_limitations": [
+        "model_assumption_fit: a mathematically coherent model can still be economically absurd",
+        "time_horizon: long-dated instruments can invalidate short-horizon modeling assumptions",
+        "volatility_input: historical estimates may have little relationship to true long-run economics"
+      ],
+      "performance_logic": [
+        "A model adds value only when its assumptions and horizon fit the real economics; otherwise it can create false confidence."
+      ],
+      "evaluation_questions": [
+        "What are the key assumptions?",
+        "Do they fit the specific instrument and time horizon?",
+        "What absurd result appears if the model is pushed to an extreme?"
+      ],
+      "diagnostic_signals": [
+        "Blind reliance on formulas",
+        "No boundary-condition checks",
+        "Elegant outputs without economic intuition"
+      ],
+      "practical_rules": [
+        "Interrogate model assumptions before trusting model outputs."
+      ],
+      "example_buffett_phrasing": [
+        "Beware of geeks bearing formulas",
+        "useful in one domain and absurd in another"
+      ],
+      "tags": [
+        "models",
+        "assumptions",
+        "formula_risk",
+        "valuation"
+      ]
+    },
+    {
+      "item_id": "2008_036",
+      "section": "Buffett’s framework for skepticism toward models, accounting, and reported numbers",
+      "subsection": "Historical volatility is not intrinsic value",
+      "principle_title": "Volatility does not define worth",
+      "principle_statement": "Market volatility is often irrelevant to the long-term value of productive assets.",
+      "normalized_principle": "Quoted instability should not be confused with the intrinsic worth of a productive business or asset.",
+      "importance": "medium",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "public_stock",
+        "shareholder"
+      ],
+      "financial_metrics": [
+        "historical_volatility",
+        "intrinsic_value",
+        "earning_power"
+      ],
+      "metric_definition": [
+        "historical_volatility: observed fluctuation in market prices over time",
+        "intrinsic_value: long-term economic worth of the productive asset",
+        "earning_power: long-term cash-generating capacity of the asset"
+      ],
+      "metric_usage_context": [
+        "historical_volatility: used skeptically because price fluctuation does not by itself measure business worth",
+        "intrinsic_value: used as the anchor for judging whether volatility is noise or signal",
+        "earning_power: used to link business value to production rather than quotation"
+      ],
+      "metric_limitations": [
+        "historical_volatility: may matter more when leverage or forced selling creates path dependence",
+        "intrinsic_value: requires judgment and cannot be measured precisely",
+        "earning_power: can change even when recent volatility distracts the market"
+      ],
+      "performance_logic": [
+        "For productive assets, long-term value is driven by output and earning power, while market quotations can oscillate independently."
+      ],
+      "evaluation_questions": [
+        "Is this asset’s value driven by long-term earning power rather than daily marks?",
+        "Are we confusing quoted instability with business risk?"
+      ],
+      "diagnostic_signals": [
+        "Wide price swings without change in productive capacity",
+        "Investor fixation on daily quotations"
+      ],
+      "practical_rules": [
+        "Anchor judgment in productive earning power, not daily market motion."
+      ],
+      "example_buffett_phrasing": [
+        "farm analogy",
+        "fluctuating quotations do not determine long-term economic worth"
+      ],
+      "tags": [
+        "volatility",
+        "intrinsic_value",
+        "earning_power",
+        "productive_assets"
+      ]
+    },
+    {
+      "item_id": "2008_037",
+      "section": "Buffett’s framework for skepticism toward models, accounting, and reported numbers",
+      "subsection": "Beware opacity that neither auditors nor regulators can truly penetrate",
+      "principle_title": "Opacity as uninvestability",
+      "principle_statement": "If a business model is too complex to be understood even by insiders, auditors, or regulators, it may be uninvestable.",
+      "normalized_principle": "Excessive opacity is itself a risk factor and can make a business unsuitable for investment.",
+      "importance": "high",
+      "time_horizon": "cross_cycle",
+      "applies_to": [
+        "public_stock",
+        "lender",
+        "insurance_operation",
+        "board",
+        "shareholder"
+      ],
+      "financial_metrics": [],
+      "metric_definition": [],
+      "metric_usage_context": [],
+      "metric_limitations": [],
+      "performance_logic": [
+        "When exposures are too complex to understand, outsiders cannot judge value, risk, or solvency with confidence, so complexity itself becomes a source of risk."
+      ],
+      "evaluation_questions": [
+        "Can a rational outsider understand the main drivers and exposures?",
+        "Are reported disclosures clarifying or merely decorating opacity?",
+        "Is complexity intrinsic and manageable, or excessive and dangerous?"
+      ],
+      "diagnostic_signals": [
+        "Derivative books too complex to understand",
+        "Disclosure that adds detail without clarity",
+        "Insiders relying on opaque systems"
+      ],
+      "practical_rules": [
+        "Treat excessive opacity as a reason to avoid or heavily discount a business."
+      ],
+      "example_buffett_phrasing": [
+        "too complex to be understood",
+        "uninvestable"
+      ],
+      "tags": [
+        "opacity",
+        "complexity",
+        "derivatives",
+        "investability"
+      ]
+    },
+    {
+      "item_id": "2008_038",
+      "section": "Buffett’s framework for investment mistakes and decision discipline",
+      "subsection": "Mistakes of commission and omission both matter",
+      "principle_title": "Update when facts change",
+      "principle_statement": "Investment errors come from bad actions and from failure to update when new facts should change the conclusion.",
+      "normalized_principle": "Decision quality requires judging both incorrect actions and harmful inaction after new information arrives.",
+      "importance": "high",
+      "time_horizon": "medium_term",
+      "applies_to": [
+        "shareholder",
+        "capital_allocator",
+        "management_team",
+        "public_stock"
+      ],
+      "financial_metrics": [],
+      "metric_definition": [],
+      "metric_usage_context": [],
+      "metric_limitations": [],
+      "performance_logic": [
+        "An investor compounds error when new evidence invalidates the original premise but pride or inertia prevents updating the decision."
+      ],
+      "evaluation_questions": [
+        "What assumptions drove the investment?",
+        "What new facts arrived later?",
+        "Did the investor update quickly enough?"
+      ],
+      "diagnostic_signals": [
+        "Attachment to the original thesis",
+        "Delayed reaction to new facts",
+        "Pride blocking reconsideration"
+      ],
+      "practical_rules": [
+        "Audit both actions taken and opportunities or revisions missed."
+      ],
+      "example_buffett_phrasing": [
+        "mistakes of commission and omission both matter",
+        "failure to act when new facts should have changed his mind"
+      ],
+      "tags": [
+        "mistakes",
+        "updating",
+        "decision_making",
+        "humility"
+      ]
+    },
+    {
+      "item_id": "2008_039",
+      "section": "Buffett’s framework for investment mistakes and decision discipline",
+      "subsection": "Timing matters even when the long-term thesis may remain plausible",
+      "principle_title": "Cycle timing can dominate returns",
+      "principle_statement": "A broadly correct long-term view can still produce poor results if entry price and cycle position are wrong.",
+      "normalized_principle": "Even a plausible thesis can disappoint when the purchase timing and price embed overly optimistic cycle assumptions.",
+      "importance": "medium",
+      "time_horizon": "medium_term",
+      "applies_to": [
+        "public_stock",
+        "shareholder",
+        "capital_allocator"
+      ],
+      "financial_metrics": [
+        "entry_price",
+        "cycle_position",
+        "expected_return"
+      ],
+      "metric_definition": [
+        "entry_price: the valuation level at which the investment is initiated",
+        "cycle_position: where the industry or asset stands in its economic cycle",
+        "expected_return: future return implied by price relative to normalized economics"
+      ],
+      "metric_usage_context": [
+        "entry_price: used to judge whether too much optimism was already embedded",
+        "cycle_position: used to see whether a long-term thesis is being bought at the wrong moment",
+        "expected_return: used to distinguish a plausible thesis from a good investment outcome"
+      ],
+      "metric_limitations": [
+        "entry_price: a good business can still be a poor investment if bought too expensively",
+        "cycle_position: hard to identify precisely in real time",
+        "expected_return: can be overstated when the thesis ignores cyclical reversion"
+      ],
+      "performance_logic": [
+        "When valuation and cycle position are unfavorable, even a broadly right long-term idea can deliver poor realized returns."
+      ],
+      "evaluation_questions": [
+        "Is the thesis right but the timing poor?",
+        "How much of expected return depends on cycle timing versus enduring business economics?",
+        "Are current prices already discounting optimistic assumptions?"
+      ],
+      "diagnostic_signals": [
+        "Commodity or cyclical exposure bought near highs",
+        "Valuation already reflecting favorable conditions"
+      ],
+      "practical_rules": [
+        "Pair long-term thesis work with entry-price and cycle discipline."
+      ],
+      "example_buffett_phrasing": [
+        "timing matters",
+        "long-term thesis may remain plausible"
+      ],
+      "tags": [
+        "timing",
+        "entry_price",
+        "cycle",
+        "investment_results"
+      ]
+    },
+    {
+      "item_id": "2008_040",
+      "section": "Buffett’s framework for investment mistakes and decision discipline",
+      "subsection": "Approval is a bad investment compass",
+      "principle_title": "Consensus comfort can mislead",
+      "principle_statement": "Consensus approval often accompanies mediocre opportunity, while exceptional investments may feel lonely or uncomfortable.",
+      "normalized_principle": "Do not use social approval as a proxy for investment correctness.",
+      "importance": "medium",
+      "time_horizon": "medium_term",
+      "applies_to": [
+        "shareholder",
+        "capital_allocator",
+        "management_team"
+      ],
+      "financial_metrics": [],
+      "metric_definition": [],
+      "metric_usage_context": [],
+      "metric_limitations": [],
+      "performance_logic": [
+        "Seeking agreement can bias decision-making toward popular ideas and away from superior but uncomfortable opportunities."
+      ],
+      "evaluation_questions": [
+        "Is this decision being validated by social proof rather than economics?",
+        "Are we seeking correctness or approval?",
+        "Is discomfort arising from true risk or merely non-consensus positioning?"
+      ],
+      "diagnostic_signals": [
+        "Heavy reliance on applause or consensus",
+        "Comfort derived from popularity instead of analysis"
+      ],
+      "practical_rules": [
+        "Separate independent judgment from the desire for approval."
+      ],
+      "example_buffett_phrasing": [
+        "approval is a bad investment compass",
+        "applause can sedate the brain"
+      ],
+      "tags": [
+        "independence",
+        "consensus",
+        "behavioral_bias",
+        "decision_making"
+      ]
+    },
+    {
+      "item_id": "2008_041",
+      "section": "Buffett’s framework for acquisition quality",
+      "subsection": "Berkshire tries to be the buyer of choice by deserving trust",
+      "principle_title": "Acquirer reputation through stewardship",
+      "principle_statement": "Acquisition strategy should enhance the long-term health of the purchased business rather than cannibalize it.",
+      "normalized_principle": "A trustworthy permanent acquirer compounds reputation by preserving autonomy, promises, and balance-sheet strength in acquired businesses.",
+      "importance": "high",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "capital_allocator",
+        "acquisition_target",
+        "holding_company",
+        "management_team"
+      ],
+      "financial_metrics": [
+        "leverage_ratio"
+      ],
+      "metric_definition": [
+        "leverage_ratio: debt dependence imposed on the acquired business after the transaction"
+      ],
+      "metric_usage_context": [
+        "leverage_ratio: used to judge whether the acquirer preserves acquired-business resilience rather than extracting value through debt"
+      ],
+      "metric_limitations": [
+        "leverage_ratio: low leverage alone does not prove good stewardship, but heavy post-deal leverage is a warning sign"
+      ],
+      "performance_logic": [
+        "Sellers and regulators prefer buyers whose behavior preserves the acquired business, which in turn expands future access to attractive deals."
+      ],
+      "evaluation_questions": [
+        "Does the acquirer preserve balance-sheet strength?",
+        "Does it honor the identity and operating quality of the acquired business?",
+        "Is the seller choosing this buyer for stewardship reasons?"
+      ],
+      "diagnostic_signals": [
+        "Permanent ownership posture",
+        "Low leverage at acquired businesses",
+        "Autonomy and promise-keeping"
+      ],
+      "practical_rules": [
+        "Judge acquirers by whether they deserve trust as permanent homes for businesses."
+      ],
+      "example_buffett_phrasing": [
+        "keeping promises",
+        "avoiding leverage at acquired businesses",
+        "holding permanently"
+      ],
+      "tags": [
+        "acquisitions",
+        "reputation",
+        "stewardship",
+        "trust"
+      ]
+    },
+    {
+      "item_id": "2008_042",
+      "section": "Buffett’s framework for acquisition quality",
+      "subsection": "Reputation compounds",
+      "principle_title": "Reputation expands future opportunity",
+      "principle_statement": "Business behavior in one transaction affects access to future opportunities.",
+      "normalized_principle": "Reputation is an economic asset because it influences who will choose to deal with the company later.",
+      "importance": "medium",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "capital_allocator",
+        "management_team",
+        "holding_company",
+        "board"
+      ],
+      "financial_metrics": [],
+      "metric_definition": [],
+      "metric_usage_context": [],
+      "metric_limitations": [],
+      "performance_logic": [
+        "Consistent fair behavior creates trust with sellers, regulators, and partners, increasing the set of future transactions available on favorable terms."
+      ],
+      "evaluation_questions": [
+        "Does this company behave in ways that expand its future opportunity set?",
+        "Would counterparties enthusiastically deal with it again?"
+      ],
+      "diagnostic_signals": [
+        "Repeat deal flow from trusted counterparties",
+        "Regulators and sellers viewing the firm as a preferred buyer"
+      ],
+      "practical_rules": [
+        "Treat reputation as an economic asset, not a public-relations accessory."
+      ],
+      "example_buffett_phrasing": [
+        "reputation compounds",
+        "future regulators and sellers judge Berkshire based on past conduct"
+      ],
+      "tags": [
+        "reputation",
+        "opportunity_set",
+        "trust",
+        "long_term_behavior"
+      ]
+    }
+  ]
+}

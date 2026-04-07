@@ -1,0 +1,1410 @@
+{
+  "schema_version": "2.1",
+  "document_type": "buffett_framework_letter",
+  "letter_metadata": {
+    "year": 2022,
+    "source_title": "Berkshire Hathaway Shareholder Letter",
+    "source_date": "2023-02-25",
+    "coverage_year": 2022,
+    "source_file": "/mnt/data/2022.md",
+    "extraction_purpose": "Reusable stock/business analysis framework extraction",
+    "one_sentence_synthesis": "The 2022 framework emphasizes buying understandable businesses with durable economics and trustworthy management, judging them by long-term compounding, capital allocation quality, honest earnings analysis, and resilience under stress rather than by market noise or macro forecasts.",
+    "knowledge_base_tags": [
+      "business_owner_mindset",
+      "durable_economics",
+      "management_quality",
+      "capital_allocation",
+      "valuation_discipline",
+      "earnings_quality",
+      "risk_resilience",
+      "long_term_compounding",
+      "market_irrationality"
+    ]
+  },
+  "framework_items": [
+    {
+      "item_id": "2022_001",
+      "section": "Core identity: Think like a business owner, not a stock trader",
+      "subsection": null,
+      "principle_title": "Ownership lens for stocks and businesses",
+      "principle_statement": "Public stocks and wholly owned subsidiaries should be evaluated through the same ownership lens as interests in real businesses.",
+      "normalized_principle": "Treat a stock as a partial ownership interest in a business and judge it on long-term business economics rather than market quotations.",
+      "importance": "high",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "public_stock",
+        "private_business",
+        "shareholder",
+        "capital_allocator"
+      ],
+      "financial_metrics": [],
+      "metric_definition": [],
+      "metric_usage_context": [],
+      "metric_limitations": [],
+      "performance_logic": [
+        "Viewing a stock as a business ownership claim shifts analysis from price movement to earning power, management quality, reinvestment prospects, and value.",
+        "Long-term investment outcomes depend more on business performance than on near-term quotation changes."
+      ],
+      "evaluation_questions": [
+        "If this stock were not publicly quoted, would I still want to own this business?",
+        "What is the long-term earning power of the business itself?",
+        "Am I buying a business, or am I reacting to price action?",
+        "Would I be comfortable owning this company if the market closed for years?"
+      ],
+      "diagnostic_signals": [],
+      "practical_rules": [
+        "Begin analysis with business economics, management quality, reinvestment prospects, and price versus business value.",
+        "Do not begin with charts, momentum, or trading narratives."
+      ],
+      "example_buffett_phrasing": [
+        "ownership interests in businesses",
+        "Think like a business owner, not a stock trader"
+      ],
+      "tags": [
+        "ownership_lens",
+        "business_analysis",
+        "market_detachment",
+        "long_term_orientation"
+      ]
+    },
+    {
+      "item_id": "2022_002",
+      "section": "The ideal business: durable economics + trustworthy managers",
+      "subsection": null,
+      "principle_title": "Durable business economics",
+      "principle_statement": "A desirable investment has long-lasting favorable economic characteristics that can remain productive for a long time.",
+      "normalized_principle": "Prefer businesses with durable favorable economics that can continue producing cash without extraordinary effort.",
+      "importance": "high",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "public_stock",
+        "private_business",
+        "acquisition_target",
+        "capital_allocator"
+      ],
+      "financial_metrics": [],
+      "metric_definition": [],
+      "metric_usage_context": [],
+      "metric_limitations": [],
+      "performance_logic": [
+        "Durable advantages allow a business to keep generating cash and remain relevant over long periods.",
+        "A business that requires constant heroics to stay average is structurally weaker and less reliable as a long-term compounder."
+      ],
+      "evaluation_questions": [
+        "Does the business have durable favorable economics?",
+        "Are its advantages likely to endure rather than fade quickly?",
+        "Can it keep producing cash without constant heroic effort?",
+        "Is it likely to remain relevant, or is it vulnerable to obsolescence?"
+      ],
+      "diagnostic_signals": [
+        "Evidence that the business stays productive without extraordinary managerial genius.",
+        "Signs that relevance or economic advantage is likely to endure rather than fade quickly."
+      ],
+      "practical_rules": [
+        "Reject businesses that require extraordinary managerial genius merely to remain average."
+      ],
+      "example_buffett_phrasing": [
+        "long-lasting favorable economic characteristics",
+        "durable economics"
+      ],
+      "tags": [
+        "business_quality",
+        "durability",
+        "moat",
+        "cash_generation"
+      ]
+    },
+    {
+      "item_id": "2022_003",
+      "section": "The ideal business: durable economics + trustworthy managers",
+      "subsection": null,
+      "principle_title": "Trustworthy management",
+      "principle_statement": "A good investment also requires managers whose behavior can be trusted with capital and stewardship.",
+      "normalized_principle": "Management integrity and owner-oriented stewardship are essential investment filters alongside business quality.",
+      "importance": "high",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "management_team",
+        "board",
+        "shareholder",
+        "capital_allocator",
+        "public_stock",
+        "private_business"
+      ],
+      "financial_metrics": [],
+      "metric_definition": [],
+      "metric_usage_context": [],
+      "metric_limitations": [],
+      "performance_logic": [
+        "Even a strong business can produce poor owner outcomes if managers are not candid, rational, and trustworthy with capital.",
+        "Aligned and trustworthy managers improve stewardship and capital allocation over time."
+      ],
+      "evaluation_questions": [
+        "Are management incentives aligned with owners?",
+        "Are managers candid, rational, and trustworthy?",
+        "Is there evidence of integrity under pressure?",
+        "Do they allocate capital sensibly?"
+      ],
+      "diagnostic_signals": [
+        "Manager communications increase understanding rather than promotion.",
+        "Management behavior indicates integrity under pressure and sensible stewardship."
+      ],
+      "practical_rules": [
+        "Reject managers who are competent but untrustworthy."
+      ],
+      "example_buffett_phrasing": [
+        "trustworthy managers"
+      ],
+      "tags": [
+        "management_quality",
+        "stewardship",
+        "integrity",
+        "alignment"
+      ]
+    },
+    {
+      "item_id": "2022_004",
+      "section": "Business-picking beats stock-picking",
+      "subsection": null,
+      "principle_title": "Business performance over trading opportunity",
+      "principle_statement": "The central variable in investing is future business performance, not short-term market prediction or stock trading opportunity.",
+      "normalized_principle": "Business selection based on long-term economics matters more than short-term stock picking or market forecasting.",
+      "importance": "high",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "public_stock",
+        "private_business",
+        "shareholder"
+      ],
+      "financial_metrics": [],
+      "metric_definition": [],
+      "metric_usage_context": [],
+      "metric_limitations": [],
+      "performance_logic": [
+        "Intrinsic value growth comes from business performance over time, so the real analytical task is business analysis rather than short-term market prediction."
+      ],
+      "evaluation_questions": [
+        "What will this business likely look like in 5–10 years?",
+        "What drives its long-term value creation?",
+        "Is the company improving intrinsic value per share over time?",
+        "Is the current market price distracting me from the real question: how good is the business?"
+      ],
+      "diagnostic_signals": [],
+      "practical_rules": [
+        "Use stock screens only as a starting point; the real work is business analysis."
+      ],
+      "example_buffett_phrasing": [
+        "Business-picking beats stock-picking"
+      ],
+      "tags": [
+        "business_selection",
+        "intrinsic_value",
+        "long_duration",
+        "forecasting"
+      ]
+    },
+    {
+      "item_id": "2022_005",
+      "section": "Markets are often irrational; price dislocations are opportunities",
+      "subsection": null,
+      "principle_title": "Market irrationality creates valuation opportunity",
+      "principle_statement": "Markets can price stocks foolishly high or foolishly low, creating opportunities to buy quality businesses at unusually favorable prices.",
+      "normalized_principle": "Treat market volatility as a source of opportunity when quoted prices diverge materially from probable business value.",
+      "importance": "high",
+      "time_horizon": "medium_term",
+      "applies_to": [
+        "public_stock",
+        "shareholder",
+        "capital_allocator"
+      ],
+      "financial_metrics": [
+        "intrinsic_value",
+        "market_price"
+      ],
+      "metric_definition": [
+        "intrinsic_value: the probable underlying economic value of the business.",
+        "market_price: the quoted public-market price offered for the business interest."
+      ],
+      "metric_usage_context": [
+        "intrinsic_value: used as the benchmark against which quoted price is judged.",
+        "market_price: used to identify whether the market is offering the business at a foolishly high, foolishly low, or sensible price."
+      ],
+      "metric_limitations": [
+        "intrinsic_value: must be estimated and can be uncertain.",
+        "market_price: price alone does not indicate business quality and can be distorted by market emotion."
+      ],
+      "performance_logic": [
+        "When market emotion disconnects price from value, patient investors can buy wonderful businesses at attractive prices.",
+        "The same business can be attractive or unattractive depending on the price paid."
+      ],
+      "evaluation_questions": [
+        "Is the market offering this business at a price that is clearly disconnected from its probable value?",
+        "Am I being invited to buy quality cheaply because markets are emotional?",
+        "Is this a wonderful business at a foolish price, or at a sensible one?"
+      ],
+      "diagnostic_signals": [
+        "Quoted prices move to foolish highs or lows without a proportional change in business quality."
+      ],
+      "practical_rules": [
+        "Do not label a business good or bad without connecting the judgment to price.",
+        "A wonderful business can be a poor investment at too high a price and an excellent investment at a favorable price."
+      ],
+      "example_buffett_phrasing": [
+        "foolishly high",
+        "foolishly low",
+        "wonderful businesses at wonderful prices"
+      ],
+      "tags": [
+        "valuation",
+        "market_irrationality",
+        "price_dislocation",
+        "intrinsic_value"
+      ]
+    },
+    {
+      "item_id": "2022_006",
+      "section": "Controlled businesses and public stocks have different opportunity sets",
+      "subsection": null,
+      "principle_title": "Public markets offer bargains more often than control transactions",
+      "principle_statement": "Controlled businesses are rarely available at bargain prices, while public markets periodically offer panic-driven discounts.",
+      "normalized_principle": "Public equities provide more frequent opportunities for bargain purchases because quoted markets can temporarily misprice businesses more than private control markets.",
+      "importance": "medium",
+      "time_horizon": "medium_term",
+      "applies_to": [
+        "public_stock",
+        "private_business",
+        "acquisition_target",
+        "capital_allocator"
+      ],
+      "financial_metrics": [],
+      "metric_definition": [],
+      "metric_usage_context": [],
+      "metric_limitations": [],
+      "performance_logic": [
+        "Private and control transactions tend to clear closer to seller expectations, while public markets can experience forced selling or panic pricing.",
+        "Patient capital benefits from searching for public-market dislocations that are less likely to exist in private markets."
+      ],
+      "evaluation_questions": [
+        "Is this opportunity in a market where forced selling or panic can create discount pricing?",
+        "Is the quoted market giving me an opportunity unlikely to exist in private markets?"
+      ],
+      "diagnostic_signals": [],
+      "practical_rules": [
+        "When analyzing public equities, add a dislocation lens: not just whether the business is good, but whether the market is temporarily wrong."
+      ],
+      "example_buffett_phrasing": [
+        "panic pricing",
+        "public markets periodically offer bargains"
+      ],
+      "tags": [
+        "public_markets",
+        "private_markets",
+        "dislocation",
+        "opportunity_set"
+      ]
+    },
+    {
+      "item_id": "2022_007",
+      "section": "Capital allocation drives outcomes more than activity does",
+      "subsection": null,
+      "principle_title": "Selective capital allocation matters more than constant motion",
+      "principle_statement": "Long-term results come from a small number of very good capital allocation decisions rather than from constant activity.",
+      "normalized_principle": "A few high-quality capital allocation decisions and the avoidance of major mistakes drive long-term outcomes more than frequent action.",
+      "importance": "high",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "capital_allocator",
+        "management_team",
+        "holding_company",
+        "conglomerate",
+        "shareholder"
+      ],
+      "financial_metrics": [],
+      "metric_definition": [],
+      "metric_usage_context": [],
+      "metric_limitations": [],
+      "performance_logic": [
+        "Capital compounding is dominated by the quality of a small number of major decisions, while excessive activity can add mistakes without improving outcomes."
+      ],
+      "evaluation_questions": [
+        "Does management allocate retained earnings intelligently?",
+        "Is capital going into high-return opportunities?",
+        "How many truly important decisions does this business need to get right?",
+        "Is management overactive, or selectively decisive?"
+      ],
+      "diagnostic_signals": [
+        "A capital allocation record with a few highly consequential good decisions and limited major errors.",
+        "Evidence that management can choose inaction when action is not attractive."
+      ],
+      "practical_rules": [
+        "Study capital allocation across acquisitions, buybacks, dividends, organic reinvestment, balance-sheet conservatism, share issuance, and willingness to do nothing."
+      ],
+      "example_buffett_phrasing": [
+        "a small number of very good capital allocation decisions",
+        "constant motion"
+      ],
+      "tags": [
+        "capital_allocation",
+        "decision_quality",
+        "inaction",
+        "long_term_results"
+      ]
+    },
+    {
+      "item_id": "2022_008",
+      "section": "A few winners matter more than many average ideas",
+      "subsection": null,
+      "principle_title": "Portfolio outcomes can be dominated by a few compounders",
+      "principle_statement": "A handful of long-duration winners can overwhelm mediocre or flat results elsewhere in a portfolio.",
+      "normalized_principle": "Long-term portfolio success can be driven by a small number of durable winners whose economic weight expands over time.",
+      "importance": "high",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "public_stock",
+        "shareholder",
+        "capital_allocator"
+      ],
+      "financial_metrics": [],
+      "metric_definition": [],
+      "metric_usage_context": [],
+      "metric_limitations": [],
+      "performance_logic": [
+        "Time amplifies the contribution of durable compounders, allowing a few big winners to dominate overall results."
+      ],
+      "evaluation_questions": [
+        "Could this become one of the few businesses that meaningfully matter in a long-term portfolio?",
+        "If this business succeeds, how large can its contribution become over 10–20 years?",
+        "Does the business have compounding characteristics strong enough to make other mistakes less important?"
+      ],
+      "diagnostic_signals": [],
+      "practical_rules": [
+        "Evaluate long-duration upside asymmetry, not just one-year return potential."
+      ],
+      "example_buffett_phrasing": [
+        "a few winners matter more than many average ideas"
+      ],
+      "tags": [
+        "portfolio_concentration",
+        "compounders",
+        "asymmetry",
+        "long_duration"
+      ]
+    },
+    {
+      "item_id": "2022_009",
+      "section": "Compounding through rising business output is the real “secret sauce”",
+      "subsection": null,
+      "principle_title": "Business compounding over stock rerating",
+      "principle_statement": "The preferred pattern is to buy a strong business, hold it for a very long time, and let rising business output lift dividends and value.",
+      "normalized_principle": "The primary compounding engine is growing business earning power and cash generation over a long holding period, not short-term rerating.",
+      "importance": "high",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "public_stock",
+        "private_business",
+        "shareholder"
+      ],
+      "financial_metrics": [
+        "owner_earnings",
+        "dividends",
+        "intrinsic_value"
+      ],
+      "metric_definition": [
+        "owner_earnings: the cash-generating earning power available to owners over time.",
+        "dividends: cash distributions paid to owners.",
+        "intrinsic_value: the economic value of the business that can rise as business performance improves."
+      ],
+      "metric_usage_context": [
+        "owner_earnings: used to judge whether the business can compound economic value over many years.",
+        "dividends: used as one visible channel through which rising business output benefits owners.",
+        "intrinsic_value: used to capture retained value growth from business compounding."
+      ],
+      "metric_limitations": [
+        "intrinsic_value: estimated rather than directly observed."
+      ],
+      "performance_logic": [
+        "Durable economics, growing earning power, and long holding periods let time magnify the value created by the business itself.",
+        "Businesses where time is an ally are more attractive than businesses where time exposes fragility."
+      ],
+      "evaluation_questions": [
+        "Can this business grow owner earnings over many years?",
+        "Is there a realistic path for dividends, retained earnings, or intrinsic value to rise steadily?",
+        "What will happen if I simply hold and let the business perform?"
+      ],
+      "diagnostic_signals": [],
+      "practical_rules": [
+        "Prefer businesses where the passage of time is an ally.",
+        "Avoid businesses where time merely exposes fragility."
+      ],
+      "example_buffett_phrasing": [
+        "the real “secret sauce”",
+        "let business performance lift dividends and value"
+      ],
+      "tags": [
+        "compounding",
+        "owner_earnings",
+        "dividends",
+        "holding_period"
+      ]
+    },
+    {
+      "item_id": "2022_010",
+      "section": "Measure operating performance separately from market-driven accounting noise",
+      "subsection": null,
+      "principle_title": "Separate operating earnings from market noise",
+      "principle_statement": "Reported earnings can be highly misleading when unrealized market swings dominate the reported result, so operating performance should be analyzed separately.",
+      "normalized_principle": "Distinguish recurring operating performance from market-driven accounting noise before judging earning power.",
+      "importance": "high",
+      "time_horizon": "cross_cycle",
+      "applies_to": [
+        "holding_company",
+        "conglomerate",
+        "public_stock",
+        "insurance_operation",
+        "capital_allocator"
+      ],
+      "financial_metrics": [
+        "operating_earnings",
+        "gaap_earnings",
+        "capital_gains_losses"
+      ],
+      "metric_definition": [
+        "operating_earnings: recurring earnings generated by the core business operations.",
+        "gaap_earnings: reported accounting earnings that can include operating results and market-driven valuation effects.",
+        "capital_gains_losses: realized or unrealized gains and losses from investment holdings that can distort reported earnings."
+      ],
+      "metric_usage_context": [
+        "operating_earnings: used to estimate normalized business earning power.",
+        "gaap_earnings: used only after separating out non-operating distortions.",
+        "capital_gains_losses: used to identify the portion of reported earnings driven by market movements rather than operations."
+      ],
+      "metric_limitations": [
+        "gaap_earnings: can be highly misleading when market-driven accounting swings dominate reported results.",
+        "capital_gains_losses: may add noise that says little about current operating performance."
+      ],
+      "performance_logic": [
+        "Mixing operating results with portfolio mark-to-market volatility can obscure the true economics of the underlying business.",
+        "A cleaner separation improves judgment about sustainable earning power."
+      ],
+      "evaluation_questions": [
+        "What is the normalized operating earning power of the business?",
+        "Which income statement items reflect real operating economics, and which are market-driven noise?",
+        "Are reported profits being distorted by non-core accounting swings?"
+      ],
+      "diagnostic_signals": [],
+      "practical_rules": [
+        "Split analysis into operating performance and non-operating or valuation noise.",
+        "For holding companies, financial institutions, and firms with large investment portfolios, build a bridge from GAAP earnings to economic operating earnings."
+      ],
+      "example_buffett_phrasing": [
+        "operating earnings",
+        "market-driven accounting noise",
+        "highly misleading"
+      ],
+      "tags": [
+        "earnings_quality",
+        "operating_earnings",
+        "gaap_noise",
+        "normalization"
+      ]
+    },
+    {
+      "item_id": "2022_011",
+      "section": "Earnings quality matters: managers can manipulate preferred metrics too",
+      "subsection": null,
+      "principle_title": "Adjusted metrics require distrust and verification",
+      "principle_statement": "Even non-GAAP or preferred operating figures can be manipulated, so analysts must test whether adjustments clarify economics or flatter performance.",
+      "normalized_principle": "No performance metric is reliable without managerial integrity and economic justification for the adjustments behind it.",
+      "importance": "high",
+      "time_horizon": "medium_term",
+      "applies_to": [
+        "management_team",
+        "public_stock",
+        "shareholder",
+        "board"
+      ],
+      "financial_metrics": [
+        "adjusted_earnings",
+        "cash_flow"
+      ],
+      "metric_definition": [
+        "adjusted_earnings: management-defined profit measures that exclude selected items from reported results.",
+        "cash_flow: cash generation that can help verify whether adjusted performance reflects economic reality."
+      ],
+      "metric_usage_context": [
+        "adjusted_earnings: used cautiously to see whether exclusions clarify underlying economics or manufacture optics.",
+        "cash_flow: used as a cross-check on management's performance narrative."
+      ],
+      "metric_limitations": [
+        "adjusted_earnings: can be manipulated when exclusions are recurring, inconsistent, or economically unjustified."
+      ],
+      "performance_logic": [
+        "Management can improve apparent results by redefining performance, so trustworthy reporting requires consistent economically grounded exclusions supported by cash generation."
+      ],
+      "evaluation_questions": [
+        "Is management using adjusted metrics to clarify economics, or to flatter performance?",
+        "Are exclusions sensible, consistent, and economically justified?",
+        "Do management communications increase understanding or hide reality?",
+        "Is management obsessed with beating expectations?"
+      ],
+      "diagnostic_signals": [],
+      "practical_rules": [
+        "Whenever management emphasizes adjusted, core, normalized, or underlying figures, verify what is excluded, how often it is excluded, whether excluded items are recurring, and whether cash flow supports the story."
+      ],
+      "example_buffett_phrasing": [
+        "adjusted",
+        "core",
+        "normalized",
+        "underlying"
+      ],
+      "tags": [
+        "earnings_quality",
+        "non_gaap",
+        "management_candor",
+        "cash_flow_check"
+      ]
+    },
+    {
+      "item_id": "2022_012",
+      "section": "Share repurchases are good only when value-accretive",
+      "subsection": null,
+      "principle_title": "Buybacks depend on price paid versus value received",
+      "principle_statement": "Share repurchases help continuing owners only when done below intrinsic value and hurt them when done above intrinsic value.",
+      "normalized_principle": "Judge buybacks by value accretion, not by ideology, using price paid relative to intrinsic value and alternative uses of capital.",
+      "importance": "high",
+      "time_horizon": "medium_term",
+      "applies_to": [
+        "public_stock",
+        "management_team",
+        "capital_allocator",
+        "shareholder",
+        "board"
+      ],
+      "financial_metrics": [
+        "share_repurchases",
+        "intrinsic_value",
+        "per_share_ownership"
+      ],
+      "metric_definition": [
+        "share_repurchases: company cash used to buy back its own shares.",
+        "intrinsic_value: the economic value of the shares being repurchased.",
+        "per_share_ownership: the continuing shareholder's proportional ownership interest after repurchases."
+      ],
+      "metric_usage_context": [
+        "share_repurchases: evaluated as a capital allocation choice rather than an automatic positive.",
+        "intrinsic_value: used to decide whether repurchases are value-accretive or value-destructive.",
+        "per_share_ownership: used to judge whether continuing owners gained economically from the buyback."
+      ],
+      "metric_limitations": [
+        "share_repurchases: can manufacture favorable optics without creating value if the price paid is too high."
+      ],
+      "performance_logic": [
+        "Repurchases below intrinsic value increase the value of remaining owners' claims, while repurchases above intrinsic value transfer value away from continuing owners.",
+        "The true test includes valuation, opportunity cost, and per-share economic effect."
+      ],
+      "evaluation_questions": [
+        "Is management repurchasing shares at a discount to intrinsic value?",
+        "Is the repurchase meaningfully increasing per-share ownership for continuing shareholders?",
+        "Would this cash earn better returns elsewhere?",
+        "Is management buying back shares to create value or to manufacture optics?"
+      ],
+      "diagnostic_signals": [],
+      "practical_rules": [
+        "Evaluate buybacks through valuation, opportunity cost, and per-share effect."
+      ],
+      "example_buffett_phrasing": [
+        "below intrinsic value",
+        "above intrinsic value",
+        "value-accretive"
+      ],
+      "tags": [
+        "buybacks",
+        "intrinsic_value",
+        "capital_allocation",
+        "per_share_value"
+      ]
+    },
+    {
+      "item_id": "2022_013",
+      "section": "Insurance float is valuable only if underwriting is disciplined",
+      "subsection": null,
+      "principle_title": "Insurance float is only valuable with disciplined underwriting",
+      "principle_statement": "Insurance float is a major asset only when it is cost-free or better over time, and that depends on underwriting discipline.",
+      "normalized_principle": "Structural funding advantages create value only when the operating discipline required to preserve them is maintained.",
+      "importance": "high",
+      "time_horizon": "cross_cycle",
+      "applies_to": [
+        "insurance_operation",
+        "holding_company",
+        "capital_allocator",
+        "balance_sheet"
+      ],
+      "financial_metrics": [
+        "insurance_float",
+        "underwriting_profit",
+        "underwriting_loss"
+      ],
+      "metric_definition": [
+        "insurance_float: policyholder funds held before claims are paid that provide investable funding.",
+        "underwriting_profit: insurance operating profit that indicates float is better than cost-free.",
+        "underwriting_loss: insurance operating loss that can make float expensive or destructive."
+      ],
+      "metric_usage_context": [
+        "insurance_float: used to assess the scale and value of a structural funding advantage.",
+        "underwriting_profit: used to judge whether the float is economically attractive.",
+        "underwriting_loss: used to identify whether growth is being pursued at the expense of future losses."
+      ],
+      "metric_limitations": [
+        "insurance_float: is not inherently valuable if underwriting discipline is weak or the liability economics are unsound."
+      ],
+      "performance_logic": [
+        "Cheap capital only helps owners when the operating engine producing it is disciplined and durable.",
+        "Float becomes destructive when growth sacrifices underwriting economics."
+      ],
+      "evaluation_questions": [
+        "Does the company have access to structural funding advantages?",
+        "Is that capital durable and low-cost?",
+        "What must management do operationally to preserve that advantage?",
+        "Is growth being pursued with discipline or at the expense of future losses?"
+      ],
+      "diagnostic_signals": [],
+      "practical_rules": [
+        "When a company benefits from structural leverage or low-cost liabilities, analyze both the size of the funding advantage and the conditions required to keep it advantageous."
+      ],
+      "example_buffett_phrasing": [
+        "cost-free or better",
+        "underwriting discipline",
+        "insurance float"
+      ],
+      "tags": [
+        "insurance",
+        "float",
+        "underwriting",
+        "structural_funding"
+      ]
+    },
+    {
+      "item_id": "2022_014",
+      "section": "Risk management comes first: avoid scenarios that create forced distress",
+      "subsection": null,
+      "principle_title": "Avoid uncomfortable cash needs at inconvenient times",
+      "principle_statement": "Durable compounding requires avoiding behaviors that can create forced cash needs during panics, recessions, or extreme events.",
+      "normalized_principle": "Risk management should prioritize survival and the avoidance of forced distress over maximizing theoretical returns.",
+      "importance": "high",
+      "time_horizon": "cross_cycle",
+      "applies_to": [
+        "balance_sheet",
+        "management_team",
+        "holding_company",
+        "public_stock",
+        "lender"
+      ],
+      "financial_metrics": [
+        "liquidity",
+        "debt_maturities",
+        "fixed_obligations"
+      ],
+      "metric_definition": [
+        "liquidity: cash and near-cash resources available to meet obligations and shocks.",
+        "debt_maturities: the schedule of debt obligations that must be refinanced or repaid.",
+        "fixed_obligations: required cash commitments that can strain the business during stress."
+      ],
+      "metric_usage_context": [
+        "liquidity: used to judge whether the company can endure stress without forced action.",
+        "debt_maturities: used to assess refinancing risk during bad markets.",
+        "fixed_obligations: used to stress-test survivability in adverse conditions."
+      ],
+      "metric_limitations": [
+        "liquidity: should be evaluated relative to the actual risk profile rather than in isolation."
+      ],
+      "performance_logic": [
+        "Permanent loss often comes from forced actions under stress rather than from routine volatility.",
+        "A resilient funding profile preserves the ability to keep compounding through panics and recessions."
+      ],
+      "evaluation_questions": [
+        "Could this company be forced into bad decisions during stress?",
+        "What happens in a panic, recession, or credit freeze?",
+        "Does the business require constant refinancing or favorable markets to survive?",
+        "Is leverage low enough to avoid ruin?",
+        "Does liquidity match the risk profile?"
+      ],
+      "diagnostic_signals": [],
+      "practical_rules": [
+        "Before forecasting upside, stress-test liquidity, debt maturities, fixed obligations, cyclicality, regulatory or catastrophe exposure, and refinancing dependence."
+      ],
+      "example_buffett_phrasing": [
+        "uncomfortable cash needs at inconvenient times"
+      ],
+      "tags": [
+        "risk_management",
+        "liquidity",
+        "refinancing_risk",
+        "stress_survival"
+      ]
+    },
+    {
+      "item_id": "2022_015",
+      "section": "The CEO is also the chief risk officer",
+      "subsection": null,
+      "principle_title": "Top leadership owns risk oversight",
+      "principle_statement": "Risk oversight is too important to delegate away, especially in financially exposed or capital-intensive businesses.",
+      "normalized_principle": "In risk-sensitive businesses, senior leadership must directly own balance-sheet and downside risk oversight.",
+      "importance": "medium",
+      "time_horizon": "cross_cycle",
+      "applies_to": [
+        "management_team",
+        "board",
+        "balance_sheet",
+        "holding_company",
+        "insurance_operation"
+      ],
+      "financial_metrics": [],
+      "metric_definition": [],
+      "metric_usage_context": [],
+      "metric_limitations": [],
+      "performance_logic": [
+        "Embedding risk management at the top of the organization improves prudence when conditions are favorable and lowers the chance of existential mistakes."
+      ],
+      "evaluation_questions": [
+        "Does management think explicitly about downside survival?",
+        "Is risk management embedded in top leadership, or outsourced culturally?",
+        "Does leadership show evidence of prudence when conditions are favorable?"
+      ],
+      "diagnostic_signals": [
+        "Leadership behavior shows margin-of-safety thinking and willingness to sacrifice short-term optimization for durability."
+      ],
+      "practical_rules": [
+        "Assess whether top leadership behaves like the chief risk officer, not merely like an operator pursuing growth."
+      ],
+      "example_buffett_phrasing": [
+        "The CEO is also the chief risk officer"
+      ],
+      "tags": [
+        "leadership",
+        "risk_oversight",
+        "downside_protection",
+        "prudence"
+      ]
+    },
+    {
+      "item_id": "2022_016",
+      "section": "Leverage is dangerous because zero is irreversible",
+      "subsection": null,
+      "principle_title": "Leverage can turn a sound thesis into permanent loss",
+      "principle_statement": "Leverage is dangerous because a temporary setback can multiply to zero, and zero is irreversible.",
+      "normalized_principle": "Avoid financing structures that can wipe out long-term compounding even when the underlying business thesis is sound.",
+      "importance": "high",
+      "time_horizon": "cross_cycle",
+      "applies_to": [
+        "balance_sheet",
+        "lender",
+        "public_stock",
+        "private_business",
+        "capital_allocator"
+      ],
+      "financial_metrics": [
+        "leverage"
+      ],
+      "metric_definition": [
+        "leverage: the use of debt or financing obligations that magnify both outcomes and fragility."
+      ],
+      "metric_usage_context": [
+        "leverage: used to assess whether a temporary setback could produce permanent capital loss."
+      ],
+      "metric_limitations": [
+        "leverage: can make a sound underlying investment thesis fail because financing leaves no room for error."
+      ],
+      "performance_logic": [
+        "A business can be economically right over time yet still be destroyed if leverage forces failure before the thesis can play out."
+      ],
+      "evaluation_questions": [
+        "Does leverage create a non-trivial path to permanent loss?",
+        "Can a temporary setback wipe out long-term compounding?",
+        "Is management relying on favorable conditions continuing indefinitely?"
+      ],
+      "diagnostic_signals": [],
+      "practical_rules": [
+        "Favor businesses and portfolios that can survive being wrong, late, or unlucky.",
+        "Avoid structures that require continuous correctness."
+      ],
+      "example_buffett_phrasing": [
+        "zero is irreversible"
+      ],
+      "tags": [
+        "leverage",
+        "permanent_loss",
+        "fragility",
+        "survivability"
+      ]
+    },
+    {
+      "item_id": "2022_017",
+      "section": "Creative destruction is real: some businesses die",
+      "subsection": null,
+      "principle_title": "Obsolescence risk must be tested explicitly",
+      "principle_statement": "Some businesses become unwanted by the public and effectively die, so durability should never be assumed from history alone.",
+      "normalized_principle": "Every business analysis should include an explicit test for obsolescence and creative destruction.",
+      "importance": "high",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "public_stock",
+        "private_business",
+        "acquisition_target",
+        "capital_allocator"
+      ],
+      "financial_metrics": [],
+      "metric_definition": [],
+      "metric_usage_context": [],
+      "metric_limitations": [],
+      "performance_logic": [
+        "Established profitability does not guarantee future relevance; industry change can permanently impair demand and economics."
+      ],
+      "evaluation_questions": [
+        "Is this business protected from obsolescence, or merely successful today?",
+        "What could make its product or service unwanted?",
+        "Is the firm a beneficiary or victim of industry change?"
+      ],
+      "diagnostic_signals": [],
+      "practical_rules": [
+        "Include an obsolescence test covering product relevance, customer behavior shifts, technological substitution, regulatory change, and industry structure evolution."
+      ],
+      "example_buffett_phrasing": [
+        "creative destruction is real",
+        "some businesses die"
+      ],
+      "tags": [
+        "obsolescence",
+        "industry_change",
+        "durability",
+        "creative_destruction"
+      ]
+    },
+    {
+      "item_id": "2022_018",
+      "section": "Be willing to change your mind when the world changes",
+      "subsection": null,
+      "principle_title": "Update views when structural economics change",
+      "principle_statement": "A sound framework is not rigid and should be updated when industry economics genuinely change.",
+      "normalized_principle": "Revise business judgments when structural industry economics change, not merely when short-term conditions fluctuate.",
+      "importance": "medium",
+      "time_horizon": "cross_cycle",
+      "applies_to": [
+        "public_stock",
+        "private_business",
+        "capital_allocator",
+        "management_team"
+      ],
+      "financial_metrics": [],
+      "metric_definition": [],
+      "metric_usage_context": [],
+      "metric_limitations": [],
+      "performance_logic": [
+        "Anchoring to outdated views can cause investors to miss genuine changes in industry structure, competitive dynamics, or regulation."
+      ],
+      "evaluation_questions": [
+        "Has the industry structure changed in a durable way?",
+        "Am I anchored to an outdated view of this business?",
+        "Are barriers to entry, competition, regulation, or industry concentration structurally different now?"
+      ],
+      "diagnostic_signals": [],
+      "practical_rules": [
+        "Distinguish cyclical change from structural change and re-rate the business only when structural economics have truly shifted."
+      ],
+      "example_buffett_phrasing": [
+        "Be willing to change your mind when the world changes"
+      ],
+      "tags": [
+        "updating_beliefs",
+        "structural_change",
+        "industry_economics",
+        "flexibility"
+      ]
+    },
+    {
+      "item_id": "2022_019",
+      "section": "Great businesses keep working without you",
+      "subsection": null,
+      "principle_title": "Systemic business quality beats personality dependence",
+      "principle_statement": "A superior business has self-sustaining economics and keeps creating value without constant rescue or heroic decision-making.",
+      "normalized_principle": "Prefer businesses whose advantages are embedded in the system rather than dependent on exceptional individuals.",
+      "importance": "high",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "public_stock",
+        "private_business",
+        "acquisition_target",
+        "management_team"
+      ],
+      "financial_metrics": [],
+      "metric_definition": [],
+      "metric_usage_context": [],
+      "metric_limitations": [],
+      "performance_logic": [
+        "Systemic strengths in brand, network, cost structure, or customer habit make a business more durable than businesses that depend on one extraordinary manager."
+      ],
+      "evaluation_questions": [
+        "Does this business continue creating value with ordinary competent management?",
+        "Is its advantage embedded in the system, brand, network, cost structure, or customer habit?",
+        "Would the business still be strong if conditions became less favorable?"
+      ],
+      "diagnostic_signals": [],
+      "practical_rules": [
+        "Prefer businesses where quality is systemic rather than personality-dependent."
+      ],
+      "example_buffett_phrasing": [
+        "a great company keeps working after you are not there"
+      ],
+      "tags": [
+        "systemic_advantage",
+        "management_dependence",
+        "business_quality",
+        "durability"
+      ]
+    },
+    {
+      "item_id": "2022_020",
+      "section": "Patience and concentration are competitive advantages",
+      "subsection": null,
+      "principle_title": "Behavioral edge comes from patience and focus",
+      "principle_statement": "Patience, long attention span, concentration, and long holding periods are competitive advantages in investing.",
+      "normalized_principle": "Investor behavior can create edge when it favors depth, concentration, and patient ownership over activity.",
+      "importance": "high",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "shareholder",
+        "capital_allocator",
+        "public_stock"
+      ],
+      "financial_metrics": [],
+      "metric_definition": [],
+      "metric_usage_context": [],
+      "metric_limitations": [],
+      "performance_logic": [
+        "Markets often reward those who can wait, focus, and hold strong businesses through volatility rather than trading in response to noise."
+      ],
+      "evaluation_questions": [
+        "Is this idea strong enough to justify concentrated attention?",
+        "Am I being impatient because of price volatility rather than business deterioration?",
+        "Is inaction the correct action here?"
+      ],
+      "diagnostic_signals": [],
+      "practical_rules": [
+        "Build an analysis process that rewards depth over activity."
+      ],
+      "example_buffett_phrasing": [
+        "Patience and concentration are competitive advantages"
+      ],
+      "tags": [
+        "patience",
+        "concentration",
+        "behavioral_edge",
+        "inaction"
+      ]
+    },
+    {
+      "item_id": "2022_021",
+      "section": "Forecasting macro and markets is low value; resilience is high value",
+      "subsection": null,
+      "principle_title": "Do not rely on macro forecasts",
+      "principle_statement": "Near-term economic and market forecasts are worse than useless; resilient businesses and portfolios matter more than prediction.",
+      "normalized_principle": "Structure investments to perform acceptably across many environments rather than relying on accurate short-term macro forecasts.",
+      "importance": "high",
+      "time_horizon": "cross_cycle",
+      "applies_to": [
+        "public_stock",
+        "private_business",
+        "holding_company",
+        "balance_sheet",
+        "capital_allocator"
+      ],
+      "financial_metrics": [],
+      "metric_definition": [],
+      "metric_usage_context": [],
+      "metric_limitations": [],
+      "performance_logic": [
+        "Forecast dependence adds fragility, while resilience across many scenarios improves long-term compounding odds."
+      ],
+      "evaluation_questions": [
+        "Does the investment require a specific macro forecast to work?",
+        "Can the business endure if consensus predictions are wrong?",
+        "Is the return case robust without heroic forecasting?"
+      ],
+      "diagnostic_signals": [],
+      "practical_rules": [
+        "Spend more time on business durability, balance-sheet resilience, valuation, and management behavior than on GDP, rates, elections, or market timing."
+      ],
+      "example_buffett_phrasing": [
+        "worse than useless"
+      ],
+      "tags": [
+        "macro_forecasting",
+        "resilience",
+        "scenario_robustness",
+        "market_timing"
+      ]
+    },
+    {
+      "item_id": "2022_022",
+      "section": "Retained earnings must justify themselves",
+      "subsection": null,
+      "principle_title": "Retained earnings need attractive deployment",
+      "principle_statement": "Retained earnings are valuable only when management can deploy them at satisfactory rates that raise per-share value.",
+      "normalized_principle": "Management should retain earnings only when retained capital can be converted into higher per-share earning power and intrinsic value.",
+      "importance": "high",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "management_team",
+        "capital_allocator",
+        "shareholder",
+        "public_stock",
+        "private_business"
+      ],
+      "financial_metrics": [
+        "retained_earnings",
+        "per_share_earning_power",
+        "intrinsic_value"
+      ],
+      "metric_definition": [
+        "retained_earnings: profits kept inside the business rather than distributed to owners.",
+        "per_share_earning_power: the earnings capability attributable to each share over time.",
+        "intrinsic_value: the per-share economic value that should rise if retained capital is well deployed."
+      ],
+      "metric_usage_context": [
+        "retained_earnings: used to judge whether management deserved to keep owners' capital.",
+        "per_share_earning_power: used to test whether retained capital improved the economics available to each owner.",
+        "intrinsic_value: used to assess whether retained dollars translated into lasting owner value."
+      ],
+      "metric_limitations": [
+        "retained_earnings: are not automatically beneficial and can destroy value if reinvested at poor rates."
+      ],
+      "performance_logic": [
+        "The value of retention depends on the conversion chain from retained earnings to reinvestment or deployment to per-share earning power and intrinsic value growth."
+      ],
+      "evaluation_questions": [
+        "What has management done with retained earnings over time?",
+        "Has each retained dollar produced adequate growth in per-share value?",
+        "Would owners have been better off receiving the cash?"
+      ],
+      "diagnostic_signals": [],
+      "practical_rules": [
+        "Track the conversion chain from retained earnings to reinvestment or deployment to per-share earning power to intrinsic value growth."
+      ],
+      "example_buffett_phrasing": [
+        "Retained earnings must justify themselves"
+      ],
+      "tags": [
+        "retained_earnings",
+        "capital_allocation",
+        "per_share_value",
+        "incremental_returns"
+      ]
+    },
+    {
+      "item_id": "2022_023",
+      "section": "Alignment matters: management should behave like owners",
+      "subsection": null,
+      "principle_title": "Management should have real skin in the game",
+      "principle_statement": "Owner-like behavior is strengthened when decision-makers have substantial personal economic exposure alongside shareholders.",
+      "normalized_principle": "Meaningful long-duration ownership by management improves alignment with outside owners.",
+      "importance": "medium",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "management_team",
+        "shareholder",
+        "board",
+        "public_stock",
+        "private_business"
+      ],
+      "financial_metrics": [
+        "management_ownership"
+      ],
+      "metric_definition": [
+        "management_ownership: the meaningful personal economic stake managers hold in the business."
+      ],
+      "metric_usage_context": [
+        "management_ownership: used to judge whether management will experience gains and losses alongside outside owners."
+      ],
+      "metric_limitations": [
+        "management_ownership: is more credible when earned through personal purchase than when mostly granted."
+      ],
+      "performance_logic": [
+        "Managers with real wealth at risk are more likely to behave like long-term owners in capital allocation and stewardship."
+      ],
+      "evaluation_questions": [
+        "Does management have real skin in the game?",
+        "Was ownership earned through purchase with personal capital or mostly granted?",
+        "Will management suffer alongside outside owners if value is destroyed?"
+      ],
+      "diagnostic_signals": [],
+      "practical_rules": [
+        "Favor management teams with meaningful, credible, long-duration ownership exposure."
+      ],
+      "example_buffett_phrasing": [
+        "behave like owners",
+        "skin in the game"
+      ],
+      "tags": [
+        "alignment",
+        "management_ownership",
+        "owner_orientation",
+        "incentives"
+      ]
+    },
+    {
+      "item_id": "2022_024",
+      "section": "Integrity rules are asymmetric: tolerate mistakes, not misconduct",
+      "subsection": null,
+      "principle_title": "Integrity is a threshold variable",
+      "principle_statement": "Business mistakes can be tolerated, but personal misconduct cannot because it poisons trust and stewardship.",
+      "normalized_principle": "Treat integrity as a threshold requirement rather than something to average against competence.",
+      "importance": "high",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "management_team",
+        "board",
+        "shareholder",
+        "public_stock",
+        "private_business"
+      ],
+      "financial_metrics": [],
+      "metric_definition": [],
+      "metric_usage_context": [],
+      "metric_limitations": [],
+      "performance_logic": [
+        "Ethical failure damages trust, disclosure credibility, and capital stewardship in ways that ordinary business mistakes do not."
+      ],
+      "evaluation_questions": [
+        "Has management merely made mistakes, or shown character flaws?",
+        "Is there a pattern of candor, responsibility, and ethical consistency?",
+        "Can owners trust disclosures and stewardship?"
+      ],
+      "diagnostic_signals": [],
+      "practical_rules": [
+        "Do not average integrity into the model.",
+        "Treat integrity as a threshold variable."
+      ],
+      "example_buffett_phrasing": [
+        "tolerate mistakes, not misconduct"
+      ],
+      "tags": [
+        "integrity",
+        "misconduct",
+        "threshold_filter",
+        "trust"
+      ]
+    },
+    {
+      "item_id": "2022_025",
+      "section": "Simplicity: good businesses can endure for a very long time",
+      "subsection": null,
+      "principle_title": "Simple durable value propositions deserve extra credit",
+      "principle_statement": "An old, simple product can remain powerful for decades when it continues to satisfy customers and economics remain favorable.",
+      "normalized_principle": "Do not confuse novelty with value; simple and proven business models with enduring demand can be excellent long-term businesses.",
+      "importance": "medium",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "public_stock",
+        "private_business",
+        "acquisition_target"
+      ],
+      "financial_metrics": [],
+      "metric_definition": [],
+      "metric_usage_context": [],
+      "metric_limitations": [],
+      "performance_logic": [
+        "Timeless customer needs and understandable economics can sustain attractive returns for far longer than fashionable complexity."
+      ],
+      "evaluation_questions": [
+        "Does the business solve a timeless customer need?",
+        "Is the business model understandable and persistent?",
+        "Has the core economics remained strong across long periods?"
+      ],
+      "diagnostic_signals": [],
+      "practical_rules": [
+        "Give extra credit to businesses whose value proposition is simple, proven, and durable."
+      ],
+      "example_buffett_phrasing": [
+        "simple",
+        "proven",
+        "durable"
+      ],
+      "tags": [
+        "simplicity",
+        "timeless_demand",
+        "understandability",
+        "durability"
+      ]
+    },
+    {
+      "item_id": "2022_026",
+      "section": "Scale and diversification are useful, but only when paired with discipline",
+      "subsection": null,
+      "principle_title": "Diversification is a tool, not a virtue",
+      "principle_statement": "Scale and diversification are useful when they strengthen resilience without diluting standards or obscuring weak economics.",
+      "normalized_principle": "Use diversification and scale only when they improve staying power and owner outcomes rather than hiding poor capital allocation.",
+      "importance": "medium",
+      "time_horizon": "cross_cycle",
+      "applies_to": [
+        "conglomerate",
+        "holding_company",
+        "capital_allocator",
+        "shareholder"
+      ],
+      "financial_metrics": [],
+      "metric_definition": [],
+      "metric_usage_context": [],
+      "metric_limitations": [],
+      "performance_logic": [
+        "Diversification can improve resilience, but unmanaged complexity can conceal poor economics and reduce discipline."
+      ],
+      "evaluation_questions": [
+        "Does diversification improve staying power, or hide weak economics?",
+        "Is scale giving this company real advantages?",
+        "Does complexity serve owners or obscure performance?"
+      ],
+      "diagnostic_signals": [],
+      "practical_rules": [
+        "Treat diversification as a tool, not a virtue by itself."
+      ],
+      "example_buffett_phrasing": [
+        "not as diworsification",
+        "Diversification is a tool, not a virtue by itself"
+      ],
+      "tags": [
+        "diversification",
+        "scale",
+        "discipline",
+        "complexity"
+      ]
+    },
+    {
+      "item_id": "2022_027",
+      "section": "The market weighs value in the long run",
+      "subsection": null,
+      "principle_title": "Long-run value creation eventually matters more than popularity",
+      "principle_statement": "Short-term popularity can diverge from economic reality, but long-term business value creation tends to assert itself.",
+      "normalized_principle": "Anchor on the trajectory of business value creation because market recognition is more reliable over the long run than in the short run.",
+      "importance": "high",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "public_stock",
+        "shareholder"
+      ],
+      "financial_metrics": [
+        "per_share_value"
+      ],
+      "metric_definition": [
+        "per_share_value: the economic value attributable to each share over time."
+      ],
+      "metric_usage_context": [
+        "per_share_value: used to judge whether the company is actually becoming more valuable beneath short-term quotation noise."
+      ],
+      "metric_limitations": [
+        "per_share_value: may not be recognized promptly by the market in the short run."
+      ],
+      "performance_logic": [
+        "Short-run voting by the market can diverge from fundamentals, but persistent growth in per-share value tends to matter over time."
+      ],
+      "evaluation_questions": [
+        "Is the company actually becoming more valuable?",
+        "Are short-term quotations hiding long-term value creation?",
+        "What evidence shows that per-share value is compounding beneath the surface?"
+      ],
+      "diagnostic_signals": [],
+      "practical_rules": [
+        "Anchor on business value trajectory first and market recognition second."
+      ],
+      "example_buffett_phrasing": [
+        "in the short run markets vote, in the long run they weigh"
+      ],
+      "tags": [
+        "market_weighing_machine",
+        "per_share_value",
+        "long_term_recognition",
+        "intrinsic_value"
+      ]
+    },
+    {
+      "item_id": "2022_028",
+      "section": "Acceptable long-term results beat optimized fragile results",
+      "subsection": null,
+      "principle_title": "Robust compounding beats elegant fragility",
+      "principle_statement": "The goal is acceptable long-term performance with staying power, not theoretically superior results that depend on fragile assumptions.",
+      "normalized_principle": "Prefer robust compounding systems over optimized but fragile setups.",
+      "importance": "high",
+      "time_horizon": "cross_cycle",
+      "applies_to": [
+        "public_stock",
+        "private_business",
+        "holding_company",
+        "balance_sheet",
+        "capital_allocator"
+      ],
+      "financial_metrics": [],
+      "metric_definition": [],
+      "metric_usage_context": [],
+      "metric_limitations": [],
+      "performance_logic": [
+        "A robust system can continue compounding through adverse conditions, while fragile optimization often breaks when assumptions fail."
+      ],
+      "evaluation_questions": [
+        "Is this company designed to endure and compound acceptably?",
+        "Is management sacrificing resilience for cosmetic improvements?",
+        "Are returns high because the business is excellent, or because the risk is hidden?"
+      ],
+      "diagnostic_signals": [],
+      "practical_rules": [
+        "Prefer robustness over precision when the latter depends on optimistic assumptions."
+      ],
+      "example_buffett_phrasing": [
+        "Acceptable long-term results beat optimized fragile results"
+      ],
+      "tags": [
+        "robustness",
+        "fragility",
+        "resilience",
+        "long_term_results"
+      ]
+    },
+    {
+      "item_id": "2022_029",
+      "section": "Concentration is fine when backed by understanding",
+      "subsection": null,
+      "principle_title": "Concentration requires deep understanding and risk analysis",
+      "principle_statement": "Owning a relatively small number of major positions is acceptable when the businesses are understandable, durable, and attractively priced.",
+      "normalized_principle": "Allow concentration only when conviction is grounded in rigorous business, valuation, and risk analysis.",
+      "importance": "medium",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "public_stock",
+        "capital_allocator",
+        "shareholder"
+      ],
+      "financial_metrics": [],
+      "metric_definition": [],
+      "metric_usage_context": [],
+      "metric_limitations": [],
+      "performance_logic": [
+        "Concentration can improve outcomes when capital is focused on a few highly understood businesses, but it raises the cost of analytical error."
+      ],
+      "evaluation_questions": [
+        "Is conviction based on deep understanding or mere familiarity?",
+        "Does this business deserve meaningful capital concentration?",
+        "What could invalidate the concentration case?"
+      ],
+      "diagnostic_signals": [],
+      "practical_rules": [
+        "Allow concentration only after rigorous business, valuation, and risk analysis."
+      ],
+      "example_buffett_phrasing": [
+        "Concentration is fine when backed by understanding"
+      ],
+      "tags": [
+        "concentration",
+        "conviction",
+        "understanding",
+        "risk_analysis"
+      ]
+    }
+  ]
+}

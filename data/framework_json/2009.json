@@ -1,0 +1,2207 @@
+{
+  "schema_version": "2.1",
+  "document_type": "buffett_framework_letter",
+  "letter_metadata": {
+    "year": 2009,
+    "source_title": "Berkshire Hathaway Shareholder Letter",
+    "source_date": "2010-02-26",
+    "coverage_year": 2009,
+    "source_file": "/mnt/data/2009.md",
+    "extraction_purpose": "Reusable stock/business analysis framework extraction",
+    "one_sentence_synthesis": "The 2009 framework emphasizes judging businesses by intrinsic value, resilience, capital discipline, and management quality while avoiding fragile financing, unknowable economics, and value-destructive dealmaking.",
+    "knowledge_base_tags": [
+      "intrinsic_value",
+      "measurement_discipline",
+      "downside_resilience",
+      "circle_of_competence",
+      "liquidity",
+      "insurance_float",
+      "regulated_infrastructure",
+      "capital_allocation",
+      "risk_control",
+      "management_quality"
+    ]
+  },
+  "framework_items": [
+    {
+      "item_id": "2009_001",
+      "section": "Core measurement philosophy",
+      "subsection": null,
+      "principle_title": "Pre-committed scorecard",
+      "principle_statement": "Performance should be judged by a rational and unbending standard chosen in advance rather than by a metric selected after results are known.",
+      "normalized_principle": "Judge performance against a pre-committed and economically relevant scorecard rather than a retrospectively chosen metric.",
+      "importance": "high",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "management_team",
+        "shareholder",
+        "board",
+        "capital_allocator"
+      ],
+      "financial_metrics": [],
+      "metric_definition": [],
+      "metric_usage_context": [],
+      "metric_limitations": [],
+      "performance_logic": [
+        "A fixed benchmark reduces self-serving evaluation and forces management to face the real opportunity cost of capital.",
+        "Comparing results with a realistic low-cost alternative clarifies whether active management adds value."
+      ],
+      "evaluation_questions": [
+        "What is the fairest benchmark for this business or investment?",
+        "Was the scorecard chosen before results were known?",
+        "Would shareholders be better off owning a simple low-cost alternative?"
+      ],
+      "diagnostic_signals": [
+        "Management changes the yardstick after weak results.",
+        "Performance comparisons exclude realistic alternatives available to owners."
+      ],
+      "practical_rules": [
+        "Define the success metric before evaluating outcomes.",
+        "Use a benchmark that reflects the investor's real alternative use of capital."
+      ],
+      "example_buffett_phrasing": [
+        "a rational and unbending standard chosen in advance"
+      ],
+      "tags": [
+        "measurement_discipline",
+        "benchmark_selection",
+        "owner_alignment"
+      ]
+    },
+    {
+      "item_id": "2009_002",
+      "section": "Core measurement philosophy",
+      "subsection": null,
+      "principle_title": "Separate market price from intrinsic value",
+      "principle_statement": "Long-term market price can be a useful test, but short periods can be distorted by sentiment and valuation extremes; yearly progress is better judged by change in intrinsic value or a sensible proxy.",
+      "normalized_principle": "Separate short-run market quotations from underlying business value and assess progress through intrinsic value or a carefully chosen proxy.",
+      "importance": "high",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "public_stock",
+        "holding_company",
+        "shareholder",
+        "capital_allocator"
+      ],
+      "financial_metrics": [
+        "intrinsic_value",
+        "market_price",
+        "book_value"
+      ],
+      "metric_definition": [
+        "intrinsic_value: the economic worth of the business based on its future cash-generating ability.",
+        "market_price: the quoted trading value set by the market at a point in time.",
+        "book_value: the accounting net worth reported on the balance sheet."
+      ],
+      "metric_usage_context": [
+        "intrinsic_value: Buffett uses change in intrinsic value as the preferred measure of yearly economic progress.",
+        "market_price: Buffett treats long-run price as an eventual test but not a reliable short-run judge of performance.",
+        "book_value: Buffett uses book value only as an imperfect tracking device when intrinsic value cannot be measured precisely."
+      ],
+      "metric_limitations": [
+        "intrinsic_value: cannot be precisely calculated and often requires proxy measures.",
+        "market_price: can be heavily distorted by optimism, pessimism, or valuation extremes over short periods.",
+        "book_value: may diverge materially from economic reality."
+      ],
+      "performance_logic": [
+        "If market quotations fluctuate independently of business economics in the short run, using them as the primary scorecard can misjudge managerial or business performance.",
+        "Intrinsic value better links operational outcomes to owner wealth, even when it must be approximated."
+      ],
+      "evaluation_questions": [
+        "What is the best proxy for intrinsic value here?",
+        "Is current market price being driven by sentiment rather than economics?",
+        "Is book value informative or misleading for this business?"
+      ],
+      "diagnostic_signals": [
+        "Investors focus on annual price moves without discussing business value.",
+        "Management highlights stock performance while avoiding economic value discussion."
+      ],
+      "practical_rules": [
+        "Use market price cautiously over short horizons.",
+        "Anchor analysis on intrinsic value and only then choose accounting proxies."
+      ],
+      "example_buffett_phrasing": [
+        "change in intrinsic value",
+        "book value as a crude proxy"
+      ],
+      "tags": [
+        "intrinsic_value",
+        "market_price_noise",
+        "valuation"
+      ]
+    },
+    {
+      "item_id": "2009_003",
+      "section": "Core measurement philosophy",
+      "subsection": null,
+      "principle_title": "Use accounting proxies with explicit adjustments",
+      "principle_statement": "Book value can be a crude proxy for intrinsic value only when the analyst understands how it understates or overstates economics.",
+      "normalized_principle": "Use accounting proxies only with explicit awareness of where they diverge from economic value.",
+      "importance": "high",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "public_stock",
+        "private_business",
+        "holding_company",
+        "balance_sheet"
+      ],
+      "financial_metrics": [
+        "book_value",
+        "intrinsic_value"
+      ],
+      "metric_definition": [
+        "book_value: reported shareholder equity under accounting rules.",
+        "intrinsic_value: the business's economic worth beyond accounting classification."
+      ],
+      "metric_usage_context": [
+        "book_value: Buffett uses it as a rough proxy while adjusting mentally for omitted earning power, intangible assets, or float value.",
+        "intrinsic_value: serves as the real target that the proxy is trying to approximate."
+      ],
+      "metric_limitations": [
+        "book_value: can understate intangibles, float value, brand strength, or earning power, and can omit hidden liabilities or assets."
+      ],
+      "performance_logic": [
+        "Accounting statements simplify reality; when the simplification systematically misses key economic assets or obligations, analysts must bridge that gap explicitly."
+      ],
+      "evaluation_questions": [
+        "What important economic assets or liabilities are not well captured by book value?",
+        "How far is reported value from economic value?"
+      ],
+      "diagnostic_signals": [
+        "Analysts treat GAAP net worth as equivalent to economic value without adjustment.",
+        "Important intangible or financing advantages are absent from reported book value."
+      ],
+      "practical_rules": [
+        "Never confuse the proxy with the real thing.",
+        "State clearly why the proxy understates or overstates economics before using it."
+      ],
+      "example_buffett_phrasing": [
+        "crude proxy",
+        "understates true economic value"
+      ],
+      "tags": [
+        "accounting_distortion",
+        "book_value",
+        "economic_reality"
+      ]
+    },
+    {
+      "item_id": "2009_004",
+      "section": "Performance logic: offense, defense, and compounding",
+      "subsection": null,
+      "principle_title": "Downside resilience is part of outperformance",
+      "principle_statement": "A superior investment record depends not only on upside capture in strong markets but also on stronger defense in bad years.",
+      "normalized_principle": "Long-term outperformance requires downside resilience as well as upside participation.",
+      "importance": "high",
+      "time_horizon": "cross_cycle",
+      "applies_to": [
+        "public_stock",
+        "private_business",
+        "holding_company",
+        "capital_allocator"
+      ],
+      "financial_metrics": [
+        "relative_drawdown",
+        "compound_return"
+      ],
+      "metric_definition": [
+        "relative_drawdown: the degree to which a business or portfolio loses less than peers or benchmarks in bad periods.",
+        "compound_return: the cumulative return achieved over repeated periods."
+      ],
+      "metric_usage_context": [
+        "relative_drawdown: Buffett uses bad-year performance to judge structural resilience.",
+        "compound_return: Buffett links smaller losses in stress periods to superior long-term compounding."
+      ],
+      "metric_limitations": [
+        "relative_drawdown: a single crisis result can be accidental rather than structural if not supported by business design."
+      ],
+      "performance_logic": [
+        "Avoiding large losses preserves capital and reduces the burden required to recover, which improves long-run compounding even without the highest upside in boom periods."
+      ],
+      "evaluation_questions": [
+        "How did the company perform in recession, panic, or industry stress?",
+        "Does it lose less than peers in bad environments?",
+        "Is resilience structural or accidental?"
+      ],
+      "diagnostic_signals": [
+        "Performance collapses severely in stressed environments.",
+        "Management discusses upside but not survival characteristics."
+      ],
+      "practical_rules": [
+        "Test business quality under adverse conditions, not only normal or favorable periods.",
+        "Treat downside protection as a real source of long-term excess return."
+      ],
+      "example_buffett_phrasing": [
+        "defense was better than its offense"
+      ],
+      "tags": [
+        "resilience",
+        "drawdown_control",
+        "compounding"
+      ]
+    },
+    {
+      "item_id": "2009_005",
+      "section": "Performance logic: offense, defense, and compounding",
+      "subsection": null,
+      "principle_title": "Scale reduces exceptional return opportunities",
+      "principle_statement": "As capital bases grow, exceptional opportunities become scarcer and future returns usually fall relative to earlier periods.",
+      "normalized_principle": "Large size narrows reinvestment opportunities and tends to compress future returns.",
+      "importance": "high",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "conglomerate",
+        "holding_company",
+        "capital_allocator",
+        "public_stock"
+      ],
+      "financial_metrics": [
+        "capital_base",
+        "return_on_capital",
+        "incremental_return_on_capital"
+      ],
+      "metric_definition": [
+        "capital_base: the total amount of capital that must be deployed productively.",
+        "return_on_capital: earnings generated relative to capital employed.",
+        "incremental_return_on_capital: returns earned on newly deployed capital."
+      ],
+      "metric_usage_context": [
+        "capital_base: Buffett uses size to judge how hard it is to find meaningful high-return opportunities.",
+        "incremental_return_on_capital: Buffett uses incremental returns to assess whether growth can remain attractive as scale rises."
+      ],
+      "metric_limitations": [
+        "historical return_on_capital: past high returns may not be repeatable once the opportunity set is saturated."
+      ],
+      "performance_logic": [
+        "A larger enterprise needs larger opportunities to move the needle, and those opportunities are usually fewer and less attractive than the ones available at smaller scale."
+      ],
+      "evaluation_questions": [
+        "Has the company become too large for its best historical opportunity set?",
+        "Are historical returns likely non-repeatable because of scale?",
+        "Does management acknowledge the mathematics of size?"
+      ],
+      "diagnostic_signals": [
+        "Management extrapolates past returns without discussing scale constraints.",
+        "Growth in capital employed is not matched by attractive incremental opportunities."
+      ],
+      "practical_rules": [
+        "Lower expected future returns when a successful business reaches very large scale.",
+        "Focus on incremental opportunity set, not only legacy performance."
+      ],
+      "example_buffett_phrasing": [
+        "Scale is an enemy of exceptional returns"
+      ],
+      "tags": [
+        "scale_constraints",
+        "incremental_returns",
+        "capital_allocation"
+      ]
+    },
+    {
+      "item_id": "2009_006",
+      "section": "Circle of competence and industry selection",
+      "subsection": null,
+      "principle_title": "Only invest where long-term economics are intelligible",
+      "principle_statement": "Industries with exciting growth are unattractive when future competition, margins, and returns on capital cannot be evaluated with confidence.",
+      "normalized_principle": "Prefer businesses whose long-term economics can be forecast with reasonable confidence over businesses with exciting but unknowable futures.",
+      "importance": "high",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "public_stock",
+        "private_business",
+        "acquisition_target",
+        "capital_allocator"
+      ],
+      "financial_metrics": [
+        "return_on_capital",
+        "operating_margin"
+      ],
+      "metric_definition": [
+        "return_on_capital: profitability relative to the capital required to run and grow the business.",
+        "operating_margin: operating profit as a share of revenue."
+      ],
+      "metric_usage_context": [
+        "return_on_capital: Buffett uses future returns on capital to test whether industry growth will benefit owners.",
+        "operating_margin: Buffett uses expected margin durability to judge whether competition will destroy economics."
+      ],
+      "metric_limitations": [
+        "growth_rate: high product or industry growth does not reliably predict good owner economics."
+      ],
+      "performance_logic": [
+        "When industry structure invites aggressive competition, growth can expand activity while eroding margins and returns, making the business hard to value sensibly over long horizons."
+      ],
+      "evaluation_questions": [
+        "Can I reasonably forecast this business's economics 10 years out?",
+        "Will growth attract destructive competition?",
+        "Are margins and returns likely durable?"
+      ],
+      "diagnostic_signals": [
+        "The investment case depends more on narrative excitement than on durable economic forecasts.",
+        "Competitive dynamics are too fluid to estimate long-term profit pools."
+      ],
+      "practical_rules": [
+        "Reject ideas whose long-term economics cannot be evaluated, even if the product trend is obvious.",
+        "Prioritize predictability of economics over excitement of adoption."
+      ],
+      "example_buffett_phrasing": [
+        "future competitive dynamics, margins, and returns on capital are unpredictable"
+      ],
+      "tags": [
+        "circle_of_competence",
+        "industry_selection",
+        "predictability"
+      ]
+    },
+    {
+      "item_id": "2009_007",
+      "section": "Circle of competence and industry selection",
+      "subsection": null,
+      "principle_title": "Product excitement is not shareholder economics",
+      "principle_statement": "Growth industries can still be terrible investments if the economics are captured by competition, customers, suppliers, or regulators rather than owners.",
+      "normalized_principle": "Ask who captures the economics of industry growth rather than assuming growth benefits shareholders.",
+      "importance": "high",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "public_stock",
+        "private_business",
+        "acquisition_target",
+        "shareholder"
+      ],
+      "financial_metrics": [
+        "owner_earnings",
+        "market_share",
+        "return_on_capital"
+      ],
+      "metric_definition": [
+        "owner_earnings: cash that can be taken out of the business after maintaining its competitive position.",
+        "market_share: the company's portion of industry demand or sales.",
+        "return_on_capital: the return owners earn on the capital required to compete."
+      ],
+      "metric_usage_context": [
+        "owner_earnings: Buffett uses owner earnings to test whether industry growth becomes owner value rather than mere activity.",
+        "return_on_capital: Buffett uses returns to see whether growth is competed away."
+      ],
+      "metric_limitations": [
+        "market_share: share gains are not sufficient if they come with weak economics or overinvestment."
+      ],
+      "performance_logic": [
+        "Demand growth can enrich other stakeholders or intensify competition, so shareholder value depends on the business's ability to retain attractive unit economics as the market expands."
+      ],
+      "evaluation_questions": [
+        "Is industry growth translating into owner earnings?",
+        "Does the business have a moat that protects returns as the industry grows?",
+        "Who is likely to capture most of the value?"
+      ],
+      "diagnostic_signals": [
+        "Industry demand is booming while participant returns remain poor.",
+        "The thesis relies on top-line growth without discussing owner economics."
+      ],
+      "practical_rules": [
+        "Do not equate demand growth with investment quality.",
+        "Require evidence that growth can be monetized by owners."
+      ],
+      "example_buffett_phrasing": [
+        "Ask not 'Will demand grow?' but 'Who captures the economics?'"
+      ],
+      "tags": [
+        "shareholder_economics",
+        "growth_traps",
+        "moat_analysis"
+      ]
+    },
+    {
+      "item_id": "2009_008",
+      "section": "Financial strength and balance-sheet doctrine",
+      "subsection": null,
+      "principle_title": "Never rely on external rescue capital",
+      "principle_statement": "A company should hold enough liquidity to survive severe stress without depending on capital market kindness.",
+      "normalized_principle": "Build the balance sheet so the company can survive and act independently during market stress.",
+      "importance": "high",
+      "time_horizon": "cross_cycle",
+      "applies_to": [
+        "private_business",
+        "public_stock",
+        "holding_company",
+        "balance_sheet",
+        "lender"
+      ],
+      "financial_metrics": [
+        "liquidity",
+        "cash_needs",
+        "debt_maturity"
+      ],
+      "metric_definition": [
+        "liquidity: immediately available financial resources such as cash, equivalents, and untapped funding capacity.",
+        "cash_needs: potential operating, financing, and claim obligations that may arise under stress.",
+        "debt_maturity: contractual timing of required debt repayment."
+      ],
+      "metric_usage_context": [
+        "liquidity: Buffett uses excess liquidity to judge whether the company can withstand severe disruptions without outside help.",
+        "cash_needs: Buffett compares plausible stress outflows against internal liquidity sources."
+      ],
+      "metric_limitations": [
+        "normal-period liquidity ratios: can understate crisis needs if they ignore extreme scenarios or funding market shutdowns."
+      ],
+      "performance_logic": [
+        "If outside financing becomes unavailable or punitive during panic, only internally funded businesses retain control, avoid distress, and can exploit opportunities."
+      ],
+      "evaluation_questions": [
+        "Could the business survive a severe credit freeze without outside help?",
+        "Are cash needs dwarfed by internal liquidity sources?",
+        "Would the company be a provider of capital in a panic or a supplicant?"
+      ],
+      "diagnostic_signals": [
+        "The company must refinance routinely to remain solvent.",
+        "Liquidity planning assumes normal market access."
+      ],
+      "practical_rules": [
+        "Stress-test liquidity against severe scenarios rather than base cases.",
+        "Favor balance sheets that preserve strategic optionality in crises."
+      ],
+      "example_buffett_phrasing": [
+        "the kindness of strangers"
+      ],
+      "tags": [
+        "liquidity",
+        "balance_sheet_strength",
+        "crisis_survival"
+      ]
+    },
+    {
+      "item_id": "2009_009",
+      "section": "Financial strength and balance-sheet doctrine",
+      "subsection": null,
+      "principle_title": "Accept lower reported returns for safety",
+      "principle_statement": "Large cash balances may depress near-term returns but can be economically rational when they materially improve survival and flexibility.",
+      "normalized_principle": "Do not optimize reported returns at the expense of resilience; fortress liquidity can be worth more than its carry cost.",
+      "importance": "high",
+      "time_horizon": "cross_cycle",
+      "applies_to": [
+        "balance_sheet",
+        "capital_allocator",
+        "management_team",
+        "shareholder"
+      ],
+      "financial_metrics": [
+        "cash_balance",
+        "return_on_equity",
+        "liquidity"
+      ],
+      "metric_definition": [
+        "cash_balance: cash and equivalents held for safety and optionality.",
+        "return_on_equity: net earnings relative to shareholder equity.",
+        "liquidity: resources available to meet obligations and deploy in opportunity."
+      ],
+      "metric_usage_context": [
+        "cash_balance: Buffett treats cash as an insurance asset and source of optionality during crises.",
+        "return_on_equity: Buffett recognizes that extra liquidity may depress reported ROE while improving economic resilience."
+      ],
+      "metric_limitations": [
+        "return_on_equity: can look artificially weak when management intentionally carries excess liquidity for safety.",
+        "cash_balance: can be mistaken for inefficiency when it is actually strategic."
+      ],
+      "performance_logic": [
+        "Holding low-yield cash may reduce normal-period accounting returns, but it lowers ruin risk and allows the company to buy assets or support operations when others cannot."
+      ],
+      "evaluation_questions": [
+        "Is management sacrificing resilience to flatter near-term returns?",
+        "What is the economic value of liquidity under crisis conditions?"
+      ],
+      "diagnostic_signals": [
+        "Management maximizes leverage or minimizes cash to boost near-term ROE.",
+        "Analysts criticize liquidity without considering crisis optionality."
+      ],
+      "practical_rules": [
+        "Evaluate cash holdings in the context of stress survival and opportunity, not just carry cost.",
+        "Treat safety and sleep as economically relevant benefits."
+      ],
+      "example_buffett_phrasing": [
+        "values safety and sleep"
+      ],
+      "tags": [
+        "fortress_balance_sheet",
+        "roe_distortion",
+        "liquidity_optionality"
+      ]
+    },
+    {
+      "item_id": "2009_010",
+      "section": "Decentralization, bureaucracy, and management design",
+      "subsection": null,
+      "principle_title": "Empower strong operators with minimal bureaucracy",
+      "principle_statement": "Exceptional managers operating autonomously often create more value than elaborate supervisory systems, even if some local mistakes occur.",
+      "normalized_principle": "Favor decentralized structures that empower capable owner-minded operators over bureaucracy-heavy control systems.",
+      "importance": "high",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "management_team",
+        "conglomerate",
+        "holding_company",
+        "private_business"
+      ],
+      "financial_metrics": [],
+      "metric_definition": [],
+      "metric_usage_context": [],
+      "metric_limitations": [],
+      "performance_logic": [
+        "Autonomy can preserve speed, accountability, and initiative, while centralized bureaucracy creates hidden drag and suppresses ownership behavior."
+      ],
+      "evaluation_questions": [
+        "Does the organization attract and retain unusually strong operators?",
+        "Is decision-making close to operations?",
+        "Is bureaucracy suppressing initiative, speed, and accountability?"
+      ],
+      "diagnostic_signals": [
+        "Important operating decisions are pushed upward into layers of review.",
+        "Managers spend more energy on reporting systems than on business performance."
+      ],
+      "practical_rules": [
+        "Keep operating authority near the business when managers are capable and trustworthy.",
+        "Accept some local mistakes rather than imposing organization-wide bureaucratic drag."
+      ],
+      "example_buffett_phrasing": [
+        "accepting some mistakes to avoid bureaucratic drag"
+      ],
+      "tags": [
+        "decentralization",
+        "management_design",
+        "bureaucracy"
+      ]
+    },
+    {
+      "item_id": "2009_011",
+      "section": "Decentralization, bureaucracy, and management design",
+      "subsection": null,
+      "principle_title": "Headquarters should do only a few essential jobs",
+      "principle_statement": "In a well-run conglomerate, headquarters should focus mainly on capital allocation, enterprise risk control, manager selection, and compensation.",
+      "normalized_principle": "A good headquarters adds value through capital allocation, risk oversight, and talent decisions rather than operational meddling.",
+      "importance": "high",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "conglomerate",
+        "holding_company",
+        "management_team",
+        "board"
+      ],
+      "financial_metrics": [],
+      "metric_definition": [],
+      "metric_usage_context": [],
+      "metric_limitations": [],
+      "performance_logic": [
+        "Corporate center value comes from a small number of high-leverage decisions; beyond that, headquarters often adds cost and distraction."
+      ],
+      "evaluation_questions": [
+        "Does HQ add value through capital allocation or merely add overhead?",
+        "Are corporate responsibilities clear and minimal?",
+        "Is management attention spent on the highest-value decisions?"
+      ],
+      "diagnostic_signals": [
+        "Headquarters expands functions without clear economic benefit.",
+        "Corporate staff intrudes into operations without improving decisions."
+      ],
+      "practical_rules": [
+        "Define a narrow mandate for headquarters.",
+        "Judge the center by capital allocation quality, risk control, talent selection, and compensation design."
+      ],
+      "example_buffett_phrasing": [
+        "capital allocation",
+        "enterprise risk control",
+        "selecting managers",
+        "setting compensation"
+      ],
+      "tags": [
+        "headquarters_role",
+        "capital_allocation",
+        "corporate_governance"
+      ]
+    },
+    {
+      "item_id": "2009_012",
+      "section": "Owner communication and shareholder alignment",
+      "subsection": null,
+      "principle_title": "Cultivate owner-like shareholders",
+      "principle_statement": "Management should communicate for long-term owners, not for traders or promotional audiences, because the shareholder base influences decision quality.",
+      "normalized_principle": "Owner-oriented communication helps attract patient shareholders and improves managerial freedom for rational long-term decisions.",
+      "importance": "medium",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "shareholder",
+        "management_team",
+        "board",
+        "public_stock"
+      ],
+      "financial_metrics": [],
+      "metric_definition": [],
+      "metric_usage_context": [],
+      "metric_limitations": [],
+      "performance_logic": [
+        "A shareholder base aligned with ownership thinking is less likely to pressure management into cosmetic actions or short-term promotion."
+      ],
+      "evaluation_questions": [
+        "Does management communicate for owners or for short-term stock promotion?",
+        "Is the company cultivating long-term partners or short-term applause?"
+      ],
+      "diagnostic_signals": [
+        "Messaging is optimized for quarterly excitement rather than economic understanding.",
+        "Management targets Wall Street approval rather than owner clarity."
+      ],
+      "practical_rules": [
+        "Write and speak as if the audience were long-term owners.",
+        "Treat shareholder base quality as a strategic asset."
+      ],
+      "example_buffett_phrasing": [
+        "shareholders who think like owners, not traders"
+      ],
+      "tags": [
+        "shareholder_alignment",
+        "communication",
+        "owner_mindset"
+      ]
+    },
+    {
+      "item_id": "2009_013",
+      "section": "Owner communication and shareholder alignment",
+      "subsection": null,
+      "principle_title": "Disclose as you would want to be informed",
+      "principle_statement": "Management should tell shareholders what it would want to know if roles were reversed, including limitations, uncertainty, and mistakes.",
+      "normalized_principle": "Candid owner-style communication is a governance advantage and a signal of managerial quality.",
+      "importance": "high",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "management_team",
+        "shareholder",
+        "board"
+      ],
+      "financial_metrics": [],
+      "metric_definition": [],
+      "metric_usage_context": [],
+      "metric_limitations": [],
+      "performance_logic": [
+        "Honest communication builds trust, improves capital allocation relationships, and reduces the gap between reported narrative and business reality."
+      ],
+      "evaluation_questions": [
+        "Would I trust this management team based only on its letters and calls?",
+        "Do they explain limitations, uncertainty, and mistakes?"
+      ],
+      "diagnostic_signals": [
+        "Disclosures are selective, promotional, or evasive about errors.",
+        "Management simplifies away uncertainty instead of illuminating it."
+      ],
+      "practical_rules": [
+        "Communicate directly, candidly, and symmetrically with shareholders.",
+        "Explain mistakes and constraints rather than marketing around them."
+      ],
+      "example_buffett_phrasing": [
+        "what he would want to know if roles were reversed"
+      ],
+      "tags": [
+        "candor",
+        "governance",
+        "owner_communication"
+      ]
+    },
+    {
+      "item_id": "2009_014",
+      "section": "Insurance framework",
+      "subsection": null,
+      "principle_title": "Analyze insurance through float quality, not premium volume alone",
+      "principle_statement": "The economics of an insurer depend on underwriting results, float quantity, float cost, float durability, and investment deployment rather than premium volume by itself.",
+      "normalized_principle": "Insurance value depends on the quality, cost, durability, and investability of float, not merely on premium growth.",
+      "importance": "high",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "insurance_operation",
+        "public_stock",
+        "private_business",
+        "capital_allocator"
+      ],
+      "financial_metrics": [
+        "float",
+        "premium_volume",
+        "underwriting_result",
+        "float_cost"
+      ],
+      "metric_definition": [
+        "float: policyholder funds held between premium collection and claim payment that can be invested in the meantime.",
+        "premium_volume: total premiums written or earned by the insurer.",
+        "underwriting_result: profit or loss from insurance operations before investment income.",
+        "float_cost: the economic cost of holding float after underwriting outcomes are considered."
+      ],
+      "metric_usage_context": [
+        "float: Buffett uses float size and stability to judge investable funding available to the insurer.",
+        "underwriting_result: Buffett uses underwriting results to determine whether float is costly, free, or better than free.",
+        "float_cost: Buffett uses float cost to assess the quality of the insurance funding base."
+      ],
+      "metric_limitations": [
+        "premium_volume: can rise even when underwriting quality deteriorates.",
+        "float: large float is not attractive if it is unstable or expensive."
+      ],
+      "performance_logic": [
+        "Insurance becomes economically powerful when policyholder funds can be held for meaningful periods at low or negative cost and invested productively."
+      ],
+      "evaluation_questions": [
+        "How large is the float and how stable is it?",
+        "Is float growing with the business?",
+        "What is the cost of float after underwriting results?"
+      ],
+      "diagnostic_signals": [
+        "Management emphasizes premium growth while avoiding float cost or underwriting quality.",
+        "Float growth depends on underpriced business."
+      ],
+      "practical_rules": [
+        "Break insurer analysis into underwriting economics, float quantity, float cost, float durability, and investment deployment.",
+        "Do not treat premium volume as the core value driver."
+      ],
+      "example_buffett_phrasing": [
+        "float quality, not just premium volume"
+      ],
+      "tags": [
+        "insurance_float",
+        "underwriting",
+        "insurance_economics"
+      ]
+    },
+    {
+      "item_id": "2009_015",
+      "section": "Insurance framework",
+      "subsection": null,
+      "principle_title": "Negative-cost float is the ideal insurance model",
+      "principle_statement": "The best insurer earns underwriting profits while also receiving investable float, making the funding source free or better than free.",
+      "normalized_principle": "The strongest insurance model combines durable float with underwriting profitability, so the insurer is effectively paid to hold funds.",
+      "importance": "high",
+      "time_horizon": "cross_cycle",
+      "applies_to": [
+        "insurance_operation",
+        "capital_allocator",
+        "public_stock"
+      ],
+      "financial_metrics": [
+        "underwriting_profit",
+        "float",
+        "float_cost"
+      ],
+      "metric_definition": [
+        "underwriting_profit: positive profit from pricing and claims operations before investment income.",
+        "float: investable funds generated by timing differences between premiums and claims.",
+        "float_cost: net cost of float after underwriting gains or losses."
+      ],
+      "metric_usage_context": [
+        "underwriting_profit: Buffett uses it to test whether the insurer is being paid to hold float.",
+        "float_cost: Buffett uses negative or near-zero float cost as a marker of exceptional insurance economics."
+      ],
+      "metric_limitations": [
+        "single_year underwriting_profit: may not prove durable skill if produced by unusually benign loss experience."
+      ],
+      "performance_logic": [
+        "When underwriting is profitable, the insurer gets investable funds plus insurance profits, creating a powerful compounding engine unavailable to most financial models."
+      ],
+      "evaluation_questions": [
+        "Is the insurer generating underwriting profits over a full cycle?",
+        "Has underwriting discipline survived soft markets and catastrophe years?"
+      ],
+      "diagnostic_signals": [
+        "Float growth is bought through underwriting losses.",
+        "Management pursues volume at the expense of price discipline."
+      ],
+      "practical_rules": [
+        "Prefer insurers with long-run underwriting profitability rather than premium-chasing growth.",
+        "Judge float economics over a full cycle, not just a favorable year."
+      ],
+      "example_buffett_phrasing": [
+        "being paid to hold float"
+      ],
+      "tags": [
+        "negative_cost_float",
+        "insurance_quality",
+        "underwriting_discipline"
+      ]
+    },
+    {
+      "item_id": "2009_016",
+      "section": "Insurance framework",
+      "subsection": null,
+      "principle_title": "Exceptional insurers are outliers, not industry averages",
+      "principle_statement": "Insurance as an industry often produces mediocre economics, so analysts must distinguish company-specific excellence from structurally weak industry averages.",
+      "normalized_principle": "Separate an insurer's company-specific discipline and culture from the often mediocre economics of the broader industry.",
+      "importance": "medium",
+      "time_horizon": "cross_cycle",
+      "applies_to": [
+        "insurance_operation",
+        "public_stock",
+        "private_business"
+      ],
+      "financial_metrics": [
+        "underwriting_margin",
+        "combined_ratio",
+        "float_cost"
+      ],
+      "metric_definition": [
+        "underwriting_margin: underwriting profit as a share of premiums.",
+        "combined_ratio: claims and expenses divided by premiums, indicating underwriting profitability.",
+        "float_cost: economic cost of the insurer's funding float."
+      ],
+      "metric_usage_context": [
+        "combined_ratio: Buffett uses underwriting performance to distinguish truly exceptional insurers from average ones.",
+        "float_cost: Buffett uses low-cost float as evidence of outlier quality rather than industry normality."
+      ],
+      "metric_limitations": [
+        "single_period combined_ratio: can flatter insurers in benign loss years and understate cycle risk."
+      ],
+      "performance_logic": [
+        "Competition often drives weak underwriting economics, so insurers that produce durable low-cost float usually reflect unusual discipline, culture, and management rather than ordinary industry conditions."
+      ],
+      "evaluation_questions": [
+        "Is this insurer exceptional or merely participating in a structurally mediocre industry?",
+        "What proves its advantage is durable and not cyclical luck?"
+      ],
+      "diagnostic_signals": [
+        "Performance is explained entirely by favorable years rather than repeatable discipline.",
+        "The insurer resembles industry averages on pricing behavior and underwriting losses."
+      ],
+      "practical_rules": [
+        "Benchmark an insurer against full-cycle economics, not just growth or a good year.",
+        "Look for proof of company-specific discipline and culture."
+      ],
+      "example_buffett_phrasing": [
+        "cost-free float is not normal for the industry"
+      ],
+      "tags": [
+        "industry_structure",
+        "insurance_outliers",
+        "combined_ratio"
+      ]
+    },
+    {
+      "item_id": "2009_017",
+      "section": "Insurance framework",
+      "subsection": null,
+      "principle_title": "Cost advantage plus customer loyalty compounds share",
+      "principle_statement": "An insurer with structural cost advantage and good service can share savings with customers, retain loyalty, and gain market share without sacrificing economics.",
+      "normalized_principle": "Structural cost advantage paired with customer satisfaction can drive profitable market share gains.",
+      "importance": "high",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "insurance_operation",
+        "public_stock",
+        "private_business"
+      ],
+      "financial_metrics": [
+        "cost_ratio",
+        "market_share",
+        "customer_retention",
+        "return_on_capital"
+      ],
+      "metric_definition": [
+        "cost_ratio: operating expenses relative to premiums or revenue.",
+        "market_share: the company's portion of industry business.",
+        "customer_retention: the share of customers who stay with the company.",
+        "return_on_capital: profits relative to capital employed."
+      ],
+      "metric_usage_context": [
+        "cost_ratio: Buffett uses a low-cost position as evidence of structural advantage.",
+        "market_share: Buffett uses share gains to confirm that economic superiority is translating into growth.",
+        "customer_retention: Buffett uses loyalty to distinguish durable advantage from mere price cutting."
+      ],
+      "metric_limitations": [
+        "market_share: can be purchased at poor economics if pricing is too aggressive."
+      ],
+      "performance_logic": [
+        "A low-cost producer can offer attractive prices and good service, deepen loyalty, and expand scale while still preserving superior economics."
+      ],
+      "evaluation_questions": [
+        "Is the company the low-cost producer?",
+        "Do customers stay because of price only or price plus satisfaction?",
+        "Can share keep expanding without degrading economics?"
+      ],
+      "diagnostic_signals": [
+        "Share growth comes with deteriorating pricing or returns.",
+        "The apparent cost advantage is temporary rather than structural."
+      ],
+      "practical_rules": [
+        "Prefer market share growth that is rooted in real cost advantage and service quality.",
+        "Test whether growth strengthens or weakens unit economics."
+      ],
+      "example_buffett_phrasing": [
+        "cost advantage + good service + large runway"
+      ],
+      "tags": [
+        "cost_advantage",
+        "customer_loyalty",
+        "market_share"
+      ]
+    },
+    {
+      "item_id": "2009_018",
+      "section": "Insurance framework",
+      "subsection": null,
+      "principle_title": "Specialized risk businesses reward rare judgment",
+      "principle_statement": "In unusual or oversized risks, advantage can come from superior judgment, reputation, and willingness to absorb exposures others cannot evaluate.",
+      "normalized_principle": "In niche insurance markets, rare underwriting judgment and trusted capacity can create durable advantage.",
+      "importance": "medium",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "insurance_operation",
+        "private_business",
+        "public_stock"
+      ],
+      "financial_metrics": [
+        "risk_adjusted_pricing",
+        "underwriting_profit"
+      ],
+      "metric_definition": [
+        "risk_adjusted_pricing: premium pricing that reflects the true expected loss and uncertainty of unusual risks.",
+        "underwriting_profit: profit earned from disciplined risk selection and pricing."
+      ],
+      "metric_usage_context": [
+        "risk_adjusted_pricing: Buffett uses pricing judgment to evaluate whether a specialist insurer has a true edge in complex risks."
+      ],
+      "metric_limitations": [
+        "reported premium growth: may say little about quality in niche risk markets without evidence of disciplined pricing."
+      ],
+      "performance_logic": [
+        "When risks are hard to evaluate, firms with superior judgment and trusted balance-sheet capacity can command attractive pricing and selective deal flow."
+      ],
+      "evaluation_questions": [
+        "Does this insurer possess unique underwriting expertise?",
+        "Is it chosen for complex, unusual, or oversized risks?",
+        "Can competitors replicate its capability and reputation?"
+      ],
+      "diagnostic_signals": [
+        "Specialty risk volume expands without clear evidence of pricing discipline.",
+        "The business lacks reputational or analytical barriers to imitation."
+      ],
+      "practical_rules": [
+        "In niche underwriting, evaluate expertise, trust, and selectivity before volume.",
+        "Prefer specialist insurers whose edge is hard to copy."
+      ],
+      "example_buffett_phrasing": [
+        "rarity and judgment matter"
+      ],
+      "tags": [
+        "specialty_insurance",
+        "judgment",
+        "reputation_edge"
+      ]
+    },
+    {
+      "item_id": "2009_019",
+      "section": "Regulated utility and infrastructure framework",
+      "subsection": null,
+      "principle_title": "Capital intensity is acceptable if incremental returns are good",
+      "principle_statement": "Asset-heavy businesses can be attractive when new capital can be deployed at decent, durable returns, especially for very large pools of capital.",
+      "normalized_principle": "Do not reject capital-intensive businesses automatically; judge them by the durability and adequacy of incremental returns on new capital.",
+      "importance": "high",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "public_stock",
+        "private_business",
+        "acquisition_target",
+        "capital_allocator"
+      ],
+      "financial_metrics": [
+        "incremental_return_on_capital",
+        "capital_expenditure",
+        "return_on_capital"
+      ],
+      "metric_definition": [
+        "incremental_return_on_capital: return earned on newly invested capital rather than legacy assets.",
+        "capital_expenditure: money invested to maintain or expand the asset base.",
+        "return_on_capital: profits relative to total capital employed."
+      ],
+      "metric_usage_context": [
+        "incremental_return_on_capital: Buffett uses it to judge whether future reinvestment is economically attractive in asset-heavy sectors.",
+        "capital_expenditure: Buffett considers whether large future investments can earn satisfactory returns."
+      ],
+      "metric_limitations": [
+        "historical return_on_capital: may overstate attractiveness if future incremental projects earn less than legacy assets."
+      ],
+      "performance_logic": [
+        "Large-scale businesses can still compound well when each additional dollar invested earns acceptable returns over long periods, even if headline returns are not spectacular."
+      ],
+      "evaluation_questions": [
+        "What return does the company earn on incremental capital?",
+        "Are future investments economically justified?",
+        "Is scale itself an advantage in this asset-heavy sector?"
+      ],
+      "diagnostic_signals": [
+        "Growth requires heavy capital spending with weak incremental returns.",
+        "Management cites scale without showing reinvestment economics."
+      ],
+      "practical_rules": [
+        "Focus on incremental, not just historical, returns.",
+        "Treat capital intensity as a question of economics, not aesthetics."
+      ],
+      "example_buffett_phrasing": [
+        "returns on incremental capital are satisfactory"
+      ],
+      "tags": [
+        "incremental_return_on_capital",
+        "capital_intensity",
+        "reinvestment"
+      ]
+    },
+    {
+      "item_id": "2009_020",
+      "section": "Regulated utility and infrastructure framework",
+      "subsection": null,
+      "principle_title": "Regulated returns depend on social trust",
+      "principle_statement": "Utilities and similar infrastructure businesses earn fair returns when they maintain a durable social compact with regulators and customers through responsible conduct and essential service.",
+      "normalized_principle": "In regulated industries, durable economics depend on trustworthy behavior toward regulators and customers as much as on assets.",
+      "importance": "medium",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "public_stock",
+        "private_business",
+        "acquisition_target",
+        "management_team"
+      ],
+      "financial_metrics": [
+        "allowed_return",
+        "capital_investment"
+      ],
+      "metric_definition": [
+        "allowed_return: the regulator-permitted return on invested capital or rate base.",
+        "capital_investment: long-lived spending required to maintain and expand essential service."
+      ],
+      "metric_usage_context": [
+        "allowed_return: Buffett uses regulatory permission for fair returns as a core economic variable in utilities.",
+        "capital_investment: Buffett uses the need for long-horizon investment to evaluate the stability of the regulator-customer-company compact."
+      ],
+      "metric_limitations": [
+        "allowed_return: depends on sustained trust and responsible behavior, not just legal status."
+      ],
+      "performance_logic": [
+        "Because regulated infrastructure requires major long-lived investment, companies earn acceptable economics only when regulators and customers believe the operator deserves fair returns for reliable service."
+      ],
+      "evaluation_questions": [
+        "Does the company act in a way that deserves regulatory trust?",
+        "Are regulators likely to permit fair returns on major capital investment?",
+        "Is the service essential and difficult to displace?"
+      ],
+      "diagnostic_signals": [
+        "The operator damages relationships with regulators or customers.",
+        "The business assumes favorable returns without demonstrating responsible conduct."
+      ],
+      "practical_rules": [
+        "Analyze regulated businesses through asset economics plus relationship quality with regulators and customers.",
+        "Require evidence of long-term cooperative behavior."
+      ],
+      "example_buffett_phrasing": [
+        "social compact with regulators and customers"
+      ],
+      "tags": [
+        "regulated_utilities",
+        "social_compact",
+        "regulatory_returns"
+      ]
+    },
+    {
+      "item_id": "2009_021",
+      "section": "Regulated utility and infrastructure framework",
+      "subsection": null,
+      "principle_title": "Essential-service monopolies can compound for decades",
+      "principle_statement": "Essential infrastructure with durable demand and long reinvestment runway can be attractive compounding vehicles even if returns are merely decent rather than exceptional.",
+      "normalized_principle": "Long-duration essential monopolies can be excellent compounding assets when demand endures and retained earnings have a long runway for fair reinvestment.",
+      "importance": "high",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "public_stock",
+        "private_business",
+        "acquisition_target",
+        "capital_allocator"
+      ],
+      "financial_metrics": [
+        "reinvestment_runway",
+        "return_on_capital",
+        "demand_growth"
+      ],
+      "metric_definition": [
+        "reinvestment_runway: the length and scale of future opportunities to deploy retained earnings.",
+        "return_on_capital: the earnings power of capital employed in the infrastructure asset.",
+        "demand_growth: long-term change in the need for the essential service."
+      ],
+      "metric_usage_context": [
+        "reinvestment_runway: Buffett uses long-duration reinvestment opportunities as a reason to value essential infrastructure highly.",
+        "return_on_capital: Buffett accepts decent but durable returns in exchange for long runway and stability."
+      ],
+      "metric_limitations": [
+        "headline return_on_capital: can look unimpressive while still supporting strong compounding if reinvestment runway is long and safe."
+      ],
+      "performance_logic": [
+        "A business with essential assets, durable demand, and repeatable reinvestment at fair rates can compound strongly over long periods despite modest-looking annual returns."
+      ],
+      "evaluation_questions": [
+        "Is the asset essential to economic life?",
+        "Does demand likely persist or grow over decades?",
+        "Is there a long runway to reinvest retained earnings at fair rates?"
+      ],
+      "diagnostic_signals": [
+        "Demand is fragile or easily displaced.",
+        "The asset base lacks reinvestment opportunities despite monopoly status."
+      ],
+      "practical_rules": [
+        "Value essential-service monopolies by durability and reinvestment runway, not only peak return metrics.",
+        "Prefer assets that remain central to economic activity for decades."
+      ],
+      "example_buffett_phrasing": [
+        "excellent compounding vehicles"
+      ],
+      "tags": [
+        "infrastructure",
+        "monopoly",
+        "long_duration_compounding"
+      ]
+    },
+    {
+      "item_id": "2009_022",
+      "section": "Operating-business quality framework",
+      "subsection": null,
+      "principle_title": "Separate cyclical pain from franchise erosion",
+      "principle_statement": "Temporary earnings pressure during recessions should be distinguished from deterioration in competitive position.",
+      "normalized_principle": "A strong business can suffer cyclical earnings pain while its moat remains intact.",
+      "importance": "high",
+      "time_horizon": "cross_cycle",
+      "applies_to": [
+        "public_stock",
+        "private_business",
+        "acquisition_target"
+      ],
+      "financial_metrics": [
+        "earnings",
+        "operating_margin",
+        "market_share"
+      ],
+      "metric_definition": [
+        "earnings: profits generated in the current period.",
+        "operating_margin: operating profit relative to revenue.",
+        "market_share: the company's position within its market."
+      ],
+      "metric_usage_context": [
+        "earnings: Buffett uses lower earnings during downturns as an incomplete signal that must be separated from franchise health.",
+        "operating_margin: Buffett looks at margin stability to judge whether the moat is intact.",
+        "market_share: Buffett uses share and customer loyalty to test whether competitive position survived the downturn."
+      ],
+      "metric_limitations": [
+        "earnings: cyclical declines can mislead if interpreted as permanent franchise impairment."
+      ],
+      "performance_logic": [
+        "In recessions, revenue and profit may fall for reasons unrelated to competitive weakness; preserving share, loyalty, and margins indicates underlying strength."
+      ],
+      "evaluation_questions": [
+        "Are current earnings weak because of the cycle or because the moat is eroding?",
+        "Did the company maintain margins, share, or loyalty under pressure?"
+      ],
+      "diagnostic_signals": [
+        "Downturn weakness is accompanied by permanent share loss or shrinking customer loyalty.",
+        "Management blames the cycle while core economics deteriorate."
+      ],
+      "practical_rules": [
+        "Analyze downturn results through franchise durability, not reported earnings alone.",
+        "Look for evidence that competitive position remains undamaged."
+      ],
+      "example_buffett_phrasing": [
+        "temporary earnings pressure and undamaged competitive position"
+      ],
+      "tags": [
+        "cyclicality",
+        "franchise_strength",
+        "moat_durability"
+      ]
+    },
+    {
+      "item_id": "2009_023",
+      "section": "Operating-business quality framework",
+      "subsection": null,
+      "principle_title": "Managerial quality is clearest in downturn adaptation",
+      "principle_statement": "Managers who improve profits despite lower sales demonstrate superior cost control, discipline, and adaptation under stress.",
+      "normalized_principle": "Downturns are a strong test of management quality because they reveal who can protect or improve unit economics under pressure.",
+      "importance": "medium",
+      "time_horizon": "cross_cycle",
+      "applies_to": [
+        "management_team",
+        "private_business",
+        "public_stock"
+      ],
+      "financial_metrics": [
+        "profit",
+        "revenue",
+        "margin"
+      ],
+      "metric_definition": [
+        "profit: earnings after operating decisions and cost control.",
+        "revenue: sales generated by the business.",
+        "margin: profit earned per unit of revenue."
+      ],
+      "metric_usage_context": [
+        "profit: Buffett uses profit improvement during revenue declines as evidence of managerial excellence.",
+        "margin: Buffett uses margin protection to judge whether cost actions were intelligent."
+      ],
+      "metric_limitations": [
+        "margin: short-term improvement can be misleading if achieved by cutting into future franchise strength."
+      ],
+      "performance_logic": [
+        "When demand weakens, strong managers adapt operations, reduce costs intelligently, and protect or improve economics without damaging the franchise."
+      ],
+      "evaluation_questions": [
+        "Did management improve unit economics in a downturn?",
+        "Were cost reductions smart and structural or indiscriminate and damaging?",
+        "Did the company emerge stronger relative to peers?"
+      ],
+      "diagnostic_signals": [
+        "Revenue falls and profits collapse more than peers due to weak adaptation.",
+        "Cost cuts improve current profit but weaken customer experience or moat."
+      ],
+      "practical_rules": [
+        "Judge management more heavily in hard environments than easy ones.",
+        "Look for operational adaptation, not just defensive narrative."
+      ],
+      "example_buffett_phrasing": [
+        "increase profits even while revenue declines"
+      ],
+      "tags": [
+        "management_quality",
+        "cost_control",
+        "downturn_execution"
+      ]
+    },
+    {
+      "item_id": "2009_024",
+      "section": "Operating-business quality framework",
+      "subsection": null,
+      "principle_title": "Management should experience the product like customers do",
+      "principle_statement": "When insiders use the same product, service, pricing, and operating system as customers, alignment and standards improve.",
+      "normalized_principle": "Operational alignment is stronger when management directly experiences the product or service under the same conditions as customers.",
+      "importance": "medium",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "management_team",
+        "private_business",
+        "public_stock"
+      ],
+      "financial_metrics": [],
+      "metric_definition": [],
+      "metric_usage_context": [],
+      "metric_limitations": [],
+      "performance_logic": [
+        "Shared operating experience reduces blind spots, raises standards, and makes customer pain more visible to decision-makers."
+      ],
+      "evaluation_questions": [
+        "Do insiders personally rely on the product?",
+        "Are insiders insulated from customer reality or subject to it?"
+      ],
+      "diagnostic_signals": [
+        "Management receives special treatment that hides customer pain points.",
+        "Leaders lack firsthand operational contact with the product."
+      ],
+      "practical_rules": [
+        "Favor businesses where leadership shares the customer experience.",
+        "Treat direct operational exposure as a trust and quality signal."
+      ],
+      "example_buffett_phrasing": [
+        "We eat our own cooking"
+      ],
+      "tags": [
+        "customer_alignment",
+        "operational_truth",
+        "management_behavior"
+      ]
+    },
+    {
+      "item_id": "2009_025",
+      "section": "Credit and consumer-finance framework",
+      "subsection": null,
+      "principle_title": "Loan quality depends on borrower incentives and behavior",
+      "principle_statement": "The quality of a loan book depends on why borrowers borrow, how they behave, and whether loans are sized to real repayment capacity, not only on superficial borrower categories.",
+      "normalized_principle": "Assess credit risk through borrower intent, incentives, and payment culture rather than demographic or category shorthand.",
+      "importance": "high",
+      "time_horizon": "cross_cycle",
+      "applies_to": [
+        "private_business",
+        "public_stock",
+        "lender"
+      ],
+      "financial_metrics": [
+        "default_rate",
+        "loan_to_income",
+        "credit_loss_rate"
+      ],
+      "metric_definition": [
+        "default_rate: the share of borrowers who fail to meet repayment obligations.",
+        "loan_to_income: the size of the loan relative to verified borrower repayment capacity.",
+        "credit_loss_rate: realized losses on the loan portfolio."
+      ],
+      "metric_usage_context": [
+        "default_rate: Buffett relates borrower behavior and incentives to portfolio performance.",
+        "loan_to_income: Buffett uses repayment capacity to judge whether underwriting is sound."
+      ],
+      "metric_limitations": [
+        "borrower_category: demographic labels can mislead if they are used instead of repayment behavior and incentive analysis."
+      ],
+      "performance_logic": [
+        "Borrowers using credit for stable consumption with capacity and intent to pay behave differently from speculative borrowers, producing materially different credit outcomes."
+      ],
+      "evaluation_questions": [
+        "Why do customers borrow: stable use, speculation, refinancing, or flipping?",
+        "Are loans sized to verified repayment capacity?",
+        "What borrower behaviors suggest resilience in a downturn?"
+      ],
+      "diagnostic_signals": [
+        "The lender relies on simplistic borrower stereotypes.",
+        "Loan growth comes from borrowers with speculative incentives."
+      ],
+      "practical_rules": [
+        "Underwrite based on incentives, capacity, and payment culture.",
+        "Look through asset-class stigma to actual borrower behavior."
+      ],
+      "example_buffett_phrasing": [
+        "borrowed to live in, not to speculate on resale"
+      ],
+      "tags": [
+        "credit_underwriting",
+        "borrower_behavior",
+        "lending"
+      ]
+    },
+    {
+      "item_id": "2009_026",
+      "section": "Credit and consumer-finance framework",
+      "subsection": null,
+      "principle_title": "Good products can be blocked by bad financing structures",
+      "principle_statement": "Weak demand can reflect financing, regulatory, or market-structure barriers rather than poor product economics.",
+      "normalized_principle": "Analyze whether external financing or regulatory structure is suppressing demand for an otherwise valuable product.",
+      "importance": "medium",
+      "time_horizon": "medium_term",
+      "applies_to": [
+        "private_business",
+        "public_stock",
+        "lender",
+        "other"
+      ],
+      "financial_metrics": [
+        "affordability",
+        "financing_cost"
+      ],
+      "metric_definition": [
+        "affordability: the consumer's effective ability to purchase the product under available financing terms.",
+        "financing_cost: the cost imposed by the available funding structure."
+      ],
+      "metric_usage_context": [
+        "affordability: Buffett uses financing structure to explain whether demand weakness reflects product economics or capital access barriers."
+      ],
+      "metric_limitations": [
+        "reported demand: can understate true product merit when financing channels are impaired or distorted."
+      ],
+      "performance_logic": [
+        "A product may offer strong value, but if financing rules or market structure raise effective cost or restrict access, demand and economics can remain artificially weak."
+      ],
+      "evaluation_questions": [
+        "Is weak demand really a product issue or a financing-access issue?",
+        "Could a better financing structure unlock latent demand?"
+      ],
+      "diagnostic_signals": [
+        "Customers value the product but cannot access suitable financing.",
+        "External rules distort competitiveness relative to substitute products."
+      ],
+      "practical_rules": [
+        "Study financing architecture alongside product economics.",
+        "Do not assume weak demand means weak product value."
+      ],
+      "example_buffett_phrasing": [
+        "financing rules impair affordability"
+      ],
+      "tags": [
+        "financing_structure",
+        "access_constraints",
+        "consumer_finance"
+      ]
+    },
+    {
+      "item_id": "2009_027",
+      "section": "Investing framework",
+      "subsection": null,
+      "principle_title": "Price paid must be anchored to future earning power",
+      "principle_statement": "Investment success depends on the relationship between purchase price and the business's long-term earning power over the next decade or two.",
+      "normalized_principle": "Valuation should be tied to long-term normalized earning power rather than current market mood.",
+      "importance": "high",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "public_stock",
+        "private_business",
+        "acquisition_target",
+        "capital_allocator"
+      ],
+      "financial_metrics": [
+        "price",
+        "owner_earnings",
+        "normalized_earnings"
+      ],
+      "metric_definition": [
+        "price: the cash or consideration paid to acquire an ownership interest.",
+        "owner_earnings: cash available to owners after required reinvestment.",
+        "normalized_earnings: sustainable earning power stripped of temporary distortions."
+      ],
+      "metric_usage_context": [
+        "price: Buffett uses the paid price as the starting determinant of return.",
+        "owner_earnings: Buffett uses long-term earning power to evaluate what the asset will produce for owners."
+      ],
+      "metric_limitations": [
+        "current_earnings: can mislead if temporarily high or low relative to normalized earning power."
+      ],
+      "performance_logic": [
+        "Returns are driven by the cash economics of the business relative to what was paid, so sentiment matters less than long-run earning power and entry price."
+      ],
+      "evaluation_questions": [
+        "What normalized owner earnings is this business likely to produce over 10-20 years?",
+        "What am I paying relative to that earning power?",
+        "Am I relying on sentiment change or business performance?"
+      ],
+      "diagnostic_signals": [
+        "The thesis depends more on multiple expansion than on business output.",
+        "Price is justified with near-term mood rather than durable economics."
+      ],
+      "practical_rules": [
+        "Base valuation on long-term normalized earning power.",
+        "Treat commentary and mood as distractions from price-versus-value."
+      ],
+      "example_buffett_phrasing": [
+        "what you pay for a business and what that business earns over the next decade or two"
+      ],
+      "tags": [
+        "valuation",
+        "owner_earnings",
+        "long_term_investing"
+      ]
+    },
+    {
+      "item_id": "2009_028",
+      "section": "Investing framework",
+      "subsection": null,
+      "principle_title": "Fear creates opportunity and reassurance raises price",
+      "principle_statement": "Periods of fear often produce better entry prices, while comforting consensus typically makes assets more expensive.",
+      "normalized_principle": "Emotional discomfort can create investment opportunity when business quality and balance-sheet safety remain intact.",
+      "importance": "medium",
+      "time_horizon": "medium_term",
+      "applies_to": [
+        "public_stock",
+        "capital_allocator",
+        "shareholder"
+      ],
+      "financial_metrics": [
+        "market_price",
+        "intrinsic_value"
+      ],
+      "metric_definition": [
+        "market_price: the current quoted market value of the security.",
+        "intrinsic_value: the underlying economic worth of the business."
+      ],
+      "metric_usage_context": [
+        "market_price: Buffett uses panic-driven price dislocation as a source of opportunity relative to intrinsic value."
+      ],
+      "metric_limitations": [
+        "market_price: low prices are not sufficient if the business lacks durability or financial strength."
+      ],
+      "performance_logic": [
+        "Fear can push price below value when others are forced or emotionally reactive, creating favorable expected returns for prepared investors."
+      ],
+      "evaluation_questions": [
+        "Is the opportunity available because others are scared, forced, or short-term focused?",
+        "Does the company have the financial durability to exploit the panic rather than suffer from it?"
+      ],
+      "diagnostic_signals": [
+        "Market selling is driven by headlines and liquidity stress rather than franchise deterioration.",
+        "The business is financially sound but quoted at distressed levels."
+      ],
+      "practical_rules": [
+        "Lean in when fear creates price dislocation and the business remains durable.",
+        "Do not confuse cheap headlines with safe opportunity; check quality first."
+      ],
+      "example_buffett_phrasing": [
+        "Fear creates opportunity; reassurance is expensive"
+      ],
+      "tags": [
+        "contrarian_investing",
+        "market_psychology",
+        "mispricing"
+      ]
+    },
+    {
+      "item_id": "2009_029",
+      "section": "Investing framework",
+      "subsection": null,
+      "principle_title": "Size the bet to the magnitude of edge",
+      "principle_statement": "When an opportunity is extraordinary and well understood, capital allocation should be sized aggressively rather than timidly.",
+      "normalized_principle": "Position size should reflect opportunity magnitude, conviction, and downside, not habit or timidity.",
+      "importance": "medium",
+      "time_horizon": "medium_term",
+      "applies_to": [
+        "capital_allocator",
+        "public_stock",
+        "holding_company"
+      ],
+      "financial_metrics": [],
+      "metric_definition": [],
+      "metric_usage_context": [],
+      "metric_limitations": [],
+      "performance_logic": [
+        "Great mispricings are rare, so underbetting obvious edge can materially reduce long-term compounding just as surely as overbetting weak ideas can harm it."
+      ],
+      "evaluation_questions": [
+        "Is this a rare fat-pitch opportunity or a routine idea?",
+        "Am I sizing according to conviction, downside, and edge?"
+      ],
+      "diagnostic_signals": [
+        "The investor treats extraordinary opportunities the same as ordinary ones.",
+        "Position sizing is driven by convention rather than economics."
+      ],
+      "practical_rules": [
+        "Increase position size when business quality, value gap, and downside are all highly favorable.",
+        "Match bet size to edge rather than to comfort with activity."
+      ],
+      "example_buffett_phrasing": [
+        "when it's raining gold, reach for a bucket, not a thimble"
+      ],
+      "tags": [
+        "position_sizing",
+        "capital_allocation",
+        "fat_pitch"
+      ]
+    },
+    {
+      "item_id": "2009_030",
+      "section": "Derivatives and risk-control framework",
+      "subsection": null,
+      "principle_title": "Derivative risk comes from leverage and fragility, not labels",
+      "principle_statement": "Derivatives are dangerous mainly when they create leverage, collateral triggers, or counterparty dependencies that can force distress under stress.",
+      "normalized_principle": "Evaluate derivatives through leverage, collateral mechanics, and counterparty fragility rather than by instrument label alone.",
+      "importance": "high",
+      "time_horizon": "cross_cycle",
+      "applies_to": [
+        "capital_allocator",
+        "holding_company",
+        "insurance_operation",
+        "balance_sheet"
+      ],
+      "financial_metrics": [
+        "leverage",
+        "collateral_requirement",
+        "counterparty_exposure",
+        "mark_to_market"
+      ],
+      "metric_definition": [
+        "leverage: the degree to which exposures exceed the capital supporting them.",
+        "collateral_requirement: cash or securities that must be posted when market values move adversely.",
+        "counterparty_exposure: dependence on another party's ability to perform.",
+        "mark_to_market: accounting revaluation of contracts based on current market prices."
+      ],
+      "metric_usage_context": [
+        "collateral_requirement: Buffett uses collateral triggers to assess whether volatility can create liquidity stress.",
+        "counterparty_exposure: Buffett uses counterparty dependency to judge extreme-scenario survivability.",
+        "leverage: Buffett uses leverage to determine whether the structure can become dangerous under stress."
+      ],
+      "metric_limitations": [
+        "mark_to_market: volatility in carrying value may not reflect immediate cash economics, but it can still matter if collateral is triggered."
+      ],
+      "performance_logic": [
+        "Complex contracts become dangerous when adverse price moves force collateral posting or expose the firm to weak counterparties, turning paper volatility into funding stress."
+      ],
+      "evaluation_questions": [
+        "What are the collateral posting requirements under stress?",
+        "Could mark-to-market volatility create liquidity stress?",
+        "Is counterparty exposure manageable under extreme scenarios?"
+      ],
+      "diagnostic_signals": [
+        "Risk analysis focuses on notional labels while ignoring collateral mechanics.",
+        "The firm depends on weak counterparties or thin capital buffers."
+      ],
+      "practical_rules": [
+        "Analyze derivative structures from worst-case funding needs backward.",
+        "Treat leverage, collateral triggers, and counterparties as primary risk variables."
+      ],
+      "example_buffett_phrasing": [
+        "Derivatives are not inherently evil; leverage and counterparty fragility are"
+      ],
+      "tags": [
+        "derivatives",
+        "risk_control",
+        "counterparty_risk"
+      ]
+    },
+    {
+      "item_id": "2009_031",
+      "section": "Derivatives and risk-control framework",
+      "subsection": null,
+      "principle_title": "Separate accounting noise from economic reality",
+      "principle_statement": "Large swings in carrying values can affect reported earnings without changing cash flows or long-term economics.",
+      "normalized_principle": "Distinguish accounting volatility from operating and cash economics before judging performance.",
+      "importance": "high",
+      "time_horizon": "medium_term",
+      "applies_to": [
+        "public_stock",
+        "holding_company",
+        "shareholder",
+        "capital_allocator"
+      ],
+      "financial_metrics": [
+        "mark_to_market",
+        "reported_earnings",
+        "cash_flow"
+      ],
+      "metric_definition": [
+        "mark_to_market: accounting gain or loss from revaluing assets or liabilities to current market prices.",
+        "reported_earnings: accounting profit shown in financial statements.",
+        "cash_flow: actual cash moving into or out of the business."
+      ],
+      "metric_usage_context": [
+        "reported_earnings: Buffett separates operating performance from earnings volatility caused by accounting marks.",
+        "cash_flow: Buffett uses cash effects to determine whether reported swings matter economically."
+      ],
+      "metric_limitations": [
+        "reported_earnings: can be heavily distorted by non-cash temporary valuation changes.",
+        "mark_to_market: may obscure underlying operating performance when viewed without cash context."
+      ],
+      "performance_logic": [
+        "Accounting rules can force volatility into earnings before cash consequences are realized, so investors who react mechanically may misprice the business."
+      ],
+      "evaluation_questions": [
+        "Which earnings components are non-cash, temporary, or mark-to-market artifacts?",
+        "How should operating earnings be separated from valuation noise?",
+        "Is the market overreacting to accounting presentation?"
+      ],
+      "diagnostic_signals": [
+        "A sharp reported earnings swing has little effect on cash or franchise economics.",
+        "Management or investors discuss accounting marks as if they were operating results."
+      ],
+      "practical_rules": [
+        "Rebuild earnings to separate operating economics from accounting noise.",
+        "Do not let mark-to-market presentation substitute for business analysis."
+      ],
+      "example_buffett_phrasing": [
+        "Separate accounting volatility from economic reality"
+      ],
+      "tags": [
+        "accounting_noise",
+        "reported_earnings",
+        "economic_reality"
+      ]
+    },
+    {
+      "item_id": "2009_032",
+      "section": "Derivatives and risk-control framework",
+      "subsection": null,
+      "principle_title": "The CEO must personally own major risk",
+      "principle_statement": "Risk control in financial businesses is too important to delegate; ultimate accountability belongs with the chief executive.",
+      "normalized_principle": "Enterprise risk ownership should be explicit and concentrated at the top rather than diffused across committees.",
+      "importance": "high",
+      "time_horizon": "cross_cycle",
+      "applies_to": [
+        "management_team",
+        "board",
+        "holding_company",
+        "insurance_operation"
+      ],
+      "financial_metrics": [],
+      "metric_definition": [],
+      "metric_usage_context": [],
+      "metric_limitations": [],
+      "performance_logic": [
+        "When risk ownership is diffuse, severe exposures can accumulate without real accountability; top-level ownership improves seriousness and decision quality."
+      ],
+      "evaluation_questions": [
+        "Who truly owns enterprise risk?",
+        "Does the CEO understand and monitor the major exposures personally?"
+      ],
+      "diagnostic_signals": [
+        "Risk responsibility is spread across committees with no clear accountable owner.",
+        "Senior leadership cannot explain major exposures simply and directly."
+      ],
+      "practical_rules": [
+        "Require explicit top-level risk ownership.",
+        "Treat committees as support mechanisms, not substitutes for accountable judgment."
+      ],
+      "example_buffett_phrasing": [
+        "risk control is too important to delegate"
+      ],
+      "tags": [
+        "risk_ownership",
+        "ceo_accountability",
+        "enterprise_risk"
+      ]
+    },
+    {
+      "item_id": "2009_033",
+      "section": "Derivatives and risk-control framework",
+      "subsection": null,
+      "principle_title": "Risk governance needs real downside for reckless leaders",
+      "principle_statement": "Incentive systems and boards should impose meaningful consequences for avoidable catastrophic risk-taking rather than letting leaders keep upside and export losses to shareholders.",
+      "normalized_principle": "Risk governance is incomplete when executives enjoy upside for risk-taking but bear little personal downside for major avoidable losses.",
+      "importance": "medium",
+      "time_horizon": "cross_cycle",
+      "applies_to": [
+        "board",
+        "management_team",
+        "shareholder"
+      ],
+      "financial_metrics": [],
+      "metric_definition": [],
+      "metric_usage_context": [],
+      "metric_limitations": [],
+      "performance_logic": [
+        "Asymmetric incentives encourage reckless behavior unless boards impose discipline and meaningful accountability for severe avoidable losses."
+      ],
+      "evaluation_questions": [
+        "Are executives rewarded asymmetrically for risk-taking?",
+        "What personal consequences exist for large avoidable losses?",
+        "Does the board demand real risk accountability?"
+      ],
+      "diagnostic_signals": [
+        "Boards tolerate catastrophic losses with little leadership consequence.",
+        "Compensation rewards short-term gains without penalizing risk-adjusted failures."
+      ],
+      "practical_rules": [
+        "Design incentives with meaningful downside as well as upside.",
+        "Expect boards to police risk accountability rather than rationalize failure."
+      ],
+      "example_buffett_phrasing": [
+        "meaningful downside for reckless leadership"
+      ],
+      "tags": [
+        "governance",
+        "incentives",
+        "risk_accountability"
+      ]
+    },
+    {
+      "item_id": "2009_034",
+      "section": "Acquisition and capital-allocation framework",
+      "subsection": null,
+      "principle_title": "Use intrinsic value, not quoted price, in stock deals",
+      "principle_statement": "In stock-for-stock acquisitions, the real cost is the intrinsic value of shares issued, not the market quotation attached to them.",
+      "normalized_principle": "Treat stock issuance in acquisitions as selling part of your business at intrinsic value, not as spending ticker symbols.",
+      "importance": "high",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "capital_allocator",
+        "acquisition_target",
+        "public_stock",
+        "board"
+      ],
+      "financial_metrics": [
+        "intrinsic_value",
+        "market_price",
+        "shares_issued"
+      ],
+      "metric_definition": [
+        "intrinsic_value: the economic worth of the acquirer's or target's business.",
+        "market_price: the quoted trading price of the acquirer's stock.",
+        "shares_issued: the ownership stake surrendered as consideration."
+      ],
+      "metric_usage_context": [
+        "intrinsic_value: Buffett compares the intrinsic value given up with the intrinsic value received in a stock deal.",
+        "market_price: Buffett warns against using quoted price as a shortcut for economic cost."
+      ],
+      "metric_limitations": [
+        "market_price: can materially diverge from intrinsic value and mislead boards about true deal economics."
+      ],
+      "performance_logic": [
+        "Issuing shares transfers a portion of the acquirer's business to the seller, so the real economic question is what underlying value is being exchanged, not what the market currently prints."
+      ],
+      "evaluation_questions": [
+        "Is the acquirer's stock undervalued, fairly valued, or overvalued relative to intrinsic value?",
+        "What economic value is actually being paid?"
+      ],
+      "diagnostic_signals": [
+        "Boards justify deal pricing mainly by reference to stock market quotations.",
+        "Management ignores the intrinsic value of issued shares."
+      ],
+      "practical_rules": [
+        "Analyze stock deals as exchanges of business value.",
+        "Refuse to let market price substitute for intrinsic value in board deliberations."
+      ],
+      "example_buffett_phrasing": [
+        "the real cost is the intrinsic value of the shares issued"
+      ],
+      "tags": [
+        "m_and_a",
+        "intrinsic_value",
+        "stock_consideration"
+      ]
+    },
+    {
+      "item_id": "2009_035",
+      "section": "Acquisition and capital-allocation framework",
+      "subsection": null,
+      "principle_title": "Undervalued stock is expensive acquisition currency",
+      "principle_statement": "Issuing undervalued shares to buy fairly valued assets destroys per-share intrinsic value even if the acquisition increases size.",
+      "normalized_principle": "Do not use underpriced shares as acquisition currency unless the acquired value more than compensates for the undervaluation transferred away.",
+      "importance": "high",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "capital_allocator",
+        "public_stock",
+        "board",
+        "shareholder"
+      ],
+      "financial_metrics": [
+        "per_share_intrinsic_value",
+        "shares_issued",
+        "asset_value"
+      ],
+      "metric_definition": [
+        "per_share_intrinsic_value: intrinsic value attributable to each share outstanding.",
+        "shares_issued: new ownership claims created to pay for an acquisition.",
+        "asset_value: the intrinsic value of the business or assets being acquired."
+      ],
+      "metric_usage_context": [
+        "per_share_intrinsic_value: Buffett judges whether a deal creates or destroys owner value on a per-share basis.",
+        "shares_issued: Buffett treats issuance of undervalued shares as economically expensive."
+      ],
+      "metric_limitations": [
+        "deal_size: a small transaction can still destroy value per share even if the absolute dollar amount is modest."
+      ],
+      "performance_logic": [
+        "When undervalued shares are exchanged for fully valued assets, existing owners give away more value than they receive, reducing intrinsic value per share despite greater scale."
+      ],
+      "evaluation_questions": [
+        "Does the deal increase size but reduce per-share intrinsic value?",
+        "Is management motivated by empire building, prestige, or compensation?"
+      ],
+      "diagnostic_signals": [
+        "Management praises deal accretion or scale while ignoring per-share value transfer.",
+        "Undervalued stock is used casually as currency."
+      ],
+      "practical_rules": [
+        "View underpriced shares as precious currency.",
+        "Evaluate every acquisition on per-share intrinsic value, not organizational size."
+      ],
+      "example_buffett_phrasing": [
+        "Issuing undervalued shares to buy fully valued assets destroys value"
+      ],
+      "tags": [
+        "per_share_value",
+        "acquisition_discipline",
+        "stock_issuance"
+      ]
+    },
+    {
+      "item_id": "2009_036",
+      "section": "Acquisition and capital-allocation framework",
+      "subsection": null,
+      "principle_title": "A good acquisition needs business quality, trust, and reinvestment runway",
+      "principle_statement": "A sound acquisition requires a business that can be understood and liked for the long term, high-quality trustworthy management, and the ability to deploy additional capital later at reasonable returns.",
+      "normalized_principle": "A great acquisition is a long-duration capital deployment platform run by trusted managers in a business that can be owned permanently.",
+      "importance": "high",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "acquisition_target",
+        "capital_allocator",
+        "management_team"
+      ],
+      "financial_metrics": [
+        "incremental_return_on_capital"
+      ],
+      "metric_definition": [
+        "incremental_return_on_capital: return expected on future capital deployed into the acquired business."
+      ],
+      "metric_usage_context": [
+        "incremental_return_on_capital: Buffett uses future reinvestment economics as part of acquisition quality, not just current purchase attractiveness."
+      ],
+      "metric_limitations": [
+        "current_valuation: a fair current price is not enough if future capital deployment opportunities are poor or management is untrustworthy."
+      ],
+      "performance_logic": [
+        "An acquisition compounds best when the buyer understands the business deeply, trusts the operators, and can continue reinvesting into the platform at acceptable returns."
+      ],
+      "evaluation_questions": [
+        "Do we understand the business well enough to own it permanently?",
+        "Do we trust and admire management?",
+        "Can incremental capital be deployed at acceptable returns over many years?"
+      ],
+      "diagnostic_signals": [
+        "The deal is justified mainly by current optics rather than long-run ownership quality.",
+        "Management quality or reinvestment runway is weak."
+      ],
+      "practical_rules": [
+        "Use a three-part checklist: understandability, managerial trust, and reinvestment runway.",
+        "Do not buy a business merely because the current asset looks fair."
+      ],
+      "example_buffett_phrasing": [
+        "understood and liked for the long term",
+        "trustworthy, high-quality management"
+      ],
+      "tags": [
+        "acquisition_checklist",
+        "management_quality",
+        "reinvestment_runway"
+      ]
+    },
+    {
+      "item_id": "2009_037",
+      "section": "Acquisition and capital-allocation framework",
+      "subsection": null,
+      "principle_title": "Small bad deals remain bad deals",
+      "principle_statement": "A value-destructive deal does not become acceptable just because it is small or immaterial.",
+      "normalized_principle": "Every capital allocation decision should pass the same logic test regardless of size.",
+      "importance": "medium",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "capital_allocator",
+        "board",
+        "management_team"
+      ],
+      "financial_metrics": [],
+      "metric_definition": [],
+      "metric_usage_context": [],
+      "metric_limitations": [],
+      "performance_logic": [
+        "Tolerance for small irrational decisions encourages recurring value leakage and weakens the culture of disciplined capital allocation."
+      ],
+      "evaluation_questions": [
+        "Is management rationalizing a bad deal because it is 'not that big'?",
+        "Are minor value leaks adding up over time?"
+      ],
+      "diagnostic_signals": [
+        "Leadership excuses weak economics based on limited size.",
+        "The firm repeatedly does small value-destructive transactions."
+      ],
+      "practical_rules": [
+        "Apply the same economic discipline to small and large deals.",
+        "Reject activity for its own sake."
+      ],
+      "example_buffett_phrasing": [
+        "Small bad deals are still bad deals"
+      ],
+      "tags": [
+        "capital_discipline",
+        "m_and_a",
+        "value_leakage"
+      ]
+    },
+    {
+      "item_id": "2009_038",
+      "section": "Acquisition and capital-allocation framework",
+      "subsection": null,
+      "principle_title": "Advisors are often biased toward getting deals done",
+      "principle_statement": "Bankers and advisors may analyze only the target's value and ignore the intrinsic value of the consideration surrendered, because their incentives favor completion.",
+      "normalized_principle": "Treat M&A advice as potentially completion-biased and require explicit analysis of what the acquirer is giving up.",
+      "importance": "medium",
+      "time_horizon": "single_year",
+      "applies_to": [
+        "board",
+        "capital_allocator",
+        "public_stock"
+      ],
+      "financial_metrics": [
+        "intrinsic_value",
+        "consideration_value"
+      ],
+      "metric_definition": [
+        "consideration_value: the economic worth of cash, stock, or other assets given up in a transaction.",
+        "intrinsic_value: the underlying business value of what is issued or paid."
+      ],
+      "metric_usage_context": [
+        "consideration_value: Buffett uses it to counter one-sided deal advice focused only on the target's value."
+      ],
+      "metric_limitations": [
+        "fairness_opinion: can be incomplete if it does not rigorously examine the value surrendered by the acquirer."
+      ],
+      "performance_logic": [
+        "When advisors are rewarded for completed transactions, they may emphasize reasons to proceed while understating the economic cost of the consideration issued."
+      ],
+      "evaluation_questions": [
+        "Who in the room is being paid to say no?",
+        "Has anyone rigorously valued the consideration being issued?",
+        "Are directors receiving a balanced argument or a sales pitch?"
+      ],
+      "diagnostic_signals": [
+        "Deal materials emphasize target attractiveness but not the value surrendered.",
+        "No credible dissenting analysis is present."
+      ],
+      "practical_rules": [
+        "Build an adversarial view into M&A decision processes.",
+        "Demand explicit valuation of both sides of the exchange."
+      ],
+      "example_buffett_phrasing": [
+        "bankers often appraise only the target's value"
+      ],
+      "tags": [
+        "advisory_bias",
+        "m_and_a_governance",
+        "intrinsic_value"
+      ]
+    },
+    {
+      "item_id": "2009_039",
+      "section": "Acquisition and capital-allocation framework",
+      "subsection": null,
+      "principle_title": "Invert to avoid fatal errors first",
+      "principle_statement": "Start with what could destroy capital or make the investment a disaster; avoidance of stupidity is often more reliable than pursuit of brilliance.",
+      "normalized_principle": "Use inversion to identify and avoid the major ways an investment or acquisition can permanently impair capital.",
+      "importance": "high",
+      "time_horizon": "cross_cycle",
+      "applies_to": [
+        "capital_allocator",
+        "public_stock",
+        "private_business",
+        "board"
+      ],
+      "financial_metrics": [],
+      "metric_definition": [],
+      "metric_usage_context": [],
+      "metric_limitations": [],
+      "performance_logic": [
+        "Many large losses come from preventable errors rather than from lack of genius, so systematically identifying disqualifiers can improve results more reliably than chasing brilliance."
+      ],
+      "evaluation_questions": [
+        "What conditions would make this investment a disaster?",
+        "What avoidable unforced errors are present?"
+      ],
+      "diagnostic_signals": [
+        "The thesis focuses only on upside without addressing fatal downside scenarios.",
+        "Key disqualifying risks are acknowledged but not acted upon."
+      ],
+      "practical_rules": [
+        "Begin analysis by listing what could kill returns or permanently impair capital.",
+        "Avoid situations with obvious unforced-error risk even if upside is appealing."
+      ],
+      "example_buffett_phrasing": [
+        "Invert, always invert"
+      ],
+      "tags": [
+        "inversion",
+        "risk_avoidance",
+        "decision_process"
+      ]
+    },
+    {
+      "item_id": "2009_040",
+      "section": "Management and culture evaluation framework",
+      "subsection": null,
+      "principle_title": "Owner orientation is an economic asset",
+      "principle_statement": "Managers who think and behave like owners improve capital allocation, cost discipline, candor, and resilience.",
+      "normalized_principle": "Owner-oriented culture is a real asset because it improves long-term decisions across operations and capital allocation.",
+      "importance": "high",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "management_team",
+        "public_stock",
+        "private_business",
+        "shareholder"
+      ],
+      "financial_metrics": [],
+      "metric_definition": [],
+      "metric_usage_context": [],
+      "metric_limitations": [],
+      "performance_logic": [
+        "Owner-minded managers frame decisions around long-term per-share value rather than status, size, or bureaucracy, which compounds into better economics over time."
+      ],
+      "evaluation_questions": [
+        "Does management think in per-share value or organizational size?",
+        "Are decisions framed around long-term owner outcomes?",
+        "Is compensation encouraging stewardship or bureaucracy?"
+      ],
+      "diagnostic_signals": [
+        "Management emphasizes size, prestige, or empire instead of owner returns.",
+        "Compensation rewards activity over stewardship."
+      ],
+      "practical_rules": [
+        "Treat owner orientation as a core element of business quality.",
+        "Look for evidence in communication, incentives, and capital allocation."
+      ],
+      "example_buffett_phrasing": [
+        "behave as owners, not hired hands"
+      ],
+      "tags": [
+        "owner_orientation",
+        "culture",
+        "capital_allocation"
+      ]
+    },
+    {
+      "item_id": "2009_041",
+      "section": "Management and culture evaluation framework",
+      "subsection": null,
+      "principle_title": "Great managers can improve difficult business economics",
+      "principle_statement": "Exceptional managers can materially improve outcomes in operationally complex businesses, but managerial talent should not be used to excuse weak business models.",
+      "normalized_principle": "Managerial excellence can raise performance materially, especially in difficult industries, but it does not eliminate the need for a sound business model.",
+      "importance": "medium",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "management_team",
+        "private_business",
+        "public_stock",
+        "insurance_operation"
+      ],
+      "financial_metrics": [],
+      "metric_definition": [],
+      "metric_usage_context": [],
+      "metric_limitations": [],
+      "performance_logic": [
+        "In industries where discipline, judgment, and execution matter greatly, exceptional operators can widen margins, manage risk, and improve returns, but only within the limits of the business model."
+      ],
+      "evaluation_questions": [
+        "Is this a good business with a good manager or a weak business temporarily carried by a star manager?",
+        "What evidence proves managerial excellence under stress?",
+        "Would results hold after the manager leaves?"
+      ],
+      "diagnostic_signals": [
+        "The thesis relies on management heroics to overcome structurally poor economics.",
+        "Results are strong only while one exceptional operator is present."
+      ],
+      "practical_rules": [
+        "Credit great managers, but do not let talent paper over a bad business model.",
+        "Assess whether excellence is durable and institutionalized."
+      ],
+      "example_buffett_phrasing": [
+        "Great managers can make unusual businesses economically exceptional"
+      ],
+      "tags": [
+        "management_quality",
+        "business_model",
+        "operator_excellence"
+      ]
+    },
+    {
+      "item_id": "2009_042",
+      "section": "Management and culture evaluation framework",
+      "subsection": null,
+      "principle_title": "High-trust managers describe mistakes precisely",
+      "principle_statement": "Credible managers admit mistakes clearly, explain causality, and show what was learned rather than offering vague admissions.",
+      "normalized_principle": "Specific, candid postmortems of mistakes are a strong signal of managerial trustworthiness and learning.",
+      "importance": "medium",
+      "time_horizon": "long_term",
+      "applies_to": [
+        "management_team",
+        "shareholder",
+        "board"
+      ],
+      "financial_metrics": [],
+      "metric_definition": [],
+      "metric_usage_context": [],
+      "metric_limitations": [],
+      "performance_logic": [
+        "Precise mistake reporting signals candor, self-awareness, and a culture that can improve future decisions rather than hide errors."
+      ],
+      "evaluation_questions": [
+        "Does management discuss mistakes in concrete terms?",
+        "Do they explain whether the error was strategic, operational, cultural, or capital-allocation related?",
+        "Are lessons embedded in future behavior?"
+      ],
+      "diagnostic_signals": [
+        "Management admits errors only in vague, non-falsifiable language.",
+        "The same type of mistake recurs without clear learning."
+      ],
+      "practical_rules": [
+        "Look for specific causal explanations when management discusses failures.",
+        "Treat vague admissions as weaker evidence of candor."
+      ],
+      "example_buffett_phrasing": [
+        "Admit mistakes clearly and specifically"
+      ],
+      "tags": [
+        "candor",
+        "learning_culture",
+        "management_assessment"
+      ]
+    }
+  ]
+}
