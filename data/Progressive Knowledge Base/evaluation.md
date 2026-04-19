@@ -17,13 +17,13 @@ Your task is to evaluate the quality of a Progressive Framework Distillation out
 You will receive three JSON inputs:
 
 A. OLD_MASTER_FRAMEWORK_JSON
-- g_updated_master_framework_1977_1978.json
+- updated_master_framework_1977_1981.json
 
 B. NEW_YEAR_EXTRACTED_JSON
-- 1979.json
+- 1982.json
 
 C. UPDATED_MASTER_FRAMEWORK_JSON
-- v5_updated_master_framework_1977_1979.json
+- updated_master_framework_1977_1982.json
 
 Your job is to judge whether C is actually better than A after incorporating B.
 
@@ -61,13 +61,13 @@ INPUTS
 ==================================================
 
 OLD_MASTER_FRAMEWORK_JSON:
-g_updated_master_framework_1977_1978.json
+updated_master_framework_1977_1981.json
 
 NEW_YEAR_EXTRACTED_JSON:
-1979.json
+1982.json
 
 UPDATED_MASTER_FRAMEWORK_JSON:
-v5_updated_master_framework_1977_1979.json
+updated_master_framework_1977_1982.json
 
 ==================================================
 EVALUATION TASKS
@@ -273,17 +273,32 @@ Return a table with:
 | New year item ID/name | Core idea | Handling classification | Correct? | Notes |
 
 ==================================================
-REGRESSION TEST
+PROGRESSIVE REGRESSION TEST
 ==================================================
 
-Check whether the updated framework preserved core Buffett concepts.
+Purpose:
+Check whether the updated framework preserved already-discovered Buffett knowledge, while allowing genuinely new concepts to emerge in later letters.
 
-For each concept, mark:
+Do NOT treat the fixed concept list as a complete universal checklist for every year.
+A concept should only be marked FAIL if it was already present in OLD_MASTER_FRAMEWORK_JSON or clearly introduced in NEW_YEAR_EXTRACTED_JSON but is missing, weakened, or distorted in UPDATED_MASTER_FRAMEWORK_JSON.
 
-- PASS
-- PARTIAL
-- FAIL
-- NOT_APPLICABLE
+Use these statuses:
+
+- PASS: The concept was previously present or newly introduced, and is preserved correctly.
+- PARTIAL: The concept is present but weakened, incomplete, vague, or poorly integrated.
+- FAIL: The concept was present in OLD_MASTER_FRAMEWORK_JSON or clearly introduced in NEW_YEAR_EXTRACTED_JSON, but is missing or distorted in UPDATED_MASTER_FRAMEWORK_JSON.
+- NOT_YET_DISCOVERED: The concept is canonical Buffett doctrine but is not present in the old master or new-year input, so it should not be penalized yet.
+- NOT_APPLICABLE: The concept is irrelevant to the current year’s material or framework scope.
+
+For each concept, evaluate:
+1. Was it present in OLD_MASTER_FRAMEWORK_JSON?
+2. Was it introduced or materially reinforced in NEW_YEAR_EXTRACTED_JSON?
+3. Is it preserved, refined, or weakened in UPDATED_MASTER_FRAMEWORK_JSON?
+4. Should absence count as a real regression?
+
+Return a table:
+
+| Buffett concept | Present in old master? | Present in new year? | Status | Evidence in updated JSON | Notes |
 
 Core concepts to check:
 
